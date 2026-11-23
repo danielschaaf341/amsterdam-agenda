@@ -24,7 +24,9 @@ def fetch(client, today: date) -> str:
 def _initial_events(html: str) -> list[dict]:
     m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
     if not m:
-        raise ValueError("no __NEXT_DATA__ on Melkweg agenda page")
+        title = re.search(r"<title[^>]*>(.*?)</title>", html, re.S)
+        raise ValueError(f"no __NEXT_DATA__ on Melkweg agenda page (got {len(html)} bytes, "
+                         f"title {clean(title.group(1))[:80] if title else '–'!r})")
     data = json.loads(m.group(1))
     for block in data["props"]["pageProps"]["pageData"]["attributes"]["content"]:
         events = (block.get("attributes") or {}).get("initialEvents")
