@@ -116,11 +116,17 @@ function eventNode(ev) {
   return node;
 }
 
-function seriesCard(ev, text) {
+function seriesCard(ev, text, label) {
   const a = document.createElement("a");
   a.className = "series-card";
   a.href = ev.url; a.target = "_blank"; a.rel = "noopener";
   a.dataset.cat = ev.category;
+  if (label) {
+    const l = document.createElement("span");
+    l.className = "when";
+    l.textContent = label;
+    a.append(l);
+  }
   const strong = document.createElement("strong");
   strong.textContent = ev.title;
   const small = document.createElement("small");
@@ -146,10 +152,66 @@ function renderSeries() {
     box.append(seriesCard(ev, `${ev.venue} · ${from}${until}`));
   }
   const weekly = state.events.filter((e) => e.kind === "weekly" && matches(e, { ignoreQuick }));
-  const wbox = $("#weekly-list");
-  wbox.replaceChildren();
+  renderWeekly(weekly);
+}
+
+const DAY_NAMES = ["Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag"];
+
+function renderWeekly(weekly) {
+  const box = $("#weekly-list");
+  box.replaceChildren();
   $("#weekly").hidden = weekly.length === 0;
-  for (const ev of weekly) wbox.append(seriesCard(ev, `${ev.venue} · ${ev.subtitle || "elke week"}`));
+  $("#weekly-count").textContent = weekly.length ? `${weekly.length} × per week` : "";
+  const byDay = DAY_NAMES.map(() => []);
+  for (const ev of weekly) {
+    const w = parseWeekly(ev);
+    for (const d of w.days) byDay[d].push({ ev, ...w });
+  }
+  const today = weekday(todayKey());
+  byDay.forEach((items, d) => {
+    if (!items.length) return;
+    items.sort((a, b) => a.time.localeCompare(b.time) || a.ev.title.localeCompare(b.ev.title, "nl"));
+    const group = document.createElement("div");
+    group.className = "wk-day" + (d === today ? " today" : "");
+    const h = document.createElement("h3");
+    h.textContent = DAY_NAMES[d] + (d === today ? " · vandaag" : "");
+    group.append(h);
+    for (const { ev, time, rest } of items) {
+      const row = document.createElement("a");
+      row.className = "wk-row";
+      row.href = ev.url; row.target = "_blank"; row.rel = "noopener";
+      row.dataset.cat = ev.category;
+      const t = document.createElement("b"); t.textContent = time;
+      const body = document.createElement("span");
+      const title = document.createElement("span"); title.className = "wk-title"; title.textContent = ev.title;
+      const meta = document.createElement("small"); meta.textContent = [ev.venue, rest].filter(Boolean).join(" · ");
+      body.append(title, meta);
+      const star = document.createElement("button"); star.className = "star"; starButton(star, ev);
+      row.append(t, body, star);
+      group.append(row);
+    }
+    box.append(group);
+  });
+}
+
+// "Elke wo, do, vr, za 12:00–14:00 · Café Gilde" → label "wo–za 12:00–14:00", rest "Café Gilde", firstDay 2
+const DAYS = ["ma", "di", "wo", "do", "vr", "za", "zo"];
+function parseWeekly(ev) {
+  const m = /^Elke ([a-z, ]+?)\s+(\d{1,2}:\d{2}(?:[–-]\d{1,2}:\d{2})?)\s*(?:·\s*(.*))?$/.exec(ev.subtitle || "");
+  if (!m) {
+    const t = fmtTime.format(ev._start);
+    return { days: [weekday(ev._day)], firstDay: weekday(ev._day), time: t, label: `${DAYS[weekday(ev._day)]} ${t}`, rest: ev.subtitle || "" };
+  }
+  const days = m[1].split(/,\s*/).map((d) => DAYS.indexOf(d.trim())).filter((d) => d >= 0).sort((a, b) => a - b);
+  // compress consecutive days: [0,1,2,3,4,5] → "ma–za"; [4,5] → "vr, za"
+  const parts = [];
+  for (let i = 0; i < days.length; ) {
+    let j = i;
+    while (j + 1 < days.length && days[j + 1] === days[j] + 1) j++;
+    parts.push(j - i >= 2 ? `${DAYS[days[i]]}–${DAYS[days[j]]}` : days.slice(i, j + 1).map((d) => DAYS[d]).join(", "));
+    i = j + 1;
+  }
+  return { days, firstDay: days[0] ?? 7, time: m[2], label: `${parts.join(", ")} ${m[2]}`, rest: m[3] || "" };
 }
 
 function renderList() {
@@ -378,6 +440,10 @@ function bind() {
   });
   $("#prev-week").addEventListener("click", () => { state.weekOffset = Math.max(0, state.weekOffset - 1); render(); });
   $("#next-week").addEventListener("click", () => { state.weekOffset = Math.min(WEEKS_AHEAD - 1, state.weekOffset + 1); render(); });
+
+  const wk = $("#weekly");
+  wk.open = store.get("weeklyOpen", false);
+  wk.addEventListener("toggle", () => store.set("weeklyOpen", wk.open));
 
   // keep sticky day headers just below the sticky filter bar
   const header = document.querySelector(".top");

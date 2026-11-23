@@ -93,6 +93,8 @@ main { padding: 0 16px 24px; max-width: 900px; margin: 0 auto; }
 }
 .series-card strong { display: block; line-height: 1.25; margin-right: 26px; }
 .series-card small { color: var(--muted); display: block; margin-top: 4px; }
+.series-card .when { display: block; font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+  color: var(--c, var(--accent)); margin-bottom: 4px; font-variant-numeric: tabular-nums; }
 .series-card .star { position: absolute; top: 6px; right: 4px; }
 
 .day h2 {
@@ -130,6 +132,27 @@ main { padding: 0 16px 24px; max-width: 900px; margin: 0 auto; }
 [data-cat="theatre"] { --c: var(--theatre); } [data-cat="jazz"] { --c: var(--jazz); }
 [data-cat="food"] { --c: var(--food); }
 [data-cat="other"] { --c: var(--other); }
+
+/* ---------- vaste prik (weekly) ---------- */
+.weekly { margin: 14px 0 4px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; }
+.weekly > summary { cursor: pointer; padding: 10px 14px; list-style: none; display: flex; align-items: baseline; gap: 8px; }
+.weekly > summary::-webkit-details-marker { display: none; }
+.weekly > summary::after { content: "▾"; margin-left: auto; color: var(--muted); transition: transform .2s; }
+.weekly[open] > summary::after { transform: rotate(180deg); }
+.weekly > summary span { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
+.weekly > summary small { color: var(--muted); font-size: .8rem; }
+#weekly-list { padding: 0 8px 8px; }
+.wk-day h3 { font-size: .85rem; margin: 10px 6px 4px; }
+.wk-day.today h3 { color: var(--accent); }
+.wk-row { display: grid; grid-template-columns: 92px 1fr 36px; gap: 6px; align-items: start; text-decoration: none;
+  padding: 6px 4px 6px 8px; border-left: 3px solid var(--c, var(--other)); border-radius: 8px; margin-bottom: 4px; }
+.wk-row:hover { background: var(--bg); }
+.wk-row b { font-size: .82rem; font-variant-numeric: tabular-nums; padding-top: 2px; }
+.wk-title { display: block; font-weight: 600; line-height: 1.25; }
+.wk-row small { display: block; color: var(--muted); font-size: .8rem; margin-top: 1px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wk-row > span { min-width: 0; }
+.wk-row .star { width: 32px; height: 32px; font-size: 1.15rem; }
 
 /* ---------- week view ---------- */
 .week-nav { display: flex; align-items: center; justify-content: space-between; margin: 12px 0 8px; }

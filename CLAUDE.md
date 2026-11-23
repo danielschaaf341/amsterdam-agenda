@@ -117,6 +117,9 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
 
 ## Site filters
 
+"Vaste prik" (kind=weekly) is a collapsible list grouped per weekday (Maandag…Zondag, items repeated on
+each day they run, sorted by time; open/closed remembered). Days/time are parsed from the subtitle
+"Elke wo, do 12:00 · …" – keep that format in scrapers and recurring.json.
 Quick periods, categories, venues (+ ★ favourites), search, and a **club switch** (Aan / Alleen / Uit,
 stored in localStorage). `guess_category` only says "club" for real club words (clubnacht, DJ, techno…),
 not for a bare "club" (Club Amsterdam Klezmer, book club).
