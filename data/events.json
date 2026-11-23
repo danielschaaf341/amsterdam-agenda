@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T17:59:27+01:00",
+ "generated": "2026-11-23T18:08:16+01:00",
  "window_days": 42,
- "count": 923,
+ "count": 1010,
  "events": [
   {
    "id": "eye-1633828",
@@ -17,6 +17,19 @@
    "all_day": true,
    "subtitle": "Tentoonstelling, Films, Talks & Events · Über das Leben, die Liebe und den Tod",
    "source": "eye"
+  },
+  {
+   "id": "melkweg-28369",
+   "title": "No Need To Pretend",
+   "venue": "Melkweg",
+   "start": "2026-10-11T11:00:00+02:00",
+   "url": "https://www.melkweg.nl/nl/agenda/no-need-to-pretend-11-10-2026",
+   "category": "other",
+   "end": "2026-12-30T11:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/c9ca2969-8d7a-4871-9293-246f19d1a8b8/NNTP_30_9_banner1.jpg",
+   "kind": "series",
+   "source": "melkweg"
   },
   {
    "id": "brakkegrond-994",
@@ -192,6 +205,19 @@
    "source": "joesgarage"
   },
   {
+   "id": "melkweg-27023",
+   "title": "Wasia Project",
+   "venue": "Melkweg",
+   "start": "2026-11-23T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/wasia-project-23-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/2e0d385a-9e49-43aa-b408-d4e1c875e7d8/WasiaProject_ClarynChong_BleedingGold_LEAD.jpg",
+   "kind": "event",
+   "subtitle": "Support: Lumï",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-5073",
    "title": "Mezrab Comedy Open Mic",
    "venue": "Mezrab",
@@ -347,6 +373,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28601",
+   "title": "Cheeky Monday: DJ HYBRID!",
+   "venue": "Melkweg",
+   "start": "2026-11-23T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-dj-hybrid-23-11-2026",
+   "category": "club",
+   "end": "2026-11-24T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/2b06ac11-fa91-44a5-b2bf-d8758c46dac2/NOVEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "DJ Hybrid / Oneiroi / Yi-Ching / Insom / Multiplex",
+   "source": "melkweg"
+  },
+  {
    "id": "debalie-123101",
    "title": "Theatervoorstelling vastgelopen woningmarkt Wageningen",
    "venue": "De Balie",
@@ -398,6 +438,18 @@
    "kind": "event",
    "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 2",
    "source": "filmhallen"
+  },
+  {
+   "id": "melkweg-28493",
+   "title": "Swae Lee",
+   "venue": "Melkweg",
+   "start": "2026-11-24T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/swae-lee-24-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/c53fb4e1-931d-49ea-939e-6a8c3f6ece5b/Website-Swae-lee.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-5018",
@@ -473,6 +525,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28089",
+   "title": "Tinie Tempah",
+   "venue": "Melkweg",
+   "start": "2026-11-24T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/tinie-tempah-24-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9d716b81-380a-4ff3-8d85-89044b3a2088/Max-Banner-1.png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "amsterdamalternative-22947",
@@ -672,6 +736,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28560",
+   "title": "Techno Tuesday; Jayzo",
+   "venue": "Melkweg",
+   "start": "2026-11-24T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-24-11-2026",
+   "category": "club",
+   "end": "2026-11-25T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/c8b8f9d4-9791-4494-98df-e9561681a6eb/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Jayzo / Dexon",
+   "source": "melkweg"
+  },
+  {
    "id": "jazzin-2276586",
    "title": "Gratis Lunchconcert: Grachtenfestival Jazz Competition 2026",
    "venue": "Het Concertgebouw",
@@ -809,6 +887,33 @@
    "source": "joesgarage"
   },
   {
+   "id": "melkweg-27645",
+   "title": "Kid Kapichi",
+   "venue": "Melkweg",
+   "start": "2026-11-25T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/kid-kapichi-25-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/48114f2a-931a-4f26-a353-5b2f3e996ee3/e05fe1ee_LEAD-2.jpg",
+   "kind": "event",
+   "subtitle": "Support: Demob Happy",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28333",
+   "title": "The Magic City: Birmingham according to Sun Ra (2025)",
+   "venue": "Melkweg",
+   "start": "2026-11-25T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/the-magic-city-birmingham-according-to-sun-ra-2025-25-11-2026",
+   "category": "jazz",
+   "end": "2026-11-25T21:30:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/d1f5c15c-a36c-43c1-a773-f2cddb74b4c6/SUnRa_stills.0081936.jpg",
+   "kind": "event",
+   "subtitle": "Q&A: Guillaume Maupin/Pablo Guarise",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4827",
    "title": "Open Stage Storytelling Night",
    "venue": "Mezrab",
@@ -898,6 +1003,31 @@
    "kind": "event",
    "subtitle": "Theater Artemis / Wiener Festwochen / Benjamin Verdonck",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-28455",
+   "title": "Mortimer",
+   "venue": "Melkweg",
+   "start": "2026-11-25T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/mortimer-25-11-2026",
+   "category": "music",
+   "status": "moved",
+   "image": "https://assets.melkweg.nl/eventpages/49cddbf4-d0ef-4f46-8717-eef8b76049b2/Mortimer-1-Web.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27235",
+   "title": "strongboi",
+   "venue": "Melkweg",
+   "start": "2026-11-25T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/strongboi-25-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/f9029846-bfe6-434d-a7d3-9662c8d9af98/strongboi-cms-tw.jpg",
+   "kind": "event",
+   "subtitle": "support: Salami Rose Joe Louis",
+   "source": "melkweg"
   },
   {
    "id": "occii-104949-1793311676",
@@ -1313,6 +1443,30 @@
    "source": "felixmeritis"
   },
   {
+   "id": "melkweg-28566",
+   "title": "Def & brittneySGAT",
+   "venue": "Melkweg",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/def-djbrittneysgat-26-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/83787fcb-e0aa-4d52-a58f-2837e6ea1f0c/_Hey-Dj_---Horisontal-Pressphoto-10-(1)-(1).png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27955",
+   "title": "Trobi Presents: Kameleon in Concert",
+   "venue": "Melkweg",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/trobi-26-11-2026",
+   "category": "club",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/44cc43c1-74fc-488b-b214-9ba3f77f0061/trobi-header.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "ot301-23222",
    "title": "Gazing into the Abyss",
    "venue": "OT301",
@@ -1472,6 +1626,19 @@
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-28659",
+   "title": "Nachtburgemeester Verkiezing 2026",
+   "venue": "Melkweg",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/nachtburgemeester-verkiezing-2026-26-11-2026",
+   "category": "club",
+   "end": "2026-11-27T03:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/377ff120-5f72-4d46-a8b3-2cd66d102c89/Banner-zonder-tekst_Central_Horizontal.png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "zwijger-club-apocalypso",
@@ -1858,6 +2025,32 @@
    "source": "mkz"
   },
   {
+   "id": "melkweg-27757",
+   "title": "LEAP",
+   "venue": "Melkweg",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/leap-27-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/e0c2fbcd-7e94-4c77-a81e-9003788200f0/LEAP_04_LiamMaxwell-(2).jpg",
+   "kind": "event",
+   "subtitle": "support: Glazed Curtains",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28387",
+   "title": "This Is Spinal Tap (1984)",
+   "venue": "Melkweg",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/this-is-spinal-tap-1984-27-11-2026",
+   "category": "film",
+   "end": "2026-11-27T20:30:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/af2004bf-4e57-4d41-826c-678e315c94b2/This-is-Spinal-Tap-foto-scaled.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4880",
    "title": "Mezrab Friday Night Storytelling",
    "venue": "Mezrab",
@@ -1957,6 +2150,19 @@
    "kind": "event",
    "subtitle": "Performance Programma",
    "source": "brakkegrond"
+  },
+  {
+   "id": "melkweg-27813",
+   "title": "Modestep",
+   "venue": "Melkweg",
+   "start": "2026-11-27T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/modestep-27-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/e61bc261-203a-4a21-a7f8-00f425f96f1e/ModestepLive_Banner.jpg",
+   "kind": "event",
+   "subtitle": "Supported by Ascension Crew",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2765584",
@@ -2113,6 +2319,18 @@
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-28719",
+   "title": "Phantom Wizard",
+   "venue": "Melkweg",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/phantom-wizard-27-11-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/1dc1fd04-b18f-43b5-8359-7d00d44fb639/Phantom-Wizard-Persfoto-(1).png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "amsterdamalternative-23586",
@@ -2392,6 +2610,47 @@
    "source": "garagenoord"
   },
   {
+   "id": "melkweg-28725",
+   "title": "ANNIE PRESENTS: Millennial Optimism",
+   "venue": "Melkweg",
+   "start": "2026-11-27T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/annie-presents-millenial-optimism-27-11-2026",
+   "category": "club",
+   "end": "2026-11-28T06:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/83a538d3-995c-473e-9719-bef04db7162f/Artwork-16x9.png",
+   "kind": "event",
+   "subtitle": "Dj DIKLIP DAAN Gabriell",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28453",
+   "title": "Exproz All Night Long",
+   "venue": "Melkweg",
+   "start": "2026-11-27T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/exproz-all-night-long-27-11-2026",
+   "category": "club",
+   "end": "2026-11-28T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/dca32f8d-e428-4fd2-a140-6dc66396343d/Banner_TT.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27959",
+   "title": "KrackFree Soundsystem - 10 year anniversary",
+   "venue": "Melkweg",
+   "start": "2026-11-27T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/krackfree-soundsystem-10-year-anniversary-27-11-2026",
+   "category": "club",
+   "end": "2026-11-28T06:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/c2c72a45-3839-4b18-8e43-9302c8ecbf7b/Krackfree_Banner.jpg",
+   "kind": "event",
+   "subtitle": "Gorgon Sound / Chinese Daughter / Mr Zebre Ft. Nia Songbird / Rider Shafique",
+   "source": "melkweg"
+  },
+  {
    "id": "nachbar-111696916",
    "title": "3 YA Friday w/ Berkan V8 & Bisque & Daisy Weweh & Tsepo",
    "venue": "Nachbar",
@@ -2547,6 +2806,19 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28321",
+   "title": "Popronde Eindfeest 2026",
+   "venue": "Melkweg",
+   "start": "2026-11-28T16:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/popronde-eindfeest-2026-28-11-2026",
+   "category": "music",
+   "end": "2026-11-29T02:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/639badb0-44bb-4ead-bbe2-3162aea8e904/Popronde-Het-Eindfeest-2026.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "jazzin-2281152",
@@ -2984,6 +3256,19 @@
    "source": "kriterion"
   },
   {
+   "id": "melkweg-28675",
+   "title": "Encore",
+   "venue": "Melkweg",
+   "start": "2026-11-28T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/encore-28-11-2026",
+   "category": "club",
+   "end": "2026-11-29T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/2fe976e9-c426-4435-9a4c-912eed10d490/ENCORE-420-BANNER-(1).png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "nachbar-111696917",
    "title": "3 YA Saturday w/ Ahwlkuhn & Angelboy & BARROSKINI & de Schuurman",
    "venue": "Nachbar",
@@ -3311,6 +3596,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "melkweg-27091",
+   "title": "Elmiene",
+   "venue": "Melkweg",
+   "start": "2026-11-29T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/elmiene-29-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/9bbd8aeb-7f26-4cd8-bec1-a501852a13fe/Copy-of-R0019196.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-5042",
    "title": "Tell, then show! – our storytelling jam",
    "venue": "Mezrab",
@@ -3333,6 +3630,30 @@
    "kind": "event",
    "subtitle": "Otto Club",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "melkweg-28637",
+   "title": "Def & brittneySGAT",
+   "venue": "Melkweg",
+   "start": "2026-11-29T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/def-brittneysgat-29-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/6ff6a1f7-dcfb-4702-a084-15ca3b620024/_Hey-Dj_---Horisontal-Pressphoto-10-(1)-(1).png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28265",
+   "title": "Gang Of Youths",
+   "venue": "Melkweg",
+   "start": "2026-11-29T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/gang-of-youths-29-11-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/e004fa06-0bdf-4954-9fae-1be907ca1d2a/Press-shot.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2890460",
@@ -3760,6 +4081,20 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "melkweg-28602",
+   "title": "Cheeky Monday: LOCO!",
+   "venue": "Melkweg",
+   "start": "2026-11-30T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-loco-30-11-2026",
+   "category": "club",
+   "end": "2026-12-01T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/ecb65d5c-b803-492a-ba16-086dd3d216d1/NOVEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "Loco / Adi-J / Sinistah / Spud / Multiplex",
+   "source": "melkweg"
+  },
+  {
    "id": "vrankrijk-bc85860fe1c8",
    "title": "ABC Community Bike Repair",
    "venue": "Vrankrijk",
@@ -3783,6 +4118,31 @@
    "kind": "event",
    "subtitle": "Denk mee over de programmering en activiteiten van de Week Tegen Racisme in maart 2027! · Expo",
    "source": "zwijger"
+  },
+  {
+   "id": "melkweg-27580",
+   "title": "The Chameleons",
+   "venue": "Melkweg",
+   "start": "2026-12-01T18:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/the-chameleons-01-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/60c03666-0f95-42b3-ae0e-9b1e70f26567/The-Chameleonswebsite.png",
+   "kind": "event",
+   "subtitle": "support: Agonal Gasps",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27646",
+   "title": "horsegiirL",
+   "venue": "Melkweg",
+   "start": "2026-12-01T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/horsegiirl-01-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/7be315cd-ac71-48cc-9cf9-93ab66f2bc24/Banner_horsegiirL1.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-4916",
@@ -4069,6 +4429,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28605",
+   "title": "Techno Tuesday: Dexon",
+   "venue": "Melkweg",
+   "start": "2026-12-01T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-dexon-01-12-2026",
+   "category": "club",
+   "end": "2026-12-02T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/25e3432d-8b6f-4db6-b612-a4e042acb87b/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Dexon / Monoritam / Rick Dyno",
+   "source": "melkweg"
+  },
+  {
    "id": "debalie-114750",
    "title": "Nationaal Gesprek over Vrijheid met Rianne Letschert",
    "venue": "De Balie",
@@ -4116,6 +4490,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28552",
+   "title": "Nia Archives",
+   "venue": "Melkweg",
+   "start": "2026-12-02T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/nia-archives-02-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/08ec9594-b614-4cb0-a056-c5f8458d281d/DSP-IMAGE-(HOLD)-EDIT.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-4828",
@@ -4168,6 +4554,31 @@
    "kind": "event",
    "subtitle": "Abel Ghekiere",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "melkweg-28237",
+   "title": "Q Marsden",
+   "venue": "Melkweg",
+   "start": "2026-12-02T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/q-marsden-02-12-2026",
+   "category": "music",
+   "status": "cancelled",
+   "image": "https://assets.melkweg.nl/eventpages/db85a497-36e8-40b4-9d2d-c0e098b0562f/000389340008.jpg",
+   "kind": "event",
+   "subtitle": "SPECIAL GUEST: RAHM",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27783",
+   "title": "Raquel Rodriguez",
+   "venue": "Melkweg",
+   "start": "2026-12-02T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/raquel-rodriguez-02-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/d796ac28-f678-4c1c-b502-68caa59cf585/RR-landscape-Kanya-2.JPG",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "zwijger-leven-met-straffeloosheid",
@@ -4443,6 +4854,18 @@
    "source": "vrankrijk"
   },
   {
+   "id": "melkweg-28023",
+   "title": "Miss Bashful",
+   "venue": "Melkweg",
+   "start": "2026-12-03T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/miss-bashful-03-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/09039e4f-9f5e-4b9a-8037-4213035c1e0a/missbashfulmw.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "skatecafe-bcd60f78-32af-4945-83f7-f5cab57784af",
    "title": "QUEENS PLEASURE: THE LAST DANCE W/ BULL (LIVE), DJ MELLEK, FEMI (LIVE), M2K (LIVE), QUEEN’S PLEASURE (LIVE), SEND ME FLOWERS (LIVE)",
    "venue": "Skatecafé",
@@ -4505,6 +4928,30 @@
    "kind": "event",
    "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-27555",
+   "title": "Gotts Street Park",
+   "venue": "Melkweg",
+   "start": "2026-12-03T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/gotts-street-park-03-12-2026",
+   "category": "jazz",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/dadbdc88-f542-4b25-a874-a29fa768874d/Gotts-Street-Park-header.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28001",
+   "title": "Romare (live)",
+   "venue": "Melkweg",
+   "start": "2026-12-03T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/romare-live-03-12-2026",
+   "category": "jazz",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/e4bd781e-6b4e-41d4-b44a-c6c2f39eec97/0c647780_DSC02792_Romare_Digital_mattwellham.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "zwijger-478f65e73430",
@@ -5036,6 +5483,56 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28537",
+   "title": "80's Verantwoord",
+   "venue": "Melkweg",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/80s-verantwoord-04-12-2026",
+   "category": "club",
+   "end": "2026-12-04T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/6ed82a2f-978c-463c-9e4d-f6e1b6cc51aa/FB---EVENT-–-1.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27153",
+   "title": "Maite Hontelé & La Novia",
+   "venue": "Melkweg",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/maite-hontele-la-novia-04-12-2026",
+   "category": "jazz",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/b1063d9b-042c-4fa1-a775-6654544e56a1/MaiteHontele-CMS-2.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28781",
+   "title": "Maite Hontelé & La Novia: La Novia (2026)",
+   "venue": "Melkweg",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/maite-hontele-la-novia-la-novia-2026-04-12-2026",
+   "category": "jazz",
+   "end": "2026-12-04T19:45:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/65aa431d-df20-44ac-bbfd-d47985b597d3/MaiteHontele-CMS-2.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28025",
+   "title": "Tiffany Day",
+   "venue": "Melkweg",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/tiffany-day-04-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/028654b4-200b-47bd-9ff8-cd946d6f861c/Tiffany-Day-e1782311021989-1320x0-c-center.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4881",
    "title": "Mezrab Friday Night Storytelling",
    "venue": "Mezrab",
@@ -5410,6 +5907,32 @@
    "source": "garagenoord"
   },
   {
+   "id": "melkweg-28678",
+   "title": "Olá Brazil!",
+   "venue": "Melkweg",
+   "start": "2026-12-04T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/ola-brazil-04-12-2026",
+   "category": "club",
+   "end": "2026-12-05T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/594a1967-eb9b-4869-86ba-2b2da75392cd/8hsaivlgwkqo8dlo62yjx.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28198",
+   "title": "NOISIA",
+   "venue": "Melkweg",
+   "start": "2026-12-04T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/noisia-04-12-2026",
+   "category": "club",
+   "end": "2026-12-05T06:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/bd82b43b-8299-4b06-8a33-5379fe5463ee/Noisia_Banner2.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "nachbar-111694543",
    "title": "Doran & Nothing Toulouse",
    "venue": "Nachbar",
@@ -5529,6 +6052,19 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-27509",
+   "title": "Artemas",
+   "venue": "Melkweg",
+   "start": "2026-12-05T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/artemas-05-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/a5438d9a-85ad-4f7a-adf5-a1c9fa7c5efa/ARTEMAS-press-photo-@eleonoramur.jpg",
+   "kind": "event",
+   "subtitle": "SUPPORTS: HENRY MORRIS / ELLA BOH",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-5087",
@@ -5789,6 +6325,19 @@
    "source": "skatecafe"
   },
   {
+   "id": "melkweg-28649",
+   "title": "STOUT",
+   "venue": "Melkweg",
+   "start": "2026-12-05T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/stout-05-12-2026",
+   "category": "club",
+   "end": "2026-12-06T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/8c4647ba-ad53-44db-b70c-dca58a56a114/Stout-breed.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "radion-111697748",
    "title": "AURA",
    "venue": "Radion",
@@ -5813,6 +6362,32 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "melkweg-28349",
+   "title": "Hey Desi",
+   "venue": "Melkweg",
+   "start": "2026-12-05T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/hey-desi-05-12-2026",
+   "category": "club",
+   "end": "2026-12-06T04:30:00+01:00",
+   "status": "moved",
+   "image": "https://assets.melkweg.nl/eventpages/aaada955-777c-4601-b39f-b2b43d2188e4/2026-DEC-melkweg---4.PNG",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28197",
+   "title": "NOISIA",
+   "venue": "Melkweg",
+   "start": "2026-12-05T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/noisia-05-12-2026",
+   "category": "club",
+   "end": "2026-12-06T06:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/6901cc9f-b736-449e-a955-b18134ff04c5/Noisia_Banner2.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "nachbar-111696855",
@@ -6097,6 +6672,19 @@
    "source": "carre"
   },
   {
+   "id": "melkweg-26953",
+   "title": "Blondshell",
+   "venue": "Melkweg",
+   "start": "2026-12-06T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/blondshell-06-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/0131eaad-f756-4db8-a3b3-a816bf08a22e/Blondshell-2026-cms.jpg",
+   "kind": "event",
+   "subtitle": "support: TTSFU",
+   "source": "melkweg"
+  },
+  {
    "id": "ot301-23460",
    "title": "Devagan",
    "venue": "OT301",
@@ -6108,6 +6696,18 @@
    "kind": "event",
    "subtitle": "Ventilator Cinema",
    "source": "ot301"
+  },
+  {
+   "id": "melkweg-27905",
+   "title": "The Skints",
+   "venue": "Melkweg",
+   "start": "2026-12-06T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/the-skints-06-12-2026",
+   "category": "music",
+   "status": "moved",
+   "image": "https://assets.melkweg.nl/eventpages/c60f8fb9-2bfb-44bd-bbb1-064b75ded2bf/skints-louder-than-war.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2886934",
@@ -6236,6 +6836,19 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "melkweg-27546",
+   "title": "Artemas",
+   "venue": "Melkweg",
+   "start": "2026-12-07T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/artemas-07-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/569a9fd8-2329-4f62-b4b6-d1c984174b4c/ARTEMAS-press-photo-@eleonoramur.jpg",
+   "kind": "event",
+   "subtitle": "SUPPORTS: HENRY MORRIS / ELLA BOH",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2932710",
@@ -6430,6 +7043,19 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-27487",
+   "title": "Bilal",
+   "venue": "Melkweg",
+   "start": "2026-12-08T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/bilal-08-12-2026",
+   "category": "jazz",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/3c81ebaf-0399-4446-af79-a4db1f6c6d36/bilalcms.png",
+   "kind": "event",
+   "subtitle": "support: Philipe",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4931",
    "title": "Off the Page",
    "venue": "Mezrab",
@@ -6612,6 +7238,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28606",
+   "title": "Techno Tuesday: Dexon",
+   "venue": "Melkweg",
+   "start": "2026-12-08T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-dexon-08-12-2026",
+   "category": "club",
+   "end": "2026-12-09T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/ddff2da6-f15f-43d8-bb3b-a4c92471d47b/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Dexon / Dj Rossa / L.I.K.",
+   "source": "melkweg"
+  },
+  {
    "id": "debalie-122119",
    "title": "Nationaal Gesprek over Vrijheid: Erik van der Maas",
    "venue": "De Balie",
@@ -6636,6 +7276,19 @@
    "image": "https://depijp.rialtofilm.nl/prod/media/you-can-see-everything-poster.jpg?guid=f55e2962-831e-4074-b1d6-aa730bed53b5",
    "kind": "event",
    "source": "rialto"
+  },
+  {
+   "id": "melkweg-28072",
+   "title": "Kadavar",
+   "venue": "Melkweg",
+   "start": "2026-12-09T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/kadavar-09-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/4d82505d-e079-4935-8fdc-42a72867acf4/Kadavar-Ticketmaster-afbeelding.png",
+   "kind": "event",
+   "subtitle": "Support: Scott Hepple & The Sun Band",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-4829",
@@ -6699,6 +7352,31 @@
    "kind": "event",
    "subtitle": "Ghita Skali, Eoghan Ryan, Luna Maurer & Roel Wouters",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "melkweg-27897",
+   "title": "Seb Lowe",
+   "venue": "Melkweg",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/seb-lowe-09-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/5dff01fb-4d88-40d3-a3fc-096b788436a0/seb-lowe-2026-cms.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27708",
+   "title": "Sekou",
+   "venue": "Melkweg",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/sekou-09-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/b5b19928-1cf1-4161-8045-c570cb32f485/000035460010.png",
+   "kind": "event",
+   "subtitle": "Support: Jaïr Faria",
+   "source": "melkweg"
   },
   {
    "id": "zwijger-the-city-as-a-toolkit",
@@ -6954,6 +7632,32 @@
    "source": "frascati"
   },
   {
+   "id": "melkweg-28751",
+   "title": "No Need To Pretend: Black Men Talk",
+   "venue": "Melkweg",
+   "start": "2026-12-10T18:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/black-men-talk-10-12-2026",
+   "category": "talk",
+   "end": "2026-12-10T21:30:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/0dcb4e70-23d1-4cae-9708-db54f269dc09/60x70-boxer.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27791",
+   "title": "J. Bernardt",
+   "venue": "Melkweg",
+   "start": "2026-12-10T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/j-bernardt-10-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/b4e1a4aa-3830-4541-9d69-0b997508ba87/CMS--(2)-(1).jpg",
+   "kind": "event",
+   "subtitle": "Support: Noonzy",
+   "source": "melkweg"
+  },
+  {
    "id": "zwijger-0f036602988c",
    "title": "Emancipating History 24: Worlds Ablaze: Colonial Archives and Community Impact",
    "venue": "Pakhuis de Zwijger",
@@ -7003,6 +7707,18 @@
    "kind": "event",
    "subtitle": "pubquiz!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "melkweg-27715",
+   "title": "Letz Zep / Aerochicks",
+   "venue": "Melkweg",
+   "start": "2026-12-10T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/letz-zep-10-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/2cbd3efd-816f-43ff-a9b3-4e0b4aafaec5/Letz-Zep-cms-(1).jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2896656",
@@ -7275,6 +7991,19 @@
    "source": "ot301"
   },
   {
+   "id": "melkweg-28517",
+   "title": "VroegZat",
+   "venue": "Melkweg",
+   "start": "2026-12-11T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/vroegzat-11-12-2026",
+   "category": "club",
+   "end": "2026-12-11T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/4532cda4-0cba-4a13-b1f1-89d3e34fe54c/VRZ-NOV-DEC-Campagnebeeld.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4882",
    "title": "Mezrab Friday Night Storytelling",
    "venue": "Mezrab",
@@ -7326,6 +8055,18 @@
    "kind": "event",
    "subtitle": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes! · IJzaal",
    "source": "tolhuistuin"
+  },
+  {
+   "id": "melkweg-27931",
+   "title": "Sons of the Culture Clash",
+   "venue": "Melkweg",
+   "start": "2026-12-11T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/sons-of-the-culture-clash-11-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/d07db161-4472-4106-9933-fb1fe293c763/Sons-of-the-culture-clash-header.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2889452",
@@ -7405,6 +8146,20 @@
    "kind": "event",
    "subtitle": "Fatma Genç",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-28788",
+   "title": "Big Fun in the Big Town (1986)",
+   "venue": "Melkweg",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/big-fun-in-the-big-town-1986-11-12-2026",
+   "category": "film",
+   "end": "2026-12-11T20:55:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/1d1640ce-594c-4b6a-a15e-231e321001dc/f322a54a-504d-4155-b6e4-c554a7bd0fa3_1920x1080.jpeg",
+   "kind": "event",
+   "subtitle": "Introductie: Bram van Splunteren",
+   "source": "melkweg"
   },
   {
    "id": "occii-104412-1791913819",
@@ -7661,6 +8416,19 @@
    "source": "skatecafe"
   },
   {
+   "id": "melkweg-28148",
+   "title": "Kiss All Hipsters",
+   "venue": "Melkweg",
+   "start": "2026-12-11T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/kiss-all-hipsters-11-12-2026",
+   "category": "club",
+   "end": "2026-12-12T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9fcee785-db2f-40b7-91be-a1c4526aa242/KAH_banner_2026_3.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "paradiso-2955177",
    "title": "Indiesleaze",
    "venue": "Paradiso",
@@ -7698,6 +8466,19 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "melkweg-28657",
+   "title": "OP JE MANNIE",
+   "venue": "Melkweg",
+   "start": "2026-12-11T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/op-je-mannie-11-12-2026",
+   "category": "club",
+   "end": "2026-12-12T06:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/e12c991b-0a0c-4b62-9cff-889e2b2a0e51/261106_Eastern_16x9.png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "lofi-Herrensauna20261212",
@@ -7809,6 +8590,32 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-27703",
+   "title": "3x3 Eyes (1991)",
+   "venue": "Melkweg",
+   "start": "2026-12-12T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/3x3-eyes-1991-12-12-2026",
+   "category": "film",
+   "end": "2026-12-12T21:15:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/ee7c2881-ee49-4bca-889e-c80a37cf8b22/3x3_Eyes_02.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-26985",
+   "title": "Mammoth",
+   "venue": "Melkweg",
+   "start": "2026-12-12T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/mammoth-12-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/ea6ab70d-dc7d-4dde-8b21-4cc6d966a000/CMS-bannner-mammoth.png",
+   "kind": "event",
+   "subtitle": "Special guests: Florence Black",
+   "source": "melkweg"
+  },
+  {
    "id": "paradiso-2896660",
    "title": "Froukje + Jaïr Faria",
    "venue": "Paradiso",
@@ -7844,6 +8651,31 @@
    "kind": "event",
    "subtitle": "Biserka Šuran",
    "source": "frascati"
+  },
+  {
+   "id": "melkweg-28507",
+   "title": "Music Lab - Meervaart Studio x Melkweg",
+   "venue": "Melkweg",
+   "start": "2026-12-12T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/music-lab-meervaart-studio-x-melkweg-12-12-2026",
+   "category": "music",
+   "end": "2026-12-12T22:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/2823da18-d05b-4520-b1d7-11b944528eeb/djitt2_byrandydacosta.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27963",
+   "title": "Tonic Walter",
+   "venue": "Melkweg",
+   "start": "2026-12-12T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/tonic-walter-12-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/912f6c43-17df-4f04-a57d-a6d358c6f314/TonicWalter_Banner2.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-5118",
@@ -8143,6 +8975,20 @@
    "source": "skatecafe"
   },
   {
+   "id": "melkweg-28615",
+   "title": "1984 Night at the Arcade",
+   "venue": "Melkweg",
+   "start": "2026-12-12T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/1984-night-at-the-arcade-12-12-2026",
+   "category": "club",
+   "end": "2026-12-13T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/520f2267-0364-426b-9d41-3bf30adfcec0/Arcade_banner.png",
+   "kind": "event",
+   "subtitle": "I-F / Droom & Druif / Devereaux 85",
+   "source": "melkweg"
+  },
+  {
    "id": "garagenoord-69951786-7e0d-4a33-8ead-63164694264a",
    "title": "co-curated by TBA + bar40 hosted by Vakabon w/SYJ, Kandy Crush, Naphysa,SOSS",
    "venue": "Garage Noord",
@@ -8153,6 +8999,19 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "melkweg-28313",
+   "title": "EAST",
+   "venue": "Melkweg",
+   "start": "2026-12-12T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/east-12-12-2026",
+   "category": "club",
+   "end": "2026-12-13T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/4d59e7ee-abfe-4a15-9a82-b9fb49360d4b/Banner_EAST.png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2950393",
@@ -8468,6 +9327,19 @@
    "source": "mezrab"
   },
   {
+   "id": "melkweg-28067",
+   "title": "Rita Antonopoulou & Revans",
+   "venue": "Melkweg",
+   "start": "2026-12-13T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/rita-antonopoulou-13-12-2026",
+   "category": "music",
+   "status": "cancelled",
+   "image": "https://assets.melkweg.nl/eventpages/a635a8a8-9a75-48f4-a044-bf7a430b5370/Rita-Antonopoulou-cms-2026.png",
+   "kind": "event",
+   "subtitle": "Ρίτα Αντωνοπούλου",
+   "source": "melkweg"
+  },
+  {
    "id": "paradiso-2888719",
    "title": ".multibeat + TOS",
    "venue": "Tolhuistuin",
@@ -8592,6 +9464,19 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "melkweg-27761",
+   "title": "Ethan Regan",
+   "venue": "Melkweg",
+   "start": "2026-12-14T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/ethan-regan-14-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/f24af40b-fade-45b4-829a-68f0f87c68c7/Press-2.JPG",
+   "kind": "event",
+   "subtitle": "Support: Ethan Hodges",
+   "source": "melkweg"
   },
   {
    "id": "zwijger-naza",
@@ -8971,6 +9856,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28609",
+   "title": "Techno Tuesday: Esther Dune",
+   "venue": "Melkweg",
+   "start": "2026-12-15T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-esther-dune-15-12-2026",
+   "category": "club",
+   "end": "2026-12-16T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/470ce48c-82f6-47b8-bae3-e7084b00ca8e/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Esther Dune / Dexon / Dj Blue Elephant",
+   "source": "melkweg"
+  },
+  {
    "id": "joesgarage-6a5a02f8b097",
    "title": "Arab Spring class",
    "venue": "Joe's Garage",
@@ -8992,6 +9891,32 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28334",
+   "title": "Miles (2026)",
+   "venue": "Melkweg",
+   "start": "2026-12-16T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/miles-2026-16-12-2026",
+   "category": "jazz",
+   "end": "2026-12-16T20:55:00+01:00",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/6d810a98-eff8-4983-9925-aeff5e223865/AF4223-MILES2.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28665",
+   "title": "STOMP Queer Line Dance",
+   "venue": "Melkweg",
+   "start": "2026-12-16T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/stomp-queer-line-dance-16-12-2026",
+   "category": "club",
+   "end": "2026-12-16T23:59:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/96306aa2-b091-4e13-92ae-14453856250f/stomp-annie-web-melkweg-thumbnail.png",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "mezrab-4830",
@@ -9236,6 +10161,20 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28501",
+   "title": "Manchester by the Sea (2016)",
+   "venue": "Melkweg",
+   "start": "2026-12-17T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/manchester-by-the-sea-2016-17-12-2026",
+   "category": "film",
+   "end": "2026-12-17T21:32:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/00a45d2d-2c95-48e8-99bd-5b174222c4b2/Brody-KennethLonergansDevastatingLiberatingManchesterbytheSea2.webp",
+   "kind": "event",
+   "subtitle": "Intro: Joes Brauers",
+   "source": "melkweg"
   },
   {
    "id": "vrankrijk-14e56dc55594",
@@ -9565,6 +10504,32 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28723",
+   "title": "90's NOW",
+   "venue": "Melkweg",
+   "start": "2026-12-18T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/90s-now-18-12-2026",
+   "category": "club",
+   "end": "2026-12-18T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/7ca2d143-42bd-41f9-863a-9c8a4d2d4e39/18:12-90'S-NOW-MELKWEG-Nirvana-banner.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-26849",
+   "title": "Dayseeker",
+   "venue": "Melkweg",
+   "start": "2026-12-18T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/dayseeker-18-12-2026",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://assets.melkweg.nl/eventpages/a90a7dcd-8da2-40e7-b41e-908720644fe9/Dayseeker-Ticketmaster-afbeelding.png",
+   "kind": "event",
+   "subtitle": "support: Northlane / Siamese",
+   "source": "melkweg"
+  },
+  {
    "id": "mezrab-4883",
    "title": "Mezrab Friday Night Storytelling",
    "venue": "Mezrab",
@@ -9827,6 +10792,32 @@
    "source": "garagenoord"
   },
   {
+   "id": "melkweg-28819",
+   "title": "Fiesta Macumba",
+   "venue": "Melkweg",
+   "start": "2026-12-18T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/fiesta-macumba-18-12-2026",
+   "category": "club",
+   "end": "2026-12-19T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/a7bac396-336f-4022-bc96-8a79cd9a9929/fiesta-macumba.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28713",
+   "title": "Funkshun Nightmarket",
+   "venue": "Melkweg",
+   "start": "2026-12-18T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/funkshun-nightmarket-18-12-2026",
+   "category": "club",
+   "end": "2026-12-19T06:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9ecd71a3-8835-4d2c-bb54-537b4690026b/0e7c94f9-36dc-464a-b113-11ad69f7900e.jpeg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "paradiso-2947221",
    "title": "House of LIV",
    "venue": "Paradiso",
@@ -9993,6 +10984,45 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28491",
+   "title": "Emo Night Mainland",
+   "venue": "Melkweg",
+   "start": "2026-12-19T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/emo-night-mainland-19-12-2026",
+   "category": "club",
+   "end": "2026-12-19T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9cb7edb4-7cb8-46ca-be52-654e64894918/Emo-Night-Kerst---Kim-Tielemans.jpg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28503",
+   "title": "Muziek Bingo XXL",
+   "venue": "Melkweg",
+   "start": "2026-12-19T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/muziek-bingo-xxl-19-12-2026",
+   "category": "club",
+   "end": "2026-12-19T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/60ca9591-d7d7-4743-b726-390fd645ff5a/muziekbinmgp.jpeg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-28721",
+   "title": "Only Fire",
+   "venue": "Melkweg",
+   "start": "2026-12-19T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/only-fire-19-12-2026",
+   "category": "club",
+   "end": "2026-12-19T22:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9ed057b2-b45e-4b2c-8f2a-17621c3c229d/261219_OnlyFire_Banner.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "tolhuistuin-10efeff82f97",
@@ -10259,6 +11289,33 @@
    "source": "garagenoord"
   },
   {
+   "id": "melkweg-27563",
+   "title": "Luminosity 19 Year Anniversary",
+   "venue": "Melkweg",
+   "start": "2026-12-19T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/luminosity-19-year-anniversary-19-12-2026",
+   "category": "club",
+   "end": "2026-12-20T06:00:00+01:00",
+   "status": "cancelled",
+   "image": "https://assets.melkweg.nl/eventpages/fae3bcb3-2469-45f6-9e0b-540d6669d74d/LUMI253-December-Edition-2026-Cover-NIGHT.jpg",
+   "kind": "event",
+   "subtitle": "KEY4050 / Mark Sherry / The Thrillseekers",
+   "source": "melkweg"
+  },
+  {
+   "id": "melkweg-27445",
+   "title": "Raving Charlie",
+   "venue": "Melkweg",
+   "start": "2026-12-19T23:59:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/raving-charlie-19-12-2026",
+   "category": "club",
+   "end": "2026-12-20T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/8a1fc15d-024d-4a63-9f9e-55e844a9bdf8/RavingCharlie_Banner.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "paradiso-2944647",
    "title": "Disco Arabesquo",
    "venue": "Paradiso",
@@ -10506,6 +11563,19 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-27389",
+   "title": "New Model Army",
+   "venue": "Melkweg",
+   "start": "2026-12-20T19:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/new-model-army-20-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/69926bfb-68ce-41d9-a6a7-bda7038adfd0/NMA_press-photo_credit_Tina-Korhonen-1.jpg",
+   "kind": "event",
+   "subtitle": "support: Dear Omen",
+   "source": "melkweg"
+  },
+  {
    "id": "nieuweanita-9638",
    "title": "Nutty Anita’s presents – The Amsterdam Magic Show",
    "venue": "De Nieuwe Anita",
@@ -10631,6 +11701,18 @@
    "kind": "event",
    "subtitle": "Contemporary",
    "source": "cavia"
+  },
+  {
+   "id": "melkweg-27985",
+   "title": "Nusantara Beat",
+   "venue": "Melkweg",
+   "start": "2026-12-21T19:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/nusantara-beat-21-12-2026",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/906cfb09-50bd-4d2b-82ce-aaf59b1a22ba/nusantara-beat-header.jpg",
+   "kind": "event",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2943710",
@@ -10841,6 +11923,20 @@
    "price": "20",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28611",
+   "title": "Techno Tuesday: Dexon",
+   "venue": "Melkweg",
+   "start": "2026-12-22T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-dexon-22-12-2026",
+   "category": "club",
+   "end": "2026-12-23T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/1e758827-bfab-4c48-9020-f00f806d5347/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Dexon / Alix / JP aka Lonestriker",
+   "source": "melkweg"
   },
   {
    "id": "ita-1059",
@@ -11486,6 +12582,20 @@
    "source": "bellevue"
   },
   {
+   "id": "melkweg-28612",
+   "title": "Techno Tuesday: Inez Akker",
+   "venue": "Melkweg",
+   "start": "2026-12-29T23:30:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-inez-akker-29-12-2026",
+   "category": "club",
+   "end": "2026-12-30T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/b7026648-493b-4fa8-9ba3-91f586eaaa6a/techno-tuesday-maart-header-(2).jpg",
+   "kind": "event",
+   "subtitle": "Inez Akker / Dexon / A.R.T.",
+   "source": "melkweg"
+  },
+  {
    "id": "amsterdamalternative-22106",
    "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
    "venue": "Plein Theater",
@@ -11654,6 +12764,20 @@
    "kind": "event",
    "subtitle": "Vier oud en nieuw in Tolhuistuin",
    "source": "paradiso"
+  },
+  {
+   "id": "melkweg-28653",
+   "title": "Encore New Years Eve 2026",
+   "venue": "Melkweg",
+   "start": "2026-12-31T22:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/encore-new-years-eve-2026-31-12-2026",
+   "category": "club",
+   "end": "2027-01-01T06:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/e177b1cb-afc3-4f2e-8fa8-e10471ec933e/ENCORE-31122024-5802.jpg",
+   "kind": "event",
+   "subtitle": "Line-up TBA",
+   "source": "melkweg"
   },
   {
    "id": "paradiso-2932040",
