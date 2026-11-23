@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T14:20:20+01:00",
+ "generated": "2026-11-23T17:59:27+01:00",
  "window_days": 42,
- "count": 928,
+ "count": 923,
  "events": [
   {
    "id": "eye-1633828",
@@ -162,7 +162,7 @@
    "category": "film",
    "end": "2026-11-23T21:11:00+01:00",
    "status": "normal",
-   "image": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg?t=1795438206",
+   "image": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg",
    "kind": "event",
    "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 1",
    "source": "themovies"
@@ -345,19 +345,6 @@
    "price": "€20",
    "kind": "event",
    "source": "jazzin"
-  },
-  {
-   "id": "debalie-123284",
-   "title": "To boycott or not to boycott?",
-   "venue": "De Balie",
-   "start": "2026-11-23T20:30:00+01:00",
-   "url": "https://debalie.nl/programma/to-boycot-or-not-to-boycot-23-11-2026/",
-   "category": "talk",
-   "status": "normal",
-   "image": "https://debalie.nl/wp-content/uploads/2026/10/To_Boycott_Or_Not_To_Boycott_-2-1024x576.jpg",
-   "kind": "event",
-   "subtitle": "Een performance over een strijdtoneel (try-out)",
-   "source": "debalie"
   },
   {
    "id": "debalie-123101",
@@ -887,12 +874,12 @@
   },
   {
    "id": "nieuweanita-9617",
-   "title": "Poetry Evening – Female Rage",
+   "title": "SOLD OUT Poetry Evening – Female Rage",
    "venue": "De Nieuwe Anita",
    "start": "2026-11-25T19:30:00+01:00",
    "url": "https://denieuweanita.nl/agenda/poetry-evening-female-rage/",
    "category": "other",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://denieuweanita.nl/wp-content/uploads/2026/10/IG-post_LINE-UP-8pm-819x1024.jpg",
    "kind": "event",
    "subtitle": "Poetry!",
@@ -984,7 +971,7 @@
    "category": "theatre",
    "status": "normal",
    "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/bogstYgCfx9zdIm-McDhZZ5Y6wNj0JN_9ozgtUpC-FM/c:3840:2170:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
@@ -1473,19 +1460,6 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "nieuweanita-9458",
-   "title": "Literanita x Tijdelijke Toon",
-   "venue": "De Nieuwe Anita",
-   "start": "2026-11-26T20:00:00+01:00",
-   "url": "https://denieuweanita.nl/agenda/literanita-26/",
-   "category": "other",
-   "status": "normal",
-   "image": "https://denieuweanita.nl/wp-content/uploads/2026/08/Insta-literanita-2026-algemeen-819x1024.jpg",
-   "kind": "event",
-   "subtitle": "Spoken word!",
-   "source": "nieuweanita"
-  },
-  {
    "id": "frascati-3261-202611262000",
    "title": "soft cracks, hard curves",
    "venue": "Frascati",
@@ -1494,23 +1468,10 @@
    "category": "theatre",
    "status": "normal",
    "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/bogstYgCfx9zdIm-McDhZZ5Y6wNj0JN_9ozgtUpC-FM/c:3840:2170:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
-  },
-  {
-   "id": "amsterdamalternative-23611",
-   "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 years!",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-11-26T20:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23611",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 15",
-   "kind": "event",
-   "subtitle": "Mezrab",
-   "source": "amsterdamalternative"
   },
   {
    "id": "zwijger-club-apocalypso",
@@ -1783,7 +1744,7 @@
   },
   {
    "id": "nachbar-111708680",
-   "title": "3 YA",
+   "title": "3 YA Thursday w/ Ake & EURITECH & CARI & RNR & YUCKY",
    "venue": "Nachbar",
    "start": "2026-11-26T23:59:00+01:00",
    "url": "https://nachbar.stager.co/shop/nachbar/events/111708680",
@@ -2134,7 +2095,7 @@
    "category": "theatre",
    "status": "normal",
    "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/gbvNTZ9E8bfq8zoV5eDeCZ58gtN1tVjqZYMGJT56UCo/c:4101:2317:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
+   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Vincent Riebeek · Première",
    "source": "frascati"
@@ -2148,7 +2109,7 @@
    "category": "theatre",
    "status": "normal",
    "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/bogstYgCfx9zdIm-McDhZZ5Y6wNj0JN_9ozgtUpC-FM/c:3840:2170:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
@@ -2432,14 +2393,14 @@
   },
   {
    "id": "nachbar-111696916",
-   "title": "3 YA Friday",
+   "title": "3 YA Friday w/ Berkan V8 & Bisque & Daisy Weweh & Tsepo",
    "venue": "Nachbar",
    "start": "2026-11-27T23:59:00+01:00",
    "url": "https://nachbar.stager.co/shop/nachbar/events/111696916",
    "category": "club",
    "end": "2026-11-28T05:00:00+01:00",
    "status": "normal",
-   "price": "€ 24,75",
+   "price": "€ 18,75–€ 24,75",
    "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
    "kind": "event",
    "source": "nachbar"
@@ -2730,7 +2691,7 @@
    "category": "theatre",
    "status": "normal",
    "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/gbvNTZ9E8bfq8zoV5eDeCZ58gtN1tVjqZYMGJT56UCo/c:4101:2317:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
+   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Vincent Riebeek · Première",
    "source": "frascati"
@@ -2944,19 +2905,6 @@
    "source": "ot301"
   },
   {
-   "id": "amsterdamalternative-23612",
-   "title": "Vintage Voudou dance night ★ Planet Ilunga Congo special + Listening in the dark session ♫",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-11-28T21:30:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23612",
-   "category": "club",
-   "status": "normal",
-   "price": "€ 10",
-   "kind": "event",
-   "subtitle": "Mezrab",
-   "source": "amsterdamalternative"
-  },
-  {
    "id": "paradiso-2905310",
    "title": "Ronis Goliath",
    "venue": "Paradiso",
@@ -3037,7 +2985,7 @@
   },
   {
    "id": "nachbar-111696917",
-   "title": "3YA Saturday",
+   "title": "3 YA Saturday w/ Ahwlkuhn & Angelboy & BARROSKINI & de Schuurman",
    "venue": "Nachbar",
    "start": "2026-11-28T23:59:00+01:00",
    "url": "https://nachbar.stager.co/shop/nachbar/events/111696917",
@@ -3921,7 +3869,7 @@
    "url": "https://ita.nl/nl/voorstellingen/een-groter-verhaal",
    "category": "theatre",
    "end": "2026-12-01T20:40:00+01:00",
-   "status": "sold_out",
+   "status": "normal",
    "image": "https://media.ita.nl/media/bureauvergezicht_een-groter-verhaal-c-brian-elstak_liggend.jpg?guid=85829012-0010-4778-8538-1c7fcb684c67",
    "kind": "event",
    "subtitle": "Bureau Vergezicht / Theater Rotterdam · Theater",
@@ -4999,19 +4947,6 @@
    "source": "jazzin"
   },
   {
-   "id": "amsterdamalternative-23613",
-   "title": "Banda Entopica ★ Traditional Street Band from Greece ★ Salón Sonoro",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-12-03T21:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23613",
-   "category": "music",
-   "status": "normal",
-   "price": "€ 18",
-   "kind": "event",
-   "subtitle": "Mezrab",
-   "source": "amsterdamalternative"
-  },
-  {
    "id": "nachbar-111696113",
    "title": "Sweetlips w/ Simon Kidzoo, Hagelslag",
    "venue": "Nachbar",
@@ -5914,7 +5849,7 @@
    "url": "https://www.paradiso.nl/programma/baile-trama/2953939",
    "category": "club",
    "status": "normal",
-   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/2954111/e0dade4a-dfe8-4c70-8124-668b66fbed7f-1794327804.jpg",
+   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/2958506/baile-banner-1.jpg",
    "kind": "event",
    "subtitle": "Braziliaanse Clubnacht",
    "source": "paradiso"
@@ -6400,6 +6335,7 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
+   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -6592,6 +6528,7 @@
    "status": "normal",
    "image": "https://debalie.nl/wp-content/uploads/2026/11/Onder-hoogspanningOnder-hoogspanning-doelen-gemist-records-verbroken-1024x576.jpg",
    "kind": "event",
+   "subtitle": "Stokt de strijd tegen klimaatverandering? Met o.a. Sandra Phlippen",
    "source": "debalie"
   },
   {
@@ -6629,6 +6566,7 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
+   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -6796,7 +6734,7 @@
    "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
    "category": "theatre",
    "end": "2026-12-09T23:00:00+01:00",
-   "status": "sold_out",
+   "status": "normal",
    "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
    "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
@@ -6888,6 +6826,7 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
+   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -7710,7 +7649,7 @@
   },
   {
    "id": "skatecafe-38332993-85c9-47f0-a91c-6bae993528c3",
-   "title": "NEW AMSTERDAM SURF ASSOCIATION W/ AMÈL (LIVE), JESSY, JESSY, JOLANI JHONES, LYLO, MUDFAT, RAFFIE DE DRIVER (LIVE), SIM-OJ, SUN SOL B2B ETERNAL JOE",
+   "title": "NEW AMSTERDAM SURF ASSOCIATION W/ AMÈL (LIVE), JESSY, JOLANI JHONES, LYLO, MUDFAT, RAFFIE DE DRIVER (LIVE), SIM-OJ, SUN SOL B2B ETERNAL JOE",
    "venue": "Skatecafé",
    "start": "2026-12-11T22:00:00+01:00",
    "url": "https://skatecafe.weticket.io/newamsterdamsurfassociation",
@@ -8139,19 +8078,6 @@
    "source": "frascati"
   },
   {
-   "id": "amsterdamalternative-23614",
-   "title": "Cabaret Saalik presents Rābkah ★ Swana Sounds ★ Libyan food ★ Belly Dance ♫",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-12-12T20:30:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23614",
-   "category": "club",
-   "status": "normal",
-   "price": "€ 11",
-   "kind": "event",
-   "subtitle": "Mezrab",
-   "source": "amsterdamalternative"
-  },
-  {
    "id": "bellevue-5913-202612122030",
    "title": "Asset, Liability & Equity",
    "venue": "Theater Bellevue",
@@ -8337,6 +8263,19 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "nieuweanita-9787",
+   "title": "Bring your own SPELLETJE",
+   "venue": "De Nieuwe Anita",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://denieuweanita.nl/agenda/bring-your-own-spelletje/",
+   "category": "other",
+   "status": "normal",
+   "image": "https://denieuweanita.nl/wp-content/uploads/2025/06/DSC04382-scaled-1-1024x683.jpg",
+   "kind": "event",
+   "subtitle": "BYO board game",
+   "source": "nieuweanita"
   },
   {
    "id": "jazzin-1165476",
@@ -8603,6 +8542,19 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "cavia-calendar-202612132030",
+   "title": "Three by Atom Egoyan: Calendar",
+   "venue": "Filmhuis Cavia",
+   "start": "2026-12-13T20:30:00+01:00",
+   "url": "https://www.filmhuiscavia.nl/programma/december-2026#calendar",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.filmhuiscavia.nl/application/files/3317/9544/8936/Calendar-.jpg",
+   "kind": "event",
+   "subtitle": "Classic",
+   "source": "cavia"
   },
   {
    "id": "paradiso-2896806",
@@ -9001,7 +8953,7 @@
    "category": "film",
    "end": "2026-12-15T23:35:00+01:00",
    "status": "normal",
-   "image": "https://themovies.nl/content/uploads/sites/4/2026/07/Dune_-Part-Three_ps_1_jpg_sd-high_Photo-Courtesy-Warner-Bros-Pictures-400x600.jpg?t=1795438206",
+   "image": "https://themovies.nl/content/uploads/sites/4/2026/07/Dune_-Part-Three_ps_1_jpg_sd-high_Photo-Courtesy-Warner-Bros-Pictures-400x600.jpg",
    "kind": "event",
    "subtitle": "Zaal 1",
    "source": "themovies"
@@ -9331,7 +9283,7 @@
    "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
    "category": "theatre",
    "end": "2026-12-17T23:00:00+01:00",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
    "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
@@ -9540,19 +9492,6 @@
    "kind": "event",
    "subtitle": "Jip Smit · dernière",
    "source": "bellevue"
-  },
-  {
-   "id": "amsterdamalternative-23615",
-   "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-12-17T21:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23615",
-   "category": "music",
-   "status": "normal",
-   "price": "€ 14,50",
-   "kind": "event",
-   "subtitle": "Studios",
-   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2952721",
@@ -9786,10 +9725,10 @@
    "title": "Nature – Short films by Berlin based artists",
    "venue": "Filmhuis Cavia",
    "start": "2026-12-18T20:30:00+01:00",
-   "url": "https://www.filmhuiscavia.nl/programma/december-2026#nature",
+   "url": "https://www.filmhuiscavia.nl/programma/nature",
    "category": "film",
    "status": "normal",
-   "image": "https://www.filmhuiscavia.nl/application/files/8917/9500/2595/Fassaden-.jpg",
+   "image": "https://www.filmhuiscavia.nl/application/files/6217/9500/4000/Postcards2-.jpg",
    "kind": "event",
    "subtitle": "Contemporary",
    "source": "cavia"
@@ -11678,17 +11617,17 @@
    "source": "mezrab"
   },
   {
-   "id": "amsterdamalternative-23616",
-   "title": "NEW YEAR’S EVE PARTY ★ TROPICAL MEZQUERADE",
-   "venue": "Pakhuis Wilhelmina",
-   "start": "2026-12-31T20:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23616",
-   "category": "club",
+   "id": "nieuweanita-9788",
+   "title": "De beurskrach van 2027",
+   "venue": "De Nieuwe Anita",
+   "start": "2026-12-31T21:00:00+01:00",
+   "url": "https://denieuweanita.nl/agenda/de-beurskrach-van-2027/",
+   "category": "other",
    "status": "normal",
-   "price": "€ 20",
+   "image": "https://denieuweanita.nl/wp-content/uploads/2021/11/CUY4567-1024x683.jpg",
    "kind": "event",
-   "subtitle": "Mezrab",
-   "source": "amsterdamalternative"
+   "subtitle": "OUD & Nieuwe Anita",
+   "source": "nieuweanita"
   },
   {
    "id": "paradiso-2943006",
@@ -11883,7 +11822,7 @@
    "end": "2027-01-03T08:00:00+01:00",
    "status": "normal",
    "price": "€ 25,00–€ 35,00",
-   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462584/250006_Aura_Vault_Design_1080x1440h4-4beb.png",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462584/250006_Aura_Vault_Design_1080x1440h-copy4-ded9.png",
    "kind": "event",
    "source": "radion"
   },
