@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T13:40:50+01:00",
+ "generated": "2026-11-23T13:54:48+01:00",
  "window_days": 42,
- "count": 821,
+ "count": 850,
  "events": [
   {
    "id": "eye-1633828",
@@ -154,6 +154,17 @@
    "kind": "series",
    "subtitle": "39 films: American Beauty, Apollo 13, Braveheart, Cape Fear, Clerks, Conte d’hiver …",
    "source": "filmhallen"
+  },
+  {
+   "id": "joesgarage-60e23db4fcc0",
+   "title": "Benefit voku for Postaja squat in Zagreb",
+   "venue": "Joe's Garage",
+   "start": "2026-11-23T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-23/benefit-voku-postaja-squat-zagreb",
+   "category": "food",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
   },
   {
    "id": "amsterdamalternative-23486",
@@ -613,6 +624,18 @@
    "source": "jazzin"
   },
   {
+   "id": "joesgarage-f897b2bf5ef8",
+   "title": "Joe's Salon",
+   "venue": "Joe's Garage",
+   "start": "2026-11-25T15:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/joes-salon",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke wo 15:00",
+   "source": "joesgarage"
+  },
+  {
    "id": "frascati-3291-202611251530",
    "title": "Het geheim van één boom (4+)",
    "venue": "Frascati",
@@ -624,6 +647,18 @@
    "kind": "event",
    "subtitle": "Jeritza Toney / Theater De Krakeling",
    "source": "frascati"
+  },
+  {
+   "id": "joesgarage-58a32611e293",
+   "title": "Arab Spring class",
+   "venue": "Joe's Garage",
+   "start": "2026-11-25T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/arab-spring-class",
+   "category": "other",
+   "end": "2026-11-25T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
   },
   {
    "id": "cavia-hoff-202611251700",
@@ -675,6 +710,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "joesgarage-77f8431bf2f1",
+   "title": "proxycafe",
+   "venue": "Joe's Garage",
+   "start": "2026-11-25T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/proxycafe/2026-11-25/proxycafe",
+   "category": "talk",
+   "end": "2026-11-25T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
   },
   {
    "id": "jazzin-2281154",
@@ -766,6 +813,18 @@
    "status": "normal",
    "kind": "event",
    "source": "occii"
+  },
+  {
+   "id": "vrankrijk-e758a58a0c1b",
+   "title": "WTF Queer Wednesday/Live Music Night",
+   "venue": "Vrankrijk",
+   "start": "2026-11-25T19:30:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-25/wtf-queer-wednesday-live-music-night",
+   "category": "food",
+   "end": "2026-11-26T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "jazzin-2025793",
@@ -1068,6 +1127,41 @@
    "price": "€12",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "joesgarage-38e535880c56",
+   "title": "For anarchist comrades and court case expenses from Greece",
+   "venue": "Joe's Garage",
+   "start": "2026-11-26T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-26/anarchist-comrades-and-court-case-expenses-greece",
+   "category": "food",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
+  },
+  {
+   "id": "vrankrijk-13a916a09e1a",
+   "title": "AAAH!!! Anarchist Action Assistance Hour",
+   "venue": "Vrankrijk",
+   "start": "2026-11-26T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/aaah-anarchist-action-assistance-hour",
+   "category": "other",
+   "end": "2026-11-26T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
+   "id": "vrankrijk-61727ade8c82",
+   "title": "Benefit night for Anarchist Action Assistance Hour (AAAH!)",
+   "venue": "Vrankrijk",
+   "start": "2026-11-26T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/benefit-night-anarchist-action-assistance-hour-aaah",
+   "category": "other",
+   "end": "2026-11-27T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "filmhallen-206086",
@@ -1707,6 +1801,18 @@
    "source": "jazzin"
   },
   {
+   "id": "vrankrijk-da5863685176",
+   "title": "Friday Pirate Kitchen and Punk Night",
+   "venue": "Vrankrijk",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-27/friday-pirate-kitchen-and-punk-night",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke vr 19:00",
+   "source": "vrankrijk"
+  },
+  {
    "id": "debalie-123198",
    "title": "Baanbrekers: Jeffrey Spalburg in gesprek met Eric van Sauers",
    "venue": "De Balie",
@@ -2052,6 +2158,18 @@
    "source": "jazzin"
   },
   {
+   "id": "joesgarage-c6b05702b88e",
+   "title": "Aman molli: Practice of east Mediterranean Music",
+   "venue": "Joe's Garage",
+   "start": "2026-11-27T21:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/aman-molli/2026-11-27/aman-molli-practice-east-mediterranean-music",
+   "category": "other",
+   "end": "2026-11-27T23:55:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
+  },
+  {
    "id": "jazzin-2277409",
    "title": "Blues Burner – Lightnin’ Bug",
    "venue": "Kompaszaal",
@@ -2179,6 +2297,18 @@
    "kind": "series",
    "subtitle": "5 films: Makandra: Ritme, Makandra: Roots, Makandra: Spiritualiteit, Makandra: Toekomst, Makandra: Verbinding",
    "source": "rialto"
+  },
+  {
+   "id": "joesgarage-eee66c717979",
+   "title": "Give away shop",
+   "venue": "Joe's Garage",
+   "start": "2026-11-28T14:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-28/give-away-shop",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke za 14:00",
+   "source": "joesgarage"
   },
   {
    "id": "amsterdamalternative-23354",
@@ -3127,6 +3257,17 @@
    "source": "themovies"
   },
   {
+   "id": "vrankrijk-407c873eb664",
+   "title": "Amsterdam Street Medics",
+   "venue": "Vrankrijk",
+   "start": "2026-11-30T00:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-30/amsterdam-street-medics",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "fchyena-hyena-scream-20261130",
    "title": "Hyena Scream: Paper Tiger",
    "venue": "FC Hyena",
@@ -3397,6 +3538,18 @@
    "kind": "event",
    "subtitle": "Mark Lotz Claudio Puntin Jeroen van Vliet",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "vrankrijk-bc85860fe1c8",
+   "title": "ABC Community Bike Repair",
+   "venue": "Vrankrijk",
+   "start": "2026-12-01T13:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-01/abc-community-bike-repair",
+   "category": "other",
+   "end": "2026-12-01T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "zwijger-299862ef5ba4",
@@ -3707,6 +3860,18 @@
    "kind": "event",
    "all_day": true,
    "source": "debalie"
+  },
+  {
+   "id": "joesgarage-69ab2f6138a2",
+   "title": "Arab Spring class",
+   "venue": "Joe's Garage",
+   "start": "2026-12-02T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-02/arab-spring-class",
+   "category": "other",
+   "end": "2026-12-02T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
   },
   {
    "id": "jazzin-2276611",
@@ -4032,6 +4197,18 @@
    "source": "jazzin"
   },
   {
+   "id": "vrankrijk-6307037d1b9e",
+   "title": "WTF Queer Wednesday NO VOKU/ WTF Q MTG",
+   "venue": "Vrankrijk",
+   "start": "2026-12-02T21:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-02/wtf-queer-wednesday-no-voku-wtf-q-mtg",
+   "category": "food",
+   "end": "2026-12-03T01:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "skatecafe-bcd60f78-32af-4945-83f7-f5cab57784af",
    "title": "QUEENS PLEASURE: THE LAST DANCE W/ BULL (LIVE), DJ MELLEK, FEMI (LIVE), M2K (LIVE), QUEEN’S PLEASURE (LIVE), SEND ME FLOWERS (LIVE)",
    "venue": "Skatecafé",
@@ -4043,6 +4220,18 @@
    "image": "https://weticket.ams3.digitaloceanspaces.com/event/queens-pleasure-the-last-dance-w-dj-mellek-femi-live-m2k-live-queen-s-pleasure-live-send-me-flowers-live__by_skatecafe__cover_photo-01a1b17d-b76f-737e-b0cb-f292e2899a6f.jpg",
    "kind": "event",
    "source": "skatecafe"
+  },
+  {
+   "id": "vrankrijk-82087746f541",
+   "title": "AAAH!!! Anarchist Action Assistance Hour",
+   "venue": "Vrankrijk",
+   "start": "2026-12-03T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-03/aaah-anarchist-action-assistance-hour",
+   "category": "other",
+   "end": "2026-12-03T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "debalie-123213-202612031930",
@@ -6188,6 +6377,18 @@
    "source": "tolhuistuin"
   },
   {
+   "id": "vrankrijk-adbfe0e1f75b",
+   "title": "WTF Queer Wednesday",
+   "venue": "Vrankrijk",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-09/wtf-queer-wednesday",
+   "category": "food",
+   "end": "2026-12-10T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "debalie-122884",
    "title": "Ziek van (geen) werk",
    "venue": "De Balie",
@@ -6385,6 +6586,18 @@
    "kind": "event",
    "subtitle": "How can societies engage differently with colonial histories? And how do we deal with the consequences of this engagement? · Grote Zaal PDZ",
    "source": "zwijger"
+  },
+  {
+   "id": "vrankrijk-e1e6bd816c0b",
+   "title": "AAAH!!! Anarchist Action Assistance Hour",
+   "venue": "Vrankrijk",
+   "start": "2026-12-10T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-10/aaah-anarchist-action-assistance-hour",
+   "category": "other",
+   "end": "2026-12-10T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "amsterdamalternative-23425",
@@ -7155,6 +7368,17 @@
    "source": "paradiso"
   },
   {
+   "id": "vrankrijk-92022a2ace08",
+   "title": "BANDS: HOLOCAUSTS - AKRABUT benefit for \"abolish borders collective\" Ceuta",
+   "venue": "Vrankrijk",
+   "start": "2026-12-12T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-12/bands-holocausts-akrabut-benefit-abolish-borders-collective",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "frascati-3293-202612121930",
    "title": "Scènes met mijn vader / De Was Wals",
    "venue": "Frascati",
@@ -7539,6 +7763,18 @@
    "source": "jazzin"
   },
   {
+   "id": "joesgarage-414b1eb18a7e",
+   "title": "All Crafts Are Beautiful",
+   "venue": "Joe's Garage",
+   "start": "2026-12-13T14:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/600180",
+   "category": "other",
+   "end": "2026-12-13T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
+  },
+  {
    "id": "jazzin-2277416",
    "title": "Gel Sunday Extra",
    "venue": "Kompaszaal",
@@ -7818,6 +8054,17 @@
    "source": "debalie"
   },
   {
+   "id": "vrankrijk-365b3489391c",
+   "title": "Amsterdam Street Medics",
+   "venue": "Vrankrijk",
+   "start": "2026-12-14T00:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-14/amsterdam-street-medics",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "zwijger-naza",
    "title": "Filmvertoning + nagesprek: NAZA",
    "venue": "Pakhuis de Zwijger",
@@ -7946,6 +8193,18 @@
    "all_day": true,
    "subtitle": "Elke derde dinsdag van de maand",
    "source": "fchyena"
+  },
+  {
+   "id": "vrankrijk-85bf5cbb5952",
+   "title": "ABC Community Bike Repair",
+   "venue": "Vrankrijk",
+   "start": "2026-12-15T13:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-15/abc-community-bike-repair",
+   "category": "other",
+   "end": "2026-12-15T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "zwijger-queer-poetry-night-25",
@@ -8159,6 +8418,18 @@
    "source": "jazzin"
   },
   {
+   "id": "joesgarage-6a5a02f8b097",
+   "title": "Arab Spring class",
+   "venue": "Joe's Garage",
+   "start": "2026-12-16T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-16/arab-spring-class",
+   "category": "other",
+   "end": "2026-12-16T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
+  },
+  {
    "id": "jazzin-2276617",
    "title": "Vocal Night",
    "venue": "Amsterdam Blue Dock, CvA",
@@ -8245,6 +8516,18 @@
    "kind": "event",
    "subtitle": "Lezingen over wetenschap, goede cocktails en livemuziek",
    "source": "paradiso"
+  },
+  {
+   "id": "vrankrijk-8c9390e7d337",
+   "title": "WTF Queer Wednesday",
+   "venue": "Vrankrijk",
+   "start": "2026-12-16T19:30:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-16/wtf-queer-wednesday",
+   "category": "food",
+   "end": "2026-12-17T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "carre-run17106",
@@ -8375,6 +8658,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "vrankrijk-14e56dc55594",
+   "title": "AAAH!!! Anarchist Action Assistance Hour",
+   "venue": "Vrankrijk",
+   "start": "2026-12-17T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-17/aaah-anarchist-action-assistance-hour",
+   "category": "other",
+   "end": "2026-12-17T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "paradiso-2892814",
@@ -9622,6 +9917,17 @@
    "source": "paradiso"
   },
   {
+   "id": "vrankrijk-ab69f9df4593",
+   "title": "Amsterdam Street Medics",
+   "venue": "Vrankrijk",
+   "start": "2026-12-21T00:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-21/amsterdam-street-medics",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "cavia-43e0f00fd139",
    "title": "Dag van de Korte Film: Europees Kinderprogramma (4+) – Daar zit muziek in!",
    "venue": "Filmhuis Cavia",
@@ -9886,6 +10192,18 @@
    "source": "paradiso"
   },
   {
+   "id": "vrankrijk-ea52bc04680a",
+   "title": "WTF Queer Wednesday",
+   "venue": "Vrankrijk",
+   "start": "2026-12-23T19:30:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-23/wtf-queer-wednesday",
+   "category": "food",
+   "end": "2026-12-24T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
+  },
+  {
    "id": "jazzin-2277170",
    "title": "Hidden Jazz Club",
    "venue": "De Duif",
@@ -9949,6 +10267,18 @@
    "kind": "event",
    "subtitle": "Kapitein Zeppos in Paradiso",
    "source": "paradiso"
+  },
+  {
+   "id": "vrankrijk-8249fcc6c9a0",
+   "title": "AAAH!!! Anarchist Action Assistance Hour",
+   "venue": "Vrankrijk",
+   "start": "2026-12-24T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-24/aaah-anarchist-action-assistance-hour",
+   "category": "other",
+   "end": "2026-12-24T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "kleinekomedie-3549-202612242000",
@@ -10164,6 +10494,17 @@
    "kind": "event",
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
+  },
+  {
+   "id": "vrankrijk-1ccf59acc9b5",
+   "title": "Amsterdam Street Medics",
+   "venue": "Vrankrijk",
+   "start": "2026-12-28T00:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-28/amsterdam-street-medics",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "vrankrijk"
   },
   {
    "id": "kleinekomedie-3448-202612281430",
