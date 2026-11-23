@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T13:34:05+01:00",
+ "generated": "2026-11-23T13:40:50+01:00",
  "window_days": 42,
- "count": 673,
+ "count": 821,
  "events": [
   {
    "id": "eye-1633828",
@@ -19,6 +19,62 @@
    "source": "eye"
   },
   {
+   "id": "amsterdamalternative-42800e9d2eb6",
+   "title": "Eetcafe: Bar la Papa",
+   "venue": "ADM Noord – 't Groene Veld",
+   "start": "2026-11-02T17:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23197",
+   "category": "food",
+   "end": "2026-11-23T17:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "weekly",
+   "subtitle": "Elke ma 17:00",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "amsterdamalternative-9e4f877844ec",
+   "title": "Eetcafé ADM Noord",
+   "venue": "ADM Noord – 't Groene Veld",
+   "start": "2026-11-06T17:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23466",
+   "category": "food",
+   "end": "2026-11-27T17:00:00+01:00",
+   "status": "normal",
+   "price": "€ 12,50",
+   "kind": "weekly",
+   "subtitle": "Elke vr 17:00",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ot301-2133036fc41e",
+   "title": "Dinner at Café Gilde",
+   "venue": "OT301",
+   "start": "2026-11-06T18:00:00+01:00",
+   "url": "https://www.ot301.nl/agenda/23431",
+   "category": "food",
+   "end": "2026-11-28T18:00:00+01:00",
+   "status": "normal",
+   "price": "€ 10",
+   "kind": "weekly",
+   "subtitle": "Elke vr, za 18:00 · Café Gilde",
+   "source": "ot301"
+  },
+  {
+   "id": "ot301-2992d05f4d05",
+   "title": "Lunch at Café Gilde",
+   "venue": "OT301",
+   "start": "2026-11-11T12:00:00+01:00",
+   "url": "https://www.ot301.nl/agenda/23436",
+   "category": "food",
+   "end": "2026-11-28T12:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "weekly",
+   "subtitle": "Elke wo, do, vr, za 12:00 · Café Gilde",
+   "source": "ot301"
+  },
+  {
    "id": "bellevue-run5811",
    "title": "Het Zouthuis",
    "venue": "Theater Bellevue",
@@ -32,6 +88,33 @@
    "kind": "series",
    "subtitle": "Dronken Mensen · Bellevue op Locatie",
    "source": "bellevue"
+  },
+  {
+   "id": "tolhuistuin-e28529942718",
+   "title": "The Space Choir",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-23T17:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/the-space-choir/49",
+   "category": "other",
+   "end": "2026-12-16T20:00:00+01:00",
+   "status": "normal",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+   "kind": "series",
+   "subtitle": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor! · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "recurring-5881cc1ac209",
+   "title": "Community Kitchen: vegan diner (op donatie)",
+   "venue": "De Sering",
+   "start": "2026-11-23T18:00:00+01:00",
+   "url": "https://desering.org/",
+   "category": "food",
+   "end": "2027-01-04T18:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke ma, di, wo, do, vr, za 18:00–21:00 · Rhôneweg 6 (Sloterdijk) · ook lunch ma–vr 12:00–14:00",
+   "source": "recurring"
   },
   {
    "id": "jazzin-2277500",
@@ -73,6 +156,19 @@
    "source": "filmhallen"
   },
   {
+   "id": "amsterdamalternative-23486",
+   "title": "NUKI",
+   "venue": "Cinetol",
+   "start": "2026-11-23T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23486",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €21,75",
+   "kind": "event",
+   "subtitle": "NUKI",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2885768",
    "title": "SLIFT + Yoo Doo Right",
    "venue": "Paradiso",
@@ -109,6 +205,19 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "carre-36194",
+   "title": "Patrick Laureij - Kintsugi.",
+   "venue": "Carré",
+   "start": "2026-11-23T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/patrick-laureij-kintsugi",
+   "category": "theatre",
+   "end": "2026-11-23T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kintsugi",
+   "source": "carre"
   },
   {
    "id": "debalie-122829",
@@ -151,16 +260,17 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2277489",
-   "title": "ZaZoo: Teeth like Pearls - Debuut-EP-releaseconcert",
+   "id": "amsterdamalternative-23343",
+   "title": "David Dramm presents: ZaZoo: Teeth like Pearls",
    "venue": "Splendor",
    "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111709416/zazoo-teeth-like-pearls",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23343",
+   "category": "music",
    "status": "normal",
-   "price": "€15",
+   "price": "€ 15",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Debut EP Release Concert",
+   "source": "amsterdamalternative"
   },
   {
    "id": "kleinekomedie-3429-202611232015",
@@ -292,6 +402,19 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "amsterdamalternative-22947",
+   "title": "Liturgy (solo)",
+   "venue": "Cinetol",
+   "start": "2026-11-24T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22947",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €18,00",
+   "kind": "event",
+   "subtitle": "Liturgy",
+   "source": "amsterdamalternative"
   },
   {
    "id": "zwijger-terug-naar-de-toekomst",
@@ -516,6 +639,21 @@
    "source": "cavia"
   },
   {
+   "id": "tolhuistuin-6c60e9e02001",
+   "title": "Het Mannengesprek: Echte mannen praten",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-25T17:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/het-mannengesprek-echte-mannen-praten",
+   "category": "talk",
+   "end": "2026-11-25T19:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Mannengesprek.jpeg",
+   "kind": "event",
+   "subtitle": "Wat betekent het om man te zijn? Tijdens het slotevent van Het Mannengesprek Amsterdam komen verhalen uit de stad samen in een interactieve avond vol persoonlijke verhalen, humor en nieuwe inzichten. · Galerij",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "jazzin-2277502",
    "title": "Restaurant: Yayang",
    "venue": "Zaal 100",
@@ -561,6 +699,34 @@
    "kind": "event",
    "subtitle": "Theatervoorstelling over de Surinaamse keuken en geschiedenis",
    "source": "paradiso"
+  },
+  {
+   "id": "tolhuistuin-3d5df9ea51f6",
+   "title": "De positieve mannenbeweging | Mariëtte Hamer",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-25T19:15:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/mannenbijeenkomst-regeringscommissaris-mariëtte-hamer",
+   "category": "other",
+   "end": "2026-11-25T21:15:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/RCGOG_Mannenbeweging-Tolhuistuin-1440x817-abbie.jpg",
+   "kind": "event",
+   "subtitle": "Regeringscommissaris Mariëtte Hamer gaat in gesprek met Abbie Chalgoum en initiatiefnemers van diverse mannenbewegingen. Op zoek naar een positief geluid dat luider klinkt dan de manosfeer. · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "amsterdamalternative-21364",
+   "title": "Wrest",
+   "venue": "Cinetol",
+   "start": "2026-11-25T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/21364",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17",
+   "kind": "event",
+   "subtitle": "Wrest",
+   "source": "amsterdamalternative"
   },
   {
    "id": "nieuweanita-9617",
@@ -615,6 +781,19 @@
    "source": "jazzin"
   },
   {
+   "id": "carre-run17140",
+   "title": "Matthew Bourne's The Car Man",
+   "venue": "Carré",
+   "start": "2026-11-25T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/matthew-bourne-the-car-man",
+   "category": "theatre",
+   "end": "2026-11-29T19:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "subtitle": "ballet",
+   "source": "carre"
+  },
+  {
    "id": "debalie-123257",
    "title": "‘Auschwitz is dood’: over morele ijkpunten in een verdeelde wereld",
    "venue": "De Balie",
@@ -640,6 +819,19 @@
    "kind": "event",
    "subtitle": "Isadora Tomasi · try-out",
    "source": "frascati"
+  },
+  {
+   "id": "amsterdamalternative-23440",
+   "title": "Digital Care: Moniek Toebosch",
+   "venue": "LIMA",
+   "start": "2026-11-25T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23440",
+   "category": "talk",
+   "status": "normal",
+   "price": "€ Registration via Eventbrite (pay as you like)",
+   "kind": "event",
+   "subtitle": "Maaike Bleeker, Willem van Weelden, Wineke Gartz, Mayke Nas, Samuel Vriezen",
+   "source": "amsterdamalternative"
   },
   {
    "id": "ita-1042",
@@ -696,28 +888,29 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277490",
-   "title": "Mike del Ferro - soloconcert - Eigen composities & vrije interpretaties van jazzstandards",
+   "id": "amsterdamalternative-23344",
+   "title": "Mike del Ferro – Solo Concert",
    "venue": "Splendor",
    "start": "2026-11-25T20:30:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111681859/ledenconcert-mike-del-ferro",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23344",
+   "category": "music",
    "status": "normal",
-   "price": "€18",
+   "price": "€ 18",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Original compositions & free interpretations of jazz standards",
+   "source": "amsterdamalternative"
   },
   {
-   "id": "ita-run553",
+   "id": "ita-1196",
    "title": "Het incident",
    "venue": "Stadsschouwburg (ITA)",
    "start": "2026-11-25T20:30:00+01:00",
    "url": "https://ita.nl/nl/voorstellingen/het-incident",
    "category": "theatre",
-   "end": "2026-12-04T20:30:00+01:00",
-   "status": "normal",
+   "end": "2026-11-25T21:45:00+01:00",
+   "status": "sold_out",
    "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
-   "kind": "series",
+   "kind": "event",
    "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
    "source": "ita"
   },
@@ -839,6 +1032,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23606",
+   "title": "mist | 26-11-26 | 18:00-23:00",
+   "venue": "POS (possibilities open studio)",
+   "start": "2026-11-26T18:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23606",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 11",
+   "kind": "event",
+   "subtitle": "AMÆMI (live), Lulá Luna & Andy (hybrid), silver pearl (hybrid),",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "skatecafe-d5f5651a-acfe-4bfa-a988-6e63821b1a61",
    "title": "DRUKWERK (LIVE) MET SUPPORT VAN ROOIE JOS",
    "venue": "Skatecafé",
@@ -957,6 +1163,21 @@
    "source": "ita"
   },
   {
+   "id": "tolhuistuin-c62ff6843a59",
+   "title": "Conferentie: Stop Geweld Tegen Vrouwen",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/congerentie-stop-geweld-tegen-vrouwen",
+   "category": "talk",
+   "end": "2026-11-26T22:30:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Woeker-LindIn-banner.png",
+   "kind": "event",
+   "subtitle": "In het kader van de wereldwijde 'Orange the World' organiseren HTIB en VON samen met Tolhuistuin een inspirerende internationale conferentie over de preventie van geweld tegen vrouwen. · Galerij",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "paradiso-2896732",
    "title": "Genesis Owusu + MAHA",
    "venue": "Tolhuistuin",
@@ -970,6 +1191,20 @@
    "source": "paradiso"
   },
   {
+   "id": "tolhuistuin-bfe13ec5f016",
+   "title": "Podcastakademie: Spannende scène bouwen",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/podcastakademie-spannende-scène-bouwen-3/2",
+   "category": "other",
+   "end": "2026-11-26T22:00:00+01:00",
+   "status": "normal",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Podcastakademie_THT_2026-09-03-082103_olsj.png",
+   "kind": "event",
+   "subtitle": "Podcastmaker Maartje Duin neemt je mee in het ambacht van de spannende scène. Niet alleen theoretisch, maar vooral ook door het zelf te maken, horen en voelen. · Tuinhuis",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "paradiso-2895991",
    "title": "Seb Lowe + Kate couriel",
    "venue": "Bitterzoet",
@@ -981,6 +1216,19 @@
    "kind": "event",
    "subtitle": "Vlijmscherpe indiepop van jonge Britse band",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-21830",
+   "title": "Shaking Hand",
+   "venue": "Cinetol",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/21830",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,75",
+   "kind": "event",
+   "subtitle": "Shaking Hand",
+   "source": "amsterdamalternative"
   },
   {
    "id": "kleinekomedie-3549-202611262000",
@@ -1023,6 +1271,19 @@
    "source": "frascati"
   },
   {
+   "id": "amsterdamalternative-23611",
+   "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 years!",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23611",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 15",
+   "kind": "event",
+   "subtitle": "Mezrab",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "zwijger-club-apocalypso",
    "title": "Warming Up on Tour: Club Apocalypso",
    "venue": "Pakhuis de Zwijger",
@@ -1036,16 +1297,17 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2277491",
-   "title": "Project Escape - Saxofoon, marimba, vibrafoon en drums in een verrassende mix van jazz, klassieke en hedendaagse muziek.",
+   "id": "amsterdamalternative-23345",
+   "title": "Peter Prommel presents: Project Escape",
    "venue": "Splendor",
    "start": "2026-11-26T20:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111708975/project-escape",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23345",
+   "category": "music",
    "status": "normal",
-   "price": "€12.5",
+   "price": "€ 12,50",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Trio plays Paul Simon, Anthony Fiumara, Andy Scott, Bill Evans and more",
+   "source": "amsterdamalternative"
   },
   {
    "id": "ita-1040",
@@ -1060,6 +1322,19 @@
    "kind": "event",
    "subtitle": "Orkater · Muziektheater",
    "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-23297",
+   "title": "Musical Encounters serie: Yoràn Vroom invites… Remy van Kesteren",
+   "venue": "Teatro Munganga",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23297",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Yoràn Vroom invites… Remy van Kesteren",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2276086",
@@ -1198,6 +1473,33 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-22811",
+   "title": "XOXO KASSANDRA",
+   "venue": "Plein Theater",
+   "start": "2026-11-26T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22811",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Chapter 58 (Antti Uimonen, Flore Muuse, and Sofia Garcia Miramon.)",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-1197",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-11-26T20:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-11-26T21:45:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+   "kind": "event",
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
+  },
+  {
    "id": "bellevue-5905-202611262030",
    "title": "Venus & Adonis",
    "venue": "Theater Bellevue",
@@ -1263,6 +1565,32 @@
    "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
    "kind": "event",
    "source": "nachbar"
+  },
+  {
+   "id": "cafevoorwaarts-130-1795737600-1795910399",
+   "title": "Arjen van Opstal Expositie bij Voorwaarts",
+   "venue": "Café Voorwaarts",
+   "start": "2026-11-27T00:00:00+01:00",
+   "url": "https://cafevoorwaarts.nl/index.php/event/arjen-van-opstal-expositie-bij-voorwaarts-2/",
+   "category": "other",
+   "end": "2026-11-28T23:59:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "subtitle": "Expositie",
+   "source": "cafevoorwaarts"
+  },
+  {
+   "id": "amsterdamalternative-23481",
+   "title": "Green Ass Garden(ing)",
+   "venue": "ADM Noord – 't Groene Veld",
+   "start": "2026-11-27T13:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23481",
+   "category": "other",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "source": "amsterdamalternative"
   },
   {
    "id": "ot301-23452",
@@ -1444,6 +1772,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-16432",
+   "title": "Fax & Friends: Fax Machine + The Volleys + Spull | (ep release)",
+   "venue": "Cinetol",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/16432",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €15,00",
+   "kind": "event",
+   "subtitle": "Fax Machine, The Volleys, Spull",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2025096",
    "title": "Friday Night Live ft. Oscar Ployart & Eugenia Serra",
    "venue": "Contra",
@@ -1535,6 +1876,19 @@
    "source": "frascati"
   },
   {
+   "id": "amsterdamalternative-23586",
+   "title": "Mrs Dalloway",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23586",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 15,50",
+   "kind": "event",
+   "subtitle": "Bird Brain Theatre, Imogen Cooper",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "occii-103923-1790085397",
    "title": "MAKING MUSIC IN TIMES OF AUTHORITARIANISM. FILM & TALK WITH MISSISSIPPI RECORDS FOUNDER, ERIC ISAACSON + BHAJAN BHOY (Solo Set)",
    "venue": "OCCII",
@@ -1559,6 +1913,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-22987",
+   "title": "(F)Luister Muziektheater presenteert Opera Mic Night #4",
+   "venue": "Plein Theater",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22987",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Piano: Adelina Gansvind | Zangers: Konstantina Christodoulou, Vanessa Guinadi, Sasja Haeck, Jitze van der Land, Yulietta Quevedo, Jessica Stakenburg en Pavel Zelenev",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "ita-1041",
    "title": "De Suriname-trilogie: Stepping Stones",
    "venue": "Stadsschouwburg (ITA)",
@@ -1571,6 +1938,19 @@
    "kind": "event",
    "subtitle": "Orkater · Muziektheater",
    "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-23298",
+   "title": "Gafieira Social Club by Cabaret Brasil",
+   "venue": "Teatro Munganga",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23298",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15,00",
+   "kind": "event",
+   "subtitle": "Daniel Montes (7-string guitar) - Waguinho Vasconcelos (drums) and Luis Mascaro (violin).",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2281155",
@@ -1620,16 +2000,18 @@
    "source": "debalie"
   },
   {
-   "id": "jazzin-2277492",
-   "title": "Van Istanbul naar Marrakech - Mediterraneo band & special guest Salah Eddin Mosbah (zang)",
-   "venue": "Splendor",
+   "id": "ita-1198",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
    "start": "2026-11-27T20:30:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111695842/van-istanbul-naar-marrakech",
-   "category": "jazz",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-11-27T21:45:00+01:00",
    "status": "normal",
-   "price": "€25",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
   },
   {
    "id": "bellevue-5906-202611272030",
@@ -1799,16 +2181,32 @@
    "source": "rialto"
   },
   {
-   "id": "jazzin-2277493",
-   "title": "Thuis bij Bach - Raaf Hekkema (sax) & Emine Bostancı (kemenche & Kretenzische lier)",
+   "id": "amsterdamalternative-23354",
+   "title": "Member concert Emine Bostancı",
    "venue": "Splendor",
    "start": "2026-11-28T14:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111681860/ledenconcert-emine-bostancı",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23354",
+   "category": "music",
    "status": "normal",
-   "price": "€18",
+   "price": "€ 18.00",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Raaf Hekkema (sax) & Emine Bostancı (kemenche & Cretan lyra)",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-a09e4d0691fc",
+   "title": "HUMAN | De publieke tribune",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-28T14:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2",
+   "category": "talk",
+   "end": "2026-11-28T16:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+   "kind": "event",
+   "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
+   "source": "tolhuistuin"
   },
   {
    "id": "kleinekomedie-3548-202611281500",
@@ -1823,6 +2221,18 @@
    "kind": "event",
    "subtitle": "Elmer (Merel Pauw)",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "amsterdamalternative-23564",
+   "title": "Bookclub - Swing Time by Zadie Smith",
+   "venue": "Queer library",
+   "start": "2026-11-28T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23564",
+   "category": "talk",
+   "status": "normal",
+   "price": "€ Free",
+   "kind": "event",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2277398",
@@ -1944,6 +2354,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-22948",
+   "title": "LA ÉLITE + eigen risico + feral",
+   "venue": "Cinetol",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22948",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €18,00",
+   "kind": "event",
+   "subtitle": "LA ÉLITE, eigen risico, feral",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "debalie-122878",
    "title": "Ziek in je hoofd? Over wat psychisch lijden is",
    "venue": "De Balie",
@@ -1984,6 +2407,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23587",
+   "title": "Mrs Dalloway",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23587",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 15,50",
+   "kind": "event",
+   "subtitle": "Bird Brain Theatre, Imogen Cooper",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "occii-104616-1792502194",
    "title": "Ragdawl presents: Tray + Honey Blonde + No Offense + Systeemfalen",
    "venue": "OCCII",
@@ -2010,17 +2446,45 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2094537",
+   "id": "amsterdamalternative-23299",
    "title": "Night Dreamer by The New Conrad Miller Trio",
    "venue": "Teatro Munganga",
    "start": "2026-11-28T20:00:00+01:00",
-   "url": "https://munganga.nl/programma/sat-28-nov-2026-2000-night-dreamer-by-the-new-conrad-miller-trio",
-   "category": "jazz",
-   "end": "2026-11-28T23:59:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23299",
+   "category": "music",
    "status": "normal",
-   "price": "17.50",
+   "price": "€ 17,50",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Coen Molenaar, David de Marez Oyens, Mark Eshuis.",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-0b888cb18f34",
+   "title": "De onafhankelijke Surinaamse Comedyshow",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/keti-koti-komedyshow-2026",
+   "category": "theatre",
+   "end": "2026-11-28T22:30:00+01:00",
+   "status": "normal",
+   "price": "€ 15",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Schermafbeelding-2026-10-14-om-17.33.40.jpg",
+   "kind": "event",
+   "subtitle": "Een avond vol stand-up comedy, persoonlijke verhalen en scherpe observaties. Met humor, warmte en respect vieren we Keti Koti samen! · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "amsterdamalternative-23625",
+   "title": "Space Invadrz Division meets Teknotika Records Detroit",
+   "venue": "Vondelbunker",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23625",
+   "category": "music",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "subtitle": "Gary Martin - DJ Drum:Major2525 - REDMADVELVET",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2281156",
@@ -2057,6 +2521,33 @@
    "kind": "event",
    "subtitle": "Special",
    "source": "cavia"
+  },
+  {
+   "id": "amsterdamalternative-22142",
+   "title": "Opium Flower / 罌粟花",
+   "venue": "Plein Theater",
+   "start": "2026-11-28T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22142",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "GroundBreakers Modern Dance Amsterdam in samenwerking met Chang Dance Theatre (TW)",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-1199",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-11-28T20:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-11-28T21:45:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+   "kind": "event",
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
   },
   {
    "id": "bellevue-5906-202611282030",
@@ -2097,6 +2588,19 @@
    "kind": "event",
    "subtitle": "Peramore, Aria Marzen, Plastique01, Lenfant_Soleil, Lorenzo Donato · Studios",
    "source": "ot301"
+  },
+  {
+   "id": "amsterdamalternative-23612",
+   "title": "Vintage Voudou dance night ★ Planet Ilunga Congo special + Listening in the dark session ♫",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-11-28T21:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23612",
+   "category": "club",
+   "status": "normal",
+   "price": "€ 10",
+   "kind": "event",
+   "subtitle": "Mezrab",
+   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2905310",
@@ -2218,6 +2722,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-23300",
+   "title": "Melodies around the world by Susana Raya & Jeroen Vierdag",
+   "venue": "Teatro Munganga",
+   "start": "2026-11-29T11:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23300",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 11,00",
+   "kind": "event",
+   "subtitle": "Susana Raya – vocals & guitars Jeroen Vierdag – double bass & electric bass",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2843536",
    "title": "DRUK 2026",
    "venue": "Paradiso",
@@ -2267,6 +2784,19 @@
    "kind": "event",
    "subtitle": "Many activities!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "amsterdamalternative-21988",
+   "title": "De voorstelling die niet gezien wil worden (6+)",
+   "venue": "Plein Theater",
+   "start": "2026-11-29T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/21988",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Gesneden Koek",
+   "source": "amsterdamalternative"
   },
   {
    "id": "ita-888",
@@ -2319,6 +2849,20 @@
    "source": "jazzin"
   },
   {
+   "id": "ita-1195",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-11-29T15:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-11-29T16:45:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+   "kind": "event",
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
+  },
+  {
    "id": "jazzin-2281138",
    "title": "Jazz De Boule",
    "venue": "De Boule De Boule",
@@ -2329,6 +2873,19 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "amsterdamalternative-23301",
+   "title": "Susana Raya & Jeroen Vierdag – New original music & beloved songs reimagined",
+   "venue": "Teatro Munganga",
+   "start": "2026-11-29T16:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23301",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Susana Raya & Jeroen Vierdag",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2277507",
@@ -2402,6 +2959,32 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23588",
+   "title": "Mrs Dalloway",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-11-29T17:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23588",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 15,50",
+   "kind": "event",
+   "subtitle": "Bird Brain Theatre, Imogen Cooper",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "amsterdamalternative-23338",
+   "title": "Otto Club @ Tempel",
+   "venue": "Cinetol",
+   "start": "2026-11-29T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23338",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €15,00",
+   "kind": "event",
+   "subtitle": "Otto Club",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2890460",
    "title": "MT Jones + Kat Eaton",
    "venue": "Bitterzoet",
@@ -2413,6 +2996,19 @@
    "kind": "event",
    "subtitle": "Tijdloze soulzanger uit Liverpool",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-23356",
+   "title": "Nora Fischer presents: Pale Thoughts",
+   "venue": "Splendor",
+   "start": "2026-11-29T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23356",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 19.50",
+   "kind": "event",
+   "subtitle": "Forbidden music in performance, film, and storytelling",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2202375",
@@ -2608,6 +3204,19 @@
    "source": "paradiso"
   },
   {
+   "id": "carre-36244",
+   "title": "Patrick Laureij - Kintsugi.",
+   "venue": "Carré",
+   "start": "2026-11-30T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/patrick-laureij-kintsugi",
+   "category": "theatre",
+   "end": "2026-11-30T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kintsugi",
+   "source": "carre"
+  },
+  {
    "id": "debalie-122387",
    "title": "De kunst van het oorlogvoeren: China door de lens van Sun Tzu",
    "venue": "De Balie",
@@ -2712,6 +3321,21 @@
    "source": "jazzin"
   },
   {
+   "id": "tolhuistuin-353601d8664f",
+   "title": "Het Metabolisme van Verlies",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-30T20:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/ecologische-rouw-het-verlies-van-de-toekomst",
+   "category": "other",
+   "end": "2026-11-30T22:00:00+01:00",
+   "status": "normal",
+   "price": "€ 7,50",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Beeldmerk-Metabolisme-van-Verlies.jpg",
+   "kind": "event",
+   "subtitle": "Tweede deel in de reeks 'Het Metabolisme van Verdriet': Onderzoeker Evanne Nowak verdiept ons begrip van ecologische rouw in tijden van klimaatverandering · Zonzij",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "kleinekomedie-3432-202611302015",
    "title": "Ricky Koole",
    "venue": "De Kleine Komedie",
@@ -2762,6 +3386,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23644",
+   "title": "Impro: Electronics meets Accoustic",
+   "venue": "Salon de IJzerstaven",
+   "start": "2026-11-30T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23644",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15",
+   "kind": "event",
+   "subtitle": "Mark Lotz Claudio Puntin Jeroen van Vliet",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "zwijger-299862ef5ba4",
    "title": "Samen Tegen Racisme: Week Tegen Racisme 2027: Meetup & Brainstorm",
    "venue": "Pakhuis de Zwijger",
@@ -2773,6 +3410,21 @@
    "kind": "event",
    "subtitle": "Denk mee over de programmering en activiteiten van de Week Tegen Racisme in maart 2027! · Expo",
    "source": "zwijger"
+  },
+  {
+   "id": "tolhuistuin-538987c92af6",
+   "title": "Naast elkaar: steun bieden na seksueel geweld",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-01T19:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/naast-elkaar-steun-bieden-na-seksueel-geweld",
+   "category": "other",
+   "end": "2026-12-01T21:00:00+01:00",
+   "status": "normal",
+   "price": "€ 10",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/steunen.png",
+   "kind": "event",
+   "subtitle": "In deze workshop van het Centrum Seksueel Geweld leer je hoe je het gesprek over seksueel geweld aangaat: wat helpt, welke vragen je kunt stellen en wat je beter niet zegt. · Tuinhuis",
+   "source": "tolhuistuin"
   },
   {
    "id": "nieuweanita-9646",
@@ -2873,6 +3525,32 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "carre-35133",
+   "title": "Joe Jackson 2026",
+   "venue": "Carré",
+   "start": "2026-12-01T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/joe-jackson-2026",
+   "category": "music",
+   "end": "2026-12-01T21:45:00+01:00",
+   "status": "sold_out",
+   "kind": "event",
+   "subtitle": "Hope and Fury Tour 2026",
+   "source": "carre"
+  },
+  {
+   "id": "amsterdamalternative-23115",
+   "title": "KyoYoko | i.s.m. Yugofuturism & GAG",
+   "venue": "Cinetol",
+   "start": "2026-12-01T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23115",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €16,00",
+   "kind": "event",
+   "subtitle": "KyoYoko",
+   "source": "amsterdamalternative"
   },
   {
    "id": "filmhallen-195280",
@@ -3042,6 +3720,46 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23368",
+   "title": "Zine Nite Amsterdam",
+   "venue": "Nieuwland",
+   "start": "2026-12-02T19:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23368",
+   "category": "talk",
+   "status": "normal",
+   "price": "€ free/ donation",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-b88e5f1e7e44",
+   "title": "Offline Hangout + Speedfriending | GenZ Editie | Live Piano |",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-02T19:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/offline-hangout-speedfriending-genz-editie-live-piano",
+   "category": "other",
+   "end": "2026-12-02T22:00:00+01:00",
+   "status": "normal",
+   "price": "€ 2,50",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/2ad1b6d7-e0e1-40ab-9465-f7b05822b170.JPG",
+   "kind": "event",
+   "subtitle": "We nodigen alle Amsterdamse jongeren en jongvolwassenen uit voor een speciale GenZ-editie van onze Offline Hangout, in alle rust je eigen ding te doen, zonder telefoon en nieuwe mensen ontmoeten. · Tuinhuis",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "amsterdamalternative-21831",
+   "title": "Abel Ghekiere",
+   "venue": "Cinetol",
+   "start": "2026-12-02T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/21831",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 18",
+   "kind": "event",
+   "subtitle": "Abel Ghekiere",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "zwijger-leven-met-straffeloosheid",
    "title": "Special: Leven met straffeloosheid",
    "venue": "Pakhuis de Zwijger",
@@ -3132,6 +3850,19 @@
    "source": "jazzin"
   },
   {
+   "id": "carre-35134",
+   "title": "Joe Jackson 2026",
+   "venue": "Carré",
+   "start": "2026-12-02T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/joe-jackson-2026",
+   "category": "music",
+   "end": "2026-12-02T21:45:00+01:00",
+   "status": "sold_out",
+   "kind": "event",
+   "subtitle": "Hope and Fury Tour 2026",
+   "source": "carre"
+  },
+  {
    "id": "debalie-122737",
    "title": "Techdenkers: terug naar het ‘gezellige’ internet?",
    "venue": "De Balie",
@@ -3182,6 +3913,19 @@
    "kind": "event",
    "subtitle": "An evening on the complicity of architects and bankers from the Netherlands in the corruption that caused The Flamingo Revolution. · Independent School for the City, Rotterdam",
    "source": "zwijger"
+  },
+  {
+   "id": "amsterdamalternative-23303",
+   "title": "common ground: Magic futures",
+   "venue": "Woonruimte Coöperatief",
+   "start": "2026-12-02T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23303",
+   "category": "talk",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "subtitle": "Chidi Ebere",
+   "source": "amsterdamalternative"
   },
   {
    "id": "kleinekomedie-3434-202612022015",
@@ -3235,6 +3979,20 @@
    "kind": "event",
    "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
    "source": "frascati"
+  },
+  {
+   "id": "ita-1192",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-02T20:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-12-02T21:45:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+   "kind": "event",
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
   },
   {
    "id": "bellevue-5908-202612022030",
@@ -3418,6 +4176,19 @@
    "source": "paradiso"
   },
   {
+   "id": "carre-36253",
+   "title": "Sara Kroos - Prikkelarme kermis",
+   "venue": "Carré",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/sara-kroos-prikkelarme-kermis",
+   "category": "theatre",
+   "end": "2026-12-03T21:40:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Prikkelarme kermis",
+   "source": "carre"
+  },
+  {
    "id": "debalie-121503",
    "title": "‘Mijn liefste vijand’ – Connie Palmen over Johnnie Walker, liefde, leven en verslaving",
    "venue": "De Balie",
@@ -3454,6 +4225,19 @@
    "kind": "event",
    "subtitle": "DREK MANOR",
    "source": "frascati"
+  },
+  {
+   "id": "amsterdamalternative-23590",
+   "title": "All-Star Maestro!",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23590",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13",
+   "kind": "event",
+   "subtitle": "Kevin Miller; All-Star Maestro Champions",
+   "source": "amsterdamalternative"
   },
   {
    "id": "occii-104351-1791885642",
@@ -3494,16 +4278,30 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2277494",
-   "title": "Cluster Formation Quartet // Sin Palabras - Albert van Veenendaal solo piano - Cluster Formation speelt muziek van componist Anthony Braxton // Miniaturen voor piano solo",
+   "id": "amsterdamalternative-23573",
+   "title": "Michael Moore presents: Cluster Formation Quartet // Sin Palabras - Albert van Veenendaal Solo",
    "venue": "Splendor",
    "start": "2026-12-03T20:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111714566/cluster-formation-quartet-sin-palabras-albert-veenendaal-solo-piano",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23573",
+   "category": "music",
    "status": "normal",
-   "price": "€18",
+   "price": "€ 18.00",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Cluster Formation plays music by composer Anthony Braxton // Miniatures for solo piano",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "amsterdamalternative-23309",
+   "title": "Ola Rud: JazzDrama feat. Pietro Aloi and Mauro Cottone",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23309",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Pietro Aloi and Mauro Cottone",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-5821-202612032000",
@@ -3700,6 +4498,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23613",
+   "title": "Banda Entopica ★ Traditional Street Band from Greece ★ Salón Sonoro",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-12-03T21:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23613",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 18",
+   "kind": "event",
+   "subtitle": "Mezrab",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "nachbar-111696113",
    "title": "Sweetlips w/ Simon Kidzoo, Hagelslag",
    "venue": "Nachbar",
@@ -3777,6 +4588,18 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23634",
+   "title": "Queer Latin Night Amsterdam!",
+   "venue": "Nieuwland",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23634",
+   "category": "club",
+   "status": "normal",
+   "price": "€ donation",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "frascati-3278-202612041930",
    "title": "Het hoofd van een druktemaker",
    "venue": "Frascati",
@@ -3829,6 +4652,19 @@
    "kind": "event",
    "subtitle": "Australische elektronische dancepop",
    "source": "paradiso"
+  },
+  {
+   "id": "carre-37125",
+   "title": "SYML & Metropole Orkest",
+   "venue": "Carré",
+   "start": "2026-12-04T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/syml-metropole-orkest",
+   "category": "music",
+   "end": "2026-12-04T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "concert internationaal",
+   "source": "carre"
   },
   {
    "id": "debalie-122940",
@@ -3946,6 +4782,19 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "amsterdamalternative-23574",
+   "title": "Heleen Hulst presents: Maar wat er ook gebeurt er klinkt muziek",
+   "venue": "Splendor",
+   "start": "2026-12-04T20:15:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23574",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 20.00",
+   "kind": "event",
+   "subtitle": "Reprise van de voorstelling van Olga Zuiderhoek en Gerard Bouwhuis",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2277285",
    "title": "Artvark – Four Fathers",
    "venue": "Bimhuis",
@@ -3969,6 +4818,33 @@
    "kind": "event",
    "subtitle": "Nederlandstalige pop met Kaapverdische ritmes",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-22567",
+   "title": "RASA: Fado and Kathak - An Emotional Journey Across Cultures",
+   "venue": "Plein Theater",
+   "start": "2026-12-04T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22567",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Casa de Fado & Art Uncurated",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-1194",
+   "title": "Het incident",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-04T20:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/het-incident",
+   "category": "theatre",
+   "end": "2026-12-04T21:45:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+   "kind": "event",
+   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
+   "source": "ita"
   },
   {
    "id": "bellevue-5989-202612042030",
@@ -4113,6 +4989,21 @@
    "source": "paradiso"
   },
   {
+   "id": "tolhuistuin-bfffc0c1919e",
+   "title": "HUMAN | De publieke tribune",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-05T14:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2",
+   "category": "talk",
+   "end": "2026-12-05T16:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+   "kind": "event",
+   "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "ita-1077",
    "title": "Guided tour (in English)",
    "venue": "Stadsschouwburg (ITA)",
@@ -4179,6 +5070,19 @@
    "source": "paradiso"
   },
   {
+   "id": "carre-37126",
+   "title": "Claudia de Breij - Oudejaarsconference",
+   "venue": "Carré",
+   "start": "2026-12-05T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
+   "category": "theatre",
+   "end": "2026-12-06T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Oudejaars",
+   "source": "carre"
+  },
+  {
    "id": "nieuweanita-9736",
    "title": "Future Days II",
    "venue": "De Nieuwe Anita",
@@ -4217,6 +5121,19 @@
    "kind": "event",
    "subtitle": "Yoko Haveman",
    "source": "frascati"
+  },
+  {
+   "id": "amsterdamalternative-23591",
+   "title": "Rauwe Vitrage gelooft nog",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-12-05T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23591",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 18",
+   "kind": "event",
+   "subtitle": "Rauwe Vitrage",
+   "source": "amsterdamalternative"
   },
   {
    "id": "ot301-23118",
@@ -4283,6 +5200,19 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "amsterdamalternative-23576",
+   "title": "Heleen Hulst presents: Maar wat er ook gebeurt er klinkt muziek",
+   "venue": "Splendor",
+   "start": "2026-12-05T20:15:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23576",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 20.00",
+   "kind": "event",
+   "subtitle": "Reprise van de voorstelling van Olga Zuiderhoek en Gerard Bouwhuis",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2277286",
    "title": "Dave Douglas Quartet – Four Freedoms",
    "venue": "Bimhuis",
@@ -4331,6 +5261,19 @@
    "kind": "event",
    "subtitle": "Soulvolle polaroidfolk",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-23513",
+   "title": "God Save the Queers: The Panto",
+   "venue": "Restaurant Elixer",
+   "start": "2026-12-05T21:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23513",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 15",
+   "kind": "event",
+   "subtitle": "Charlene Coco",
+   "source": "amsterdamalternative"
   },
   {
    "id": "skatecafe-d829af06-8da9-4ea6-85e7-1a2351630fce",
@@ -4412,6 +5355,32 @@
    "source": "ita"
   },
   {
+   "id": "amsterdamalternative-23311",
+   "title": "Escape to the North-East: a journey through the rhythms and melodies of Dominguinhos",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-06T11:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23311",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 11,00",
+   "kind": "event",
+   "subtitle": "Guitar: Tiago Lageira Piano: Pietro Aloi",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "amsterdamalternative-23627",
+   "title": "Cozy Sunday: Lunch & Boeklezing over Frank Essed",
+   "venue": "Plein Theater",
+   "start": "2026-12-06T12:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23627",
+   "category": "food",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Roy Khemradj",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "debalie-123516-202612061400",
    "title": "CinéDialoog: De kracht van het minder goede idee",
    "venue": "De Balie",
@@ -4422,6 +5391,31 @@
    "image": "https://debalie.nl/wp-content/uploads/2026/11/Zivanai-Matangi_3907-1024x683.jpg",
    "kind": "event",
    "source": "debalie"
+  },
+  {
+   "id": "amsterdamalternative-23642",
+   "title": "1234kleding end of the year sale",
+   "venue": "Tram House",
+   "start": "2026-12-06T14:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23642",
+   "category": "other",
+   "status": "normal",
+   "price": "€ Free",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "carre-35755",
+   "title": "Claudia de Breij - Oudejaarsconference",
+   "venue": "Carré",
+   "start": "2026-12-06T15:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
+   "category": "theatre",
+   "end": "2026-12-07T00:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Oudejaars",
+   "source": "carre"
   },
   {
    "id": "jazzin-2279509",
@@ -4436,16 +5430,17 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277495",
-   "title": "Thelonious Monk op klarinet - Michael speelt Monk",
+   "id": "amsterdamalternative-23577",
+   "title": "Michael Moore presents: Thelonious Monk - clarinet",
    "venue": "Splendor",
    "start": "2026-12-06T15:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111681861/ledenconcert-michael-moore",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23577",
+   "category": "music",
    "status": "normal",
-   "price": "€18",
+   "price": "€ 18.00",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Michael plays Monk",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-6033-202612061500",
@@ -4460,6 +5455,21 @@
    "kind": "event",
    "subtitle": "Mariëlle van Sauers, Muriël Besemer, Nettie Blanken, Malou Gorter, Jatou Sumbunu · Bellevue voor Schrijvers",
    "source": "bellevue"
+  },
+  {
+   "id": "tolhuistuin-48d52978825f",
+   "title": "Salon GOOD TROUBLE",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-06T15:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/salon-good-trouble",
+   "category": "music",
+   "end": "2026-12-06T17:00:00+01:00",
+   "status": "normal",
+   "price": "€ 10",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Duraa-Poetry-DEF.jpg",
+   "kind": "event",
+   "subtitle": "Good Trouble stelt machtsmisbruik in al zijn vormen aan de kaak en bevraagt het. Door onze gedachten en ideeën te delen in poëzie en muziek raken we met elkaar verbonden. · IJzaal",
+   "source": "tolhuistuin"
   },
   {
    "id": "jazzin-2281160",
@@ -4483,6 +5493,18 @@
    "image": "https://debalie.nl/wp-content/uploads/2026/10/Collage-DFF-1024x576.webp",
    "kind": "event",
    "source": "debalie"
+  },
+  {
+   "id": "amsterdamalternative-23637",
+   "title": "Zine Release Party: Live audio collage & Join in session",
+   "venue": "Nieuwland",
+   "start": "2026-12-06T16:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23637",
+   "category": "other",
+   "status": "normal",
+   "price": "€ -",
+   "kind": "event",
+   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2853003",
@@ -4509,6 +5531,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23320",
+   "title": "Vientos del Sur, swinging music from the Southern",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-06T16:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23320",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Esther Veldhuis, zang Alain Labrie, gitaar Franklin Heilijgers, bass Olaf Keus, drumstel, percussie",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2277370",
    "title": "Jazz op zondag feat. Sophie Hassfurther",
    "venue": "Café de Engelbewaarder",
@@ -4519,6 +5554,19 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "carre-37127",
+   "title": "Claudia de Breij - Oudejaarsconference",
+   "venue": "Carré",
+   "start": "2026-12-06T19:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
+   "category": "theatre",
+   "end": "2026-12-07T00:00:00+01:00",
+   "status": "sold_out",
+   "kind": "event",
+   "subtitle": "Oudejaars",
+   "source": "carre"
   },
   {
    "id": "ot301-23460",
@@ -4727,16 +5775,17 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2277496",
-   "title": "Felicity Provan Quartet // Bassemble Önder - Double Bill - twee bands met onalledaagse bezetting",
+   "id": "amsterdamalternative-23578",
+   "title": "Michael Moore presents: Felicity Provan Quartet // Bassemble Önder",
    "venue": "Splendor",
    "start": "2026-12-07T20:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111716677/felicity-provan-quartet-duo-navarro-moore",
-   "category": "jazz",
+   "url": "https://amsterdamalternative.nl/agenda/23578",
+   "category": "music",
    "status": "normal",
-   "price": "€18",
+   "price": "€ 18.00",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Double Bill – Two Bands with Unusual Line-ups",
+   "source": "amsterdamalternative"
   },
   {
    "id": "kleinekomedie-3437-202612072015",
@@ -4746,7 +5795,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -4854,6 +5902,19 @@
    "source": "rialto"
   },
   {
+   "id": "amsterdamalternative-21832",
+   "title": "Alexandra Alden + Hana Fatur",
+   "venue": "Cinetol",
+   "start": "2026-12-08T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/21832",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 18",
+   "kind": "event",
+   "subtitle": "Alexandra Alden, Hana Fatur",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2277414",
    "title": "Gel Presenteert: Bonus Tracks les en vrijdansen",
    "venue": "Kompaszaal",
@@ -4878,16 +5939,16 @@
    "source": "paradiso"
   },
   {
-   "id": "ita-run552",
+   "id": "ita-1156",
    "title": "De Kopenhagen Trilogie",
    "venue": "Stadsschouwburg (ITA)",
    "start": "2026-12-08T19:30:00+01:00",
    "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
    "category": "theatre",
-   "end": "2027-01-06T19:30:00+01:00",
-   "status": "normal",
+   "end": "2026-12-08T23:00:00+01:00",
+   "status": "sold_out",
    "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
-   "kind": "series",
+   "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
    "source": "ita"
   },
@@ -4944,18 +6005,6 @@
    "source": "frascati"
   },
   {
-   "id": "jazzin-2277497",
-   "title": "Doctoral Concert Tony Roe - Tony Roe’s PhD defence concert",
-   "venue": "Splendor",
-   "start": "2026-12-08T20:00:00+01:00",
-   "url": "https://splendoramsterdam.com/agenda/111721923/doctoral-concert-tony-roe",
-   "category": "jazz",
-   "status": "normal",
-   "price": "€15",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "kleinekomedie-3437-202612082015",
    "title": "Aaf Brandt Corstius & Lies Visschedijk",
    "venue": "De Kleine Komedie",
@@ -4963,7 +6012,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -5073,6 +6121,19 @@
    "source": "nieuweanita"
   },
   {
+   "id": "amsterdamalternative-23566",
+   "title": "LI-MA Presents: New Art on Screen",
+   "venue": "LIMA",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23566",
+   "category": "film",
+   "status": "normal",
+   "price": "€ €7.5",
+   "kind": "event",
+   "subtitle": "Ghita Skali, Eoghan Ryan, Luna Maurer & Roel Wouters",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "zwijger-the-city-as-a-toolkit",
    "title": "PdZ x SHIBAURA HOUSE: The City as a Toolkit",
    "venue": "Pakhuis de Zwijger",
@@ -5097,6 +6158,34 @@
    "kind": "event",
    "subtitle": "Ierse postpunkband draait op volle toeren",
    "source": "paradiso"
+  },
+  {
+   "id": "ita-1157",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-09T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "tolhuistuin-0fa8aa7190fc",
+   "title": "KIVA: The Call of the Wisdom Keepers",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/kiva-her-inneren-van-de-original-principles",
+   "category": "other",
+   "end": "2026-12-09T22:00:00+01:00",
+   "status": "normal",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Kiva-banner.jpeg",
+   "kind": "event",
+   "subtitle": "Op 9 december volgt er een bijzondere KIVA avond met inspirerende dialogen door o.a. Sherlien Sanches (oprichter Inheems Kenniscentrum Internationaal) en Wisdom Keeper en Chief Sankale Ole Ntutu. · Zonzij",
+   "source": "tolhuistuin"
   },
   {
    "id": "debalie-122884",
@@ -5158,7 +6247,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -5299,6 +6387,19 @@
    "source": "zwijger"
   },
   {
+   "id": "amsterdamalternative-23425",
+   "title": "Her Loving Aftertaste | EP Release",
+   "venue": "Cinetol",
+   "start": "2026-12-10T19:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23425",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €11,75",
+   "kind": "event",
+   "subtitle": "Her Loving Aftertaste",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "nieuweanita-9656",
    "title": "Jim en Daans bovenstebeste pubquiz",
    "venue": "De Nieuwe Anita",
@@ -5336,6 +6437,20 @@
    "kind": "event",
    "subtitle": "Dromerige UK cloud rap",
    "source": "paradiso"
+  },
+  {
+   "id": "ita-1159",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-10T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-10T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
   },
   {
    "id": "jazzin-2025098",
@@ -5376,16 +6491,16 @@
    "source": "frascati"
   },
   {
-   "id": "ita-run549",
+   "id": "ita-2063",
    "title": "Wuthering Heights",
    "venue": "Stadsschouwburg (ITA)",
    "start": "2026-12-10T20:00:00+01:00",
    "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
    "category": "theatre",
-   "end": "2027-01-13T20:00:00+01:00",
+   "end": "2026-12-10T23:23:00+01:00",
    "status": "normal",
    "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
-   "kind": "series",
+   "kind": "event",
    "subtitle": "ITA / Kjersti Horn · Theater",
    "source": "ita"
   },
@@ -5556,6 +6671,34 @@
    "source": "zwijger"
   },
   {
+   "id": "amsterdamalternative-23312",
+   "title": "Gafieira Social Club by Cabaret Brasil",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-11T19:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23312",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15,00",
+   "kind": "event",
+   "subtitle": "Daniel Montes (7-string guitar) - Waguinho Vasconcelos (drums) and Luis Mascaro (violin).",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-4e3a25273736",
+   "title": "ONE FINE MESS",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-11T19:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/one-fine-mess-10",
+   "category": "music",
+   "end": "2026-12-11T23:59:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113323_pnme.jpg",
+   "kind": "event",
+   "subtitle": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes! · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "paradiso-2889452",
    "title": "Customs",
    "venue": "Paradiso",
@@ -5580,6 +6723,20 @@
    "kind": "event",
    "subtitle": "Kijk Je Naar Mij? albumtour 2026",
    "source": "paradiso"
+  },
+  {
+   "id": "ita-1160",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-11T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-11T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
   },
   {
    "id": "debalie-122430",
@@ -5644,6 +6801,20 @@
    "image": "https://depijp.rialtofilm.nl/prod/media/you-can-see-everything-poster.jpg?guid=f55e2962-831e-4074-b1d6-aa730bed53b5",
    "kind": "event",
    "source": "rialto"
+  },
+  {
+   "id": "ita-2074",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-11T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
   },
   {
    "id": "jazzin-2281161",
@@ -5796,6 +6967,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23447",
+   "title": "Jungle, Roots, Dancehall & More Jungle",
+   "venue": "Transit",
+   "start": "2026-12-11T21:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23447",
+   "category": "club",
+   "status": "normal",
+   "price": "€ 5",
+   "kind": "event",
+   "subtitle": "Nikolai, Calypso Steve, Peely",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "ot301-22545",
    "title": "Cat in the bag - Jungle sessions",
    "venue": "OT301",
@@ -5882,6 +7066,46 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "amsterdamalternative-22671",
+   "title": "Repair Café | WeRepair",
+   "venue": "Nieuwland",
+   "start": "2026-12-12T13:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22671",
+   "category": "other",
+   "status": "normal",
+   "price": "€ free/ donation",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-87f87f0afea8",
+   "title": "HUMAN | De publieke tribune",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-12T14:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2-2",
+   "category": "talk",
+   "end": "2026-12-12T16:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+   "kind": "event",
+   "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "amsterdamalternative-23624",
+   "title": "Happily Ever After - Ground(ing) continues",
+   "venue": "Bajesdorp - GROND",
+   "start": "2026-12-12T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23624",
+   "category": "club",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "subtitle": "TBC",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2279150",
@@ -5997,6 +7221,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-23491",
+   "title": "VERVERSTIVAL: herder + lady overdrive + gabi + beatrice sberna + djalan-djalan + flat news + yulya divakova + goatmother",
+   "venue": "Cinetol",
+   "start": "2026-12-12T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23491",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €11,75",
+   "kind": "event",
+   "subtitle": "herder, lady overdrive, gabi, beatrice sberna, djalan-djalan, flat news, yulya divakova, goatmother",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "debalie-123770",
    "title": "Reizen naar Droomland Koerdistan",
    "venue": "De Balie",
@@ -6034,6 +7271,46 @@
    "kind": "event",
    "subtitle": "Special",
    "source": "cavia"
+  },
+  {
+   "id": "amsterdamalternative-23579",
+   "title": "Anne La Berge presents: Sietse van Erve - En de stilstaande tijd voor (elektro-)akoestisch ensemble",
+   "venue": "Splendor",
+   "start": "2026-12-12T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23579",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12.50",
+   "kind": "event",
+   "subtitle": "Album release party with Anne La Berge, Dario Calderone, Gareth Davis and Sietse van Erve",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-2075",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-12T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-12T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-23313",
+   "title": "Paulinho Paes Trio – Brazilian Instrumental Music",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-12T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23313",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Paulinho Paes Trio",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2281162",
@@ -6109,6 +7386,19 @@
    "kind": "event",
    "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
    "source": "frascati"
+  },
+  {
+   "id": "amsterdamalternative-23614",
+   "title": "Cabaret Saalik presents Rābkah ★ Swana Sounds ★ Libyan food ★ Belly Dance ♫",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-12-12T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23614",
+   "category": "club",
+   "status": "normal",
+   "price": "€ 11",
+   "kind": "event",
+   "subtitle": "Mezrab",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-5913-202612122030",
@@ -6214,6 +7504,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-23315",
+   "title": "Coleta & The Gilbratar’s",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-13T11:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23315",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 11,00",
+   "kind": "event",
+   "subtitle": "Sybren Woudstra Christoph Walter Luuk Verstijnen Coleta Dekker",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2276615",
    "title": "Jong Talent | Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
    "venue": "Bimhuis",
@@ -6260,6 +7563,33 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-22306",
+   "title": "Nieuwe Noten Amsterdam: Kafka-Fragmente",
+   "venue": "Plein Theater",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22306",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Keren Motseri (sopraan), Joseph Puglia (viool)",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-2066",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-13T23:23:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
+  },
+  {
    "id": "jazzin-2277363",
    "title": "Bubbling Blue Notes | Bubbling Blue Notes Live Jazz",
    "venue": "Theater De Dillewijn (Ankeveen)",
@@ -6270,6 +7600,21 @@
    "price": "€15",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "tolhuistuin-b490448397a9",
+   "title": "Uitreiking Feministische Impact Prijs",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/uitreiking-fip-2026",
+   "category": "other",
+   "end": "2026-12-13T18:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Feministische_Impactprijs_2026_FCGenderenWetenschap_genomineerden_Campagnebeeld_v2.jpg",
+   "kind": "event",
+   "subtitle": "De uitreiking van de Feministische Impact Prijs (FIP) 2026, een tweejaarlijks initiatief van het Feministisch Cultuurfonds ofwel FC Gender&wetenschap. · Zonzij",
+   "source": "tolhuistuin"
   },
   {
    "id": "ot301-23560",
@@ -6307,6 +7652,19 @@
    "image": "https://debalie.nl/wp-content/uploads/2026/09/ANP-77961986-1024x683.jpg",
    "kind": "event",
    "source": "debalie"
+  },
+  {
+   "id": "amsterdamalternative-23314",
+   "title": "Samba Roots",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-13T16:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23314",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Naomi Bright - Vocal Daniel Montes - 7 strings guitar | Marcelo Motta - 6 strings guitar Sasa - Cavaquinho Rafael Juzo - Bass guitar Samuel Wang - Trombone Igor Malungo. - Vocal & percussão Jeroen Hensel - Vocal & percussão Baby do Pan - Pandeiro Wagner Vasconcelos - Drums",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2277371",
@@ -6473,6 +7831,20 @@
    "source": "zwijger"
   },
   {
+   "id": "ita-1161",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-14T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-14T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2900357",
    "title": "Rikas + Yasmin Hass",
    "venue": "Tolhuistuin",
@@ -6523,6 +7895,19 @@
    "price": "€29",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "amsterdamalternative-23580",
+   "title": "Oene van Geel presents: Reflections – Brice Soniano String Quintet",
+   "venue": "Splendor",
+   "start": "2026-12-14T20:15:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23580",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 18.00",
+   "kind": "event",
+   "subtitle": "A musical interpretation of visual art as a space for stillness and contemplation",
+   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2896810",
@@ -6589,6 +7974,20 @@
    "source": "zwijger"
   },
   {
+   "id": "ita-1162",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-15T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-15T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2896693",
    "title": "Ibeyi + Parsa Sabet",
    "venue": "Tolhuistuin",
@@ -6602,6 +8001,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-23633",
+   "title": "subbacultcha x seedlink+ present: Jazz Lambaux + Groupie",
+   "venue": "Cinetol",
+   "start": "2026-12-15T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23633",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €14,75",
+   "kind": "event",
+   "subtitle": "Jazz Lambaux + Groupie",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "debalie-123200",
    "title": "De uitgesproken ambtenaar",
    "venue": "De Balie",
@@ -6613,6 +8025,19 @@
    "kind": "event",
    "subtitle": "Hoe activistisch mag de ambtenarij zijn? Met o.a. Sandra Palmen en Tom Lash",
    "source": "debalie"
+  },
+  {
+   "id": "amsterdamalternative-23592",
+   "title": "A Winter's Tale",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-12-15T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23592",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 16",
+   "kind": "event",
+   "subtitle": "We Love Shakespeare Ensemble",
+   "source": "amsterdamalternative"
   },
   {
    "id": "zwijger-pesta-babi",
@@ -6745,6 +8170,18 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23653",
+   "title": "Zine Nite Amsterdam",
+   "venue": "Nieuwland",
+   "start": "2026-12-16T19:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23653",
+   "category": "talk",
+   "status": "normal",
+   "price": "€ free/ donation",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "debalie-122388",
    "title": "Publieke Intellectuelen: Johan Goudsblom",
    "venue": "De Balie",
@@ -6783,17 +8220,57 @@
    "source": "paradiso"
   },
   {
+   "id": "ita-1163",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-16T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-16T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2925263",
    "title": "Science & Cocktails: Food, Health and the Limits to Growth",
    "venue": "Tolhuistuin",
    "start": "2026-12-16T19:30:00+01:00",
    "url": "https://www.paradiso.nl/programma/science-cocktails-food-health-and-the-limits-to-growth/2925263",
-   "category": "music",
+   "category": "food",
    "status": "normal",
    "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/2928447/banner-sC-december-26.jpg",
    "kind": "event",
    "subtitle": "Lezingen over wetenschap, goede cocktails en livemuziek",
    "source": "paradiso"
+  },
+  {
+   "id": "carre-run17106",
+   "title": "40e Wereldkerstcircus",
+   "venue": "Carré",
+   "start": "2026-12-16T20:00:00+01:00",
+   "url": "https://carre.nl/voorstelling/wereldkerstcircus-2627",
+   "category": "theatre",
+   "end": "2027-01-03T16:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "subtitle": "circus",
+   "source": "carre"
+  },
+  {
+   "id": "amsterdamalternative-23593",
+   "title": "A Winter's Tale",
+   "venue": "Mike's Badhuistheater",
+   "start": "2026-12-16T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23593",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 16",
+   "kind": "event",
+   "subtitle": "We Love Shakespeare Ensemble",
+   "source": "amsterdamalternative"
   },
   {
    "id": "zwijger-wat-houdt-ons-tegen",
@@ -6807,6 +8284,20 @@
    "kind": "event",
    "subtitle": "Na bijna 50 afleveringen van de enige enige journalistieke klimaatserie op TV maken we met denkers en de makers zelf de balans op: wat houdt ons tegen? Hoe bereik je de ander? En welke rol spelen emoties hierin? · Grote Zaal PDZ",
    "source": "zwijger"
+  },
+  {
+   "id": "ita-1101",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-16T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-16T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
   },
   {
    "id": "kleinekomedie-run3441",
@@ -6912,6 +8403,20 @@
    "source": "paradiso"
   },
   {
+   "id": "ita-1164",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-17T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-17T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "nieuweanita-9752",
    "title": "Keldercabaret Jubileum Editie!",
    "venue": "De Nieuwe Anita",
@@ -6989,6 +8494,33 @@
    "source": "jazzin"
   },
   {
+   "id": "ita-1102",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-17T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-23316",
+   "title": "Tiago Lageira /// CD Release ‘Every Petal Tells A Story’",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23316",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 16,00",
+   "kind": "event",
+   "subtitle": "Cas Jiskoot - Bass Sander Smeets - Drums Tiago Lageira - Guitar",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "jazzin-2154832",
    "title": "Jazz Thursdays w/ Amsterdam Jazz Trio",
    "venue": "Volkshotel",
@@ -7037,6 +8569,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23522",
+   "title": "After the storm",
+   "venue": "Plein Theater",
+   "start": "2026-12-17T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23522",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Bert Barten - Talking Trees",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "rialto-2637",
    "title": "You Can See Everything (Voorpremière)",
    "venue": "Rialto De Pijp",
@@ -7075,6 +8620,19 @@
    "price": "14.50",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "amsterdamalternative-23615",
+   "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-12-17T21:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23615",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 14,50",
+   "kind": "event",
+   "subtitle": "Studios",
+   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2952721",
@@ -7136,6 +8694,21 @@
    "source": "jazzin"
   },
   {
+   "id": "tolhuistuin-96909eeb51bb",
+   "title": "De Danskamer",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-18T19:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/de-danskamer-24",
+   "category": "music",
+   "end": "2026-12-18T23:59:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/DK_Tolhuis_Web_1440x817_01_2026-09-07-103810_mppz.jpg",
+   "kind": "event",
+   "subtitle": "Het gevoel van een blockparty, maar dan in je huiskamer. Samen dansen we de week van ons af in de IJzaal op de beste house, funk, soul, broken beat en meer van de Danskamer dj’s. · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "paradiso-2902993",
    "title": "MICH",
    "venue": "Paradiso",
@@ -7147,6 +8720,19 @@
    "kind": "event",
    "subtitle": "Amsterdamse indieformatie viert tienjarig bestaan",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-22979",
+   "title": "10 JAAR KERST MET STIPPENLIFT",
+   "venue": "Cinetol",
+   "start": "2026-12-18T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22979",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €17,75",
+   "kind": "event",
+   "subtitle": "Stippenlift",
+   "source": "amsterdamalternative"
   },
   {
    "id": "nieuweanita-9740",
@@ -7199,6 +8785,20 @@
    "price": "€22.5",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "ita-1120",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-18T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-18T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
   },
   {
    "id": "jazzin-2281164",
@@ -7262,6 +8862,19 @@
    "kind": "event",
    "subtitle": "Singer-songwriter in de breedste zin van het woord",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-23250",
+   "title": "Bring Drag Back to the Theatre #5: Dirty Disco Bingo",
+   "venue": "Plein Theater",
+   "start": "2026-12-18T20:30:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23250",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50 (vanaf)",
+   "kind": "event",
+   "subtitle": "Host: Special Ke, DJ: Xtra Xceptit | Line-up: TBA",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-5915-202612182030",
@@ -7343,6 +8956,47 @@
    "source": "paradiso"
   },
   {
+   "id": "tolhuistuin-58b50bd3158e",
+   "title": "Lieve Stad, dat zijn Wij",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-19T13:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/lieve-stad-dat-zijn-wij-2",
+   "category": "other",
+   "end": "2026-12-19T16:00:00+01:00",
+   "status": "normal",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Warm-Welkom-foto.jpg",
+   "kind": "event",
+   "subtitle": "Amsterdam is van iedereen die hier thuis is gekomen. Vier mee tijdens Lieve Stad, Dat Zijn Wij: een feestelijke middag met livemuziek, lekker eten en nieuwe ontmoetingen. · Zonzij",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "amsterdamalternative-23639",
+   "title": "pos winterwende | 14:00 - 00:00",
+   "venue": "POS (possibilities open studio)",
+   "start": "2026-12-19T14:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23639",
+   "category": "club",
+   "status": "normal",
+   "price": "€ 15",
+   "kind": "event",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-09a8eea6974a",
+   "title": "HUMAN | De publieke tribune",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-19T14:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2",
+   "category": "talk",
+   "end": "2026-12-19T16:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+   "kind": "event",
+   "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "kleinekomedie-3442-202612191500",
    "title": "Rayen Panday & Friends",
    "venue": "De Kleine Komedie",
@@ -7355,6 +9009,18 @@
    "kind": "event",
    "subtitle": "Wonderful Christmastime · Maximaal 8 kaarten per voorstellingsreeks per adres",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "amsterdamalternative-23555",
+   "title": "Small Miracle #7",
+   "venue": "Plein Theater",
+   "start": "2026-12-19T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23555",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "TBA",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2279151",
@@ -7393,6 +9059,21 @@
    "source": "jazzin"
   },
   {
+   "id": "tolhuistuin-10efeff82f97",
+   "title": "Toegankelijk uitgaansfeest - De Special Social Club",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-19T19:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/toegankelijk-uitgaansfeest-de-special-social-club",
+   "category": "club",
+   "end": "2026-12-19T22:30:00+01:00",
+   "status": "normal",
+   "price": "€ 5",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Schermafbeelding-2026-10-27-om-15.07.27.png",
+   "kind": "event",
+   "subtitle": "Toegankelijk uitgaansfeest voor mensen (18+) met een (licht) verstandelijke beperking en/of autisme. · Zonzij",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "paradiso-2885344",
    "title": "Doodseskader",
    "venue": "Tolhuistuin",
@@ -7404,6 +9085,19 @@
    "kind": "event",
    "subtitle": "Compromisloos duo uit België",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-23531",
+   "title": "Melis’in Bandosu",
+   "venue": "Cinetol",
+   "start": "2026-12-19T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23531",
+   "category": "music",
+   "status": "normal",
+   "price": "€ €16,75",
+   "kind": "event",
+   "subtitle": "Melis’in Bandosu",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2225365",
@@ -7469,6 +9163,33 @@
    "image": "https://depijp.rialtofilm.nl/prod/media/you-can-see-everything-poster.jpg?guid=f55e2962-831e-4074-b1d6-aa730bed53b5",
    "kind": "event",
    "source": "rialto"
+  },
+  {
+   "id": "ita-1121",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-19T20:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-19T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-23317",
+   "title": "Pérolas, Gems of Brazilian Popular Music, by Elaine Morais & Daniel Montes",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-19T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23317",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15,00",
+   "kind": "event",
+   "subtitle": "Elaine Morais & Daniel Montes",
+   "source": "amsterdamalternative"
   },
   {
    "id": "kleinekomedie-3442-202612192015",
@@ -7615,6 +9336,34 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-23318",
+   "title": "A Warm Christmas, 3 singers, the same family",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-20T11:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23318",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 11,00",
+   "kind": "event",
+   "subtitle": "Daughters Femke and Marieke Smit, together with their mother Ans van Dam.",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "tolhuistuin-322fd3ae0861",
+   "title": "Colourful Noord Winter Fair",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-20T12:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/colourful-noord-winter-fair",
+   "category": "other",
+   "end": "2026-12-20T18:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Colourful-goodies.jpeg",
+   "kind": "event",
+   "subtitle": "Voor het eerst dit jaar: Colourful Noord Winter Fair. Een festival om diversiteit in Noord te vieren met kleurrijke ondernemers, optredens en kinderactiviteiten. · Tuin",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "nieuweanita-9674",
    "title": "Amsterdam Indie Game Developers",
    "venue": "De Nieuwe Anita",
@@ -7651,6 +9400,47 @@
    "kind": "event",
    "subtitle": "Na meerdere uitverkochte edities keert The Singing Room terug naar Felix Meritis voor een speciale kersteditie. Verwacht geen traditioneel kerstconcert, maar ee",
    "source": "felixmeritis"
+  },
+  {
+   "id": "amsterdamalternative-22570",
+   "title": "Lolobaki (2+ tot 100)",
+   "venue": "Plein Theater",
+   "start": "2026-12-20T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22570",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "ita-1122",
+   "title": "Wuthering Heights",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-20T15:00:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/wuthering-heights",
+   "category": "theatre",
+   "end": "2026-12-20T23:23:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+   "kind": "event",
+   "subtitle": "ITA / Kjersti Horn · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "ita-1165",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-20T15:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-20T19:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
   },
   {
    "id": "bellevue-5828-202612201530",
@@ -7690,6 +9480,19 @@
    "kind": "event",
    "subtitle": "Nederlandse zangeres breekt record met reeks van vijf shows in Paradiso",
    "source": "paradiso"
+  },
+  {
+   "id": "amsterdamalternative-23319",
+   "title": "Latin Jazzy Christmas by Deborah Carter & Trio",
+   "venue": "Teatro Munganga",
+   "start": "2026-12-20T16:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23319",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 17,50",
+   "kind": "event",
+   "subtitle": "Sebastiaan van Bavel – piano Jurjen Bakker – drums Mark Zandveld – Bace (cello-bass) DEBORAH J. CARTER",
+   "source": "amsterdamalternative"
   },
   {
    "id": "jazzin-2277372",
@@ -7845,6 +9648,20 @@
    "source": "paradiso"
   },
   {
+   "id": "ita-1158",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-21T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-21T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "debalie-123591-202612212000",
    "title": "Dag van de Korte Film",
    "venue": "De Balie",
@@ -7936,6 +9753,19 @@
    "source": "jazzin"
   },
   {
+   "id": "amsterdamalternative-22571",
+   "title": "Lolobaki (2+ tot 100)",
+   "venue": "Plein Theater",
+   "start": "2026-12-22T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22571",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2888830",
    "title": "MY BABY + Graeme James",
    "venue": "Paradiso",
@@ -8003,18 +9833,31 @@
    "source": "jazzin"
   },
   {
-   "id": "ita-run528",
+   "id": "ita-1059",
    "title": "Alice in Wonderland (8+)",
    "venue": "Stadsschouwburg (ITA)",
    "start": "2026-12-23T14:30:00+01:00",
    "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
    "category": "theatre",
-   "end": "2026-12-28T14:30:00+01:00",
+   "end": "2026-12-23T15:55:00+01:00",
    "status": "normal",
    "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
-   "kind": "series",
+   "kind": "event",
    "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
    "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-22572",
+   "title": "Lolobaki (2+ tot 100)",
+   "venue": "Plein Theater",
+   "start": "2026-12-23T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22572",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+   "source": "amsterdamalternative"
   },
   {
    "id": "cavia-711346528217",
@@ -8081,6 +9924,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "ita-1060",
+   "title": "Alice in Wonderland (8+)",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-24T14:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
+   "category": "theatre",
+   "end": "2026-12-24T15:55:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+   "kind": "event",
+   "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2943141",
    "title": "De Grote Zeppos Kerstshow",
    "venue": "Paradiso",
@@ -8134,6 +9991,20 @@
    "source": "paradiso"
   },
   {
+   "id": "ita-1061",
+   "title": "Alice in Wonderland (8+)",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-25T14:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
+   "category": "theatre",
+   "end": "2026-12-25T15:55:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+   "kind": "event",
+   "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2892709",
    "title": "Laugh Maroc",
    "venue": "Paradiso",
@@ -8157,6 +10028,20 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "ita-1062",
+   "title": "Alice in Wonderland (8+)",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-26T14:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
+   "category": "theatre",
+   "end": "2026-12-26T15:55:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+   "kind": "event",
+   "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
+   "source": "ita"
   },
   {
    "id": "ita-930",
@@ -8213,6 +10098,33 @@
    "source": "garagenoord"
   },
   {
+   "id": "ita-1063",
+   "title": "Alice in Wonderland (8+)",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-27T14:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
+   "category": "theatre",
+   "end": "2026-12-27T15:55:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+   "kind": "event",
+   "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
+   "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-22103",
+   "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+   "venue": "Plein Theater",
+   "start": "2026-12-27T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22103",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dolfijn met benen",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2902321",
    "title": "30 Jaar Excelsior Recordings",
    "venue": "Tolhuistuin",
@@ -8266,6 +10178,33 @@
    "kind": "event",
    "subtitle": "De Grote Oudejaars Kwis",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "ita-1066",
+   "title": "Alice in Wonderland (8+)",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-28T14:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/alice-in-wonderland-8",
+   "category": "theatre",
+   "end": "2026-12-28T15:55:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+   "kind": "event",
+   "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
+   "source": "ita"
+  },
+  {
+   "id": "amsterdamalternative-22104",
+   "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+   "venue": "Plein Theater",
+   "start": "2026-12-28T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22104",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dolfijn met benen",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-6036-202612281915",
@@ -8335,6 +10274,19 @@
    "source": "paradiso"
   },
   {
+   "id": "amsterdamalternative-22105",
+   "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+   "venue": "Plein Theater",
+   "start": "2026-12-29T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22105",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dolfijn met benen",
+   "source": "amsterdamalternative"
+  },
+  {
    "id": "paradiso-2905984",
    "title": "Maria Iskariot, Kaat van Stralen en Grote Geelstaart",
    "venue": "Paradiso",
@@ -8387,6 +10339,19 @@
    "kind": "event",
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
+  },
+  {
+   "id": "amsterdamalternative-22106",
+   "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+   "venue": "Plein Theater",
+   "start": "2026-12-30T15:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/22106",
+   "category": "other",
+   "status": "normal",
+   "price": "€ 10,- (vanaf)",
+   "kind": "event",
+   "subtitle": "Dolfijn met benen",
+   "source": "amsterdamalternative"
   },
   {
    "id": "bellevue-6036-202612301915",
@@ -8443,6 +10408,21 @@
    "source": "bellevue"
   },
   {
+   "id": "tolhuistuin-502a15959f08",
+   "title": "COUNTER GAZE METROSCOPE EXPO",
+   "venue": "Tolhuistuin",
+   "start": "2026-12-31T12:00:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/counter-gaze-metroscope-opening",
+   "category": "other",
+   "end": "2026-12-31T23:00:00+01:00",
+   "status": "normal",
+   "price": "gratis",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/16-by-9.jpg",
+   "kind": "event",
+   "subtitle": "Kunstexpositie vanaf oktober: Clubcultuur wordt gereduceerd tot digitale beelden. ‘The Counter Gaze’ vecht dit door met het onfotografeerbare weerstand te bieden aan commercialisering van clubcultuur. · Club",
+   "source": "tolhuistuin"
+  },
+  {
    "id": "kleinekomedie-3449-202612311400",
    "title": "Vrouwejaars",
    "venue": "De Kleine Komedie",
@@ -8454,6 +10434,19 @@
    "image": "https://img.dekleinekomedie.nl/udyUTZE3xWnqPHfWiUbGihxFsLoPFUAYW1uHoOmqWD0/c:5435:3071:nowe:0:2097/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzI5N19vcmlnLmpwZw",
    "kind": "event",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "amsterdamalternative-23616",
+   "title": "NEW YEAR’S EVE PARTY ★ TROPICAL MEZQUERADE",
+   "venue": "Pakhuis Wilhelmina",
+   "start": "2026-12-31T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23616",
+   "category": "club",
+   "status": "normal",
+   "price": "€ 20",
+   "kind": "event",
+   "subtitle": "Mezrab",
+   "source": "amsterdamalternative"
   },
   {
    "id": "paradiso-2943006",
