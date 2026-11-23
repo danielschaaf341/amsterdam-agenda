@@ -186,6 +186,7 @@ def parse_ics(text: str) -> list[dict]:
             if name in ("DTSTART", "DTEND"):
                 if params.get("VALUE") == "DATE" or re.fullmatch(r"\d{8}", value):
                     dt = datetime.strptime(value[:8], "%Y%m%d")
+                    cur[name + "_IS_DATE"] = True  # all-day (no time given)
                 else:
                     dt = datetime.strptime(value.rstrip("Z"), "%Y%m%dT%H%M%S")
                 if value.endswith("Z"):

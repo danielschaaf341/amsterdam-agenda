@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cafe Voorwaarts - ECPv6.18.3//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cafe Voorwaarts
+X-ORIGINAL-URL:https://cafevoorwaarts.nl
+X-WR-CALDESC:Evenementen voor Cafe Voorwaarts
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20261025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20270328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20271031T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261116T082700Z
+CREATED:20261116T081535Z
+LAST-MODIFIED:20261116T082700Z
+UID:130-1795737600-1795910399@cafevoorwaarts.nl
+SUMMARY:Arjen van Opstal Expositie bij Voorwaarts
+DESCRIPTION:Arjen van Opstal (1991) is beeldend kunstenaar en woont in Breda. Meer dan tien jaar was hij toerend muzikant\, onder meer als drummer van Iguana Death Cult. Toen live muziek tijdens de pandemie stil kwam te liggen\, ging hij schilderen. Zijn werk put uit zijn jaren op tournee door Europa en Noord-Amerika en uit de indie- en punkscene. Café Voorwaarts toont twee weekenden lang een selectie van zijn werk. Te zien op vrijdag 20 en zaterdag 21 november\, en op vrijdag 27 en zaterdag 28 november\, van 15.00 tot 01.00.  
+URL:https://cafevoorwaarts.nl/index.php/event/arjen-van-opstal-expositie-bij-voorwaarts-2/
+LOCATION:Cafe Voorwaarts\, Schaafstraat 12\, Amsterdam\, 1021KE\, Nederland
+CATEGORIES:Expositie
+ATTACH;FMTTYPE=image/jpeg:https://cafevoorwaarts.nl/wp-content/uploads/2026/11/Arjen-van-Opstal-Statische-Post_.jpg
+END:VEVENT
+END:VCALENDAR

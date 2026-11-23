@@ -32,8 +32,8 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | Ingang *(added)* | `ingang` | WeTicket RSS feed (ingang.weticket.io) | ✅ (few events) |
 | FC Hyena *(added)* | `fchyena` | /films → Specials collection → /specials/<slug> prose dates + "elke derde dinsdag" rule | ✅ specials only (thin) |
 | Café 40 | – | probably Garage Noord's bar (Gedempt Hamerkanaal **40**; "bar40 hosted by…") → covered by `garagenoord` | ➖ |
-| Nachbar | – | only Instagram + DJGuide; no own site / ticket feed found | ⛔ |
-| Café Voorwaarts | – | no website or ticket feed found | ⛔ |
+| Nachbar *(added)* | `nachbar` | schema.org Event JSON-LD on its Stager shop (nachbar.stager.co) | ✅ club nights + prices |
+| Café Voorwaarts *(added)* | `cafevoorwaarts` | The Events Calendar iCal feed (`?post_type=tribe_events&ical=1`) | ✅ (few events) |
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
 | Spui25 | – | Cloudflare Turnstile; uva.nl has no usable Spui25 feed | ⛔ not built |
 | Radar (squat.net) | – | public API works | ✗ declined by user |

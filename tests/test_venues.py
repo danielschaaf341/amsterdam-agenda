@@ -253,3 +253,13 @@ def test_ingang():
     events = ingang.parse(load_fixture("ingang"), FIXTURE_DATE)
     e = by_title(events, "Second Night")
     assert e.venue == "Ingang" and e.start.date() == date(2026, 11, 28)
+
+
+def test_nachbar_and_voorwaarts():
+    from scrapers import cafevoorwaarts, nachbar
+    n = nachbar.parse(load_fixture("nachbar"), FIXTURE_DATE)
+    e = by_title(n, "Sweetlips")
+    assert e.start == datetime(2026, 12, 3, 23, 59, tzinfo=TZ) and e.category == "club" and e.price == "€ 8,75"
+    v = cafevoorwaarts.parse(load_fixture("cafevoorwaarts"), FIXTURE_DATE)
+    expo = by_title(v, "Arjen van Opstal")
+    assert expo.all_day and expo.kind == "series" and expo.end.date() == date(2026, 11, 28)  # exclusive DTEND

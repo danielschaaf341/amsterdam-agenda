@@ -1,0 +1,289 @@
+[
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111708680",
+  "name": "3 YA",
+  "startDate": "2026-11-26T23:59:00+01:00",
+  "endDate": "2026-11-27T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111708680",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "3 YA, 26-11-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "8.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111708680",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-11-27T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111696916",
+  "name": "3 YA Friday",
+  "startDate": "2026-11-27T23:59:00+01:00",
+  "endDate": "2026-11-28T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111696916",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "3 YA Friday, 27-11-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "24.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111696916",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-11-28T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111696917",
+  "name": "3YA Saturday",
+  "startDate": "2026-11-28T23:59:00+01:00",
+  "endDate": "2026-11-29T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111696917",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "3YA Saturday, 28-11-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "18.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111696917",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-11-29T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111696113",
+  "name": "Sweetlips w/ Simon Kidzoo, Hagelslag",
+  "startDate": "2026-12-03T23:59:00+01:00",
+  "endDate": "2026-12-04T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111696113",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "Sweetlips w/ Simon Kidzoo, Hagelslag, 03-12-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "8.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111696113",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-12-04T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111694543",
+  "name": "Doran & Nothing Toulouse",
+  "startDate": "2026-12-04T23:59:00+01:00",
+  "endDate": "2026-12-05T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111694543",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "Doran & Nothing Toulouse, 04-12-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "16.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111694543",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-12-05T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111696855",
+  "name": "Twiena: All Night Long.",
+  "startDate": "2026-12-05T23:59:00+01:00",
+  "endDate": "2026-12-06T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111696855",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "Twiena: All Night Long., 05-12-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "16.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111696855",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-12-06T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://nachbar.stager.co/shop/nachbar/events/111699200",
+  "name": "SANDOR DAYALA ALL NIGHT ",
+  "startDate": "2026-12-10T23:59:00+01:00",
+  "endDate": "2026-12-11T05:00:00+01:00",
+  "url": "https://nachbar.stager.co/shop/nachbar/events/111699200",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "nachbar",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "nieuwezijds voorburgwal 169",
+    "postalCode": "1012RK",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/2701/ticketShopLogo/blue-1d99.png",
+  "description": "SANDOR DAYALA ALL NIGHT , 10-12-2026, nachbar, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "nachbar B.V.",
+   "url": "https://nachbar.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Ticket",
+    "price": "9.75",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://nachbar.stager.co/shop/nachbar/events/111699200",
+    "validFrom": "2026-11-23T12:54:47.619391564+01:00",
+    "validThrough": "2026-12-11T05:00:00+01:00"
+   }
+  ],
+  "performer": []
+ }
+]
