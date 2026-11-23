@@ -9,7 +9,7 @@
   --chip: #ebe8e0;
   --star: #e0a100;
   --film: #6a4fc9; --music: #d6402b; --club: #c2187a; --talk: #1f7a8c;
-  --theatre: #b5651d; --jazz: #2f6f3e; --other: #6b6a70;
+  --theatre: #b5651d; --jazz: #2f6f3e; --food: #8a6d00; --other: #6b6a70;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -17,7 +17,7 @@
     --bg: #16161a; --card: #202026; --text: #ecebf0; --muted: #9b9aa3; --line: #2f2f37;
     --chip: #2a2a31; --accent: #ff6a50; --accent-text: #16161a;
     --film: #a08cf0; --music: #ff7a63; --club: #f06ab5; --talk: #5cc2d6;
-    --theatre: #e4a05e; --jazz: #73c48a; --other: #a3a2ab;
+    --theatre: #e4a05e; --jazz: #73c48a; --food: #e3c14b; --other: #a3a2ab;
     color-scheme: dark;
   }
 }
@@ -124,6 +124,7 @@ main { padding: 0 16px 24px; max-width: 900px; margin: 0 auto; }
 [data-cat="film"] { --c: var(--film); } [data-cat="music"] { --c: var(--music); }
 [data-cat="club"] { --c: var(--club); } [data-cat="talk"] { --c: var(--talk); }
 [data-cat="theatre"] { --c: var(--theatre); } [data-cat="jazz"] { --c: var(--jazz); }
+[data-cat="food"] { --c: var(--food); }
 [data-cat="other"] { --c: var(--other); }
 
 /* ---------- week view ---------- */

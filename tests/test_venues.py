@@ -104,7 +104,7 @@ def test_felixmeritis():
 def test_ot301():
     from scrapers import ot301
     events = ot301.parse(load_fixture("ot301"), FIXTURE_DATE)
-    assert not any("Lunch at Café Gilde" in e.title for e in events), "lunch entries are dropped"
+    assert not any(e.title == "Lunch at Café Gilde" and e.kind == "event" for e in events), "lunch → one weekly item"
     assert {"film", "club"} <= {e.category for e in events}
     assert all(e.url.startswith("https://www.ot301.nl/agenda/") for e in events)
 
@@ -198,7 +198,8 @@ def test_peppered_theatres():
 def test_ita():
     from scrapers import ita
     events = ita.parse(load_fixture("ita"), FIXTURE_DATE)
-    assert by_title(events, "Het incident").kind == "series"  # run of performances
+    incident = [e for e in events if e.title == "Het incident"]
+    assert len(incident) > 3 and all(e.kind == "event" for e in incident)  # every performance listed
     m = [e for e in events if e.title == "Mefisto"]
     assert m and m[0].start == datetime(2026, 12, 3, 19, 30, tzinfo=TZ)
     assert by_title(events, "Dirk De Wachter").status == "sold_out" and by_title(events, "Dirk De Wachter").category == "talk"
@@ -263,3 +264,45 @@ def test_nachbar_and_voorwaarts():
     v = cafevoorwaarts.parse(load_fixture("cafevoorwaarts"), FIXTURE_DATE)
     expo = by_title(v, "Arjen van Opstal")
     assert expo.all_day and expo.kind == "series" and expo.end.date() == date(2026, 11, 28)  # exclusive DTEND
+
+
+def test_food_weekly_and_aa_network():
+    from scrapers import amsterdamalternative as aa, ot301, recurring
+    o = ot301.parse(load_fixture("ot301"), FIXTURE_DATE)
+    lunch = [e for e in o if e.title == "Lunch at Café Gilde"]
+    assert len(lunch) == 1 and lunch[0].kind == "weekly" and lunch[0].category == "food"
+    assert lunch[0].subtitle.startswith("Elke wo, do, vr, za 12:00")
+    net = aa.parse(load_fixture("amsterdamalternative"), FIXTURE_DATE)
+    venues = {e.venue for e in net}
+    assert {"Cinetol", "Plein Theater", "Teatro Munganga"} <= venues
+    assert not venues & {"OT301", "OCCII", "Filmhuis Cavia", "De Nieuwe Anita"}, "own scrapers win"
+    assert not any("Zaandam" in v for v in venues)
+    assert by_title(net, "Eetcafé ADM Noord").kind == "weekly"
+    (sering,) = recurring.parse(load_fixture("recurring"), FIXTURE_DATE)
+    assert sering.venue == "De Sering" and sering.kind == "weekly" and sering.category == "food"
+
+
+def test_weekly_items_not_in_ics():
+    from ics import to_ics
+    from scrapers import recurring
+    text = to_ics(recurring.parse(load_fixture("recurring"), FIXTURE_DATE), datetime(2026, 11, 23, tzinfo=TZ))
+    assert "BEGIN:VEVENT" not in text
+
+
+def test_carre():
+    from scrapers import carre
+    events = carre.parse(load_fixture("carre"), FIXTURE_DATE)
+    jj = [e for e in events if e.title == "Joe Jackson 2026"]
+    assert jj and jj[0].start == datetime(2026, 12, 1, 20, 0, tzinfo=TZ) and jj[0].category == "music"
+    assert jj[0].status == "sold_out"
+    circus = by_title(events, "Wereldkerstcircus")
+    assert circus.kind == "series" and circus.end.date() == date(2027, 1, 3)
+
+
+def test_tolhuistuin_own_programme():
+    from scrapers import tolhuistuin
+    events = tolhuistuin.parse(load_fixture("tolhuistuin"), FIXTURE_DATE)
+    assert not any(e.title in ("Dave Lofts", "Mighty Oaks") for e in events), "Paradiso concerts come via paradiso"
+    fair = by_title(events, "Colourful Noord Winter Fair")
+    assert fair.start == datetime(2026, 12, 20, 12, 0, tzinfo=TZ) and fair.price == "gratis"
+    assert by_title(events, "Toegankelijk uitgaansfeest").category == "club"

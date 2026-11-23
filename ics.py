@@ -40,6 +40,8 @@ def to_ics(events: list[Event], generated: datetime) -> str:
     ]
     stamp = _utc(generated)
     for ev in events:
+        if ev.kind == "weekly":
+            continue  # recurring food nights etc. would flood a calendar subscription
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{ev.id}@amsterdam-agenda")
         lines.append(f"DTSTAMP:{stamp}")

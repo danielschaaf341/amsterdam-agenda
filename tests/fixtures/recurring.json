@@ -1,0 +1,22 @@
+{
+ "_help": "Fixed weekly items (mostly food nights) for places without a usable online agenda. Edit freely: weekdays use ma di wo do vr za zo; times HH:MM; category usually 'food'. Shown under 'Vaste prik' on the site, not in the iCal feed.",
+ "items": [
+  {
+   "venue": "De Sering",
+   "title": "Community Kitchen: vegan diner (op donatie)",
+   "weekdays": [
+    "ma",
+    "di",
+    "wo",
+    "do",
+    "vr",
+    "za"
+   ],
+   "start": "18:00",
+   "end": "21:00",
+   "category": "food",
+   "url": "https://desering.org/",
+   "note": "Rhôneweg 6 (Sloterdijk) · ook lunch ma–vr 12:00–14:00"
+  }
+ ]
+}

@@ -17,7 +17,8 @@ VENUE = "jazzin.amsterdam"
 HOMEPAGE = "https://jazzin.amsterdam/"
 # venues that have their own scraper → skip here to avoid near-duplicates with different titles
 OWN_SCRAPER_VENUES = {"melkweg", "occii", "de nieuwe anita", "paradiso", "tolhuistuin", "bitterzoet",
-                      "ot301", "de balie", "felix meritis", "rode hoed", "de rode hoed", "pakhuis de zwijger"}
+                      "ot301", "de balie", "felix meritis", "rode hoed", "de rode hoed", "pakhuis de zwijger",
+                      "splendor", "badhuistheater", "mike's badhuistheater", "nachbar", "skatecafe", "garage noord"}
 # spelling variants seen in the feed
 VENUE_ALIASES = {"theatercafé de richel": "Theater De Richel", "theater de richel": "Theater De Richel",
                  "cafe rivièra": "Café Rivièra", "café rivièra": "Café Rivièra"}

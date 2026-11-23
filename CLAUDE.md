@@ -14,6 +14,7 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _peppered.py       shared: Bellevue, Kleine Komedie, Frascati (Playwright, BunnyCDN JS check)
   _weticket.py       shared: WeTicket storefront RSS feeds (Skatecafé, Garage Noord, Ingang)
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
+recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
 build.py             assembles _site/ (site/ + data) for GitHub Pages
@@ -43,12 +44,12 @@ workflow runs `playwright install --with-deps chromium`. `_nuxt.py` needs `node`
 | `venue` | str, required | real venue name (Paradiso module yields Paradiso/Tolhuistuin/Bitterzoet/…) |
 | `start` | aware datetime | Europe/Amsterdam; serialised as ISO 8601 with offset |
 | `end` | datetime \| None | optional; must be ≥ start |
-| `category` | `film \| music \| club \| talk \| theatre \| jazz \| other` | |
+| `category` | `film \| music \| club \| talk \| theatre \| jazz \| food \| other` | food = dinners, volkskeukens, eetcafé nights |
 | `url` | str, required | event page (fallback: agenda page) |
 | `status` | `normal \| sold_out \| cancelled \| moved` | waiting list counts as sold_out |
 | `price` | str \| None | display text, e.g. `€ 15` or `€ 10,75–€ 25,00`, `gratis` |
 | `image` | str \| None | absolute URL |
-| `kind` | `event \| series` | **series** = a themed period/run (retrospective, festival, theatre run) spanning `start..end`; shown in the "Loopt nu" banner, all-day in the ics |
+| `kind` | `event \| series \| weekly` | **series** = themed period/run spanning `start..end` ("Loopt nu" banner, all-day in ics); **weekly** = fixed recurring item, `subtitle` says when ("Vaste prik" row, not in ics) |
 | `all_day` | bool | only the date is known (start is 00:00); site shows "–" |
 | `subtitle` | str \| None | company / support act / series name / hall |
 | `source` | str | set by run.py = module NAME |
@@ -61,7 +62,10 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
   double bills, late-night) and themed periods as `kind="series"` (e.g. Filmhallen "Nineties",
   Rialto Shaw Brothers, Eye retrospectives). Filmhuis Cavia is all curated → everything counts.
 - Theatre/film **runs** (many performances close together, `is_run`) → one series; monthly recurring
-  shows stay individual events. Skip performances at other locations (tours).
+  shows stay individual events. Skip performances at other locations (tours). Exception: **ITA lists
+  every performance** (user wish, `ita.GROUP_RUNS = False`).
+- **Food** is its own category. Repeating food items (lunch/dinner/eetcafé) → `collapse_recurring` →
+  kind="weekly". Places without an agenda but with fixed food nights go in `recurring.json`.
 - Don't add Radar (squat.net) – the user declined it. Don't use DJGuide (blocks automated access on
   purpose) or Instagram (login wall). For small clubs, look for a ticket shop with a feed first:
   `<name>.weticket.io` exposes `api.weticket.io/storefront/organizations/<uuid>/events.xml`;

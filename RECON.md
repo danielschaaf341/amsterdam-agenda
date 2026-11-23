@@ -34,6 +34,10 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | Café 40 | – | probably Garage Noord's bar (Gedempt Hamerkanaal **40**; "bar40 hosted by…") → covered by `garagenoord` | ➖ |
 | Nachbar *(added)* | `nachbar` | schema.org Event JSON-LD on its Stager shop (nachbar.stager.co) | ✅ club nights + prices |
 | Café Voorwaarts *(added)* | `cafevoorwaarts` | The Events Calendar iCal feed (`?post_type=tribe_events&ical=1`) | ✅ (few events) |
+| Amsterdam Alternative network *(added)* | `amsterdamalternative` | AA JSON service without venue filter, per month (slow server) | ✅ ~22 venues: Cinetol, Plein Theater, Teatro Munganga, Splendor, Nieuwland, Badhuistheater, ADM, Vondelbunker, … |
+| Tolhuistuin own programme *(added)* | `tolhuistuin` | `:all-items` JSON on /agenda; Paradiso concerts skipped | ✅ |
+| Carré *(added)* | `carre` | site JSON `/api/render/production-page-list-nl` | ✅ runs → series |
+| De Sering | `recurring` (recurring.json) | desering.org = Cloudflare; GitHub Pages mirror is stale (Dec 2025) | ➖ community kitchen as weekly "food" item |
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
 | Spui25 | – | Cloudflare Turnstile; uva.nl has no usable Spui25 feed | ⛔ not built |
 | Radar (squat.net) | – | public API works | ✗ declined by user |

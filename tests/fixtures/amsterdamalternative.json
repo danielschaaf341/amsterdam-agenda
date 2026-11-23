@@ -1,0 +1,8270 @@
+[
+ {
+  "id": 23283,
+  "start": 1793527200,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22819,
+   "kind": "image",
+   "file": "22819.jpg"
+  },
+  "title": "Klassiek, jazz, Japanese en Latijns Amerikaanse muziek by Chieko & Juliano",
+  "lineup": "Chieko & Juliano",
+  "price": "11,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23284,
+  "start": 1793527200,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22820,
+   "kind": "image",
+   "file": "22820.jpg"
+  },
+  "title": "Klassiek, jazz, Japanese en Latijns Amerikaanse muziek by Chieko & Juliano",
+  "lineup": "Chieko & Juliano",
+  "price": "11,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23018,
+  "start": 1793532600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22505,
+   "kind": "image",
+   "file": "22505.jpeg"
+  },
+  "title": "Visual Encounters Film Fest 2026",
+  "lineup": "",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23373,
+  "start": 1793536200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-4bid Gallery",
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 8045,
+   "kind": "image",
+   "file": "8045.jpeg"
+  },
+  "title": "Life Drawing session    ",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 20,
+  "fb": "https://www.meetup.com/Life-Drawing-drop-in-Amsterdam-4bid-gallery-OT301/",
+  "adult": 0
+ },
+ {
+  "id": 23378,
+  "start": 1793538000,
+  "started": true,
+  "past": true,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 22904,
+   "kind": "image",
+   "file": "22904.jpg"
+  },
+  "title": "Grains of Sand - Visual Compositions of a Palestinian Scribbler ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23182,
+  "start": 1793538000,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 22718,
+   "kind": "image",
+   "file": "22718.jpeg"
+  },
+  "title": "Public artwork opening: Wall of Tears",
+  "lineup": "Kunstwerk door Phil Buehler (New York) | Programma: Berith Danse (directeur), Zeeger Ernsting (Stadsdeel Oost), The Reading Vigil for Free Palestine, Esther van der Most (Plant een Olijfboom), Ibrahim Mousa, Odai Alhayek, Kinan Abuakel, DJ Doornroosje, Mohammed Araf | Palestijnse gerechten door Zaher Hamzat en Peggy Burke.",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23238,
+  "start": 1793556000,
+  "started": true,
+  "past": true,
+  "venue": "Plantage Dok",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22760,
+   "kind": "image",
+   "file": "22760.jpg"
+  },
+  "title": "World Vegan Day Movie Night",
+  "lineup": "films: The Empathy Project, Forever Home",
+  "price": "12",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23285,
+  "start": 1793556000,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22821,
+   "kind": "image",
+   "file": "22821.jpg"
+  },
+  "title": "Creative Explorations from Japan to Brazil, a concert by Chieko, Joost Lijbaart & Juliano Abramovay",
+  "lineup": "Chieko, Joost Lijbaart & Juliano Abramovay",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22937,
+  "start": 1793557800,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22390,
+   "kind": "image",
+   "file": "22390.png"
+  },
+  "title": "  nykolaes & Daniël Paul",
+  "lineup": "nykolaes & Daniël Paul",
+  "price": "€17,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23143,
+  "start": 1793559600,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22694,
+   "kind": "image",
+   "file": "22694.jpeg"
+  },
+  "title": "Anne La Berge presents: Ig Henneman 80 Ab Baars 70=150",
+  "lineup": "A Continuation of a Celebration",
+  "price": "18.00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23197,
+  "start": 1793635200,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 14635,
+   "kind": "image",
+   "file": "14635.png"
+  },
+  "title": "Eetcafe: Bar la Papa  ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23376,
+  "start": 1793640600,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22899,
+   "kind": "image",
+   "file": "22899.png"
+  },
+  "title": "Palestine Cinema Days Around the World",
+  "lineup": "Six short movies",
+  "price": "",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23462,
+  "start": 1793642400,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23035,
+   "kind": "image",
+   "file": "23035.png"
+  },
+  "title": "Mãos à Terra",
+  "lineup": "",
+  "price": "donatie",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22938,
+  "start": 1793644200,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22391,
+   "kind": "image",
+   "file": "22391.png"
+  },
+  "title": "MGNA Crrrta",
+  "lineup": "MGNA Crrrta",
+  "price": "€20,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23347,
+  "start": 1793649600,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22883,
+   "kind": "image",
+   "file": "22883.jpg"
+  },
+  "title": "With Hasan in Gaza – Palestine Cinema Days Around the World",
+  "lineup": "Kamal Aljafari | 2025 | Germany, Palestine, France, Qatar | 106’ | EN subtitles  ",
+  "price": "",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23464,
+  "start": 1793707200,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22261,
+   "kind": "image",
+   "file": "22261.png"
+  },
+  "title": "Kulture Kitchen Kraft Korner   ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23375,
+  "start": 1793727000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-4bid Gallery",
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 8045,
+   "kind": "image",
+   "file": "8045.jpeg"
+  },
+  "title": "Life Drawing session    ",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 20,
+  "fb": "https://www.meetup.com/Life-Drawing-drop-in-Amsterdam-4bid-gallery-OT301/",
+  "adult": 0
+ },
+ {
+  "id": 23221,
+  "start": 1793732400,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22737,
+   "kind": "image",
+   "file": "22737.png"
+  },
+  "title": "Operelly + alumnium",
+  "lineup": "Operelly, aluminium",
+  "price": "€19,75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22970,
+  "start": 1793817000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22432,
+   "kind": "image",
+   "file": "22432.jpg"
+  },
+  "title": "Zafzifa",
+  "lineup": "Peter Sant",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 46,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22939,
+  "start": 1793817000,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22392,
+   "kind": "image",
+   "file": "22392.png"
+  },
+  "title": "Zaya Sabrina",
+  "lineup": "Zaya Sabrina",
+  "price": "€15,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22956,
+  "start": 1793817000,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22410,
+   "kind": "image",
+   "file": "22410.png"
+  },
+  "title": "Discovery Zone @ Plantage Dok",
+  "lineup": "Discovery Zone",
+  "price": "€18,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21365,
+  "start": 1793903400,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 18509,
+   "kind": "image",
+   "file": "18509.png"
+  },
+  "title": "Liedfett",
+  "lineup": "Liedfett",
+  "price": "19,75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23008,
+  "start": 1793905200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22486,
+   "kind": "image",
+   "file": "22486.png"
+  },
+  "title": "Robinbird presents: Music for the Information Age",
+  "lineup": "Robinbird, Sio’s Orange Core",
+  "price": "5-10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 240,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23444,
+  "start": 1793907000,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22985,
+   "kind": "image",
+   "file": "22985.jpg"
+  },
+  "title": "On the Beach at Night Alone",
+  "lineup": "Hong Sang-soo | 2017 | South Korea | 101’ | EN subtitles ",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23465,
+  "start": 1793966400,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 14633,
+   "kind": "image",
+   "file": "14633.png"
+  },
+  "title": "Green Ass Garden(ing)  ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23466,
+  "start": 1793980800,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 13172,
+   "kind": "image",
+   "file": "13172.png"
+  },
+  "title": "Eetcafé ADM Noord  ",
+  "lineup": "",
+  "price": "12,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23451,
+  "start": 1793980800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 23112,
+   "kind": "image",
+   "file": "23112.jpg"
+  },
+  "title": "Astrology Club",
+  "lineup": "",
+  "price": "10 donation",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23431,
+  "start": 1793984400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23252,
+  "start": 1793985300,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22812,
+   "kind": "image",
+   "file": "22812.jpg"
+  },
+  "title": "Africadelic2026: The Rising Dawn (NL Premiere) + Beach Inna Bondage (NL Preview)",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 45,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23357,
+  "start": 1793988000,
+  "started": true,
+  "past": true,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22582,
+   "kind": "image",
+   "file": "22582.png"
+  },
+  "title": "Queer Latin Night Amsterdam! ",
+  "lineup": "",
+  "price": "donation",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23030,
+  "start": 1793989800,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22514,
+   "kind": "image",
+   "file": "22514.jpg"
+  },
+  "title": "WALK THE LINE villagerrr + mail for sil + them peckin' boys + leadbeaters + stomp (line dance) + the high horse (dj)",
+  "lineup": "villagerrr, mail for sil, them peckin' boys, leadbeaters, stomp, the high horse",
+  "price": "€18,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23019,
+  "start": 1793991600,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 19756,
+   "kind": "image",
+   "file": "19756.png"
+  },
+  "title": "Pyrex+Urin+Gimic+Traumatizer",
+  "lineup": "Pyrex, Urin, Gimic, Traumatizer",
+  "price": "12,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23242,
+  "start": 1793991600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22765,
+   "kind": "image",
+   "file": "22765.jpeg"
+  },
+  "title": "Kazemat",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23461,
+  "start": 1793991600,
+  "started": true,
+  "past": true,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23034,
+   "kind": "image",
+   "file": "23034.jpg"
+  },
+  "title": "There’s No Recipe - Jacht - Marumori",
+  "lineup": "+ DJ Zanussi x Wiggly Jones",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23245,
+  "start": 1793991600,
+  "started": true,
+  "past": true,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22769,
+   "kind": "image",
+   "file": "22769.jpg"
+  },
+  "title": "This Leo Sunrise + Hester",
+  "lineup": "This Leo Sunrise, Hester",
+  "price": "10-12",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23286,
+  "start": 1793991600,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22822,
+   "kind": "image",
+   "file": "22822.jpg"
+  },
+  "title": "Martina Camargo: The Most Prominent Voice of Tambora, Colombia",
+  "lineup": "Martina Camargo",
+  "price": "22,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23348,
+  "start": 1793993400,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22884,
+   "kind": "image",
+   "file": "22884.jpg"
+  },
+  "title": "Memorias del subdesarrollo",
+  "lineup": "Tomás Gutiérrez Alea | 1968 |  Cuba | 96’ | EN subtitles",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22565,
+  "start": 1793993400,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 22014,
+   "kind": "image",
+   "file": "22014.png"
+  },
+  "title": "bareskin (within/without)",
+  "lineup": "Jacobus Benning, Bo Oskamp",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22894,
+  "start": 1793995200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22346,
+   "kind": "image",
+   "file": "22346.jpg"
+  },
+  "title": "Synthetic Reality",
+  "lineup": "Max Durante, Feryne, The Dark Wasp, Feralia Planitia",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 254,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23226,
+  "start": 1794045600,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22748,
+   "kind": "image",
+   "file": "22748.png"
+  },
+  "title": "Sarah Jeffery presents: The Wrong Recorder (5+)",
+  "lineup": "Family concert inspired by the world of Wallace & Gromit",
+  "price": "15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23432,
+  "start": 1794070800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23307,
+  "start": 1794070800,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 22843,
+   "kind": "image",
+   "file": "22843.jpg"
+  },
+  "title": "Small Miracle #6: Dances",
+  "lineup": "Toni Steffens, Zaher Hamzat, Ainhoa Hernández Escudero and Aion Arribas, Raoni / Muzho Saleh, Teresa Jaldón, Junadry Leocaria, nisha  ha, Dayna Martinez Morales, La Uyi, Fernanda Libman",
+  "price": "10,-",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23267,
+  "start": 1794070800,
+  "started": true,
+  "past": true,
+  "venue": "Buurtwerkplaats Noorderhof",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22800,
+   "kind": "image",
+   "file": "22800.jpg"
+  },
+  "title": "Boing",
+  "lineup": "",
+  "price": "25",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23251,
+  "start": 1794073500,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22190,
+   "kind": "image",
+   "file": "22190.png"
+  },
+  "title": "Africadelic: Memory of Princess Mumbi (Special Screening)",
+  "lineup": "Shandra Apondi Abraham Joseph Ibrahim Joseph",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 23,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22978,
+  "start": 1794076200,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22447,
+   "kind": "image",
+   "file": "22447.png"
+  },
+  "title": "Reggae Vibrations ft. Mark Wonder + DJ ROWSTONE",
+  "lineup": "Mark Wonder, Dj Rowstone",
+  "price": "€17,75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23515,
+  "start": 1794076200,
+  "started": true,
+  "past": true,
+  "venue": "Plantage Dok",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23107,
+   "kind": "image",
+   "file": "23107.jpg"
+  },
+  "title": "AIDAN DANCE EVENT at Dokzaal",
+  "lineup": "BRAINWORK by AIDAN, Aluminium",
+  "price": "7,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23467,
+  "start": 1794078000,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23036,
+   "kind": "image",
+   "file": "23036.png"
+  },
+  "title": "Dubbele album release party: Kraaklustig en FLŌD ",
+  "lineup": "",
+  "price": "donatie",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23281,
+  "start": 1794078000,
+  "started": true,
+  "past": true,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22969,
+   "kind": "image",
+   "file": "22969.jpg"
+  },
+  "title": "IN FULL EFFECT underground hip-hop",
+  "lineup": "Insayno (album release party) - Kuo X Restless M.I.N.D. - Blits - DJs: D-Monica and Daan ",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23287,
+  "start": 1794078000,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22823,
+   "kind": "image",
+   "file": "22823.jpg"
+  },
+  "title": "Pra Gira Girar—A Celebration of Os Tincoãs",
+  "lineup": "Alvaro Lancellotti, Michele Leal, and Alan de Deus on vocals, Pedro Costa on guitar, Kassin on bass, Zé Manoel on piano and vocals, Zero Telles (in memoriam) and Anna Magalhães on percussion, and Diogo Gomes on trumpet. ",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23225,
+  "start": 1794078000,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22747,
+   "kind": "image",
+   "file": "22747.jpg"
+  },
+  "title": " River Adomeit presents: Sunflower",
+  "lineup": "Album Release Love Letters",
+  "price": "15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23349,
+  "start": 1794079800,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22885,
+   "kind": "image",
+   "file": "22885.jpg"
+  },
+  "title": "Europa trilogy: The Element of Crime",
+  "lineup": "Lars von Trier | 1984 | Denmark | 104’ | English",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23113,
+  "start": 1794085200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22656,
+   "kind": "image",
+   "file": "22656.png"
+  },
+  "title": "Molecular",
+  "lineup": "Fatty Hands (All night)",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 137,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23288,
+  "start": 1794132000,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22824,
+   "kind": "image",
+   "file": "22824.jpg"
+  },
+  "title": "Afro-Brazilian music by Pra Gira Girar, Brazil",
+  "lineup": "Alvaro Lancellotti, Michele Leal, and Alan de Deus on vocals, Pedro Costa on guitar, Kassin on bass, Zé Manoel on piano and vocals, Anna Magalhães on percussion, and Diogo Gomes on trumpet.",
+  "price": "11,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23228,
+  "start": 1794132000,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22750,
+   "kind": "image",
+   "file": "22750.jpg"
+  },
+  "title": "Splendor Kinderconcert #3",
+  "lineup": "“Mag ik dat ook proberen?” Tijdens de Kinderconcerten van Splendor krijgt die nieuwsgierigheid alle ruimte",
+  "price": "15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23468,
+  "start": 1794135600,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23037,
+   "kind": "image",
+   "file": "23037.png"
+  },
+  "title": "Rise the Future: Pizza uit de houtoven – Workshop ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23396,
+  "start": 1794139200,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1004,
+   "label": "Demonstration, riot"
+  },
+  "header": {
+   "id": 22917,
+   "kind": "image",
+   "file": "22917.png"
+  },
+  "title": "Plein Theater trekt een rode lijn",
+  "lineup": "De Rode Lijn voorbij: geen geld voor genocide",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23289,
+  "start": 1794150000,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22825,
+   "kind": "image",
+   "file": "22825.png"
+  },
+  "title": "IsaSofia & The Coalition of the Willing in concert",
+  "lineup": "IsaSofia & The Coalition of the Willing. With Pepijn van den Boogaard (drums), John Klaver (guitar), Egmond De Bruijne (keys) and Ray Edgar Duijns (bass).",
+  "price": "15,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23427,
+  "start": 1794150000,
+  "started": true,
+  "past": true,
+  "venue": "Het Pand, Zaandam",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22973,
+   "kind": "image",
+   "file": "22973.jpg"
+  },
+  "title": "Indieplayground op Zondag",
+  "lineup": "Wounded Kite, Mucho Tibio",
+  "price": "Gratis",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23253,
+  "start": 1794160800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22797,
+   "kind": "image",
+   "file": "22797.jpg"
+  },
+  "title": "Ventilator Cinema presents: Inn a State of Siege – Amsterdam Premiere + Q&A (Special Screening)",
+  "lineup": "Ismet Mršević, Mustafa Osmanović, Faruk Titorić",
+  "price": "14",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 9,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21526,
+  "start": 1794162600,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 20843,
+   "kind": "image",
+   "file": "20843.png"
+  },
+  "title": "Loveth Besamoh + I Love You Honey Bunny ",
+  "lineup": "Loveth Besamoh, I Love You Honey Bunny ",
+  "price": "18,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23459,
+  "start": 1794166200,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23032,
+   "kind": "image",
+   "file": "23032.jpg"
+  },
+  "title": "Windows, Beautifully Rendered: Machinima",
+  "lineup": "Harun Farocki & Total Refusal | 2012-2022 | 74’ | EN subtitles",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23469,
+  "start": 1794240000,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 14635,
+   "kind": "image",
+   "file": "14635.png"
+  },
+  "title": "Eetcafe: Bar la Papa  ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23229,
+  "start": 1794251700,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22751,
+   "kind": "image",
+   "file": "22751.png"
+  },
+  "title": "Oene van Geel presents: Karam Al Zouhir - Viola Tales of Exile",
+  "lineup": "Mashka Daym (debut solo album)",
+  "price": "16",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23471,
+  "start": 1794312000,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22261,
+   "kind": "image",
+   "file": "22261.png"
+  },
+  "title": "Kulture Kitchen Kraft Korner   ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22941,
+  "start": 1794335400,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22394,
+   "kind": "image",
+   "file": "22394.png"
+  },
+  "title": "Horse Jumper of Love + Joyer",
+  "lineup": "Horse Jumper of Love, Joyer",
+  "price": "€20,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23436,
+  "start": 1794394800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23255,
+  "start": 1794416400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22784,
+   "kind": "image",
+   "file": "22784.JPG"
+  },
+  "title": "\"Spaces of Exception\" + Post-Film Discussion",
+  "lineup": "Malek Rasamny, Jeremiah Wolf",
+  "price": "7,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 36,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22942,
+  "start": 1794423600,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22395,
+   "kind": "image",
+   "file": "22395.png"
+  },
+  "title": "Docile Bodies (album release) + ictota",
+  "lineup": "Docile Bodies, ictota",
+  "price": "€16,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23350,
+  "start": 1794425400,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22886,
+   "kind": "image",
+   "file": "22886.jpg"
+  },
+  "title": "Europa trilogy: Epidemic",
+  "lineup": "Lars von Trier | 1987 | Denmark | 106’ | EN subtitles",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23437,
+  "start": 1794481200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23071,
+  "start": 1794508200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23030,
+   "kind": "image",
+   "file": "23030.png"
+  },
+  "title": "VIRTA (current): An Evening of Performance in the Underworld",
+  "lineup": "Irina Baldini (Österberg) with Emily Welther, Artemise Ploegaerts, Simona Piras, Katarina Kadijevic;\r\nThe Commons;\r\nViktoria Arvayova / Vaera.",
+  "price": "sliding scale 10><15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 47,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22943,
+  "start": 1794510000,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22396,
+   "kind": "image",
+   "file": "22396.png"
+  },
+  "title": "Maria BC",
+  "lineup": "Maria BC",
+  "price": "€20,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23083,
+  "start": 1794510000,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22619,
+   "kind": "image",
+   "file": "22619.jpg"
+  },
+  "title": "Geregeld Ontregeld presents: Die Verlierer (DE), Die Knöpfke (DE) & Cavegirl (AMS)",
+  "lineup": "Die Verlierer,  Die Knöpfe, Cavegirl ",
+  "price": "€12.50 (presale) | €14.00 (door)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23290,
+  "start": 1794510000,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22826,
+   "kind": "image",
+   "file": "22826.jpg"
+  },
+  "title": "Searching for Home – 10th Birthday Tour",
+  "lineup": "Lina Ida Wutzler • vocals\r\nLudwig Barth • bass\r\nJohannes Kellig • bass\r\nHakim Azmi • keyboards\r\nKilian Srowik • guitar\r\nJeremias Wagler-Wernecke • guitar\r\nSamuel Joseph • percussion\r\nFlorian Anger • drums\r\nHannes Weidauer • trumpet\r\nMarkus Rethberg • saxophone\r\nJohann Giesecke • trombone",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22564,
+  "start": 1794511800,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23155,
+   "kind": "image",
+   "file": "23155.jpg"
+  },
+  "title": "It’s Never ‘Just Hair’ - première",
+  "lineup": "Avantika Tibrewala",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23438,
+  "start": 1794567600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23472,
+  "start": 1794585600,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 13172,
+   "kind": "image",
+   "file": "13172.png"
+  },
+  "title": "Eetcafé ADM Noord  ",
+  "lineup": "",
+  "price": "12,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23458,
+  "start": 1794589200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23031,
+   "kind": "image",
+   "file": "23031.png"
+  },
+  "title": "Ex Tempore",
+  "lineup": "Directors: Tito Puglielli and Tiziano Locci, Emma Ajdari and Ellev Derks, Beatrice Indelicato\r\nLive Scores: Ignacio Pintó, Pim Piet, Setteveli ensemble",
+  "price": "15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 89,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23433,
+  "start": 1794589200,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23516,
+  "start": 1794591000,
+  "started": true,
+  "past": true,
+  "venue": "Plantage Dok",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23108,
+   "kind": "image",
+   "file": "23108.jpg"
+  },
+  "title": "MOLK meets LOKAAL",
+  "lineup": "Loma Doom, Kareem Samara, Able Noise, A Tropa",
+  "price": "8-25",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23380,
+  "start": 1794596400,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22905,
+   "kind": "image",
+   "file": "22905.jpg"
+  },
+  "title": "Kinky Noise by schoco mune – ft surrleralism x наволоч + schoco mune x GubbiAnn x Lunn Ário + Maja Irene Bolier x Etta HarBar + Harde Tante",
+  "lineup": "surrleralism x наволоч, schoco mune x GubbiAnn x Lunn Ário, Maja Irene Bolier, Etta HarBar, Harde Tante",
+  "price": "€10 (Presale) | €12 (Door)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23230,
+  "start": 1794596400,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22752,
+   "kind": "image",
+   "file": "22752.jpg"
+  },
+  "title": "River Adomeit presents: Ontworteld: Joni Mitchell (feat. Laura Bohn)",
+  "lineup": "",
+  "price": "25.00 (Ticket A)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23263,
+  "start": 1794603600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23090,
+   "kind": "image",
+   "file": "23090.jpeg"
+  },
+  "title": "No Escape at OT301 /// PvsP",
+  "lineup": "OBX_ZMK, DJ Trippy-D, DJ Easy B, Tec-9",
+  "price": "5-15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 214,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23304,
+  "start": 1794610800,
+  "started": true,
+  "past": true,
+  "venue": "pos (possibilities open studio)",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22977,
+   "kind": "image",
+   "file": "22977.png"
+  },
+  "title": "pos & carmela invite NAP | 16:00 - 00:00",
+  "lineup": "NAP\r\ndada phone (live cumbia)\r\npos & carmela djs",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 51,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23439,
+  "start": 1794654000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde (birthday edition)",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 32,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23528,
+  "start": 1794661200,
+  "started": true,
+  "past": true,
+  "venue": "WG",
+  "venue_room": false,
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 23133,
+   "kind": "image",
+   "file": "23133.PNG"
+  },
+  "title": "No Signal",
+  "lineup": "Á. Birna Björnsdóttir, Justin Gosker, Jessica Wilson",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23450,
+  "start": 1794664800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-4bid Gallery",
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 23008,
+   "kind": "image",
+   "file": "23008.jpeg"
+  },
+  "title": "OT301 - 27th anniversary: day program ",
+  "lineup": "The Commons, Low /// McEwan",
+  "price": "Donation",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": true,
+  "aa_available": 300,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23567,
+  "start": 1794669300,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23173,
+   "kind": "image",
+   "file": "23173.jpg"
+  },
+  "title": "Pesta Babi: Kolonialisme in Onze Tijd",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 54,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22944,
+  "start": 1794672000,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22397,
+   "kind": "image",
+   "file": "22397.png"
+  },
+  "title": "SITP Festival",
+  "lineup": "amadou / ribot / smith, run into the apocalypse, franks rosaly's ruidoscuro, jens bouttery solo, nufaro",
+  "price": "€17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23434,
+  "start": 1794675600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde (birthday edition)",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 46,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23569,
+  "start": 1794675600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23174,
+   "kind": "image",
+   "file": "23174.jpg"
+  },
+  "title": "KOSTIANTYNIVKA. LIFE AND DEATH OF A FRONTLINE CITY",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 47,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23571,
+  "start": 1794680100,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23186,
+   "kind": "image",
+   "file": "23186.jpg"
+  },
+  "title": "RETROMANIA | THE TERROR AND THE TIME",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": true,
+  "aa_available": 55,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23021,
+  "start": 1794682800,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 19753,
+   "kind": "image",
+   "file": "19753.png"
+  },
+  "title": "Ozone Dehumanizer,  Click + Doye",
+  "lineup": "Ozone Dehumanizer, Click + Doye",
+  "price": "€12 (presale) | €14 (door)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23548,
+  "start": 1794682800,
+  "started": true,
+  "past": true,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23158,
+   "kind": "image",
+   "file": "23158.jpg"
+  },
+  "title": "Passeridae 61 Noise Party",
+  "lineup": "motor hotel -  while ziggy - radical vitality - chiseling clouds - soundmotherfucker - harde tante",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23244,
+  "start": 1794682800,
+  "started": true,
+  "past": true,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22768,
+   "kind": "image",
+   "file": "22768.png"
+  },
+  "title": "Katrat + Octopus + DJ Cristel Ball",
+  "lineup": "Katrat, Octopus, DJ Cristel Ball",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23413,
+  "start": 1794684600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22948,
+   "kind": "image",
+   "file": "22948.jpg"
+  },
+  "title": "OT301 - 27th Birthday Bash - Night program ",
+  "lineup": "Controlled Illusion, No28, Sjamsoedin, Cinnaman, Power vs Power, Monty, Jacky D, Pink Tweaks ",
+  "price": "8-12",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 170,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 22995,
+  "start": 1794684600,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1011,
+   "label": "Poetry, reading, literature"
+  },
+  "header": {
+   "id": 22808,
+   "kind": "image",
+   "file": "22808.png"
+  },
+  "title": "In the mouth of the room #3",
+  "lineup": "Wantee Teelapa, Lars Koning, Isidora Goncić, La Uyi Ihasee | Curated and hosted by Sunni Lamin Barrow",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23609,
+  "start": 1794688200,
+  "started": true,
+  "past": true,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23201,
+   "kind": "image",
+   "file": "23201.jpg"
+  },
+  "title": "Beats Kebab ★ Babi & Katayoun",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23492,
+  "start": 1794751200,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23052,
+   "kind": "image",
+   "file": "23052.jpg"
+  },
+  "title": "Frankfurter Polka Trio en Brassberries blazen de kou weg",
+  "lineup": "",
+  "price": "15,00 inclusief drankje",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23213,
+  "start": 1794756600,
+  "started": true,
+  "past": true,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 22731,
+   "kind": "image",
+   "file": "22731.jpg"
+  },
+  "title": "FCA Book Club - Reservoir Bitches",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23552,
+  "start": 1794758400,
+  "started": true,
+  "past": true,
+  "venue": "Plantage Dok",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23162,
+   "kind": "image",
+   "file": "23162.jpg"
+  },
+  "title": "Encuentros Platform Fall edition",
+  "lineup": "Rebolada (music Irene Sorozábal, Adrián Moncada), Kalliopi Ioumpa (installation/video), Rosa Groenewegen (video), Orion Plag (music) ",
+  "price": "10-20",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23231,
+  "start": 1794762000,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22753,
+   "kind": "image",
+   "file": "22753.png"
+  },
+  "title": "SplenDoor to Ukraine XXXV: Capturing Time",
+  "lineup": "Ukrainian Documentary Cinema",
+  "price": "12.00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23530,
+  "start": 1794767400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23136,
+   "kind": "image",
+   "file": "23136.jpg"
+  },
+  "title": "The Ninth Configuration",
+  "lineup": "",
+  "price": "3",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 50,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23473,
+  "start": 1794844800,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 14635,
+   "kind": "image",
+   "file": "14635.png"
+  },
+  "title": "Eetcafe: Bar la Papa   ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23441,
+  "start": 1794848400,
+  "started": true,
+  "past": true,
+  "venue": "Studio/K",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 22983,
+   "kind": "image",
+   "file": "22983.jpg"
+  },
+  "title": "Art in the Capitalocene: Studio/K × Radio Ar/Kadia",
+  "lineup": "",
+  "price": "Free",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23474,
+  "start": 1794916800,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22261,
+   "kind": "image",
+   "file": "22261.png"
+  },
+  "title": "Kulture Kitchen Kraft Korner   ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23594,
+  "start": 1794999600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23635,
+  "start": 1795017600,
+  "started": true,
+  "past": true,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 23229,
+   "kind": "image",
+   "file": "23229.png"
+  },
+  "title": "AUFP Night ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23381,
+  "start": 1795021200,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1009,
+   "label": "Market"
+  },
+  "header": {
+   "id": 22906,
+   "kind": "image",
+   "file": "22906.jpg"
+  },
+  "title": "Clothes Swap “All Community Access Boutique”",
+  "lineup": "",
+  "price": "Free, bring max. 5 items",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23483,
+  "start": 1795024800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23043,
+   "kind": "image",
+   "file": "23043.jpg"
+  },
+  "title": "Trendy Tropics x Slowblink ",
+  "lineup": "Serena, Slowblink",
+  "price": "8",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 41,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23369,
+  "start": 1795026600,
+  "started": true,
+  "past": true,
+  "venue": "[ woonruimte coöperatief ]",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22897,
+   "kind": "image",
+   "file": "22897.jpg"
+  },
+  "title": "filmHuis: Gardens of Fez",
+  "lineup": "with director/met regisseur Heidi Vogels",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 25,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23351,
+  "start": 1795030200,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22887,
+   "kind": "image",
+   "file": "22887.jpg"
+  },
+  "title": "Europa trilogy: Europa (Zentropa) ",
+  "lineup": "Lars von Trier | 1991 | Denmark, France, Germany, Sweden | 113’ | EN subtitles",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23595,
+  "start": 1795086000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23475,
+  "start": 1795107600,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23039,
+   "kind": "image",
+   "file": "23039.png"
+  },
+  "title": "Iva Nova, Trikosis en Rotjochies ",
+  "lineup": "",
+  "price": "10,-",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23377,
+  "start": 1795114800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22902,
+   "kind": "image",
+   "file": "22902.png"
+  },
+  "title": "Headliners - The Wig Gala",
+  "lineup": "$KUNA & Victor M, Abe & Simon, cian T, ",
+  "price": "10-12",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 178,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23341,
+  "start": 1795114800,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22877,
+   "kind": "image",
+   "file": "22877.png"
+  },
+  "title": "Lemur",
+  "lineup": "Lemur",
+  "price": "€11,75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23584,
+  "start": 1795114800,
+  "started": true,
+  "past": true,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23188,
+   "kind": "image",
+   "file": "23188.jpg"
+  },
+  "title": "One Last Job + Improv Your Dutch",
+  "lineup": "Katie O'Reilly, Improv Your Dutch, Kevin Miller",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23293,
+  "start": 1795114800,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22829,
+   "kind": "image",
+   "file": "22829.jpg"
+  },
+  "title": "Country, Bluegrass and Folk by Aline Deanna – Canada",
+  "lineup": "Aline Deanna",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23445,
+  "start": 1795116600,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22986,
+   "kind": "image",
+   "file": "22986.jpg"
+  },
+  "title": "Right Now, Wrong Then",
+  "lineup": "Hong Sang-soo | 2015 | South Korea | 121’ | EN subtitles ",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23610,
+  "start": 1795116600,
+  "started": true,
+  "past": true,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23202,
+   "kind": "image",
+   "file": "23202.png"
+  },
+  "title": "Alaa Zouiten Trio ★ Flamenco meets Moorish-Andalusian music",
+  "lineup": "",
+  "price": "16",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22566,
+  "start": 1795116600,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22017,
+   "kind": "image",
+   "file": "22017.jpg"
+  },
+  "title": "I Never Lie",
+  "lineup": "Agnese Valmaggia",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23596,
+  "start": 1795172400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23476,
+  "start": 1795176000,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 14633,
+   "kind": "image",
+   "file": "14633.png"
+  },
+  "title": "Green Ass Garden(ing)  ",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23607,
+  "start": 1795190400,
+  "started": true,
+  "past": true,
+  "venue": "Bajesdorp - GROND",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23198,
+   "kind": "image",
+   "file": "23198.png"
+  },
+  "title": "Black Hole Friday - No discount on solidarity",
+  "lineup": "TBC",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23602,
+  "start": 1795194000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23040,
+  "start": 1795195800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 18311,
+   "kind": "image",
+   "file": "18311.png"
+  },
+  "title": "Improvisatie Theater - De Concurrent Speelt",
+  "lineup": "",
+  "price": "9",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 28,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23477,
+  "start": 1795201200,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23040,
+   "kind": "image",
+   "file": "23040.png"
+  },
+  "title": "Sara Hebe ",
+  "lineup": "",
+  "price": "10,- (pre-sale) 15,- (aan de deur)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22945,
+  "start": 1795201200,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22398,
+   "kind": "image",
+   "file": "22398.png"
+  },
+  "title": " Faux Real",
+  "lineup": "Faux Real",
+  "price": "€18,75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23022,
+  "start": 1795201200,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22508,
+   "kind": "image",
+   "file": "22508.jpg"
+  },
+  "title": "HACKEDEPICIOTTO + Glice ",
+  "lineup": "HACKEDEPICIOTTO, Glice ",
+  "price": "€13 (Presale) | €15 (Door)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23549,
+  "start": 1795201200,
+  "started": true,
+  "past": true,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23254,
+   "kind": "image",
+   "file": "23254.jpg"
+  },
+  "title": "Radiaction Noise Weekender day one",
+  "lineup": "SLOW_GIRLS - BLACK WIDOW  - SCARYWATCH DJ - QUANTUM DRIFT  - BEST REST - GREMLINS, GOBLINS AND RACCOONS - SURPRISE ACT",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23246,
+  "start": 1795201200,
+  "started": true,
+  "past": true,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22770,
+   "kind": "image",
+   "file": "22770.jpg"
+  },
+  "title": "YAFFA EP Release + The Earwurms",
+  "lineup": "YAFFA EP Release, The Earwurms",
+  "price": "8",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23353,
+  "start": 1795203000,
+  "started": true,
+  "past": true,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22889,
+   "kind": "image",
+   "file": "22889.jpg"
+  },
+  "title": "Lesvia + Mr. Dimitris and Mrs. Dimitroula",
+  "lineup": "Tzeli Hadjidimitriou | 2019, 2024 | Greece | 106’ | EN subtitles",
+  "price": "5",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23402,
+  "start": 1795203000,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 22978,
+   "kind": "image",
+   "file": "22978.png"
+  },
+  "title": "Triplet Move",
+  "lineup": "Chou Renyu,  Catarina Pinheiro Paiva & Polina Skarha, Eva Julia & Luc Voss",
+  "price": "19,50 ",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22955,
+  "start": 1795208400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22409,
+   "kind": "image",
+   "file": "22409.png"
+  },
+  "title": "Amsterdam Junglist Kru X Guerilla Bass ",
+  "lineup": "TBA",
+  "price": "8-10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 153,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23419,
+  "start": 1795257000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-4bid Gallery",
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 22952,
+   "kind": "image",
+   "file": "22952.jpg"
+  },
+  "title": "Unspoken: An Embodied Performance and Voice Lab",
+  "lineup": "Facilitated by Halina Mihutskaya",
+  "price": "10-15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23597,
+  "start": 1795258800,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23435,
+  "start": 1795275000,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22981,
+   "kind": "image",
+   "file": "22981.jpg"
+  },
+  "title": "Giulio Regeni - Tutto il male del mondo",
+  "lineup": "",
+  "price": "6",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23603,
+  "start": 1795280400,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23582,
+  "start": 1795280400,
+  "started": true,
+  "past": true,
+  "venue": "Friekens Brouwerij",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23187,
+   "kind": "image",
+   "file": "23187.jpg"
+  },
+  "title": "Bass Activated Saison - De Oorzaak",
+  "lineup": "De Oorzaak ",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23563,
+  "start": 1795284000,
+  "started": true,
+  "past": true,
+  "venue": "Queer library",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23168,
+   "kind": "image",
+   "file": "23168.png"
+  },
+  "title": "Queer Movie Night",
+  "lineup": "",
+  "price": "Free",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23072,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22589,
+   "kind": "image",
+   "file": "22589.jpg"
+  },
+  "title": "Abyss-2",
+  "lineup": "Unit Moebius Anonymous, Acidupdub, Light speed drivers, Rombout",
+  "price": "10",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 184,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23478,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23041,
+   "kind": "image",
+   "file": "23041.png"
+  },
+  "title": "Krav Boca + Emirhan X ",
+  "lineup": "",
+  "price": "16,-",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22946,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22399,
+   "kind": "image",
+   "file": "22399.png"
+  },
+  "title": "@ + Ellie O’Neill",
+  "lineup": "@, Ellie O’Neill",
+  "price": "€23,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23383,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22907,
+   "kind": "image",
+   "file": "22907.png"
+  },
+  "title": "12FU PRESENTS: ALLARME (PL) + ALL MALE VIDEOSHOP (NL) + PROM VAGABONDS (NL) + DJ DISKO MADS",
+  "lineup": "ALLARME , ALL MALE VIDEOSHOP, PROM VAGABONDS",
+  "price": "€10 (presale) | €12 (door)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23550,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23255,
+   "kind": "image",
+   "file": "23255.jpg"
+  },
+  "title": "Radiaction Noise Weekender day two",
+  "lineup": "STAUB - CHRONOTRON - NYMOKKU - BUCCAN SYSTEMS - INSTITUTE DES AILLEURS - LORRENOISE",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23585,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23189,
+   "kind": "image",
+   "file": "23189.jpg"
+  },
+  "title": "Room Number Three + Private View (Double-Bill)",
+  "lineup": "Noordhaus, Medeea Anton, Oisín Moyne, Ivan Pickman, Merijn Benning, Thomas van Halteren, Tim Leegte, Alex Manktelow, Szymon Brańka",
+  "price": "15,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23294,
+  "start": 1795287600,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22830,
+   "kind": "image",
+   "file": "22830.jpg"
+  },
+  "title": "Bao Sissoko & Afrogrooves",
+  "lineup": "Bao Sissoko & Afrogrooves",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22812,
+  "start": 1795289400,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 22255,
+   "kind": "image",
+   "file": "22255.jpg"
+  },
+  "title": "Ornament - première",
+  "lineup": "Dovilė Krutulytė",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23295,
+  "start": 1795341600,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22831,
+   "kind": "image",
+   "file": "22831.jpg"
+  },
+  "title": "Kora Muziek from Senegal by Bao Sissoko & Ibou Ndongue",
+  "lineup": "Bao Sissoko & Ibou Ndongue",
+  "price": "11,00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22303,
+  "start": 1795356000,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 21697,
+   "kind": "image",
+   "file": "21697.png"
+  },
+  "title": "Nieuwe Noten Amsterdam: Sounds Like Juggling INVITES",
+  "lineup": "Arthur Wagenaar, Guido van Hout, Junior Martir, Wouter Kuyper, Jalli Lamin Kuyateh",
+  "price": "12,50 (vanaf)",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23645,
+  "start": 1795356000,
+  "started": true,
+  "past": true,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23258,
+   "kind": "image",
+   "file": "23258.png"
+  },
+  "title": "De grote kerst Comme Tu Veux Wijnproeverij",
+  "lineup": "Comme Tu Veux",
+  "price": "19,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23636,
+  "start": 1795359600,
+  "started": true,
+  "past": true,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 23230,
+   "kind": "image",
+   "file": "23230.png"
+  },
+  "title": "Sunday Feminist Discussion: Gender Based Violence",
+  "lineup": "",
+  "price": "0",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23296,
+  "start": 1795359600,
+  "started": true,
+  "past": true,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22832,
+   "kind": "image",
+   "file": "22832.jpg"
+  },
+  "title": "KRH & De Huiskamerband – Muziek- en theatershow",
+  "lineup": "Omar, Roghan en Pieter ",
+  "price": "17,50",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23232,
+  "start": 1795359600,
+  "started": true,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22754,
+   "kind": "image",
+   "file": "22754.jpg"
+  },
+  "title": "Ledenconcert Anne La Berge",
+  "lineup": "Splendor musician in the spot light",
+  "price": "18.00",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23428,
+  "start": 1795370400,
+  "started": true,
+  "past": true,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22976,
+   "kind": "image",
+   "file": "22976.jpg"
+  },
+  "title": "Mengelmoes | Hodgepodge of interdisciplinary performances",
+  "lineup": "Akiko Mik, Nadia Tomazenko, Dimitra Sofroniou",
+  "price": "11.75",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23479,
+  "start": 1795449600,
+  "started": false,
+  "past": false,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 14635,
+   "kind": "image",
+   "file": "14635.png"
+  },
+  "title": "Eetcafe: Bar la Papa   ",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23486,
+  "start": 1795458600,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23044,
+   "kind": "image",
+   "file": "23044.jpg"
+  },
+  "title": "NUKI",
+  "lineup": "NUKI",
+  "price": "€21,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111714493",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23343,
+  "start": 1795460400,
+  "started": false,
+  "past": true,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22878,
+   "kind": "image",
+   "file": "22878.jpeg"
+  },
+  "title": "David Dramm presents: ZaZoo: Teeth like Pearls",
+  "lineup": "Debut EP Release Concert",
+  "price": "15",
+  "presale": false,
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23480,
+  "start": 1795521600,
+  "started": false,
+  "past": false,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22261,
+   "kind": "image",
+   "file": "22261.png"
+  },
+  "title": "Kulture Kitchen Kraft Korner",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22947,
+  "start": 1795546800,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22400,
+   "kind": "image",
+   "file": "22400.png"
+  },
+  "title": " Liturgy (solo)",
+  "lineup": "Liturgy ",
+  "price": "€18,00",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111688348",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23598,
+  "start": 1795604400,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23399,
+  "start": 1795624200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22922,
+   "kind": "image",
+   "file": "22922.jpg"
+  },
+  "title": "Short film programme: The Art of Being You, followed by a panel",
+  "lineup": "Humans of Film Festival – Sixth edition",
+  "price": "8",
+  "presale": "https://filmhuis-cavia.sumupstore.com/products",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21364,
+  "start": 1795631400,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 20722,
+   "kind": "image",
+   "file": "20722.png"
+  },
+  "title": "Wrest",
+  "lineup": "Wrest",
+  "price": "17",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111622840",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23398,
+  "start": 1795631400,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 19753,
+   "kind": "image",
+   "file": "19753.png"
+  },
+  "title": "Workshop: Draw Naked People",
+  "lineup": "",
+  "price": "Donation based",
+  "presale": "https://occii.org/events/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23401,
+  "start": 1795632000,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22925,
+   "kind": "image",
+   "file": "22925.jpg"
+  },
+  "title": "I Built a Rocket Imagining your Arrival (2026)",
+  "lineup": "Humans of Film Festival – Sixth edition",
+  "price": "8",
+  "presale": "https://filmhuis-cavia.sumupstore.com/products",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23440,
+  "start": 1795633200,
+  "started": false,
+  "past": false,
+  "venue": "LIMA",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 22982,
+   "kind": "image",
+   "file": "22982.png"
+  },
+  "title": "Digital Care: Moniek Toebosch",
+  "lineup": "Maaike Bleeker, Willem van Weelden, Wineke Gartz, Mayke Nas, Samuel Vriezen",
+  "price": "Registration via Eventbrite (pay as you like)",
+  "presale": "https://www.eventbrite.com/e/digital-care-moniek-toebosch-tickets-2002707481990?aff=oddtdtcreator&keep_tld=true",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23344,
+  "start": 1795635000,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22879,
+   "kind": "image",
+   "file": "22879.png"
+  },
+  "title": "Mike del Ferro – Solo Concert",
+  "lineup": "Original compositions & free interpretations of jazz standards",
+  "price": "18",
+  "presale": "https://splendor.stager.co/shop/default/events/111681859",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23599,
+  "start": 1795690800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23403,
+  "start": 1795710600,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 23148,
+   "kind": "image",
+   "file": "23148.jpg"
+  },
+  "title": "Workshop: Cinematic Climate Action!",
+  "lineup": "Humans of Film Festival – Sixth edition",
+  "price": "",
+  "presale": "forms.gle/HhzNGoU9sKa1EznKA",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23606,
+  "start": 1795712400,
+  "started": false,
+  "past": false,
+  "venue": "pos (possibilities open studio)",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23196,
+   "kind": "image",
+   "file": "23196.jpeg"
+  },
+  "title": "mist | 26-11-26 | 18:00-23:00",
+  "lineup": "AMÆMI (live),\r\nLulá Luna & Andy (hybrid),\r\nsilver pearl (hybrid),\r\n",
+  "price": "11",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 54,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23404,
+  "start": 1795716900,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22934,
+   "kind": "image",
+   "file": "22934.jpg"
+  },
+  "title": "Simsim (2025)",
+  "lineup": "Humans of Film Festival – Sixth edition",
+  "price": "8",
+  "presale": "https://filmhuis-cavia.sumupstore.com/products",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23222,
+  "start": 1795717800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22738,
+   "kind": "image",
+   "file": "22738.png"
+  },
+  "title": "Gazing into the Abyss",
+  "lineup": "Hidden Since the Foundation of the World, Crashing, Farer",
+  "price": "10",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 220,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 21830,
+  "start": 1795719600,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 21128,
+   "kind": "image",
+   "file": "21128.png"
+  },
+  "title": "Shaking Hand",
+  "lineup": "Shaking Hand",
+  "price": "17,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111636630",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23297,
+  "start": 1795719600,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22833,
+   "kind": "image",
+   "file": "22833.jpg"
+  },
+  "title": "Musical Encounters serie: Yoràn Vroom invites… Remy van Kesteren",
+  "lineup": "Yoràn Vroom invites… Remy van Kesteren",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/thu-26-nov-2026-musical-encounters-serie-yoran-vroom-invites-remy-van-kesteren",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23611,
+  "start": 1795719600,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23203,
+   "kind": "image",
+   "file": "23203.jpg"
+  },
+  "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 years!",
+  "lineup": "",
+  "price": "15",
+  "presale": "https://mezrab.nl/events/clubamsterdamklezmer-band/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23345,
+  "start": 1795719600,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22880,
+   "kind": "image",
+   "file": "22880.png"
+  },
+  "title": "Peter Prommel presents: Project Escape",
+  "lineup": "Trio plays Paul Simon, Anthony Fiumara, Andy Scott, Bill Evans and more",
+  "price": "12,50",
+  "presale": "https://splendor.stager.co/shop/default/events/111708975",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22811,
+  "start": 1795721400,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23011,
+   "kind": "image",
+   "file": "23011.png"
+  },
+  "title": "XOXO KASSANDRA",
+  "lineup": "Chapter 58 (Antti Uimonen, Flore Muuse, and Sofia Garcia Miramon.)",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111692112",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23449,
+  "start": 1795721400,
+  "started": false,
+  "past": false,
+  "venue": "A Lab",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23007,
+   "kind": "image",
+   "file": "23007.JPG"
+  },
+  "title": "Jazz at A Lab #13 - Frits Steeghs Carte Blanche",
+  "lineup": "Frits Steeghs - drums, Evan van der Feen - piano, Siebren Smink - gitaar, Samuel Kiel - bas",
+  "price": "0",
+  "presale": "https://www.eventbrite.nl/e/jazz-at-a-lab-13-frits-steeghs-carte-blanche-tickets-2003965769562?aff=AA",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23619,
+  "start": 1795725000,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1011,
+   "label": "Poetry, reading, literature"
+  },
+  "header": {
+   "id": 23212,
+   "kind": "image",
+   "file": "23212.jpg"
+  },
+  "title": "Literanita x Tijdelijke Toon",
+  "lineup": "Lenny van hout, Diana Ozon, Martje Wijers, Raoul de Klerk & Rende Arends en Wilany Germano",
+  "price": "5-15",
+  "presale": "https://www.ticketview.nl/shop/stichtingdenieuweanita?eventID=8329",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23600,
+  "start": 1795777200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23481,
+  "start": 1795780800,
+  "started": false,
+  "past": false,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 14633,
+   "kind": "image",
+   "file": "14633.png"
+  },
+  "title": "Green Ass Garden(ing) ",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23452,
+  "start": 1795789800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 23015,
+   "kind": "image",
+   "file": "23015.jpeg"
+  },
+  "title": "Astrology Club",
+  "lineup": "",
+  "price": "10 donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23456,
+  "start": 1795795200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23022,
+   "kind": "image",
+   "file": "23022.jpg"
+  },
+  "title": "PALESTINIAN PERSPECTIVES",
+  "lineup": "Humans of Film Festival (HoFF) and Palestinian Film Festival Amsterdam (PFFA)",
+  "price": "8",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 46,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23482,
+  "start": 1795795200,
+  "started": false,
+  "past": false,
+  "venue": "ADMnoord - ‘t Groene Veld",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 13172,
+   "kind": "image",
+   "file": "13172.png"
+  },
+  "title": "Eetcafé ADM Noord  ",
+  "lineup": "",
+  "price": "12,50",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23604,
+  "start": 1795798800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23493,
+  "start": 1795798800,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22207,
+   "kind": "image",
+   "file": "22207.jpg"
+  },
+  "title": "The Territory",
+  "lineup": "Alex Pritz | 2022 | Brazil, Denmark, USA | 85’ | EN subtitles ",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23638,
+  "start": 1795798800,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23235,
+   "kind": "image",
+   "file": "23235.png"
+  },
+  "title": "Brazilian Night Open Mic & Ivan's seventy years young celebration.",
+  "lineup": "",
+  "price": "-",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23457,
+  "start": 1795802400,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23029,
+   "kind": "image",
+   "file": "23029.png"
+  },
+  "title": "[WHERE] I BELONG - 2ND SHORTS COMPETITION (social prorgammers)",
+  "lineup": "Humans of Film Festival (HoFF)",
+  "price": "8",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 47,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 16432,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23048,
+   "kind": "image",
+   "file": "23048.jpg"
+  },
+  "title": "Fax & Friends:  Fax Machine + The Volleys + Spull | (ep release)",
+  "lineup": "Fax Machine, The Volleys, Spull ",
+  "price": "€15,00",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111694600",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "https://www.facebook.com/events/1603837260161601",
+  "adult": 0
+ },
+ {
+  "id": 23385,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22908,
+   "kind": "image",
+   "file": "22908.jpg"
+  },
+  "title": "MAKING MUSIC IN TIMES OF AUTHORITARIANISM. FILM & TALK WITH MISSISSIPPI RECORDS FOUNDER, ERIC ISAACSON + BHAJAN BHOY (Solo Set)",
+  "lineup": "Eric Isaacson, Bhajan Bhoy ",
+  "price": "€12 (presale) | €15 (door)",
+  "presale": "https://occii.org/events/a-peoples-history-of-music/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23586,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23190,
+   "kind": "image",
+   "file": "23190.jpg"
+  },
+  "title": "Mrs Dalloway",
+  "lineup": "Bird Brain Theatre, Imogen Cooper",
+  "price": "15,50",
+  "presale": "https://badhuistheater.weticket.io/mrs-dalloway/timeslots?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23247,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22771,
+   "kind": "image",
+   "file": "22771.jpg"
+  },
+  "title": "Cosey Mueller, Camy Huot, CVPID & DJ Trish Trash | Grauzone x Geregeld Ontregeld",
+  "lineup": "Cosey Mueller, Camy Huot & CVPID, Trish Trash",
+  "price": "12,50",
+  "presale": "https://www.ticketview.nl/shop/stichtingdenieuweanita?eventID=8417",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23298,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22834,
+   "kind": "image",
+   "file": "22834.jpg"
+  },
+  "title": "Gafieira Social Club by Cabaret Brasil",
+  "lineup": "Daniel Montes (7-string guitar) - Waguinho Vasconcelos (drums) and Luis Mascaro (violin).",
+  "price": "15,00",
+  "presale": "https://munganga.nl/programma/fri-27-nov-2026-2000-gafieira-social-club-by-cabaret-brasil",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22987,
+  "start": 1795806000,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22458,
+   "kind": "image",
+   "file": "22458.png"
+  },
+  "title": "(F)Luister Muziektheater presenteert Opera Mic Night #4",
+  "lineup": "Piano: Adelina Gansvind | Zangers: Konstantina Christodoulou, Vanessa Guinadi, Sasja Haeck, Jitze van der Land, Yulietta Quevedo, Jessica Stakenburg en Pavel Zelenev",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111696594",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23352,
+  "start": 1795807800,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 22888,
+   "kind": "image",
+   "file": "22888.png"
+  },
+  "title": "Mattijs van de Woerd presents: Van Istanbul naar Marrakech",
+  "lineup": "Mediterraneo band & special guest Salah Eddin Mosbah (vocals)",
+  "price": "25.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111695842",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23070,
+  "start": 1795809600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23047,
+   "kind": "image",
+   "file": "23047.jpg"
+  },
+  "title": "Stepping Through",
+  "lineup": "LSB, ​​​​​​​Noppo, WLLM, Wolf Pax, Zar",
+  "price": "14",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 241,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23514,
+  "start": 1795809600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23095,
+   "kind": "image",
+   "file": "23095.jpeg"
+  },
+  "title": "Humans of Film Festival Party with DJ Rasureitor",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23601,
+  "start": 1795863600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 20120,
+   "kind": "image",
+   "file": "20120.png"
+  },
+  "title": "Lunch at Café Gilde",
+  "lineup": "",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23354,
+  "start": 1795870800,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22891,
+   "kind": "image",
+   "file": "22891.jpeg"
+  },
+  "title": "Member concert Emine Bostancı",
+  "lineup": "Raaf Hekkema (sax) & Emine Bostancı (kemenche & Cretan lyra)",
+  "price": "18.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111681860",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23564,
+  "start": 1795874400,
+  "started": false,
+  "past": false,
+  "venue": "Queer library",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 23169,
+   "kind": "image",
+   "file": "23169.png"
+  },
+  "title": "Bookclub - Swing Time by Zadie Smith",
+  "lineup": "",
+  "price": "Free",
+  "presale": "https://stichting-queertopia.weticket.io/bookclub-swing-time-by-zadie-smith/shop",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23605,
+  "start": 1795885200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Café Gilde",
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 19999,
+   "kind": "image",
+   "file": "19999.jpeg"
+  },
+  "title": "Dinner at Café Gilde",
+  "lineup": "",
+  "price": "10",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22948,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22401,
+   "kind": "image",
+   "file": "22401.png"
+  },
+  "title": " LA ÉLITE + eigen risico + feral",
+  "lineup": " LA ÉLITE, eigen risico, feral",
+  "price": "€18,00",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111645144",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23387,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22909,
+   "kind": "image",
+   "file": "22909.png"
+  },
+  "title": "Ragdawl presents: Tray + Shitman + Honey Blonde",
+  "lineup": "Tray, Shitman, Honey Blonde",
+  "price": "€10 (presale) | €12 (door)",
+  "presale": "https://occii.org/events/ragdawl-presents-tray-shitman-honey-blonde/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23625,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "Vondelbunker",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23221,
+   "kind": "image",
+   "file": "23221.jpg"
+  },
+  "title": "Space Invadrz Division meets Teknotika Records Detroit ",
+  "lineup": "Gary Martin - DJ Drum:Major2525 - REDMADVELVET",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23587,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23190,
+   "kind": "image",
+   "file": "23190.jpg"
+  },
+  "title": "Mrs Dalloway",
+  "lineup": "Bird Brain Theatre, Imogen Cooper",
+  "price": "15,50",
+  "presale": "https://badhuistheater.weticket.io/mrs-dalloway/timeslots?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22664,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22106,
+   "kind": "image",
+   "file": "22106.jpg"
+  },
+  "title": "SHAKE-OUT Party Nov issue",
+  "lineup": "Primo & de Primo’s + DJ Charley",
+  "price": "10",
+  "presale": "https://www.ticketkantoor.nl/shop/primo",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "https://www.facebook.com/events/1385966506828678/",
+  "adult": 0
+ },
+ {
+  "id": 23299,
+  "start": 1795892400,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22835,
+   "kind": "image",
+   "file": "22835.jpg"
+  },
+  "title": "Night Dreamer by The New Conrad Miller Trio",
+  "lineup": "Coen Molenaar, David de Marez Oyens, Mark Eshuis.",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sat-28-nov-2026-2000-night-dreamer-by-the-new-conrad-miller-trio",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23405,
+  "start": 1795894200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22936,
+   "kind": "image",
+   "file": "22936.jpg"
+  },
+  "title": "Best of Kaboom Animation Festival",
+  "lineup": "Six animated shorts",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22142,
+  "start": 1795894200,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 21524,
+   "kind": "image",
+   "file": "21524.JPG"
+  },
+  "title": "Opium Flower / 罌粟花",
+  "lineup": "GroundBreakers Modern Dance Amsterdam in samenwerking met Chang Dance Theatre (TW)",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111665235",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23012,
+  "start": 1795896000,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22496,
+   "kind": "image",
+   "file": "22496.png"
+  },
+  "title": "Unknown Electronics 24",
+  "lineup": "Peramore, Aria Marzen, Plastique01, Lenfant_Soleil, Lorenzo Donato",
+  "price": "11",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 271,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23612,
+  "start": 1795897800,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23204,
+   "kind": "image",
+   "file": "23204.jpg"
+  },
+  "title": "Vintage Voudou dance night ★ Planet Ilunga Congo special + Listening in the dark session ♫",
+  "lineup": "",
+  "price": "10",
+  "presale": "https://mezrab.nl/events/vintage-voudou-november/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23300,
+  "start": 1795946400,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22836,
+   "kind": "image",
+   "file": "22836.jpg"
+  },
+  "title": "Melodies around the world by Susana Raya & Jeroen Vierdag",
+  "lineup": "Susana Raya – vocals & guitars\r\nJeroen Vierdag – double bass & electric bass",
+  "price": "11,00",
+  "presale": "https://munganga.nl/programma/sun-29-nov-2026-1100-melodies-around-the-world-by-susana-raya-jeroen-vierdag",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23640,
+  "start": 1795953600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23240,
+   "kind": "image",
+   "file": "23240.png"
+  },
+  "title": "SAMEN - Film Screening & Panel Discussion",
+  "lineup": "Restory - Beyond burnout, together",
+  "price": "0",
+  "presale": "https://luma.com/etr4x26h",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23623,
+  "start": 1795960800,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1000,
+   "label": "Bar"
+  },
+  "header": {
+   "id": 23216,
+   "kind": "image",
+   "file": "23216.png"
+  },
+  "title": "Benefit to support the struggle in Barroso",
+  "lineup": "mini market, bakesale, live screenprinting and more!",
+  "price": "free donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21988,
+  "start": 1795960800,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 21298,
+   "kind": "image",
+   "file": "21298.jpg"
+  },
+  "title": "De voorstelling die niet gezien wil worden (6+)",
+  "lineup": "Gesneden Koek",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111599062",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23641,
+  "start": 1795962600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23243,
+   "kind": "image",
+   "file": "23243.jpg"
+  },
+  "title": "I’m Perfectly Fine - Film Screening & Panel Discussion",
+  "lineup": "Restory - Beyond burnout, together",
+  "price": "0",
+  "presale": "https://luma.com/etr4x26h",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23301,
+  "start": 1795964400,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22837,
+   "kind": "image",
+   "file": "22837.jpg"
+  },
+  "title": "Susana Raya & Jeroen Vierdag – New original music & beloved songs reimagined",
+  "lineup": "Susana Raya & Jeroen Vierdag",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sun-29-nov-2026-1600-susana-raya-jeroen-vierdag-new-original-music-beloved-songs-reimagined",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23588,
+  "start": 1795968000,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23190,
+   "kind": "image",
+   "file": "23190.jpg"
+  },
+  "title": "Mrs Dalloway",
+  "lineup": "Bird Brain Theatre, Imogen Cooper",
+  "price": "15,50",
+  "presale": "https://badhuistheater.weticket.io/mrs-dalloway/timeslots?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23338,
+  "start": 1795977000,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22875,
+   "kind": "image",
+   "file": "22875.jpg"
+  },
+  "title": "Otto Club @ Tempel",
+  "lineup": "Otto Club",
+  "price": "€15,00",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111709922",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23356,
+  "start": 1795978800,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22892,
+   "kind": "image",
+   "file": "22892.jpeg"
+  },
+  "title": "Nora Fischer presents: Pale Thoughts",
+  "lineup": "Forbidden music in performance, film, and storytelling",
+  "price": "19.50",
+  "presale": "https://splendor.stager.co/shop/default/events/111704264",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23446,
+  "start": 1795980600,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22987,
+   "kind": "image",
+   "file": "22987.jpg"
+  },
+  "title": "Chronovisor",
+  "lineup": "Kevin Walker & Jack Auen | 2026 | USA | 99’ | EN subtitles (for non-English language parts)",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23397,
+  "start": 1796065200,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22918,
+   "kind": "image",
+   "file": "22918.jpg"
+  },
+  "title": "World’s Appreciated Kitsch Screening time: JAWBREAKER: A Film About Anti-Cimex",
+  "lineup": "",
+  "price": "donation based",
+  "presale": "https://occii.org/events/wak-jawbreaker/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23644,
+  "start": 1796067000,
+  "started": false,
+  "past": false,
+  "venue": "Salon de IJzerstaven",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23294,
+   "kind": "image",
+   "file": "23294.png"
+  },
+  "title": "Impro: Electronics meets Accoustic",
+  "lineup": "Mark Lotz\r\nClaudio Puntin\r\nJeroen van Vliet",
+  "price": "15",
+  "presale": "https://shop.ikbenaanwezig.nl/tickets/event/30-november-art-techno-minimal-night",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23115,
+  "start": 1796151600,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22659,
+   "kind": "image",
+   "file": "22659.jpg"
+  },
+  "title": "KyoYoko | i.s.m. Yugofuturism & GAG",
+  "lineup": "KyoYoko",
+  "price": "€16,00",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111701566",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23368,
+  "start": 1796234400,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 22896,
+   "kind": "image",
+   "file": "22896.png"
+  },
+  "title": "Zine Nite Amsterdam ",
+  "lineup": "",
+  "price": "free/ donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21831,
+  "start": 1796236200,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 21129,
+   "kind": "image",
+   "file": "21129.png"
+  },
+  "title": "Abel Ghekiere",
+  "lineup": "Abel Ghekiere",
+  "price": "18",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111647793",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23303,
+  "start": 1796238000,
+  "started": false,
+  "past": false,
+  "venue": "[ woonruimte coöperatief ]",
+  "venue_room": false,
+  "type": {
+   "id": 1011,
+   "label": "Poetry, reading, literature"
+  },
+  "header": {
+   "id": 23135,
+   "kind": "image",
+   "file": "23135.jpg"
+  },
+  "title": "common ground: Magic futures",
+  "lineup": "Chidi Ebere",
+  "price": "0",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 24,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23620,
+  "start": 1796239800,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23213,
+   "kind": "image",
+   "file": "23213.jpg"
+  },
+  "title": "Thor Kissing + Harry Merry + Harry Mulisch",
+  "lineup": "Thor Kissing, Harry Merry, Harry Mulisch",
+  "price": "6-10",
+  "presale": "https://www.ticketview.nl/shop/stichtingdenieuweanita?eventID=8549",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23388,
+  "start": 1796324400,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22910,
+   "kind": "image",
+   "file": "22910.jpg"
+  },
+  "title": "DIS FIG (US, Thrill Jockey) + ASCH (Geseling + Svartvit)",
+  "lineup": "Dis Fig, Asch",
+  "price": "€10 (presale) | €12 (door)",
+  "presale": "https://occii.org/events/dis-fig-asch/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23529,
+  "start": 1796324400,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23134,
+   "kind": "image",
+   "file": "23134.jpg"
+  },
+  "title": "Jespfur - Iftangible, AMS release show.",
+  "lineup": "Jespfur + Bby Eco (dj)",
+  "price": "Free",
+  "presale": "https://link.dice.fm/l1d7b5b3d6bc",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23590,
+  "start": 1796324400,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23192,
+   "kind": "image",
+   "file": "23192.jpg"
+  },
+  "title": "All-Star Maestro!",
+  "lineup": "Kevin Miller; All-Star Maestro Champions",
+  "price": "13",
+  "presale": "https://badhuistheater.weticket.io/maestro-dec/shop?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23309,
+  "start": 1796324400,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22847,
+   "kind": "image",
+   "file": "22847.jpg"
+  },
+  "title": "Ola Rud: JazzDrama feat. Pietro Aloi and Mauro Cottone",
+  "lineup": "Pietro Aloi and Mauro Cottone",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/thu-03-dec-2026-2000-ola-rud-jazzdrama-feat-pietro-aloi-and-mauro-cottone",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23573,
+  "start": 1796324400,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23177,
+   "kind": "image",
+   "file": "23177.jpg"
+  },
+  "title": "Michael Moore presents: Cluster Formation Quartet // Sin Palabras - Albert van Veenendaal Solo",
+  "lineup": "Cluster Formation plays music by composer Anthony Braxton // Miniatures for solo piano",
+  "price": "18.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111714566",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23643,
+  "start": 1796326200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22521,
+   "kind": "image",
+   "file": "22521.jpg"
+  },
+  "title": "Brazil Unfiltered: 'Piripkura'",
+  "lineup": "Renata Terra, Mariana Oliva, Bruno Jorge | 2017 | Brazil | 81’ | EN subtitles",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23613,
+  "start": 1796328000,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23205,
+   "kind": "image",
+   "file": "23205.png"
+  },
+  "title": "Banda Entopica ★ Traditional Street Band from Greece ★ Salón Sonoro",
+  "lineup": "",
+  "price": "18",
+  "presale": "https://mezrab.nl/events/banda-entopica/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23536,
+  "start": 1796400000,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23142,
+   "kind": "image",
+   "file": "23142.jpg"
+  },
+  "title": "Where Russia Ends (2024) + A Small Digression (2025)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23537,
+  "start": 1796407200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23144,
+   "kind": "image",
+   "file": "23144.jpg"
+  },
+  "title": "5 Broken Cameras (2011)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23634,
+  "start": 1796407200,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23293,
+   "kind": "image",
+   "file": "23293.png"
+  },
+  "title": "Queer Latin Night Amsterdam! ",
+  "lineup": "",
+  "price": "donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22621,
+  "start": 1796410800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22071,
+   "kind": "image",
+   "file": "22071.jpeg"
+  },
+  "title": "Resonance",
+  "lineup": "TBA",
+  "price": "10",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 219,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23618,
+  "start": 1796410800,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23211,
+   "kind": "image",
+   "file": "23211.jpg"
+  },
+  "title": "Cumbia Sabrosa",
+  "lineup": "T.E.C.A., Los Soniditos, DJ Peper",
+  "price": "10-12",
+  "presale": "https://www.ticketview.nl/shop/stichtingdenieuweanita?eventID=8578&klassiek=1",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23574,
+  "start": 1796411700,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23178,
+   "kind": "image",
+   "file": "23178.png"
+  },
+  "title": "Heleen Hulst presents: Maar wat er ook gebeurt er klinkt muziek",
+  "lineup": "Reprise van de voorstelling van Olga Zuiderhoek en Gerard Bouwhuis",
+  "price": "20.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111653623",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22567,
+  "start": 1796412600,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22031,
+   "kind": "image",
+   "file": "22031.png"
+  },
+  "title": "RASA: Fado and Kathak - An Emotional Journey Across Cultures",
+  "lineup": "Casa de Fado & Art Uncurated",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111684417",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23538,
+  "start": 1796417100,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23145,
+   "kind": "image",
+   "file": "23145.jpg"
+  },
+  "title": "Up Against the Wall Motherfuckers! (2013) + Breaking the Spell (1999)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23539,
+  "start": 1796464800,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23147,
+   "kind": "image",
+   "file": "23147.jpg"
+  },
+  "title": "Xala (1975)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23540,
+  "start": 1796476500,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23149,
+   "kind": "image",
+   "file": "23149.jpg"
+  },
+  "title": "Love and Revolution (2018) ",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23541,
+  "start": 1796486400,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23150,
+   "kind": "image",
+   "file": "23150.jpg"
+  },
+  "title": "Luciano (2008)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23542,
+  "start": 1796496300,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23151,
+   "kind": "image",
+   "file": "23151.jpg"
+  },
+  "title": "Unrest / Unrueh (2022)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23118,
+  "start": 1796497200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22665,
+   "kind": "image",
+   "file": "22665.jpg"
+  },
+  "title": "Melanż",
+  "lineup": "Dominika Karaszewska, ​​​​​​​Fred x Rick, RICHI, NEFRIS",
+  "price": "8-11",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 252,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23591,
+  "start": 1796497200,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23193,
+   "kind": "image",
+   "file": "23193.jpg"
+  },
+  "title": "Rauwe Vitrage gelooft nog",
+  "lineup": "Rauwe Vitrage",
+  "price": "18",
+  "presale": "https://badhuistheater.weticket.io/rauwe-vitrage-gelooft-nog/shop?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23576,
+  "start": 1796498100,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23178,
+   "kind": "image",
+   "file": "23178.png"
+  },
+  "title": "Heleen Hulst presents: Maar wat er ook gebeurt er klinkt muziek",
+  "lineup": "Reprise van de voorstelling van Olga Zuiderhoek en Gerard Bouwhuis",
+  "price": "20.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111653623",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23513,
+  "start": 1796500800,
+  "started": false,
+  "past": false,
+  "venue": "Restaurant Elixer",
+  "venue_room": false,
+  "type": {
+   "id": 1003,
+   "label": "Dance performance"
+  },
+  "header": {
+   "id": 23092,
+   "kind": "image",
+   "file": "23092.jpeg"
+  },
+  "title": "God Save the Queers: The Panto",
+  "lineup": "Charlene Coco",
+  "price": "15",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 48,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23543,
+  "start": 1796505300,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23152,
+   "kind": "image",
+   "file": "23152.jpg"
+  },
+  "title": "Barber Westchester (2022)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23544,
+  "start": 1796551200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23153,
+   "kind": "image",
+   "file": "23153.jpg"
+  },
+  "title": "Tonratun (2022)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23311,
+  "start": 1796551200,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22848,
+   "kind": "image",
+   "file": "22848.jpg"
+  },
+  "title": "Escape to the North-East: a journey through the rhythms and melodies of Dominguinhos",
+  "lineup": "Guitar: Tiago Lageira\r\nPiano: Pietro Aloi",
+  "price": "11,00",
+  "presale": "https://munganga.nl/programma/sun-06-dec-2026-1100-escape-to-the-north-east-a-journey-through-the-rhythms-and-melodies-of-dominguinhos",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23627,
+  "start": 1796554800,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1007,
+   "label": "Food, kitchen"
+  },
+  "header": {
+   "id": 23223,
+   "kind": "image",
+   "file": "23223.png"
+  },
+  "title": "Cozy Sunday: Lunch & Boeklezing over Frank Essed",
+  "lineup": "Roy Khemradj",
+  "price": "17,50",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111716116",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23545,
+  "start": 1796560200,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23154,
+   "kind": "image",
+   "file": "23154.jpg"
+  },
+  "title": "Castration Movie Anthology ⅗ Year of the Hyaena (2026)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23642,
+  "start": 1796562000,
+  "started": false,
+  "past": false,
+  "venue": "Tram House",
+  "venue_room": false,
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 23244,
+   "kind": "image",
+   "file": "23244.jpg"
+  },
+  "title": "1234kleding end of the year sale",
+  "lineup": "",
+  "price": "Free",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23577,
+  "start": 1796565600,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23179,
+   "kind": "image",
+   "file": "23179.png"
+  },
+  "title": "Michael Moore presents: Thelonious Monk - clarinet",
+  "lineup": "Michael plays Monk",
+  "price": "18.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111681861",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23637,
+  "start": 1796569200,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1005,
+   "label": "Exhibition, art"
+  },
+  "header": {
+   "id": 23231,
+   "kind": "image",
+   "file": "23231.png"
+  },
+  "title": "Zine Release Party: Live audio collage & Join in session",
+  "lineup": "",
+  "price": "-",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23320,
+  "start": 1796569200,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22857,
+   "kind": "image",
+   "file": "22857.jpg"
+  },
+  "title": "Vientos del Sur, swinging music from the Southern",
+  "lineup": "Esther Veldhuis, zang\r\nAlain Labrie, gitaar\r\nFranklin Heilijgers, bass\r\nOlaf Keus, drumstel, percussie",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sun-06-dec-2026-1600-vientos-del-sur-swinging-music-from-the-southern",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23460,
+  "start": 1796580000,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23033,
+   "kind": "image",
+   "file": "23033.jpeg"
+  },
+  "title": "Devagan ",
+  "lineup": "",
+  "price": "7",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 59,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23390,
+  "start": 1796583600,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22911,
+   "kind": "image",
+   "file": "22911.png"
+  },
+  "title": "Pretty Ontregeld: Findom (London) + Blanco Teta (Buenos Aires)",
+  "lineup": "Findom, Blanco Teta ",
+  "price": "€11 (presale) | €13 (door)",
+  "presale": "https://occii.org/events/findom-blanco-teta/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23547,
+  "start": 1796583600,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23262,
+   "kind": "image",
+   "file": "23262.jpg"
+  },
+  "title": "Dandy Dust (1998)",
+  "lineup": "Anarchist Film Festival",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23411,
+  "start": 1796670000,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23261,
+   "kind": "image",
+   "file": "23261.jpg"
+  },
+  "title": "Reel Dykes #1: The Activist Screening",
+  "lineup": "Dyke March x Filmhuis Cavia, in collaboration with IHLIA",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23578,
+  "start": 1796670000,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23180,
+   "kind": "image",
+   "file": "23180.png"
+  },
+  "title": "Michael Moore presents: Felicity Provan Quartet // Bassemble Önder",
+  "lineup": "Double Bill – Two Bands with Unusual Line-ups",
+  "price": "18.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111716677",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 21832,
+  "start": 1796754600,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 21130,
+   "kind": "image",
+   "file": "21130.png"
+  },
+  "title": "Alexandra Alden + Hana Fatur",
+  "lineup": "Alexandra Alden, Hana Fatur",
+  "price": "18",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111656655",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23566,
+  "start": 1796841000,
+  "started": false,
+  "past": false,
+  "venue": "LIMA",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23171,
+   "kind": "image",
+   "file": "23171.png"
+  },
+  "title": "LI-MA Presents: New Art on Screen",
+  "lineup": "Ghita Skali, Eoghan Ryan, Luna Maurer & Roel Wouters",
+  "price": "€7.5 ",
+  "presale": "https://www.lab111.nl/li-ma-presents-new-art-on-screen-2/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23425,
+  "start": 1796927400,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22971,
+   "kind": "image",
+   "file": "22971.jpg"
+  },
+  "title": "Her Loving Aftertaste | EP Release",
+  "lineup": "Her Loving Aftertaste",
+  "price": "€11,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111712937",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23322,
+  "start": 1797010200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 22860,
+   "kind": "player",
+   "file": "https://vimeo.com/1236959406?share=copy&fl=sv&fe=ci"
+  },
+  "title": "We Are Making A Film About Mark Fisher",
+  "lineup": "Simon Poulter",
+  "price": "5",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 41,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23391,
+  "start": 1797012000,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22912,
+   "kind": "image",
+   "file": "22912.png"
+  },
+  "title": "SPIRITUAL LAW (DE) + SNUTLICKERS (SE) + ANGSTMÄLER + GIF (DE) + SWERVE",
+  "lineup": "SPIRITUAL LAW, SNUTLICKERS, ANGSTMÄLER, GIF, SWERVE",
+  "price": "0€10 (presale) | €12 (door)",
+  "presale": "https://occii.org/events/hc-punk-ams/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23312,
+  "start": 1797012000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22849,
+   "kind": "image",
+   "file": "22849.jpg"
+  },
+  "title": "Gafieira Social Club by Cabaret Brasil",
+  "lineup": "Daniel Montes (7-string guitar) - Waguinho Vasconcelos (drums) and Luis Mascaro (violin).",
+  "price": "15,00",
+  "presale": "https://munganga.nl/programma/fri-11-dec-2026-2000-gafieira-social-club-by-cabaret-brasil",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23621,
+  "start": 1797015600,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23214,
+   "kind": "image",
+   "file": "23214.png"
+  },
+  "title": "Papieren Helden presenteert: Proefkonijn | HET STOMME VAN ALLES",
+  "lineup": "asha karami, Katinka van Gorkum, Sarah van Vliet, Sandra de Jong, Levi Vermeulen, Lieke Gorter en Berkman & Berkmann. ",
+  "price": "10-12",
+  "presale": "https://www.ticketview.nl/shop/stichtingdenieuweanita?eventID=8623&klassiek=1",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23646,
+  "start": 1797017400,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23266,
+   "kind": "image",
+   "file": "23266.png"
+  },
+  "title": "The Color Wheel",
+  "lineup": "Alex Ross Perry | 2011 | USA | 83’ | EN subtitles  ",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23447,
+  "start": 1797019200,
+  "started": false,
+  "past": false,
+  "venue": "Transit",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22988,
+   "kind": "image",
+   "file": "22988.jpg"
+  },
+  "title": "Jungle, Roots, Dancehall & More Jungle",
+  "lineup": "Nikolai, Calypso Steve, Peely",
+  "price": "5",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 22545,
+  "start": 1797022800,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 21978,
+   "kind": "image",
+   "file": "21978.jpg"
+  },
+  "title": "Cat in the bag - Jungle sessions",
+  "lineup": "DIAL-M, Bojcot, Tommy the cat, ​​​​​​​Bas FX",
+  "price": "8-12",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 263,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 22671,
+  "start": 1797076800,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1001,
+   "label": "Workshop, class"
+  },
+  "header": {
+   "id": 15436,
+   "kind": "image",
+   "file": "15436.png"
+  },
+  "title": "Repair Café | WeRepair",
+  "lineup": "",
+  "price": "free/ donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23624,
+  "start": 1797084000,
+  "started": false,
+  "past": false,
+  "venue": "Bajesdorp - GROND",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23218,
+   "kind": "image",
+   "file": "23218.jpg"
+  },
+  "title": "Happily Ever After - Ground(ing) continues",
+  "lineup": "TBC",
+  "price": "0",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23491,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23051,
+   "kind": "image",
+   "file": "23051.jpg"
+  },
+  "title": "VERVERSTIVAL: herder + lady overdrive + gabi + beatrice sberna + djalan-djalan + flat news + yulya divakova + goatmother ",
+  "lineup": "herder, lady overdrive, gabi, beatrice sberna,  djalan-djalan, flat news, yulya divakova, goatmother\r\n",
+  "price": "€11,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111716390",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23651,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23291,
+   "kind": "image",
+   "file": "23291.jpg"
+  },
+  "title": "Shake Out Party: Change The Mood!",
+  "lineup": "11 piece band Change The Mood!, Dj Charley Rhythm",
+  "price": "10",
+  "presale": "https://www.ticketkantoor.nl/shop/Change",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "https://www.facebook.com/events/1393307858798692",
+  "adult": 0
+ },
+ {
+  "id": 23412,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "Filmhuis Cavia",
+  "venue_room": false,
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23263,
+   "kind": "image",
+   "file": "23263.png"
+  },
+  "title": "Cavia in Concert: The Cabinet of Dr. Caligari  (at Nassaukerk)",
+  "lineup": "With live score by Bjørk Semey, Carlos Ayuso and Marcus Wärnheim",
+  "price": "8",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23313,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22850,
+   "kind": "image",
+   "file": "22850.jpg"
+  },
+  "title": "Paulinho Paes Trio – Brazilian Instrumental Music",
+  "lineup": "Paulinho Paes Trio",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sat-12-dec-2026-2000-paulinho-paes-trio-brazilian-instrumental-music",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23579,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23181,
+   "kind": "image",
+   "file": "23181.jpg"
+  },
+  "title": "Anne La Berge presents: Sietse van Erve - En de stilstaande tijd voor (elektro-)akoestisch ensemble",
+  "lineup": "Album release party with Anne La Berge, Dario Calderone, Gareth Davis and Sietse van Erve",
+  "price": "12.50",
+  "presale": "https://splendor.stager.co/shop/default/events/111708774",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23572,
+  "start": 1797102000,
+  "started": false,
+  "past": false,
+  "venue": "De Kade, Zaandam",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23175,
+   "kind": "image",
+   "file": "23175.jpg"
+  },
+  "title": "Festival: Wave Invasion",
+  "lineup": "Idleyes, The Medicines, Hollow Reflection, Designer Violence, Xtort., DJ Rara",
+  "price": "7,50",
+  "presale": "https://www.podiumdeflux.nl/event/wave-invasion-indie-playground",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23614,
+  "start": 1797103800,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23207,
+   "kind": "image",
+   "file": "23207.jpg"
+  },
+  "title": "Cabaret Saalik presents Rābkah ★ Swana Sounds ★ Libyan food ★ Belly Dance ♫ ",
+  "lineup": "",
+  "price": "11",
+  "presale": "https://mezrab.nl/events/cabaret-saalik-rabkah/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23430,
+  "start": 1797105600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22980,
+   "kind": "image",
+   "file": "22980.png"
+  },
+  "title": "Surveillance Technologies",
+  "lineup": "Lulu, Jeannot Longuie, Youknow, Antoinette, TheKnowDough",
+  "price": "10",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 265,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23315,
+  "start": 1797156000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22852,
+   "kind": "image",
+   "file": "22852.jpg"
+  },
+  "title": "Coleta & The Gilbratar’s",
+  "lineup": "Sybren Woudstra\r\nChristoph Walter\r\nLuuk Verstijnen\r\nColeta Dekker",
+  "price": "11,00",
+  "presale": "https://munganga.nl/programma/sun-13-dec-2026-1100-coleta-the-gilbratars",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22306,
+  "start": 1797170400,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 21707,
+   "kind": "image",
+   "file": "21707.jpg"
+  },
+  "title": "Nieuwe Noten Amsterdam: Kafka-Fragmente",
+  "lineup": "Keren Motseri (sopraan), Joseph Puglia (viool) \r\n",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/nieuwe-noten-amsterdam/events/111670460",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23560,
+  "start": 1797172200,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Ventilator Cinema",
+  "type": {
+   "id": 1006,
+   "label": "Film"
+  },
+  "header": {
+   "id": 23167,
+   "kind": "image",
+   "file": "23167.jpeg"
+  },
+  "title": "Minnie’s Romance & Danger cinema",
+  "lineup": "Bonnie & Clyde",
+  "price": "5",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 68,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23314,
+  "start": 1797174000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22851,
+   "kind": "image",
+   "file": "22851.jpg"
+  },
+  "title": "Samba Roots",
+  "lineup": "Naomi Bright              - Vocal\r\nDaniel Montes            - 7 strings guitar |\r\nMarcelo Motta            - 6 strings guitar\r\nSasa                    - Cavaquinho\r\nRafael Juzo              - Bass guitar\r\nSamuel Wang            - Trombone\r\nIgor Malungo.             - Vocal & percussão\r\nJeroen Hensel            - Vocal & percussão\r\nBaby do Pan          - Pandeiro\r\nWagner Vasconcelos - Drums",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sun-13-dec-2026-1600-samba-roots",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23565,
+  "start": 1797174000,
+  "started": false,
+  "past": false,
+  "venue": "Het Pand, Zaandam",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23170,
+   "kind": "image",
+   "file": "23170.jpg"
+  },
+  "title": "IndiePlayground op zondag",
+  "lineup": "Cashmyra, Vanity Box",
+  "price": "Gratis",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23580,
+  "start": 1797275700,
+  "started": false,
+  "past": false,
+  "venue": "Splendor",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23182,
+   "kind": "image",
+   "file": "23182.png"
+  },
+  "title": "Oene van Geel presents: Reflections – Brice Soniano String Quintet",
+  "lineup": "A musical interpretation of visual art as a space for stillness and contemplation",
+  "price": "18.00",
+  "presale": "https://splendor.stager.co/shop/default/events/111718333",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23633,
+  "start": 1797361200,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23228,
+   "kind": "image",
+   "file": "23228.jpg"
+  },
+  "title": "subbacultcha x seedlink+ present: Jazz Lambaux + Groupie",
+  "lineup": "Jazz Lambaux + Groupie",
+  "price": "€14,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111714321",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23592,
+  "start": 1797361200,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23195,
+   "kind": "image",
+   "file": "23195.jpg"
+  },
+  "title": "A Winter's Tale",
+  "lineup": "We Love Shakespeare Ensemble",
+  "price": "16",
+  "presale": "https://badhuistheater.weticket.io/winters-tale/timeslots?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23653,
+  "start": 1797444000,
+  "started": false,
+  "past": false,
+  "venue": "Nieuwland",
+  "venue_room": false,
+  "type": {
+   "id": 1015,
+   "label": "Talk"
+  },
+  "header": {
+   "id": 22896,
+   "kind": "image",
+   "file": "22896.png"
+  },
+  "title": "Zine Nite Amsterdam ",
+  "lineup": "",
+  "price": "free/ donation",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23593,
+  "start": 1797447600,
+  "started": false,
+  "past": false,
+  "venue": "Badhuistheater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23195,
+   "kind": "image",
+   "file": "23195.jpg"
+  },
+  "title": "A Winter's Tale ",
+  "lineup": "We Love Shakespeare Ensemble",
+  "price": "16",
+  "presale": "https://badhuistheater.weticket.io/winters-tale/timeslots?utm_source=amsterdamalternative&utm_medium=listing&utm_campaign=2026-11",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23316,
+  "start": 1797534000,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22853,
+   "kind": "image",
+   "file": "22853.jpg"
+  },
+  "title": "Tiago Lageira /// CD Release ‘Every Petal Tells A Story’",
+  "lineup": "Cas Jiskoot - Bass\r\nSander Smeets - Drums\r\nTiago Lageira - Guitar",
+  "price": "16,00",
+  "presale": "https://munganga.nl/programma/thu-17-dec-2026-2000-tiago-lageira-cd-release-every-petal-tells-a-story",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23522,
+  "start": 1797535800,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23113,
+   "kind": "image",
+   "file": "23113.png"
+  },
+  "title": "After the storm",
+  "lineup": "Bert Barten - Talking Trees",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111718878",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23615,
+  "start": 1797537600,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23208,
+   "kind": "image",
+   "file": "23208.png"
+  },
+  "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫ ",
+  "lineup": "",
+  "price": "14,50",
+  "presale": "https://mezrab.nl/events/tarab-machine/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22979,
+  "start": 1797620400,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22448,
+   "kind": "image",
+   "file": "22448.png"
+  },
+  "title": "10 JAAR KERST MET STIPPENLIFT",
+  "lineup": "Stippenlift",
+  "price": "€17,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111634665",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23250,
+  "start": 1797622200,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 22779,
+   "kind": "image",
+   "file": "22779.jpg"
+  },
+  "title": "Bring Drag Back to the Theatre #5: Dirty Disco Bingo",
+  "lineup": "Host: Special Ke, DJ: Xtra Xceptit | Line-up: TBA",
+  "price": "12,50 (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/default/events/111709675",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23617,
+  "start": 1797627600,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23210,
+   "kind": "image",
+   "file": "23210.png"
+  },
+  "title": "TWINty-7",
+  "lineup": "Sens & Levoir, ​​​​​​​Maysa Chahbari, ​​​​​​​SAYLESS, ​​​​​​​Obbe Tibben",
+  "price": "5",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 125,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23639,
+  "start": 1797685200,
+  "started": false,
+  "past": false,
+  "venue": "pos (possibilities open studio)",
+  "venue_room": false,
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23237,
+   "kind": "image",
+   "file": "23237.JPG"
+  },
+  "title": "pos winterwende | 14:00 - 00:00",
+  "lineup": "",
+  "price": "15",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 100,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23555,
+  "start": 1797688800,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1014,
+   "label": "Theatre"
+  },
+  "header": {
+   "id": 23165,
+   "kind": "image",
+   "file": "23165.png"
+  },
+  "title": "Small Miracle #7",
+  "lineup": "TBA",
+  "price": "",
+  "presale": "",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23531,
+  "start": 1797706800,
+  "started": false,
+  "past": false,
+  "venue": "Cinetol",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23137,
+   "kind": "image",
+   "file": "23137.jpg"
+  },
+  "title": "Melis’in Bandosu",
+  "lineup": "Melis’in Bandosu",
+  "price": "€16,75",
+  "presale": "https://cinetol.stager.co/shop/cinetol-tickets/events/111716921",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23023,
+  "start": 1797706800,
+  "started": false,
+  "past": false,
+  "venue": "OCCII",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 19754,
+   "kind": "image",
+   "file": "19754.png"
+  },
+  "title": "Neptune (US) + POLARIZED",
+  "lineup": "Neptune, POLARIZED ",
+  "price": "€10 (presale) | €12 (door)",
+  "presale": "https://occii.org/events/play-some-music/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23622,
+  "start": 1797706800,
+  "started": false,
+  "past": false,
+  "venue": "De Nieuwe Anita",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 23215,
+   "kind": "image",
+   "file": "23215.jpg"
+  },
+  "title": "Amsterdam BeatClub ft. Funk Medication of Love",
+  "lineup": "Funk Medication of Love,  Guzz & Ir. Vendermeulen ",
+  "price": "10",
+  "presale": "https://www.chipta.com/nl/tickets/event/82662/amsterdam-beatclub-feat-funk-medication-of-love-deejays/event-info/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23317,
+  "start": 1797706800,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22854,
+   "kind": "image",
+   "file": "22854.jpg"
+  },
+  "title": "Pérolas, Gems of Brazilian Popular Music, by Elaine Morais & Daniel Montes",
+  "lineup": "Elaine Morais & Daniel Montes",
+  "price": "15,00",
+  "presale": "https://munganga.nl/programma/sat-19-dec-2026-2000-perolas-gems-of-brazilian-popular-music-by-elaine-morais-daniel-montes",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23215,
+  "start": 1797710400,
+  "started": false,
+  "past": false,
+  "venue": "OT301",
+  "venue_room": "-Studios",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 22865,
+   "kind": "image",
+   "file": "22865.jpeg"
+  },
+  "title": "Massief",
+  "lineup": "Tamen (IE/AU), Son of Sesh, Rikipicchi b2b dj Lis, Kizzero b2b Gimmeamfbreakbeat, Déandrah (VJ)",
+  "price": "10-12",
+  "presale": "",
+  "aa_presale": true,
+  "aa_donation": false,
+  "aa_available": 271,
+  "fb": "",
+  "adult": 1
+ },
+ {
+  "id": 23318,
+  "start": 1797760800,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22855,
+   "kind": "image",
+   "file": "22855.jpg"
+  },
+  "title": "A Warm Christmas, 3 singers, the same family",
+  "lineup": "Daughters Femke and Marieke Smit, together with their mother Ans van Dam.",
+  "price": "11,00",
+  "presale": "https://munganga.nl/programma/sun-20-dec-2026-1100-a-warm-christmas-3-singers-the-same-family",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22570,
+  "start": 1797775200,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22032,
+   "kind": "image",
+   "file": "22032.jpg"
+  },
+  "title": "Lolobaki (2+ tot 100)",
+  "lineup": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111684549",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23319,
+  "start": 1797778800,
+  "started": false,
+  "past": false,
+  "venue": "Teatro Munganga",
+  "venue_room": false,
+  "type": {
+   "id": 1002,
+   "label": "Concert"
+  },
+  "header": {
+   "id": 22856,
+   "kind": "image",
+   "file": "22856.jpg"
+  },
+  "title": "Latin Jazzy Christmas by Deborah Carter & Trio",
+  "lineup": "Sebastiaan van Bavel – piano\r\nJurjen Bakker – drums\r\nMark Zandveld – Bace (cello-bass)\r\n\r\nDEBORAH J. CARTER",
+  "price": "17,50",
+  "presale": "https://munganga.nl/programma/sun-20-dec-2026-1600-latin-jazzy-kerst-by-deborah-carter-trio",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22571,
+  "start": 1797948000,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22032,
+   "kind": "image",
+   "file": "22032.jpg"
+  },
+  "title": "Lolobaki (2+ tot 100)",
+  "lineup": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111684550",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22572,
+  "start": 1798034400,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 22032,
+   "kind": "image",
+   "file": "22032.jpg"
+  },
+  "title": "Lolobaki (2+ tot 100)",
+  "lineup": "Dierenband (Lotte Voets, Lotje Lammers, Babette Voets, Kiki Weerts, Olga Middendorp)",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111684551",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22103,
+  "start": 1798380000,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 21470,
+   "kind": "image",
+   "file": "21470.jpg"
+  },
+  "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+  "lineup": "Dolfijn met benen",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111664211",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22104,
+  "start": 1798466400,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 21470,
+   "kind": "image",
+   "file": "21470.jpg"
+  },
+  "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+  "lineup": "Dolfijn met benen",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111664212",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22105,
+  "start": 1798552800,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 21470,
+   "kind": "image",
+   "file": "21470.jpg"
+  },
+  "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+  "lineup": "Dolfijn met benen",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111664213",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 22106,
+  "start": 1798639200,
+  "started": false,
+  "past": false,
+  "venue": "Plein Theater",
+  "venue_room": false,
+  "type": {
+   "id": 1008,
+   "label": "Kids"
+  },
+  "header": {
+   "id": 21470,
+   "kind": "image",
+   "file": "21470.jpg"
+  },
+  "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
+  "lineup": "Dolfijn met benen",
+  "price": "10,- (vanaf)",
+  "presale": "https://plein-theater.stager.co/shop/jeugdprogramma/events/111664214",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ },
+ {
+  "id": 23616,
+  "start": 1798743600,
+  "started": false,
+  "past": false,
+  "venue": "Pakhuis Wilhelmina",
+  "venue_room": "-Mezrab",
+  "type": {
+   "id": 1010,
+   "label": "Electronic music, party"
+  },
+  "header": {
+   "id": 23209,
+   "kind": "image",
+   "file": "23209.jpg"
+  },
+  "title": "NEW YEAR’S EVE PARTY ★ TROPICAL MEZQUERADE ",
+  "lineup": "",
+  "price": "20",
+  "presale": "https://mezrab.nl/events/nye-mezquerade/",
+  "aa_presale": false,
+  "aa_donation": false,
+  "aa_available": 0,
+  "fb": "",
+  "adult": 0
+ }
+]

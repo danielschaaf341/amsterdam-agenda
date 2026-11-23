@@ -2,7 +2,7 @@
 
 /nl/agenda-stadsschouwburg?page=N → `events` (one per performance, with `program`:
 startAt local, isCanceled, hasWaitingList, button.text, location) + pagination (32/page).
-Productions with a run of performances become one kind=series; others are individual events.
+Every performance is its own event (user preference; set GROUP_RUNS=True to fold runs into a series).
 """
 from __future__ import annotations
 
@@ -18,6 +18,7 @@ VENUE = "Stadsschouwburg (ITA)"
 HOMEPAGE = "https://ita.nl/nl/agenda-stadsschouwburg"
 BASE = "https://ita.nl"
 MAX_PAGES = 8
+GROUP_RUNS = False  # user wants every ITA performance in the list (not folded into one series)
 GENRE_CATEGORY = {"muziek": "music", "jazz": "jazz", "talk": "talk", "perspectief": "talk", "expo": "other"}
 
 
@@ -64,7 +65,7 @@ def parse(raw: list[dict], today: date) -> list[Event]:
         common = dict(subtitle=" · ".join(x for x in (clean(first.get("subTitle")), ", ".join(genres)) if x) or None,
                       venue=VENUE, url=BASE + url, category=category, image=first.get("image"))
         starts = [local(datetime.fromisoformat(x["program"]["startAt"])) for x in perfs]
-        if is_run(starts):
+        if GROUP_RUNS and is_run(starts):
             run_start, run_end = run_span(starts)
             out.append(Event(id=make_id(NAME, f"run{first['id']}"), title=title, start=run_start, end=run_end,
                              kind="series", **common))

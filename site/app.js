@@ -2,7 +2,7 @@
 /* Amsterdam Agenda – plain JS, no build step. Reads data/events.json + data/status.json. */
 
 const TZ = "Europe/Amsterdam";
-const CATS = { film: "Film", music: "Muziek", club: "Club", talk: "Talk", theatre: "Theater", jazz: "Jazz", other: "Overig" };
+const CATS = { film: "Film", music: "Muziek", club: "Club", talk: "Talk", theatre: "Theater", jazz: "Jazz", food: "Eten", other: "Overig" };
 const STATUS = { sold_out: "Uitverkocht", cancelled: "Afgelast", moved: "Verplaatst" };
 const WEEKS_AHEAD = 6;
 
@@ -113,37 +113,47 @@ function eventNode(ev) {
   return node;
 }
 
+function seriesCard(ev, text) {
+  const a = document.createElement("a");
+  a.className = "series-card";
+  a.href = ev.url; a.target = "_blank"; a.rel = "noopener";
+  a.dataset.cat = ev.category;
+  const strong = document.createElement("strong");
+  strong.textContent = ev.title;
+  const small = document.createElement("small");
+  small.textContent = text;
+  const star = document.createElement("button");
+  star.className = "star";
+  starButton(star, ev);
+  a.append(strong, small, star);
+  return a;
+}
+
 function renderSeries() {
   const t = todayKey();
-  const items = state.events.filter((e) => e.kind === "series" && matches(e, { ignoreQuick: state.quick !== "fav" })
+  const ignoreQuick = state.quick !== "fav";
+  const running = state.events.filter((e) => e.kind === "series" && matches(e, { ignoreQuick })
     && e._day <= addDays(t, 14) && (e._endDay || e._day) >= t);
   const box = $("#series-list");
   box.replaceChildren();
-  $("#series").hidden = items.length === 0;
-  for (const ev of items) {
-    const a = document.createElement("a");
-    a.className = "series-card";
-    a.href = ev.url; a.target = "_blank"; a.rel = "noopener";
-    a.dataset.cat = ev.category;
-    const strong = document.createElement("strong");
-    strong.textContent = ev.title;
-    const small = document.createElement("small");
+  $("#series").hidden = running.length === 0;
+  for (const ev of running) {
     const until = ev._endDay ? "t/m " + fmtShort.format(keyToDate(ev._endDay)) : "";
     const from = ev._day > t ? "vanaf " + fmtShort.format(keyToDate(ev._day)) + " " : "";
-    small.textContent = `${ev.venue} · ${from}${until}`;
-    const star = document.createElement("button");
-    star.className = "star";
-    starButton(star, ev);
-    a.append(strong, small, star);
-    box.append(a);
+    box.append(seriesCard(ev, `${ev.venue} · ${from}${until}`));
   }
+  const weekly = state.events.filter((e) => e.kind === "weekly" && matches(e, { ignoreQuick }));
+  const wbox = $("#weekly-list");
+  wbox.replaceChildren();
+  $("#weekly").hidden = weekly.length === 0;
+  for (const ev of weekly) wbox.append(seriesCard(ev, `${ev.venue} · ${ev.subtitle || "elke week"}`));
 }
 
 function renderList() {
   const list = $("#list");
   const days = new Map();
   for (const ev of state.events) {
-    if (ev.kind === "series" || !matches(ev)) continue;
+    if (ev.kind !== "event" && ev.kind !== undefined || !matches(ev)) continue;
     if (!days.has(ev._day)) days.set(ev._day, []);
     days.get(ev._day).push(ev);
   }
@@ -188,7 +198,7 @@ function renderWeek() {
     h.textContent = fmtShort.format(keyToDate(k));
     col.append(h);
     for (const ev of state.events) {
-      if (ev._day !== k || ev.kind === "series" || !matches(ev, { ignoreQuick: state.quick !== "fav" })) continue;
+      if (ev._day !== k || (ev.kind && ev.kind !== "event") || !matches(ev, { ignoreQuick: state.quick !== "fav" })) continue;
       const a = document.createElement("a");
       a.className = "wev" + (isFav(ev) ? " fav" : "") + (ev.status === "cancelled" ? " dim" : "");
       a.dataset.cat = ev.category;

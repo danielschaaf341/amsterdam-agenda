@@ -13,9 +13,9 @@ from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("Europe/Amsterdam")
 
-CATEGORIES = ("film", "music", "club", "talk", "theatre", "jazz", "other")
+CATEGORIES = ("film", "music", "club", "talk", "theatre", "jazz", "food", "other")
 STATUSES = ("normal", "sold_out", "cancelled", "moved")
-KINDS = ("event", "series")  # series = a themed period (retrospective, festival) running start..end
+KINDS = ("event", "series", "weekly")  # series = themed period start..end; weekly = recurring (subtitle says when)
 
 
 @dataclass
@@ -158,6 +158,48 @@ def run_span(starts: list[datetime], max_gap_days: int = 30) -> tuple[datetime, 
     return starts[0], end
 
 
+# ---------------------------------------------------------------- recurring items
+
+WEEKDAYS_NL = ["ma", "di", "wo", "do", "vr", "za", "zo"]
+
+
+def collapse_recurring(events: list[Event], source: str, min_food: int = 3, min_other: int = 5) -> list[Event]:
+    """Fold items that repeat at one venue so the daily list stays readable.
+
+    - food items repeating ≥ min_food× ('Lunch at Café Gilde') → one kind="weekly" (shown under "Vaste prik")
+    - other items forming a run (is_run: many performances close together) → one kind="series"
+    Everything else stays an individual event.
+    """
+    groups: dict[tuple, list[Event]] = {}
+    for e in events:
+        key = (e.venue, re.sub(r"\(.*?\)|[^a-z0-9]+", "", e.title.lower()))
+        groups.setdefault(key, []).append(e)
+    out = []
+    for (venue, _), evs in groups.items():
+        evs.sort(key=lambda e: e.start)
+        first = evs[0]
+        if any(e.kind != "event" for e in evs):
+            out.extend(evs)
+        elif first.category == "food" and len(evs) >= min_food:
+            days = sorted({e.start.weekday() for e in evs})
+            times = sorted({e.start.strftime("%H:%M") for e in evs})
+            out.append(Event(
+                id=make_id(source, "weekly", venue, first.title), title=first.title,
+                subtitle=f"Elke {', '.join(WEEKDAYS_NL[d] for d in days)}"
+                         + (f" {times[0]}" if len(times) == 1 else "") + (f" · {first.subtitle}" if first.subtitle else ""),
+                venue=venue, start=first.start, end=evs[-1].start, url=first.url, category="food",
+                price=first.price, image=first.image, kind="weekly"))
+        elif len(evs) >= min_other and is_run([e.start for e in evs]):
+            a, b = run_span([e.start for e in evs])
+            out.append(Event(
+                id=make_id(source, "run", venue, first.title), title=first.title, subtitle=first.subtitle,
+                venue=venue, start=a, end=b, url=first.url, category=first.category, price=first.price,
+                image=first.image, kind="series"))
+        else:
+            out.extend(evs)
+    return out
+
+
 # ---------------------------------------------------------------- iCalendar helper
 
 def parse_ics(text: str) -> list[dict]:
@@ -204,6 +246,8 @@ def parse_ics(text: str) -> list[dict]:
 _CATEGORY_KEYWORDS = [
     ("talk", r"\b(book ?club|leesclub|boekenclub)\b"),  # before "club"
     ("jazz", r"\bjazz"),
+    ("food", r"\b(diner|dinner|lunch|brunch|eetcaf[eé]|volkskeuken|voku|vokü|community kitchen|pop-?up dinner|"
+             r"supper ?club|kitchen night|food)\b"),
     ("club", r"\b(club|clubnacht|clubnight|dj|djs|techno|house|rave|party|feest|disco|all ?nighter)\b"),
     ("talk", r"\b(talk|lezing|debat|gesprek|in conversation|lecture|panel|podcast|boekpresentatie|interview)\b"),
     ("film", r"\b(film|films|screening|cinema|vertoning|documentaire)\b"),

@@ -1,0 +1,3346 @@
+[
+ {
+  "uid": "62e10125-c6c9-4ed7-9e2a-ae9435025327",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-25",
+  "eventStartDate": "2026/11/25 19:15:00",
+  "eventEndDate": "2026/11/25 21:15:00",
+  "title": "De positieve mannenbeweging | Mariëtte Hamer",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/mannenbijeenkomst-regeringscommissaris-mariëtte-hamer",
+  "description": "Regeringscommissaris Mariëtte Hamer gaat in gesprek met Abbie Chalgoum en initiatiefnemers van diverse mannenbewegingen. Op zoek naar een positief geluid dat luider klinkt dan de manosfeer.",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": "25 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12444508,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/RCGOG_Mannenbeweging-Tolhuistuin-1440x817-abbie.jpg",
+    "alt": null,
+    "title": "RCGOG Mannenbeweging Tolhuistuin 1440x817 abbie",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "189ccf1e-f4b6-41fc-b403-2ecad7d83c35",
+  "eventType": {
+   "label": "Natuur",
+   "value": "natuur",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/09",
+  "eventStartCompare": "2026-12-09",
+  "eventStartDay": "09",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-09",
+  "eventStartDate": "2026/12/09 19:30:00",
+  "eventEndDate": "2026/12/09 22:00:00",
+  "title": "KIVA: The Call of the Wisdom Keepers",
+  "freeEvent": false,
+  "ticketPrice": 0,
+  "ticketSpecialPrice": "Vanaf €10",
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/b95178817411426b99506326397548c4",
+  "url": "https://tolhuistuin.nl/evenementen/kiva-her-inneren-van-de-original-principles",
+  "description": "Op 9 december volgt er een bijzondere KIVA avond met inspirerende dialogen door o.a. Sherlien Sanches (oprichter Inheems Kenniscentrum Internationaal) en Wisdom Keeper en Chief Sankale Ole Ntutu.",
+  "dateNotification": {
+   "start": "09 dec",
+   "end": "09 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12444764,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Kiva-banner.jpeg",
+    "alt": null,
+    "title": "Kiva banner",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "8b0d0bac-4601-4e57-a5ed-ba88b27162ed",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/06",
+  "eventStartCompare": "2026-12-06",
+  "eventStartDay": "06",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-06",
+  "eventStartDate": "2026/12/06 15:00:00",
+  "eventEndDate": "2026/12/06 17:00:00",
+  "title": "Salon GOOD TROUBLE",
+  "freeEvent": false,
+  "ticketPrice": 10,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/7e429dc9a2aa42f683bace8fa2f78ef2",
+  "url": "https://tolhuistuin.nl/evenementen/salon-good-trouble",
+  "description": "Good Trouble stelt machtsmisbruik in al zijn vormen aan de kaak en bevraagt het. Door onze gedachten en ideeën te delen in poëzie en muziek raken we met elkaar verbonden.",
+  "dateNotification": {
+   "start": "06 dec",
+   "end": "06 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12444760,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Duraa-Poetry-DEF.jpg",
+    "alt": null,
+    "title": "Duraa Poetry DEF",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "3a1630e0-84df-4262-9d95-7d3cb8434443",
+  "eventType": {
+   "label": "Workshop",
+   "value": "workshop",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/20",
+  "eventStartCompare": "2026-12-20",
+  "eventStartDay": "20",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-20",
+  "eventStartDate": "2026/12/20 12:00:00",
+  "eventEndDate": "2026/12/20 18:00:00",
+  "title": "Colourful Noord Winter Fair",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Tuin",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/colourful-noord-winter-fair",
+  "description": "Voor het eerst dit jaar: Colourful Noord Winter Fair. Een festival om diversiteit in Noord te vieren met kleurrijke ondernemers, optredens en kinderactiviteiten.",
+  "dateNotification": {
+   "start": "20 dec",
+   "end": "20 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12444217,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Colourful-goodies.jpeg",
+    "alt": null,
+    "title": "Colourful goodies",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "7dae3f3e-8afb-4028-babf-44f7407bf65c",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/19",
+  "eventStartCompare": "2026-12-19",
+  "eventStartDay": "19",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-19",
+  "eventStartDate": "2026/12/19 13:30:00",
+  "eventEndDate": "2026/12/19 16:00:00",
+  "title": "Lieve Stad, dat zijn Wij",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": "Ticket €7,5; Stadspas €2,5; Kinderen t/m 12 gratis",
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/5a21649749f34f46b9e52c83dc02cde3",
+  "url": "https://tolhuistuin.nl/evenementen/lieve-stad-dat-zijn-wij-2",
+  "description": "Amsterdam is van iedereen die hier thuis is gekomen. Vier mee tijdens Lieve Stad, Dat Zijn Wij: een feestelijke middag met livemuziek, lekker eten en nieuwe ontmoetingen.",
+  "dateNotification": {
+   "start": "19 dec",
+   "end": "19 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443286,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Warm-Welkom-foto.jpg",
+    "alt": null,
+    "title": "Warm Welkom foto",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "1ab658b3-6978-4505-bbc0-eebcd2efb311",
+  "eventType": {
+   "label": "Workshop",
+   "value": "workshop",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/02",
+  "eventStartCompare": "2026-12-02",
+  "eventStartDay": "02",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-02",
+  "eventStartDate": "2026/12/02 19:00:00",
+  "eventEndDate": "2026/12/02 22:00:00",
+  "title": "Offline Hangout + Speedfriending | GenZ Editie | Live Piano |",
+  "freeEvent": false,
+  "ticketPrice": 2.5,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Tuinhuis",
+  "ticketLink": "https://luma.com/offline-hangout-gemeente-amsterdam-3",
+  "url": "https://tolhuistuin.nl/evenementen/offline-hangout-speedfriending-genz-editie-live-piano",
+  "description": "We nodigen alle Amsterdamse jongeren en jongvolwassenen uit voor een speciale GenZ-editie van onze Offline Hangout, in alle rust je eigen ding te doen, zonder telefoon en nieuwe mensen ontmoeten.",
+  "dateNotification": {
+   "start": "02 dec",
+   "end": "02 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12444134,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/2ad1b6d7-e0e1-40ab-9465-f7b05822b170.JPG",
+    "alt": null,
+    "title": "2ad1b6d7 e0e1 40ab 9465 f7b05822b170",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "5ea035a6-dfe2-4510-8975-70661f81df0e",
+  "eventType": {
+   "label": "Clubnacht",
+   "value": "clubnacht",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/19",
+  "eventStartCompare": "2026-12-19",
+  "eventStartDay": "19",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-19",
+  "eventStartDate": "2026/12/19 19:00:00",
+  "eventEndDate": "2026/12/19 22:30:00",
+  "title": "Toegankelijk uitgaansfeest - De Special Social Club",
+  "freeEvent": false,
+  "ticketPrice": 5,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://www.specialsocialconnect.nl/evenement/?id=267",
+  "url": "https://tolhuistuin.nl/evenementen/toegankelijk-uitgaansfeest-de-special-social-club",
+  "description": "Toegankelijk uitgaansfeest voor mensen (18+) met een (licht) verstandelijke beperking en/of autisme.",
+  "dateNotification": {
+   "start": "19 dec",
+   "end": "19 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443714,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Schermafbeelding-2026-10-27-om-15.07.27.png",
+    "alt": null,
+    "title": "Schermafbeelding 2026 10 27 om 15 07 27",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "0918d8db-5209-4426-8e2d-2d8b36432c28",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/13",
+  "eventStartCompare": "2026-12-13",
+  "eventStartDay": "13",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-13",
+  "eventStartDate": "2026/12/13 15:00:00",
+  "eventEndDate": "2026/12/13 18:00:00",
+  "title": "Uitreiking Feministische Impact Prijs",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/cf33799e6f94460e8b3dce780dd3ae8c",
+  "url": "https://tolhuistuin.nl/evenementen/uitreiking-fip-2026",
+  "description": "De uitreiking van de Feministische Impact Prijs (FIP) 2026, een tweejaarlijks initiatief van het Feministisch Cultuurfonds ofwel FC Gender&wetenschap.",
+  "dateNotification": {
+   "start": "13 dec",
+   "end": "13 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443870,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Feministische_Impactprijs_2026_FCGenderenWetenschap_genomineerden_Campagnebeeld_v2.jpg",
+    "alt": null,
+    "title": "Feministische Impactprijs 2026 FC Genderen Wetenschap genomineerden Campagnebeeld v2",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "7420e5b8-7d80-43ec-a2b0-a00d48e7f7d1",
+  "eventType": {
+   "label": "Workshop",
+   "value": "workshop",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/01",
+  "eventStartCompare": "2026-12-01",
+  "eventStartDay": "01",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-01",
+  "eventStartDate": "2026/12/01 19:00:00",
+  "eventEndDate": "2026/12/01 21:00:00",
+  "title": "Naast elkaar: steun bieden na seksueel geweld",
+  "freeEvent": false,
+  "ticketPrice": 10,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Tuinhuis",
+  "ticketLink": "https://shop.paylogic.com/71a0d01343f14682abadd82f7d2dd8fc",
+  "url": "https://tolhuistuin.nl/evenementen/naast-elkaar-steun-bieden-na-seksueel-geweld",
+  "description": "In deze workshop van het Centrum Seksueel Geweld leer je hoe je het gesprek over seksueel geweld aangaat: wat helpt, welke vragen je kunt stellen en wat je beter niet zegt.",
+  "dateNotification": {
+   "start": "01 dec",
+   "end": "01 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443570,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/steunen.png",
+    "alt": null,
+    "title": "Steunen",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "35bc52cf-580c-4122-b9d5-829f26546da1",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/26",
+  "eventStartCompare": "2026-11-26",
+  "eventStartDay": "26",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-26",
+  "eventStartDate": "2026/11/26 19:30:00",
+  "eventEndDate": "2026/11/26 22:30:00",
+  "title": "Conferentie: Stop Geweld Tegen Vrouwen",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Galerij",
+  "ticketLink": "https://shop.paylogic.com/1e9f9db6e31941dba1a9f5ee5e0e288b",
+  "url": "https://tolhuistuin.nl/evenementen/congerentie-stop-geweld-tegen-vrouwen",
+  "description": "In het kader van de wereldwijde 'Orange the World' organiseren HTIB en VON samen met Tolhuistuin een inspirerende internationale conferentie over de preventie van geweld tegen vrouwen.",
+  "dateNotification": {
+   "start": "26 nov",
+   "end": "26 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443383,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Woeker-LindIn-banner.png",
+    "alt": null,
+    "title": "Woeker Lind In banner",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "467a1a6c-6c69-4c06-b61d-c8f06ac77769",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/03",
+  "eventStartCompare": "2027-02-03",
+  "eventStartDay": "03",
+  "eventStartMonth": "feb",
+  "eventEndDay": "2027-02-03",
+  "eventStartDate": "2027/02/03 20:00:00",
+  "eventEndDate": "2027/02/03 22:00:00",
+  "title": "Filosofie voor het Leven met Stine Jensen",
+  "freeEvent": false,
+  "ticketPrice": 15,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/8d5aafa331ec4aa4a67c04e131375d7f",
+  "url": "https://tolhuistuin.nl/evenementen/filosofie-voor-het-leven-met-stine-jensen",
+  "description": "Filosofie die je niet alleen aan het denken zet, maar ook laat meedoen. Deze keer met filosoof Stine Jensen over Faalmoed.",
+  "dateNotification": {
+   "start": "03 feb",
+   "end": "03 feb"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12442183,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Header_FvhL7_tolhuistuin_2026-09-27-070922_rymc.jpg",
+    "alt": null,
+    "title": "Header Fvh L7 tolhuistuin",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "995cc132-a52d-4680-b8f2-f5082dc9aa02",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-25",
+  "eventStartDate": "2026/11/25 17:00:00",
+  "eventEndDate": "2026/11/25 19:00:00",
+  "title": "Het Mannengesprek: Echte mannen praten",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Galerij",
+  "ticketLink": "https://shop.paylogic.com/a24814172416476a9517e0ec2d1be37c",
+  "url": "https://tolhuistuin.nl/evenementen/het-mannengesprek-echte-mannen-praten",
+  "description": "Wat betekent het om man te zijn? Tijdens het slotevent van Het Mannengesprek Amsterdam komen verhalen uit de stad samen in een interactieve avond vol persoonlijke verhalen, humor en nieuwe inzichten.",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": "25 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443226,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Mannengesprek.jpeg",
+    "alt": "Nederland, Amsterdam, 20251016\nHet Verbindingsontbijt, georganiseerd door Actiecentrum Veiligheid en Zorg.\nFoto: Kick Smeets / Gemeente Amsterdam 2025",
+    "title": "Mannengesprek",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "67abe161-5989-4ecb-815f-e31ab9142285",
+  "eventType": {
+   "label": "Kunst",
+   "value": "kunst",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/31",
+  "eventStartCompare": "2026-12-31",
+  "eventStartDay": "31",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-31",
+  "eventStartDate": "2026/12/31 12:00:00",
+  "eventEndDate": "2026/12/31 23:00:00",
+  "title": "COUNTER GAZE METROSCOPE EXPO",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Club",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/counter-gaze-metroscope-opening",
+  "description": "Kunstexpositie vanaf oktober: Clubcultuur wordt gereduceerd tot digitale beelden. ‘The Counter Gaze’ vecht dit door met het onfotografeerbare weerstand te bieden aan commercialisering van clubcultuur.",
+  "dateNotification": {
+   "start": "31 dec",
+   "end": "31 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12442206,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/16-by-9.jpg",
+    "alt": null,
+    "title": "16 by 9",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "468d0251-b01a-4a66-a2dd-58b36978429f",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/30",
+  "eventStartCompare": "2026-11-30",
+  "eventStartDay": "30",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-30",
+  "eventStartDate": "2026/11/30 20:00:00",
+  "eventEndDate": "2026/11/30 22:00:00",
+  "title": "Het Metabolisme van Verlies",
+  "freeEvent": false,
+  "ticketPrice": 7.5,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/d7ee49ea886144bdacd66690ed9f1076/",
+  "url": "https://tolhuistuin.nl/evenementen/ecologische-rouw-het-verlies-van-de-toekomst",
+  "description": "Tweede deel in de reeks 'Het Metabolisme van Verdriet': Onderzoeker Evanne Nowak verdiept ons begrip van ecologische rouw in tijden van klimaatverandering",
+  "dateNotification": {
+   "start": "30 nov",
+   "end": "30 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441869,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Beeldmerk-Metabolisme-van-Verlies.jpg",
+    "alt": null,
+    "title": "Beeldmerk Metabolisme van Verlies",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "055570e9-398a-4e49-a6d4-6b3fc5e9a4cb",
+  "eventType": {
+   "label": "Overig",
+   "value": "others",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/26",
+  "eventStartCompare": "2026-11-26",
+  "eventStartDay": "26",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-26",
+  "eventStartDate": "2026/11/26 19:30:00",
+  "eventEndDate": "2026/11/26 22:00:00",
+  "title": "Podcastakademie: Spannende scène bouwen",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "Tuinhuis",
+  "ticketLink": "https://www.podcastnetwerk.nl/product/spannende-scene-bouwen-november-2026/",
+  "url": "https://tolhuistuin.nl/evenementen/podcastakademie-spannende-scène-bouwen-3/2",
+  "description": "Podcastmaker Maartje Duin neemt je mee in het ambacht van de spannende scène. Niet alleen theoretisch, maar vooral ook door het zelf te maken, horen en voelen.",
+  "dateNotification": {
+   "start": "26 nov",
+   "end": "26 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441596,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Podcastakademie_THT_2026-09-03-082103_olsj.png",
+    "alt": null,
+    "title": "Podcastakademie THT",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "0d64f907-b2c6-4bf0-9bd5-a06a9ccb2e4d",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/03/12",
+  "eventStartCompare": "2027-03-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "mrt",
+  "eventEndDay": "2027-03-12",
+  "eventStartDate": "2027/03/12 19:00:00",
+  "eventEndDate": "2027/03/12 23:59:00",
+  "title": "ONE FINE MESS",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/one-fine-mess-13",
+  "description": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes!",
+  "dateNotification": {
+   "start": "12 mrt",
+   "end": "12 mrt"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441760,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113904_flnh.jpg",
+    "alt": null,
+    "title": "Untitled",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "dd18336c-f9e5-447c-9575-3adf065009c3",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/12",
+  "eventStartCompare": "2027-02-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "feb",
+  "eventEndDay": "2027-02-12",
+  "eventStartDate": "2027/02/12 19:00:00",
+  "eventEndDate": "2027/02/12 23:59:00",
+  "title": "ONE FINE MESS",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/one-fine-mess-12",
+  "description": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes!",
+  "dateNotification": {
+   "start": "12 feb",
+   "end": "12 feb"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441754,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113651_ccnq.jpg",
+    "alt": null,
+    "title": "Untitled",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "8b2557e6-df1d-4dc1-911c-b7f123d8454d",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/01/08",
+  "eventStartCompare": "2027-01-08",
+  "eventStartDay": "08",
+  "eventStartMonth": "jan",
+  "eventEndDay": "2027-01-08",
+  "eventStartDate": "2027/01/08 19:00:00",
+  "eventEndDate": "2027/01/08 23:59:00",
+  "title": "ONE FINE MESS",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/one-fine-mess-11",
+  "description": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes!",
+  "dateNotification": {
+   "start": "08 jan",
+   "end": "08 jan"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441748,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113536_jilo.jpg",
+    "alt": null,
+    "title": "Untitled",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "c4176074-836a-48e4-b3a2-ecb65beae499",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/11",
+  "eventStartCompare": "2026-12-11",
+  "eventStartDay": "11",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-11",
+  "eventStartDate": "2026/12/11 19:00:00",
+  "eventEndDate": "2026/12/11 23:59:00",
+  "title": "ONE FINE MESS",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/one-fine-mess-10",
+  "description": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes!",
+  "dateNotification": {
+   "start": "11 dec",
+   "end": "11 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441742,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113323_pnme.jpg",
+    "alt": null,
+    "title": "Untitled",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "4bef3df9-961d-4c67-ae1e-47cb1c8463c5",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/19",
+  "eventStartCompare": "2027-02-19",
+  "eventStartDay": "19",
+  "eventStartMonth": "feb",
+  "eventEndDay": "2027-02-19",
+  "eventStartDate": "2027/02/19 19:00:00",
+  "eventEndDate": "2027/02/19 23:59:00",
+  "title": "De Danskamer",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/de-danskamer-25",
+  "description": "Het gevoel van een blockparty, maar dan in je huiskamer. Samen dansen we de week van ons af in de IJzaal op de beste house, funk, soul, broken beat en meer van de Danskamer dj’s.",
+  "dateNotification": {
+   "start": "19 feb",
+   "end": "19 feb"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441661,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/DK_Tolhuis_Web_1440x817_01_2026-09-07-104028_bwot.jpg",
+    "alt": null,
+    "title": "DK Tolhuis Web 1440x817 01",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "f61b6ce7-fc2d-48f6-87ca-c01f05d3bde8",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/18",
+  "eventStartCompare": "2026-12-18",
+  "eventStartDay": "18",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-18",
+  "eventStartDate": "2026/12/18 19:00:00",
+  "eventEndDate": "2026/12/18 23:59:00",
+  "title": "De Danskamer",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": null,
+  "url": "https://tolhuistuin.nl/evenementen/de-danskamer-24",
+  "description": "Het gevoel van een blockparty, maar dan in je huiskamer. Samen dansen we de week van ons af in de IJzaal op de beste house, funk, soul, broken beat en meer van de Danskamer dj’s.",
+  "dateNotification": {
+   "start": "18 dec",
+   "end": "18 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12441656,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/DK_Tolhuis_Web_1440x817_01_2026-09-07-103810_mppz.jpg",
+    "alt": null,
+    "title": "DK Tolhuis Web 1440x817 01",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "bead1795-a0fe-40cd-ac54-839121d1d7f0",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/19",
+  "eventStartCompare": "2026-12-19",
+  "eventStartDay": "19",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-19",
+  "eventStartDate": "2026/12/19 14:30:00",
+  "eventEndDate": "2026/12/19 16:00:00",
+  "title": "HUMAN | De publieke tribune",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/c9dfa84f95aa4cea8e46188c9d2e1b32",
+  "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2",
+  "description": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt.",
+  "dateNotification": {
+   "start": "19 dec",
+   "end": "19 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12435522,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+    "alt": null,
+    "title": "De publieke tribune LANDSCAPE c HUMAN 1",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "9da95e2f-4461-4b2b-8a62-0f332213e857",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/12",
+  "eventStartCompare": "2026-12-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-12",
+  "eventStartDate": "2026/12/12 14:30:00",
+  "eventEndDate": "2026/12/12 16:00:00",
+  "title": "HUMAN | De publieke tribune",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/c9dfa84f95aa4cea8e46188c9d2e1b32",
+  "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2-2",
+  "description": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt.",
+  "dateNotification": {
+   "start": "12 dec",
+   "end": "12 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12435522,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+    "alt": null,
+    "title": "De publieke tribune LANDSCAPE c HUMAN 1",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "694a61ca-a317-49a9-b617-207bc8627c8b",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/05",
+  "eventStartCompare": "2026-12-05",
+  "eventStartDay": "05",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-05",
+  "eventStartDate": "2026/12/05 14:30:00",
+  "eventEndDate": "2026/12/05 16:00:00",
+  "title": "HUMAN | De publieke tribune",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/c9dfa84f95aa4cea8e46188c9d2e1b32",
+  "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2-2",
+  "description": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt.",
+  "dateNotification": {
+   "start": "05 dec",
+   "end": "05 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12435522,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+    "alt": null,
+    "title": "De publieke tribune LANDSCAPE c HUMAN 1",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "3364d3e1-cb1d-4436-8d9e-ffb882bdc632",
+  "eventType": {
+   "label": "Talk",
+   "value": "talk",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/28",
+  "eventStartCompare": "2026-11-28",
+  "eventStartDay": "28",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-28",
+  "eventStartDate": "2026/11/28 14:30:00",
+  "eventEndDate": "2026/11/28 16:00:00",
+  "title": "HUMAN | De publieke tribune",
+  "freeEvent": true,
+  "ticketPrice": "Gratis",
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/c9dfa84f95aa4cea8e46188c9d2e1b32",
+  "url": "https://tolhuistuin.nl/evenementen/de-publieke-tribune-2-2-2-2-2-2-2-2-2-2-2-2",
+  "description": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt.",
+  "dateNotification": {
+   "start": "28 nov",
+   "end": "28 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12435522,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
+    "alt": null,
+    "title": "De publieke tribune LANDSCAPE c HUMAN 1",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "7248642c-f280-4eaa-ba04-70844af07e3d",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/12",
+  "eventStartCompare": "2027-02-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "feb",
+  "eventEndDay": null,
+  "eventStartDate": "2027/02/12 20:30:00",
+  "eventEndDate": null,
+  "title": "Fulu Miziki",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/1b79c019ff0549c7a502a52b835f49fe",
+  "url": "https://tolhuistuin.nl/evenementen/fulu-miziki",
+  "description": "Afrofuturistische grooves uit Congo",
+  "dateNotification": {
+   "start": "12 feb",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12428136,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/fulumizikoi.jpg",
+    "alt": null,
+    "title": "Fulumizikoi",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "82c3444f-1d68-434e-b1bb-1d6bf403d759",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/01/26",
+  "eventStartCompare": "2027-01-26",
+  "eventStartDay": "26",
+  "eventStartMonth": "jan",
+  "eventEndDay": null,
+  "eventStartDate": "2027/01/26 20:30:00",
+  "eventEndDate": null,
+  "title": "Slow Pulp",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/ba449ade8e87405e9d189cd944fa1709",
+  "url": "https://tolhuistuin.nl/evenementen/slow-pulp",
+  "description": "Dromerige indiepop van viertal uit Chicago",
+  "dateNotification": {
+   "start": "26 jan",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12428138,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Slow-Pulp-Melodie-Lead-Press-Photo-2.jpg",
+    "alt": null,
+    "title": "Slow Pulp Melodie Lead Press Photo 2",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "109a0a79-e8ff-42c0-b5bf-4660406324a7",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/29",
+  "eventStartCompare": "2026-11-29",
+  "eventStartDay": "29",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/29 20:30:00",
+  "eventEndDate": null,
+  "title": "MNEK - THE!! BULLDOZER!! TOUR!!",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/a5c774975bf04a88abc63b8f561f8afc",
+  "url": "https://tolhuistuin.nl/evenementen/mnek-the-bulldozer-tour",
+  "description": "British pop, R&B and dance artist-producer",
+  "dateNotification": {
+   "start": "29 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12423335,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/MNEK-REVERSE-Press-Image-1783067705.jpg",
+    "alt": null,
+    "title": "MNEK REVERSE Press Image 1783067705",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "0681a33d-5a36-4d12-8280-60f0720c3a61",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/05/08",
+  "eventStartCompare": "2027-05-08",
+  "eventStartDay": "08",
+  "eventStartMonth": "mei",
+  "eventEndDay": null,
+  "eventStartDate": "2027/05/08 20:30:00",
+  "eventEndDate": null,
+  "title": "The Coronas",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/6e23d40568484f6f965a0a571c31c619",
+  "url": "https://tolhuistuin.nl/evenementen/the-coronas-3",
+  "description": "Al jaren een vaste waarde in de Ierse indiescene",
+  "dateNotification": {
+   "start": "08 mei",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12420909,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/THE-CORONAS-03-05-26-BY-THISISWOLFF-HI-RES-WS206062.jpg",
+    "alt": null,
+    "title": "THE CORONAS 03 05 26 BY THISISWOLFF HI RES WS206062",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "58bb4323-c9ad-49bf-9d39-7ed7da842548",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/04/26",
+  "eventStartCompare": "2027-04-26",
+  "eventStartDay": "26",
+  "eventStartMonth": "apr",
+  "eventEndDay": null,
+  "eventStartDate": "2027/04/26 20:30:00",
+  "eventEndDate": null,
+  "title": "Kandace Springs",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/0b6ec7790b2a44688a52694102eab3fe",
+  "url": "https://tolhuistuin.nl/evenementen/kandace-springs-5",
+  "description": "Jazzzangeres, songwriter en pianist maakt funky soul",
+  "dateNotification": {
+   "start": "26 apr",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12429341,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/kandace_springs-1783507396.jpg",
+    "alt": null,
+    "title": "Kandace springs 1783507396",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "15ba313b-18bc-452d-8033-9ac1c80c8e3f",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/24",
+  "eventStartCompare": "2026-11-24",
+  "eventStartDay": "24",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/24 20:30:00",
+  "eventEndDate": null,
+  "title": "Dave Lofts",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/10a41a5d579a4aeaa51fa62f69cbbb75",
+  "url": "https://tolhuistuin.nl/evenementen/dave-lofts",
+  "description": "Ierse songwriter met sterke stem",
+  "dateNotification": {
+   "start": "24 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12411698,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/3b028552_Dave-Holy-EP.jpg",
+    "alt": null,
+    "title": "3b028552 Dave Holy EP",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "23210764-0983-4dd7-a8a4-22b74fb98ef7",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/01/17",
+  "eventStartCompare": "2027-01-17",
+  "eventStartDay": "17",
+  "eventStartMonth": "jan",
+  "eventEndDay": null,
+  "eventStartDate": "2027/01/17 20:30:00",
+  "eventEndDate": null,
+  "title": "Sawyer Hill",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/62be84a25a9444f2baf059f535f1502e",
+  "url": "https://tolhuistuin.nl/evenementen/sawyer-hill",
+  "description": "Singer-songwriter mixt pop, rock en grunge",
+  "dateNotification": {
+   "start": "17 jan",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12394698,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Press-pic_2026-06-08-115509_snpw.jpg",
+    "alt": null,
+    "title": "Press pic 2026 06 08 115509 snpw",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "d176e779-7fc8-4c4a-b537-e3ca3bce70f2",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/25",
+  "eventStartCompare": "2027-02-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "feb",
+  "eventEndDay": null,
+  "eventStartDate": "2027/02/25 19:30:00",
+  "eventEndDate": null,
+  "title": "Ariel Posen",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/b453e0c99785484f855ae302f28f5f5c",
+  "url": "https://tolhuistuin.nl/evenementen/ariel-posen-2",
+  "description": "Canadese singer-songwriter",
+  "dateNotification": {
+   "start": "25 feb",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12393494,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Ariel-Posen_web.jpg",
+    "alt": null,
+    "title": "Ariel Posen web",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "0731aa08-64db-4569-8edc-9e9ef0b24cf1",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/30",
+  "eventStartCompare": "2026-11-30",
+  "eventStartDay": "30",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/30 20:30:00",
+  "eventEndDate": null,
+  "title": "EMF",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/6bd3fd70a0b6454a9953bd74d1a4438c",
+  "url": "https://tolhuistuin.nl/evenementen/emf",
+  "description": "Dance-rockpioniers spelen hun debuutalbum",
+  "dateNotification": {
+   "start": "30 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12393496,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/press-pic-EMF_compressed-1780902453.jpg",
+    "alt": null,
+    "title": "Press pic EMF compressed 1780902453",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "078fe744-5768-438a-be9d-776dce53546e",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/01",
+  "eventStartCompare": "2027-02-01",
+  "eventStartDay": "01",
+  "eventStartMonth": "feb",
+  "eventEndDay": null,
+  "eventStartDate": "2027/02/01 20:30:00",
+  "eventEndDate": null,
+  "title": "La La Brooks of The Crystals",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/9af314531995455d8868938caea1c584",
+  "url": "https://tolhuistuin.nl/evenementen/la-la-brooks-of-the-crystals",
+  "description": "De stem van 'Da Doo Ron Ron' en 'Then He Kissed Me'",
+  "dateNotification": {
+   "start": "01 feb",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12389067,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/LalaBrooks-RogerHo-1780411928.jpg",
+    "alt": null,
+    "title": "Lala Brooks Roger Ho 1780411928",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "ec737cff-0fc6-4445-ab5d-852988afc469",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/25 20:30:00",
+  "eventEndDate": null,
+  "title": "NAFT",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/171b18e7a7f640e8a6b3d0032ebf7b68",
+  "url": "https://tolhuistuin.nl/evenementen/naft",
+  "description": "Live technospektakel met vier blazers en twee drummers",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12388928,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/NAFT_web-1780568231.jpg",
+    "alt": null,
+    "title": "NAFT web 1780568231",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "cd506290-12a1-4f6c-9268-da52b4431e89",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/27",
+  "eventStartCompare": "2026-12-27",
+  "eventStartDay": "27",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/27 16:00:00",
+  "eventEndDate": null,
+  "title": "30 Jaar Excelsior Recordings",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/fd496fd5a7f34c3ea8e682e6351d7baa",
+  "url": "https://tolhuistuin.nl/evenementen/30-jaar-excelsior-recordings",
+  "description": "We vieren het toch",
+  "dateNotification": {
+   "start": "27 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12387658,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/groepsfoto-muziekvereniging-excelsior-1780416042.jpg",
+    "alt": null,
+    "title": "Groepsfoto muziekvereniging excelsior 1780416042",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "e5e024a3-d850-43e1-984b-b97e30cf13a1",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/14",
+  "eventStartCompare": "2026-12-14",
+  "eventStartDay": "14",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/14 20:30:00",
+  "eventEndDate": null,
+  "title": "Rikas",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/387d99413cd446ca893f746a5ee3143d",
+  "url": "https://tolhuistuin.nl/evenementen/rikas",
+  "description": "Zomerse indiepop uit Duitsland",
+  "dateNotification": {
+   "start": "14 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12386969,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/rikas_2026-web-1780429062.jpg",
+    "alt": null,
+    "title": "Rikas 2026 web 1780429062",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "4dfd7807-7d71-44b8-94fe-d97720a8a5c9",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/01/23",
+  "eventStartCompare": "2027-01-23",
+  "eventStartDay": "23",
+  "eventStartMonth": "jan",
+  "eventEndDay": null,
+  "eventStartDate": "2027/01/23 20:30:00",
+  "eventEndDate": null,
+  "title": "Gilla Band",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/4a328521f12745aa9c38314387443bd2",
+  "url": "https://tolhuistuin.nl/evenementen/gilla-band",
+  "description": "Spannende, industriële noiserock",
+  "dateNotification": {
+   "start": "23 jan",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12378995,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/gillaband-1779895069.jpg",
+    "alt": null,
+    "title": "Gillaband 1779895069",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "25d24d10-55e7-4b39-ad52-229cdabba210",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/26",
+  "eventStartCompare": "2026-11-26",
+  "eventStartDay": "26",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/26 19:30:00",
+  "eventEndDate": null,
+  "title": "Genesis Owusu",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/9955bb830b70412090176997f483374e",
+  "url": "https://tolhuistuin.nl/evenementen/genesis-owusu",
+  "description": "Chaotische cocktail van funk, neo-soul en alternatieve pop",
+  "dateNotification": {
+   "start": "26 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12377730,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Genesis-Owusu-2026.jpg",
+    "alt": null,
+    "title": "Genesis Owusu 2026",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "85335700-e666-4872-954f-a79b08cca3d3",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/28",
+  "eventStartCompare": "2026-11-28",
+  "eventStartDay": "28",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/28 20:30:00",
+  "eventEndDate": null,
+  "title": "Pongo",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/7061e40b790b4176a97c040bc812cd33",
+  "url": "https://tolhuistuin.nl/evenementen/pongo-2",
+  "description": "Angolees-Portugese artiest mengt pop en dancehall met kuduro",
+  "dateNotification": {
+   "start": "28 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12377619,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Pongo-Website-1779789729.jpg",
+    "alt": null,
+    "title": "Pongo Website 1779789729",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "6d83f193-55b5-4b00-9498-08683c5b3bb8",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/15",
+  "eventStartCompare": "2026-12-15",
+  "eventStartDay": "15",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/15 20:30:00",
+  "eventEndDate": null,
+  "title": "Ibeyi",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/61e3d750774146759eb421c603eb3dca",
+  "url": "https://tolhuistuin.nl/evenementen/ibeyi",
+  "description": "Afro-Cubaanse roots, soul en r&b van Frans-Cubaanse tweeling",
+  "dateNotification": {
+   "start": "15 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12377359,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Ibeyi_web.jpg",
+    "alt": null,
+    "title": "Ibeyi web",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "f673d6ca-d4c3-48f3-af89-0eed4cef89fa",
+  "eventType": {
+   "label": "Theater",
+   "value": "theater",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/28",
+  "eventStartCompare": "2026-11-28",
+  "eventStartDay": "28",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-28",
+  "eventStartDate": "2026/11/28 20:00:00",
+  "eventEndDate": "2026/11/28 22:30:00",
+  "title": "De onafhankelijke Surinaamse Comedyshow",
+  "freeEvent": false,
+  "ticketPrice": 15,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://shop.paylogic.com/628fafbc520647f8874147688741215d",
+  "url": "https://tolhuistuin.nl/evenementen/keti-koti-komedyshow-2026",
+  "description": "Een avond vol stand-up comedy, persoonlijke verhalen en scherpe observaties. Met humor, warmte en respect vieren we Keti Koti samen!",
+  "dateNotification": {
+   "start": "28 nov",
+   "end": "28 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12443080,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Schermafbeelding-2026-10-14-om-17.33.40.jpg",
+    "alt": null,
+    "title": "Schermafbeelding 2026 10 14 om 17 33 40",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "79f115e8-e6d1-4470-8da4-5dcc976a5e39",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/04/09",
+  "eventStartCompare": "2027-04-09",
+  "eventStartDay": "09",
+  "eventStartMonth": "apr",
+  "eventEndDay": null,
+  "eventStartDate": "2027/04/09 20:30:00",
+  "eventEndDate": null,
+  "title": "Ruben Hillen",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/eb4448844563475c9dd1d02c4faa772f",
+  "url": "https://tolhuistuin.nl/evenementen/ruben-hillen",
+  "description": "Kersverse winnaar van The Voice of Holland",
+  "dateNotification": {
+   "start": "09 apr",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12370070,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Landscape-1-1.jpg",
+    "alt": null,
+    "title": "Landscape 1 1",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b084d2d8-aeb5-47ef-b778-0761ef90ca4c",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/25 20:30:00",
+  "eventEndDate": null,
+  "title": "Koosje",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/61e9304bfcf24f4cbe5e4d9404cd04c1",
+  "url": "https://tolhuistuin.nl/evenementen/koosje-joao",
+  "description": "Nederlands multitalent verfijnt haar oeuvre over verschillende genres",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12444328,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Schermafbeelding-2026-11-06-om-14.49.19.png",
+    "alt": null,
+    "title": "Schermafbeelding 2026 11 06 om 14 49 19",
+    "focalPoint": {
+     "x": 0.5011,
+     "y": 0.5147
+    }
+   }
+  ]
+ },
+ {
+  "uid": "47a2745d-f24a-4d37-9f99-e239baee500a",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/27",
+  "eventStartCompare": "2026-11-27",
+  "eventStartDay": "27",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/27 19:30:00",
+  "eventEndDate": null,
+  "title": "James Smith",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/fd707236985c4f28ac41129fbfdc875a",
+  "url": "https://tolhuistuin.nl/evenementen/james-smith-3",
+  "description": "Engelse singer-songwriter met soulvolle vocalen",
+  "dateNotification": {
+   "start": "27 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12364633,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/James-Smith-website-1778854394.jpg",
+    "alt": null,
+    "title": "James Smith website 1778854394",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "1aaf185e-662e-4235-9f80-69406e10033d",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/13",
+  "eventStartCompare": "2026-12-13",
+  "eventStartDay": "13",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/13 20:30:00",
+  "eventEndDate": null,
+  "title": ".multibeat",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/838946a4256946e2aac94655dbc0491e",
+  "url": "https://tolhuistuin.nl/evenementen/multibeat",
+  "description": "Future jazz trio uit Utrecht",
+  "dateNotification": {
+   "start": "13 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12349290,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/multibeat-December-2025-Vier-Sterren-120.jpg",
+    "alt": null,
+    "title": "Multibeat December 2025 Vier Sterren 120",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "d99bb11f-f890-484a-a08b-3bac58359f40",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/19",
+  "eventStartCompare": "2026-12-19",
+  "eventStartDay": "19",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/19 19:30:00",
+  "eventEndDate": null,
+  "title": "Doodseskader",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/56efe9bb6b15443a946e547372f9b250",
+  "url": "https://tolhuistuin.nl/evenementen/doodseskader",
+  "description": "Compromisloos duo uit België",
+  "dateNotification": {
+   "start": "19 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12347220,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Doodseskader_WeaponizingMyFailures_Portrait_DLungu_2.jpg",
+    "alt": null,
+    "title": "Doodseskader Weaponizing My Failures Portrait D Lungu 2",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "56f62b76-3ce0-44e9-a501-16ae31eb8549",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/05",
+  "eventStartCompare": "2026-12-05",
+  "eventStartDay": "05",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/05 19:30:00",
+  "eventEndDate": null,
+  "title": "Sarah Julia",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/8a7f86786be74d65ad5ffcc98fa6727b",
+  "url": "https://tolhuistuin.nl/evenementen/sarah-julia-2",
+  "description": "Zussenduo schildert kleurrijke indiefolk",
+  "dateNotification": {
+   "start": "05 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12331124,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/f003a92e_SJ-main2026-credits-EricaSnyder-1776101179.jpg",
+    "alt": null,
+    "title": "F003a92e SJ main2026 credits Erica Snyder 1776101179",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "946fdd37-d249-4c3b-aa84-5b835be914e4",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/01",
+  "eventStartCompare": "2026-12-01",
+  "eventStartDay": "01",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/01 19:30:00",
+  "eventEndDate": null,
+  "title": "Julia Wolf",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/ef97201c753044959180e36e73414020",
+  "url": "https://tolhuistuin.nl/evenementen/julia-wolf",
+  "description": "Donkere alt-pop met indie-, rock- en hiphopinvloeden",
+  "dateNotification": {
+   "start": "01 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12322843,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/julia-wolf-natasha-shoot-2-verkleind-1775547814.JPG",
+    "alt": null,
+    "title": "Julia wolf natasha shoot 2 verkleind 1775547814",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "98056eeb-9dac-453e-9cbd-2c90db97c36d",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/12",
+  "eventStartCompare": "2026-12-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/12 19:30:00",
+  "eventEndDate": null,
+  "title": "Romy Liz Rose + Levi Boon",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/30035a1da58148b892507e62e08afb26",
+  "url": "https://tolhuistuin.nl/evenementen/romy-liz-rose-x-levi-boon",
+  "description": "Dubbelconcert met dromerige indiefolk",
+  "dateNotification": {
+   "start": "12 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12316510,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Banner_2026-04-02-075521_icly-1775116544.jpg",
+    "alt": null,
+    "title": "Banner 2026 04 02 075521 icly 1775116544",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "fef43449-4bd0-4db8-896a-b032b9a2f4f2",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/12",
+  "eventStartCompare": "2026-12-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/12 19:30:00",
+  "eventEndDate": null,
+  "title": "Bertolf",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/bbffbe0c5d6444c7acfc2d02efa615db",
+  "url": "https://tolhuistuin.nl/evenementen/bertolf",
+  "description": "Virtuoze songwriter en bluegrass-gitarist",
+  "dateNotification": {
+   "start": "12 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12299742,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/B0004838-1773919589.jpg",
+    "alt": null,
+    "title": "B0004838 1773919589",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "d8ffefb9-d1b0-4fc8-99b1-4d3ff4329872",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/02",
+  "eventStartCompare": "2026-12-02",
+  "eventStartDay": "02",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/02 19:30:00",
+  "eventEndDate": null,
+  "title": "Noor",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/e95d5418fc8d42a4aeaa9ca8e4aa5bd4",
+  "url": "https://tolhuistuin.nl/evenementen/noor",
+  "description": "Popliedjes voor wie het ook nog niet weet",
+  "dateNotification": {
+   "start": "02 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12281989,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/website-banner-noor-212.png",
+    "alt": null,
+    "title": "Website banner noor 212",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "f2f538e0-5c7f-4f48-9b28-a964636c64b8",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/20",
+  "eventStartCompare": "2026-12-20",
+  "eventStartDay": "20",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/20 20:30:00",
+  "eventEndDate": null,
+  "title": "Michael Prins",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/29595a0e2a78420aad359d2b32d09933",
+  "url": "https://tolhuistuin.nl/evenementen/michael-prins",
+  "description": "Persoonlijke folk uit Rotterdam",
+  "dateNotification": {
+   "start": "20 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12273045,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Michael-Prins-Compressed.jpg",
+    "alt": null,
+    "title": "Michael Prins Compressed",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "0413d8d3-ff7b-4c89-94c6-43770c400569",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/24",
+  "eventStartCompare": "2026-11-24",
+  "eventStartDay": "24",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/24 20:30:00",
+  "eventEndDate": null,
+  "title": "Gong",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/ce61701192b64bd0a360112ad40acc52",
+  "url": "https://tolhuistuin.nl/evenementen/gong",
+  "description": "Pioniers in psychedelische rock",
+  "dateNotification": {
+   "start": "24 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12270576,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/GONG_2bfx_Sam_Huddleston_2_40-1536x1024-1771349391.jpg",
+    "alt": null,
+    "title": "GONG 2bfx Sam Huddleston 2 40 1536x1024 1771349391",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "ea5ca071-d9ac-43f5-841c-7b38c61f93f6",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/30",
+  "eventStartCompare": "2026-12-30",
+  "eventStartDay": "30",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/30 20:30:00",
+  "eventEndDate": null,
+  "title": "Honey I'm Home",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/28e1c64c88db45d399cd7b38008c3e1a",
+  "url": "https://tolhuistuin.nl/evenementen/honey-im-home",
+  "description": "Nederlandse nieuwkomers deinen mee op de shoegaze-golf",
+  "dateNotification": {
+   "start": "30 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12263944,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/HoneyImHome_Press_Feb26_byHannahBruynzeel.jpg",
+    "alt": null,
+    "title": "Honey Im Home Press Feb26 by Hannah Bruynzeel",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "91cf8a4c-d861-4b1a-9673-9b0060c7ae00",
+  "eventType": {
+   "label": "Theater",
+   "value": "theater",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/03/12",
+  "eventStartCompare": "2027-03-12",
+  "eventStartDay": "12",
+  "eventStartMonth": "mrt",
+  "eventEndDay": "2027-03-12",
+  "eventStartDate": "2027/03/12 20:00:00",
+  "eventEndDate": "2027/03/12 21:30:00",
+  "title": "Mama Monologen",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": "Toegankelijk ticket (€7,50), Regulier ticket (€15,00), Supporter ticket (€25,00)",
+  "soldOut": false,
+  "location": "Zonzij",
+  "ticketLink": "https://shop.paylogic.com/82539824dc1946aaac80e9989781b315",
+  "url": "https://tolhuistuin.nl/evenementen/mamamonologen-3-2",
+  "description": "Een theatraal onderzoek naar de verborgen wereld van moederschap.",
+  "dateNotification": {
+   "start": "12 mrt",
+   "end": "12 mrt"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 12403718,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/MamaMonologen_JitskeNap_25Mrt2026_058_websize.jpg",
+    "alt": null,
+    "title": "Mama Monologen Jitske Nap 25 Mrt2026 058 websize",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "e91e78f3-dd65-4ec4-afeb-45f65c872a0a",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/03",
+  "eventStartCompare": "2026-12-03",
+  "eventStartDay": "03",
+  "eventStartMonth": "dec",
+  "eventEndDay": null,
+  "eventStartDate": "2026/12/03 19:30:00",
+  "eventEndDate": null,
+  "title": "Hiigo",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/b4caecc1e93649a7865544d6a39462d4",
+  "url": "https://tolhuistuin.nl/evenementen/hiigo",
+  "description": "Moderne nederpopband uit Zwolle",
+  "dateNotification": {
+   "start": "03 dec",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12233491,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Hiigo-edit-ws.jpg",
+    "alt": null,
+    "title": "Hiigo edit ws",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "571c7dbd-7e73-4cef-8e89-3040210512d2",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2027/02/04",
+  "eventStartCompare": "2027-02-04",
+  "eventStartDay": "04",
+  "eventStartMonth": "feb",
+  "eventEndDay": null,
+  "eventStartDate": "2027/02/04 20:30:00",
+  "eventEndDate": null,
+  "title": "Mansur Brown",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/12ac141c625a4e2d9e450c9720c729c6",
+  "url": "https://tolhuistuin.nl/evenementen/mansur-brown-2",
+  "description": "Britse jazzgitarist mixt ambient, jazzrock, flamenco, hiphop en afrobeat",
+  "dateNotification": {
+   "start": "04 feb",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12263027,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/mansur-1771520708.jpg",
+    "alt": null,
+    "title": "Mansur 1771520708",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "7f9cef15-dc8d-4cae-8fe5-12c6a71b4876",
+  "eventType": {
+   "label": "Muziek",
+   "value": "muziekPerformance",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/23",
+  "eventStartCompare": "2026-11-23",
+  "eventStartDay": "23",
+  "eventStartMonth": "nov",
+  "eventEndDay": null,
+  "eventStartDate": "2026/11/23 20:30:00",
+  "eventEndDate": null,
+  "title": "Mighty Oaks",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": null,
+  "ticketLink": "https://tickets.paradiso.nl/afc6d9abb10c4303a581ae264f379709",
+  "url": "https://tolhuistuin.nl/evenementen/mighty-oaks",
+  "description": "Indiefolktrio keert na hun akoestische jaren terug met volledige band",
+  "dateNotification": {
+   "start": "23 nov",
+   "end": null
+  },
+  "paradisoEvent": true,
+  "headerImages": [
+   {
+    "id": 12148117,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/paradisoEvents/Main-Press-Shot_2025-12-01-084217_aoaa-1764579034.jpg",
+    "alt": null,
+    "title": "Main Press Shot 2025 12 01 084217 aoaa 1764579034",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/23",
+  "eventStartCompare": "2026-11-23",
+  "eventStartDay": "23",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-23",
+  "eventStartDate": "2026/11/23 17:30:00",
+  "eventEndDate": "2026/11/23 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/49",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "23 nov",
+   "end": "23 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/23",
+  "eventStartCompare": "2026-11-23",
+  "eventStartDay": "23",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-23",
+  "eventStartDate": "2026/11/23 20:00:00",
+  "eventEndDate": "2026/11/23 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/50",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "23 nov",
+   "end": "23 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-25",
+  "eventStartDate": "2026/11/25 17:30:00",
+  "eventEndDate": "2026/11/25 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/51",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": "25 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/25",
+  "eventStartCompare": "2026-11-25",
+  "eventStartDay": "25",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-25",
+  "eventStartDate": "2026/11/25 20:00:00",
+  "eventEndDate": "2026/11/25 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/52",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "25 nov",
+   "end": "25 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/30",
+  "eventStartCompare": "2026-11-30",
+  "eventStartDay": "30",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-30",
+  "eventStartDate": "2026/11/30 17:30:00",
+  "eventEndDate": "2026/11/30 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/53",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "30 nov",
+   "end": "30 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/11/30",
+  "eventStartCompare": "2026-11-30",
+  "eventStartDay": "30",
+  "eventStartMonth": "nov",
+  "eventEndDay": "2026-11-30",
+  "eventStartDate": "2026/11/30 20:00:00",
+  "eventEndDate": "2026/11/30 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/54",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "30 nov",
+   "end": "30 nov"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/02",
+  "eventStartCompare": "2026-12-02",
+  "eventStartDay": "02",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-02",
+  "eventStartDate": "2026/12/02 17:30:00",
+  "eventEndDate": "2026/12/02 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/55",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "02 dec",
+   "end": "02 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/02",
+  "eventStartCompare": "2026-12-02",
+  "eventStartDay": "02",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-02",
+  "eventStartDate": "2026/12/02 20:00:00",
+  "eventEndDate": "2026/12/02 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/56",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "02 dec",
+   "end": "02 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/07",
+  "eventStartCompare": "2026-12-07",
+  "eventStartDay": "07",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-07",
+  "eventStartDate": "2026/12/07 17:30:00",
+  "eventEndDate": "2026/12/07 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/57",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "07 dec",
+   "end": "07 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/07",
+  "eventStartCompare": "2026-12-07",
+  "eventStartDay": "07",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-07",
+  "eventStartDate": "2026/12/07 20:00:00",
+  "eventEndDate": "2026/12/07 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/58",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "07 dec",
+   "end": "07 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/09",
+  "eventStartCompare": "2026-12-09",
+  "eventStartDay": "09",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-09",
+  "eventStartDate": "2026/12/09 17:30:00",
+  "eventEndDate": "2026/12/09 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/59",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "09 dec",
+   "end": "09 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/09",
+  "eventStartCompare": "2026-12-09",
+  "eventStartDay": "09",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-09",
+  "eventStartDate": "2026/12/09 20:00:00",
+  "eventEndDate": "2026/12/09 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/60",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "09 dec",
+   "end": "09 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/14",
+  "eventStartCompare": "2026-12-14",
+  "eventStartDay": "14",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-14",
+  "eventStartDate": "2026/12/14 17:30:00",
+  "eventEndDate": "2026/12/14 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/61",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "14 dec",
+   "end": "14 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/14",
+  "eventStartCompare": "2026-12-14",
+  "eventStartDay": "14",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-14",
+  "eventStartDate": "2026/12/14 20:00:00",
+  "eventEndDate": "2026/12/14 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/62",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "14 dec",
+   "end": "14 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/16",
+  "eventStartCompare": "2026-12-16",
+  "eventStartDay": "16",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-16",
+  "eventStartDate": "2026/12/16 17:30:00",
+  "eventEndDate": "2026/12/16 19:30:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/63",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "16 dec",
+   "end": "16 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ },
+ {
+  "uid": "b03b5caa-4f8e-4b79-97cf-d9f1315f2d96",
+  "eventType": {
+   "label": "Doorlopend",
+   "value": "doorlopend",
+   "selected": true,
+   "valid": true,
+   "icon": null,
+   "color": null
+  },
+  "eventDay": "2026/12/16",
+  "eventStartCompare": "2026-12-16",
+  "eventStartDay": "16",
+  "eventStartMonth": "dec",
+  "eventEndDay": "2026-12-16",
+  "eventStartDate": "2026/12/16 20:00:00",
+  "eventEndDate": "2026/12/16 22:00:00",
+  "title": "The Space Choir",
+  "freeEvent": false,
+  "ticketPrice": null,
+  "ticketSpecialPrice": null,
+  "soldOut": false,
+  "location": "IJzaal",
+  "ticketLink": "https://thespacechoir.com/aanmelden/",
+  "url": "https://tolhuistuin.nl/evenementen/the-space-choir/64",
+  "description": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor!",
+  "dateNotification": {
+   "start": "16 dec",
+   "end": "16 dec"
+  },
+  "paradisoEvent": false,
+  "headerImages": [
+   {
+    "id": 11625210,
+    "url": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+    "alt": null,
+    "title": "The Space Choir Show Paradiso",
+    "focalPoint": {
+     "x": 0.5,
+     "y": 0.5
+    }
+   }
+  ]
+ }
+]
