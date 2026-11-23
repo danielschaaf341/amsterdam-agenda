@@ -64,3 +64,23 @@ def test_ics_format():
     assert "DTSTART:20261201T190000Z" in text  # 20:00 Amsterdam = 19:00 UTC
     assert "[UITVERKOCHT]" in text and "\\," in text and "\\;" in text
     assert all(len(line.encode()) <= 75 for line in text.split("\r\n"))
+
+
+def test_failed_scraper_keeps_previous_events(tmp_path, monkeypatch):
+    soon = datetime.now(TZ) + timedelta(days=2)
+    ok = types.SimpleNamespace(NAME="flaky", VENUE="Flaky", HOMEPAGE="https://flaky", fetch=lambda c, t: None,
+                               parse=lambda raw, t: [Event(id="flaky-1", title="Kept", venue="Flaky",
+                                                           start=soon, url="https://flaky")])
+    monkeypatch.setattr(run, "DATA", tmp_path)
+    monkeypatch.setattr(run, "all_scrapers", lambda: [ok])
+    assert run.main([]) == 0  # first run succeeds
+
+    def boom(c, t):
+        raise ConnectionError("empty response")
+
+    monkeypatch.setattr(run, "all_scrapers", lambda: [types.SimpleNamespace(**{**vars(ok), "fetch": boom})])
+    run.main([])
+    events = json.loads((tmp_path / "events.json").read_text())["events"]
+    status = json.loads((tmp_path / "status.json").read_text())["venues"]["flaky"]
+    assert [e["id"] for e in events] == ["flaky-1"]
+    assert status["error"] and status["stale"] and status["last_success"]

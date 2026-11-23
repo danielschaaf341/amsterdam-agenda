@@ -289,7 +289,8 @@ function renderStatus(status, generated) {
     } else {
       upd.textContent = (v.error ? "⚠ mislukt · laatst ok " : "") + (v.last_success ? fmtStamp.format(new Date(v.last_success)) : "nooit");
     }
-    const n = document.createElement("td"); n.textContent = v.error || v.disabled ? "–" : v.events;
+    const n = document.createElement("td");
+    n.textContent = v.disabled ? "–" : v.error ? (v.stale ? `${v.events} (oud)` : "–") : v.events;
     tr.append(name, upd, n);
     tbody.append(tr);
   }

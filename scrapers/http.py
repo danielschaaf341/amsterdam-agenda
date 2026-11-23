@@ -91,6 +91,12 @@ class Client:
         log.info("%s %s", method, url)
         resp = self.session.request(method, url, params=params, json=json_body, headers=headers, timeout=timeout)
         self.requests_made += 1
+        if resp.ok and not resp.content:
+            # some sites intermittently answer with an empty body (seen: Melkweg from CI) → retry once
+            log.warning("empty response from %s, retrying once in 10 s", url)
+            time.sleep(10)
+            resp = self.session.request(method, url, params=params, json=json_body, headers=headers, timeout=timeout)
+            self.requests_made += 1
         resp.raise_for_status()
         text = resp.text
         if any(marker in text[:3000] for marker in BOT_PAGE_MARKERS):

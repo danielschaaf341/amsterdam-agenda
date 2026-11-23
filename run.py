@@ -43,6 +43,11 @@ def in_window(ev: Event, start: datetime, limit: datetime) -> bool:
     return ev.start < limit and last >= start
 
 
+def _event_from_dict(d: dict) -> Event:
+    return Event(**{**d, "start": datetime.fromisoformat(d["start"]),
+                    "end": datetime.fromisoformat(d["end"]) if d.get("end") else None})
+
+
 def dedupe(events: list[Event]) -> list[Event]:
     by_id: dict[str, Event] = {}
     by_key: dict[tuple, Event] = {}
@@ -99,6 +104,8 @@ def main(argv=None) -> int:
 
     status_path = DATA / "status.json"
     old_status = json.loads(status_path.read_text()).get("venues", {}) if status_path.exists() else {}
+    old_events_path = DATA / "events.json"
+    old_events = json.loads(old_events_path.read_text())["events"] if old_events_path.exists() else []
 
     mods = all_scrapers()
     disabled = {m.NAME: m for m in mods if not getattr(m, "ENABLED", True)}
@@ -136,6 +143,14 @@ def main(argv=None) -> int:
                 entry["error"] = f"{type(exc).__name__}: {exc}"[:300]
                 log.error("[%s] FAILED: %s", mod.NAME, entry["error"])
                 log.debug(traceback.format_exc())
+                # keep last run's events of this source (still in window) so a hiccup doesn't empty a venue
+                kept = [e for e in (_event_from_dict(d) for d in old_events if d.get("source") == mod.NAME)
+                        if in_window(e, window_start, window_end)]
+                all_events.extend(kept)
+                entry["events"] = len(kept)
+                entry["stale"] = bool(kept)
+                if kept:
+                    log.info("[%s] kept %d events from the previous run", mod.NAME, len(kept))
             status[mod.NAME] = entry
     finally:
         client.close()
@@ -148,15 +163,12 @@ def main(argv=None) -> int:
 
     if args.only:
         # keep events of scrapers we didn't run, so a partial run doesn't wipe the site
-        old_events_path = DATA / "events.json"
-        if old_events_path.exists():
-            ran = {m.NAME for m in mods}
-            for d in json.loads(old_events_path.read_text())["events"]:
-                if d.get("source") not in ran:
-                    ev = Event(**{**d, "start": datetime.fromisoformat(d["start"]),
-                                  "end": datetime.fromisoformat(d["end"]) if d.get("end") else None})
-                    if in_window(ev, window_start, window_end):
-                        all_events.append(ev)
+        ran = {m.NAME for m in mods}
+        for d in old_events:
+            if d.get("source") not in ran:
+                ev = _event_from_dict(d)
+                if in_window(ev, window_start, window_end):
+                    all_events.append(ev)
 
     events = sorted(dedupe(all_events), key=lambda e: (e.start, e.venue, e.title))
     DATA.mkdir(exist_ok=True)
