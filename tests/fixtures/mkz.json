@@ -1,0 +1,4002 @@
+[
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795424400",
+    "value2": "1795446000",
+    "duration": 21600,
+    "time_start": "2026-11-23T10:00:00+01:00",
+    "time_end": "2026-11-23T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-23/mkz-studycafe",
+  "uuid": "265bceaf-e3a5-48f0-98c0-609adbcc4b8a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795622400",
+    "value2": "1795622400",
+    "duration": 0,
+    "time_start": "2026-11-25T17:00:00+01:00",
+    "time_end": "2026-11-25T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-25/early-wednesday-mkz",
+  "uuid": "3767a5e0-8469-4ecd-94a9-d1e590057813"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795716000",
+    "duration": 0,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596285",
+  "uuid": "5050d06e-bfec-4a15-9ca0-3fa25daad442"
+ },
+ {
+  "body": "No Borders No Nations // Mutual Aid Fundraising A friend who has been struggling for over a decade to get papers is now in a good possibility to get legalised in portugal. However, the immigration agency is now breaking its own laws and not giving any response whatsoever, so we're seeking the help o",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795802400",
+    "value2": "1795802400",
+    "duration": 0,
+    "time_start": "2026-11-27T19:00:00+01:00",
+    "time_end": "2026-11-27T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé - No border mutual aid voku",
+  "url": "https://radar.squat.net/en/node/596286",
+  "uuid": "cba21362-bda2-4f78-ab5c-97188ad8cfd9"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795888800",
+    "value2": "1795888800",
+    "duration": 0,
+    "time_start": "2026-11-28T19:00:00+01:00",
+    "time_end": "2026-11-28T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596287",
+  "uuid": "b2ca6503-4303-4051-b773-557094767653"
+ },
+ {
+  "body": "Join us for another boardgame night! We open at 16.00 and serve some simple food around 19.00. Bring your friends and own games, or borrow some of ours (games or friends). (Except Monopoly, we won't play that...) -----------------------------//// In ‘Miltvuur Keuken Zuid’ worden gezonde veganistisch",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795964400",
+    "value2": "1795964400",
+    "duration": 0,
+    "time_start": "2026-11-29T16:00:00+01:00",
+    "time_end": "2026-11-29T16:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé: Boardgame Night!",
+  "url": "https://radar.squat.net/en/node/563226",
+  "uuid": "29182b41-ec44-4e92-b4ba-b2fbd63862d5"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796029200",
+    "value2": "1796050800",
+    "duration": 21600,
+    "time_start": "2026-11-30T10:00:00+01:00",
+    "time_end": "2026-11-30T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-30/mkz-studycafe",
+  "uuid": "4ff68e4a-e15e-453d-b783-62a91f2a55a8"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796227200",
+    "value2": "1796227200",
+    "duration": 0,
+    "time_start": "2026-12-02T17:00:00+01:00",
+    "time_end": "2026-12-02T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-02/early-wednesday-mkz",
+  "uuid": "aac67a8e-3f32-408f-ba2c-2c980d5b0347"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796320800",
+    "value2": "1796320800",
+    "duration": 0,
+    "time_start": "2026-12-03T19:00:00+01:00",
+    "time_end": "2026-12-03T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596288",
+  "uuid": "34478d6f-0e7c-454d-9d78-5ebb1eeb23f9"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796407200",
+    "value2": "1796407200",
+    "duration": 0,
+    "time_start": "2026-12-04T19:00:00+01:00",
+    "time_end": "2026-12-04T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596289",
+  "uuid": "bf4eb489-6521-4eff-b786-7782603df563"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796493600",
+    "value2": "1796493600",
+    "duration": 0,
+    "time_start": "2026-12-05T19:00:00+01:00",
+    "time_end": "2026-12-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596290",
+  "uuid": "dbaa65d5-134c-4714-859c-61119fb42a3f"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796634000",
+    "value2": "1796655600",
+    "duration": 21600,
+    "time_start": "2026-12-07T10:00:00+01:00",
+    "time_end": "2026-12-07T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-07/mkz-studycafe",
+  "uuid": "ff2f8f7f-a560-4720-9062-77a5c4646cdc"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796832000",
+    "value2": "1796832000",
+    "duration": 0,
+    "time_start": "2026-12-09T17:00:00+01:00",
+    "time_end": "2026-12-09T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-09/early-wednesday-mkz",
+  "uuid": "9330194e-2f72-44ad-8959-a9735ce39685"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796925600",
+    "value2": "1796925600",
+    "duration": 0,
+    "time_start": "2026-12-10T19:00:00+01:00",
+    "time_end": "2026-12-10T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596291",
+  "uuid": "42716d08-9a63-411d-9318-eadcacbba135"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797012000",
+    "value2": "1797012000",
+    "duration": 0,
+    "time_start": "2026-12-11T19:00:00+01:00",
+    "time_end": "2026-12-11T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596292",
+  "uuid": "8597b367-b6f2-41bb-bd48-80ef6b313a8e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797098400",
+    "duration": 0,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596293",
+  "uuid": "fbeeb1b2-a396-4586-ac3e-60ac84391d5c"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797238800",
+    "value2": "1797260400",
+    "duration": 21600,
+    "time_start": "2026-12-14T10:00:00+01:00",
+    "time_end": "2026-12-14T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-14/mkz-studycafe",
+  "uuid": "bd15a930-05fc-4ad7-a18e-f64861d98883"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797436800",
+    "value2": "1797436800",
+    "duration": 0,
+    "time_start": "2026-12-16T17:00:00+01:00",
+    "time_end": "2026-12-16T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-16/early-wednesday-mkz",
+  "uuid": "67154f56-216a-40ca-b4b7-d8eb2ded921f"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797530400",
+    "value2": "1797530400",
+    "duration": 0,
+    "time_start": "2026-12-17T19:00:00+01:00",
+    "time_end": "2026-12-17T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596294",
+  "uuid": "f14050c9-e2b6-49ea-8a82-ca7a7af6c0d4"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797616800",
+    "value2": "1797616800",
+    "duration": 0,
+    "time_start": "2026-12-18T19:00:00+01:00",
+    "time_end": "2026-12-18T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596295",
+  "uuid": "e6d07ec0-d828-4df4-8aad-e3dc7904be5e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797703200",
+    "value2": "1797703200",
+    "duration": 0,
+    "time_start": "2026-12-19T19:00:00+01:00",
+    "time_end": "2026-12-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596296",
+  "uuid": "5f2a06c1-4fcf-4a11-ad74-6d9a516cacf7"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797843600",
+    "value2": "1797865200",
+    "duration": 21600,
+    "time_start": "2026-12-21T10:00:00+01:00",
+    "time_end": "2026-12-21T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-21/mkz-studycafe",
+  "uuid": "3c222d4d-6c5e-4f3a-9ab7-146cfb620c8c"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798041600",
+    "value2": "1798041600",
+    "duration": 0,
+    "time_start": "2026-12-23T17:00:00+01:00",
+    "time_end": "2026-12-23T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-23/early-wednesday-mkz",
+  "uuid": "70f0ab9f-7727-4bcc-8f37-cadad37eab1a"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798135200",
+    "value2": "1798135200",
+    "duration": 0,
+    "time_start": "2026-12-24T19:00:00+01:00",
+    "time_end": "2026-12-24T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596297",
+  "uuid": "3947a205-ba82-420f-b91a-d25c0d32eae3"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798221600",
+    "value2": "1798221600",
+    "duration": 0,
+    "time_start": "2026-12-25T19:00:00+01:00",
+    "time_end": "2026-12-25T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596298",
+  "uuid": "6e310aef-55be-4d14-b329-b9897c220d53"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798308000",
+    "value2": "1798308000",
+    "duration": 0,
+    "time_start": "2026-12-26T19:00:00+01:00",
+    "time_end": "2026-12-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596299",
+  "uuid": "ad1bd974-1ada-4eb2-afeb-74e801aa9134"
+ },
+ {
+  "body": "Join us for another boardgame night! We open at 16.00 and serve some simple food around 19.00. Bring your friends and own games, or borrow some of ours (games or friends). (Except Monopoly, we won't play that...) -----------------------------//// In ‘Miltvuur Keuken Zuid’ worden gezonde veganistisch",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798383600",
+    "value2": "1798383600",
+    "duration": 0,
+    "time_start": "2026-12-27T16:00:00+01:00",
+    "time_end": "2026-12-27T16:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé: Boardgame Night!",
+  "url": "https://radar.squat.net/en/node/563227",
+  "uuid": "d5d53fdb-c217-4748-b553-7ab71de7b65a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798646400",
+    "value2": "1798646400",
+    "duration": 0,
+    "time_start": "2026-12-30T17:00:00+01:00",
+    "time_end": "2026-12-30T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-30/early-wednesday-mkz",
+  "uuid": "e39bcd79-3e0f-455d-b9a9-dc03ed2ac12b"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798740000",
+    "value2": "1798740000",
+    "duration": 0,
+    "time_start": "2026-12-31T19:00:00+01:00",
+    "time_end": "2026-12-31T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596300",
+  "uuid": "b771ba98-60a0-470a-9618-41b7ca97f77c"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798826400",
+    "value2": "1798826400",
+    "duration": 0,
+    "time_start": "2027-01-01T19:00:00+01:00",
+    "time_end": "2027-01-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596301",
+  "uuid": "3eeaa76e-9121-4c5e-aea8-7b89d6309bf1"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798912800",
+    "value2": "1798912800",
+    "duration": 0,
+    "time_start": "2027-01-02T19:00:00+01:00",
+    "time_end": "2027-01-02T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596302",
+  "uuid": "392b480c-bc13-4174-aeb5-a0907db667e6"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799251200",
+    "value2": "1799251200",
+    "duration": 0,
+    "time_start": "2027-01-06T17:00:00+01:00",
+    "time_end": "2027-01-06T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-06/early-wednesday-mkz",
+  "uuid": "4b02a6bd-1c3c-4891-bb65-37809a0a9b95"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799344800",
+    "value2": "1799344800",
+    "duration": 0,
+    "time_start": "2027-01-07T19:00:00+01:00",
+    "time_end": "2027-01-07T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596303",
+  "uuid": "dbe18e9c-68a0-41a3-be37-b436375f76ca"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799431200",
+    "value2": "1799431200",
+    "duration": 0,
+    "time_start": "2027-01-08T19:00:00+01:00",
+    "time_end": "2027-01-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596304",
+  "uuid": "27391d33-ba24-4208-aa07-f6a475700171"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799517600",
+    "value2": "1799517600",
+    "duration": 0,
+    "time_start": "2027-01-09T19:00:00+01:00",
+    "time_end": "2027-01-09T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596305",
+  "uuid": "d6ca131c-6c45-448c-839c-20c20187dcc0"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799856000",
+    "value2": "1799856000",
+    "duration": 0,
+    "time_start": "2027-01-13T17:00:00+01:00",
+    "time_end": "2027-01-13T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-13/early-wednesday-mkz",
+  "uuid": "d59bc8cf-795a-4240-a10a-38d40c1f1740"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799949600",
+    "value2": "1799949600",
+    "duration": 0,
+    "time_start": "2027-01-14T19:00:00+01:00",
+    "time_end": "2027-01-14T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596306",
+  "uuid": "74f977e2-f58b-4e9b-bf00-e558e0692297"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800036000",
+    "value2": "1800036000",
+    "duration": 0,
+    "time_start": "2027-01-15T19:00:00+01:00",
+    "time_end": "2027-01-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596307",
+  "uuid": "25d3d58e-06ad-449c-a31b-39bc2b5c2b40"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800122400",
+    "value2": "1800122400",
+    "duration": 0,
+    "time_start": "2027-01-16T19:00:00+01:00",
+    "time_end": "2027-01-16T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596308",
+  "uuid": "4e7dd87f-a01d-4df1-9624-4bffbcb9948a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800460800",
+    "value2": "1800460800",
+    "duration": 0,
+    "time_start": "2027-01-20T17:00:00+01:00",
+    "time_end": "2027-01-20T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-20/early-wednesday-mkz",
+  "uuid": "8801d6e2-3f23-4ef5-9f52-cbf296ac8a99"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800554400",
+    "value2": "1800554400",
+    "duration": 0,
+    "time_start": "2027-01-21T19:00:00+01:00",
+    "time_end": "2027-01-21T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596309",
+  "uuid": "c7be6ee8-4226-4472-a6a1-81e7f9b7a06e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800640800",
+    "value2": "1800640800",
+    "duration": 0,
+    "time_start": "2027-01-22T19:00:00+01:00",
+    "time_end": "2027-01-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596310",
+  "uuid": "ee7556af-a878-4c89-879f-c0b548c457d4"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800727200",
+    "value2": "1800727200",
+    "duration": 0,
+    "time_start": "2027-01-23T19:00:00+01:00",
+    "time_end": "2027-01-23T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596311",
+  "uuid": "ae954269-a295-4410-91c8-cc18029d78e1"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801065600",
+    "value2": "1801065600",
+    "duration": 0,
+    "time_start": "2027-01-27T17:00:00+01:00",
+    "time_end": "2027-01-27T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-27/early-wednesday-mkz",
+  "uuid": "ab50fdd9-22ae-4408-ad1b-30ba9c13da50"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801159200",
+    "value2": "1801159200",
+    "duration": 0,
+    "time_start": "2027-01-28T19:00:00+01:00",
+    "time_end": "2027-01-28T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596312",
+  "uuid": "bff9d966-db52-4e40-8f7c-2ba280dd7be1"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801245600",
+    "value2": "1801245600",
+    "duration": 0,
+    "time_start": "2027-01-29T19:00:00+01:00",
+    "time_end": "2027-01-29T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596313",
+  "uuid": "3bc4dd25-bddc-4b10-a0b5-c6d2805a48bb"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801332000",
+    "value2": "1801332000",
+    "duration": 0,
+    "time_start": "2027-01-30T19:00:00+01:00",
+    "time_end": "2027-01-30T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596314",
+  "uuid": "7aa9989e-768f-4f74-9f35-a991448027b3"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801670400",
+    "value2": "1801670400",
+    "duration": 0,
+    "time_start": "2027-02-03T17:00:00+01:00",
+    "time_end": "2027-02-03T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-03/early-wednesday-mkz",
+  "uuid": "728774b6-4a17-4c37-b3e4-b53601bd3d7f"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802275200",
+    "value2": "1802275200",
+    "duration": 0,
+    "time_start": "2027-02-10T17:00:00+01:00",
+    "time_end": "2027-02-10T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-10/early-wednesday-mkz",
+  "uuid": "ee29964b-7d08-4980-9462-3156f257b3ff"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802880000",
+    "value2": "1802880000",
+    "duration": 0,
+    "time_start": "2027-02-17T17:00:00+01:00",
+    "time_end": "2027-02-17T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-17/early-wednesday-mkz",
+  "uuid": "2932e76b-2c2d-4f4f-886b-91a6fabc18c2"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795424400",
+    "value2": "1795446000",
+    "duration": 21600,
+    "time_start": "2026-11-23T10:00:00+01:00",
+    "time_end": "2026-11-23T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-23/mkz-studycafe",
+  "uuid": "265bceaf-e3a5-48f0-98c0-609adbcc4b8a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795622400",
+    "value2": "1795622400",
+    "duration": 0,
+    "time_start": "2026-11-25T17:00:00+01:00",
+    "time_end": "2026-11-25T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-25/early-wednesday-mkz",
+  "uuid": "3767a5e0-8469-4ecd-94a9-d1e590057813"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795716000",
+    "duration": 0,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596285",
+  "uuid": "5050d06e-bfec-4a15-9ca0-3fa25daad442"
+ },
+ {
+  "body": "No Borders No Nations // Mutual Aid Fundraising A friend who has been struggling for over a decade to get papers is now in a good possibility to get legalised in portugal. However, the immigration agency is now breaking its own laws and not giving any response whatsoever, so we're seeking the help o",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795802400",
+    "value2": "1795802400",
+    "duration": 0,
+    "time_start": "2026-11-27T19:00:00+01:00",
+    "time_end": "2026-11-27T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé - No border mutual aid voku",
+  "url": "https://radar.squat.net/en/node/596286",
+  "uuid": "cba21362-bda2-4f78-ab5c-97188ad8cfd9"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795888800",
+    "value2": "1795888800",
+    "duration": 0,
+    "time_start": "2026-11-28T19:00:00+01:00",
+    "time_end": "2026-11-28T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596287",
+  "uuid": "b2ca6503-4303-4051-b773-557094767653"
+ },
+ {
+  "body": "Join us for another boardgame night! We open at 16.00 and serve some simple food around 19.00. Bring your friends and own games, or borrow some of ours (games or friends). (Except Monopoly, we won't play that...) -----------------------------//// In ‘Miltvuur Keuken Zuid’ worden gezonde veganistisch",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795964400",
+    "value2": "1795964400",
+    "duration": 0,
+    "time_start": "2026-11-29T16:00:00+01:00",
+    "time_end": "2026-11-29T16:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé: Boardgame Night!",
+  "url": "https://radar.squat.net/en/node/563226",
+  "uuid": "29182b41-ec44-4e92-b4ba-b2fbd63862d5"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796029200",
+    "value2": "1796050800",
+    "duration": 21600,
+    "time_start": "2026-11-30T10:00:00+01:00",
+    "time_end": "2026-11-30T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-30/mkz-studycafe",
+  "uuid": "4ff68e4a-e15e-453d-b783-62a91f2a55a8"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796227200",
+    "value2": "1796227200",
+    "duration": 0,
+    "time_start": "2026-12-02T17:00:00+01:00",
+    "time_end": "2026-12-02T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-02/early-wednesday-mkz",
+  "uuid": "aac67a8e-3f32-408f-ba2c-2c980d5b0347"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796320800",
+    "value2": "1796320800",
+    "duration": 0,
+    "time_start": "2026-12-03T19:00:00+01:00",
+    "time_end": "2026-12-03T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596288",
+  "uuid": "34478d6f-0e7c-454d-9d78-5ebb1eeb23f9"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796407200",
+    "value2": "1796407200",
+    "duration": 0,
+    "time_start": "2026-12-04T19:00:00+01:00",
+    "time_end": "2026-12-04T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596289",
+  "uuid": "bf4eb489-6521-4eff-b786-7782603df563"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796493600",
+    "value2": "1796493600",
+    "duration": 0,
+    "time_start": "2026-12-05T19:00:00+01:00",
+    "time_end": "2026-12-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596290",
+  "uuid": "dbaa65d5-134c-4714-859c-61119fb42a3f"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796634000",
+    "value2": "1796655600",
+    "duration": 21600,
+    "time_start": "2026-12-07T10:00:00+01:00",
+    "time_end": "2026-12-07T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-07/mkz-studycafe",
+  "uuid": "ff2f8f7f-a560-4720-9062-77a5c4646cdc"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796832000",
+    "value2": "1796832000",
+    "duration": 0,
+    "time_start": "2026-12-09T17:00:00+01:00",
+    "time_end": "2026-12-09T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-09/early-wednesday-mkz",
+  "uuid": "9330194e-2f72-44ad-8959-a9735ce39685"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796925600",
+    "value2": "1796925600",
+    "duration": 0,
+    "time_start": "2026-12-10T19:00:00+01:00",
+    "time_end": "2026-12-10T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596291",
+  "uuid": "42716d08-9a63-411d-9318-eadcacbba135"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797012000",
+    "value2": "1797012000",
+    "duration": 0,
+    "time_start": "2026-12-11T19:00:00+01:00",
+    "time_end": "2026-12-11T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596292",
+  "uuid": "8597b367-b6f2-41bb-bd48-80ef6b313a8e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797098400",
+    "duration": 0,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596293",
+  "uuid": "fbeeb1b2-a396-4586-ac3e-60ac84391d5c"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797238800",
+    "value2": "1797260400",
+    "duration": 21600,
+    "time_start": "2026-12-14T10:00:00+01:00",
+    "time_end": "2026-12-14T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-14/mkz-studycafe",
+  "uuid": "bd15a930-05fc-4ad7-a18e-f64861d98883"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797436800",
+    "value2": "1797436800",
+    "duration": 0,
+    "time_start": "2026-12-16T17:00:00+01:00",
+    "time_end": "2026-12-16T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-16/early-wednesday-mkz",
+  "uuid": "67154f56-216a-40ca-b4b7-d8eb2ded921f"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797530400",
+    "value2": "1797530400",
+    "duration": 0,
+    "time_start": "2026-12-17T19:00:00+01:00",
+    "time_end": "2026-12-17T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596294",
+  "uuid": "f14050c9-e2b6-49ea-8a82-ca7a7af6c0d4"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797616800",
+    "value2": "1797616800",
+    "duration": 0,
+    "time_start": "2026-12-18T19:00:00+01:00",
+    "time_end": "2026-12-18T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596295",
+  "uuid": "e6d07ec0-d828-4df4-8aad-e3dc7904be5e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797703200",
+    "value2": "1797703200",
+    "duration": 0,
+    "time_start": "2026-12-19T19:00:00+01:00",
+    "time_end": "2026-12-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596296",
+  "uuid": "5f2a06c1-4fcf-4a11-ad74-6d9a516cacf7"
+ },
+ {
+  "body": "Also feel like coffee costs an arm and a leg? All the bro's are being too noisy? MKZ is open as a study space on Mondays! The doors open from 10:00–16:00. There's soup for lunch, donation-based Coffee & tea are also donation-based Cash only! Come if you want to study, and if you can, respect the peo",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797843600",
+    "value2": "1797865200",
+    "duration": 21600,
+    "time_start": "2026-12-21T10:00:00+01:00",
+    "time_end": "2026-12-21T16:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=7;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Studycafé",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-21/mkz-studycafe",
+  "uuid": "3c222d4d-6c5e-4f3a-9ab7-146cfb620c8c"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798041600",
+    "value2": "1798041600",
+    "duration": 0,
+    "time_start": "2026-12-23T17:00:00+01:00",
+    "time_end": "2026-12-23T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-23/early-wednesday-mkz",
+  "uuid": "70f0ab9f-7727-4bcc-8f37-cadad37eab1a"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798135200",
+    "value2": "1798135200",
+    "duration": 0,
+    "time_start": "2026-12-24T19:00:00+01:00",
+    "time_end": "2026-12-24T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596297",
+  "uuid": "3947a205-ba82-420f-b91a-d25c0d32eae3"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798221600",
+    "value2": "1798221600",
+    "duration": 0,
+    "time_start": "2026-12-25T19:00:00+01:00",
+    "time_end": "2026-12-25T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596298",
+  "uuid": "6e310aef-55be-4d14-b329-b9897c220d53"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798308000",
+    "value2": "1798308000",
+    "duration": 0,
+    "time_start": "2026-12-26T19:00:00+01:00",
+    "time_end": "2026-12-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596299",
+  "uuid": "ad1bd974-1ada-4eb2-afeb-74e801aa9134"
+ },
+ {
+  "body": "Join us for another boardgame night! We open at 16.00 and serve some simple food around 19.00. Bring your friends and own games, or borrow some of ours (games or friends). (Except Monopoly, we won't play that...) -----------------------------//// In ‘Miltvuur Keuken Zuid’ worden gezonde veganistisch",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798383600",
+    "value2": "1798383600",
+    "duration": 0,
+    "time_start": "2026-12-27T16:00:00+01:00",
+    "time_end": "2026-12-27T16:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé: Boardgame Night!",
+  "url": "https://radar.squat.net/en/node/563227",
+  "uuid": "d5d53fdb-c217-4748-b553-7ab71de7b65a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798646400",
+    "value2": "1798646400",
+    "duration": 0,
+    "time_start": "2026-12-30T17:00:00+01:00",
+    "time_end": "2026-12-30T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-30/early-wednesday-mkz",
+  "uuid": "e39bcd79-3e0f-455d-b9a9-dc03ed2ac12b"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798740000",
+    "value2": "1798740000",
+    "duration": 0,
+    "time_start": "2026-12-31T19:00:00+01:00",
+    "time_end": "2026-12-31T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596300",
+  "uuid": "b771ba98-60a0-470a-9618-41b7ca97f77c"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798826400",
+    "value2": "1798826400",
+    "duration": 0,
+    "time_start": "2027-01-01T19:00:00+01:00",
+    "time_end": "2027-01-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596301",
+  "uuid": "3eeaa76e-9121-4c5e-aea8-7b89d6309bf1"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798912800",
+    "value2": "1798912800",
+    "duration": 0,
+    "time_start": "2027-01-02T19:00:00+01:00",
+    "time_end": "2027-01-02T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596302",
+  "uuid": "392b480c-bc13-4174-aeb5-a0907db667e6"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799251200",
+    "value2": "1799251200",
+    "duration": 0,
+    "time_start": "2027-01-06T17:00:00+01:00",
+    "time_end": "2027-01-06T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-06/early-wednesday-mkz",
+  "uuid": "4b02a6bd-1c3c-4891-bb65-37809a0a9b95"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799344800",
+    "value2": "1799344800",
+    "duration": 0,
+    "time_start": "2027-01-07T19:00:00+01:00",
+    "time_end": "2027-01-07T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596303",
+  "uuid": "dbe18e9c-68a0-41a3-be37-b436375f76ca"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799431200",
+    "value2": "1799431200",
+    "duration": 0,
+    "time_start": "2027-01-08T19:00:00+01:00",
+    "time_end": "2027-01-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596304",
+  "uuid": "27391d33-ba24-4208-aa07-f6a475700171"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799517600",
+    "value2": "1799517600",
+    "duration": 0,
+    "time_start": "2027-01-09T19:00:00+01:00",
+    "time_end": "2027-01-09T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596305",
+  "uuid": "d6ca131c-6c45-448c-839c-20c20187dcc0"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799856000",
+    "value2": "1799856000",
+    "duration": 0,
+    "time_start": "2027-01-13T17:00:00+01:00",
+    "time_end": "2027-01-13T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-13/early-wednesday-mkz",
+  "uuid": "d59bc8cf-795a-4240-a10a-38d40c1f1740"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799949600",
+    "value2": "1799949600",
+    "duration": 0,
+    "time_start": "2027-01-14T19:00:00+01:00",
+    "time_end": "2027-01-14T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596306",
+  "uuid": "74f977e2-f58b-4e9b-bf00-e558e0692297"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800036000",
+    "value2": "1800036000",
+    "duration": 0,
+    "time_start": "2027-01-15T19:00:00+01:00",
+    "time_end": "2027-01-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596307",
+  "uuid": "25d3d58e-06ad-449c-a31b-39bc2b5c2b40"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800122400",
+    "value2": "1800122400",
+    "duration": 0,
+    "time_start": "2027-01-16T19:00:00+01:00",
+    "time_end": "2027-01-16T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596308",
+  "uuid": "4e7dd87f-a01d-4df1-9624-4bffbcb9948a"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800460800",
+    "value2": "1800460800",
+    "duration": 0,
+    "time_start": "2027-01-20T17:00:00+01:00",
+    "time_end": "2027-01-20T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-20/early-wednesday-mkz",
+  "uuid": "8801d6e2-3f23-4ef5-9f52-cbf296ac8a99"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800554400",
+    "value2": "1800554400",
+    "duration": 0,
+    "time_start": "2027-01-21T19:00:00+01:00",
+    "time_end": "2027-01-21T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596309",
+  "uuid": "c7be6ee8-4226-4472-a6a1-81e7f9b7a06e"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800640800",
+    "value2": "1800640800",
+    "duration": 0,
+    "time_start": "2027-01-22T19:00:00+01:00",
+    "time_end": "2027-01-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596310",
+  "uuid": "ee7556af-a878-4c89-879f-c0b548c457d4"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800727200",
+    "value2": "1800727200",
+    "duration": 0,
+    "time_start": "2027-01-23T19:00:00+01:00",
+    "time_end": "2027-01-23T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596311",
+  "uuid": "ae954269-a295-4410-91c8-cc18029d78e1"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801065600",
+    "value2": "1801065600",
+    "duration": 0,
+    "time_start": "2027-01-27T17:00:00+01:00",
+    "time_end": "2027-01-27T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-01-27/early-wednesday-mkz",
+  "uuid": "ab50fdd9-22ae-4408-ad1b-30ba9c13da50"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801159200",
+    "value2": "1801159200",
+    "duration": 0,
+    "time_start": "2027-01-28T19:00:00+01:00",
+    "time_end": "2027-01-28T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596312",
+  "uuid": "bff9d966-db52-4e40-8f7c-2ba280dd7be1"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801245600",
+    "value2": "1801245600",
+    "duration": 0,
+    "time_start": "2027-01-29T19:00:00+01:00",
+    "time_end": "2027-01-29T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596313",
+  "uuid": "3bc4dd25-bddc-4b10-a0b5-c6d2805a48bb"
+ },
+ {
+  "body": "In ‘Miltvuur Keuken Zuid’ worden gezonde veganistische driegangen-maaltijden geserveerd voor een uitermate vriendelijke prijs. Men eet wat de pot schaft: er is een voorgerecht, een hoofdgerecht en een nagerecht. Eventuele winst van de MKZ gaat naar goede doelen. Deze doelen worden uitgekozen door de",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801332000",
+    "value2": "1801332000",
+    "duration": 0,
+    "time_start": "2027-01-30T19:00:00+01:00",
+    "time_end": "2027-01-30T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TH,FR,SA;UNTIL=20270131T225959Z;WKST=MO"
+   }
+  ],
+  "price": "€5",
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "MKZ Eetcafé",
+  "url": "https://radar.squat.net/en/node/596314",
+  "uuid": "7aa9989e-768f-4f74-9f35-a991448027b3"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801670400",
+    "value2": "1801670400",
+    "duration": 0,
+    "time_start": "2027-02-03T17:00:00+01:00",
+    "time_end": "2027-02-03T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-03/early-wednesday-mkz",
+  "uuid": "728774b6-4a17-4c37-b3e4-b53601bd3d7f"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802275200",
+    "value2": "1802275200",
+    "duration": 0,
+    "time_start": "2027-02-10T17:00:00+01:00",
+    "time_end": "2027-02-10T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-10/early-wednesday-mkz",
+  "uuid": "ee29964b-7d08-4980-9462-3156f257b3ff"
+ },
+ {
+  "body": "On Wednesday we have an extra early Voku (people's kitchen)! We open the door at 17:00, We'll have the soup ready at 18:00, We'll have the main, at the latest, 18.30, The kitchen closes at 20:00, The MKZ closes at 21:00 You can give us a call to reserve your plate: 020 679 0712",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802880000",
+    "value2": "1802880000",
+    "duration": 0,
+    "time_start": "2027-02-17T17:00:00+01:00",
+    "time_end": "2027-02-17T17:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;COUNT=52;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "id": "6c6dbb78-bbd9-406d-af40-c54ac728e696",
+    "resource": "location",
+    "title": "MKZ Eerste Schinkelstraat 16  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Early Wednesday @ MKZ",
+  "url": "https://radar.squat.net/en/event/amsterdam/mkz/2027-02-17/early-wednesday-mkz",
+  "uuid": "2932e76b-2c2d-4f4f-886b-91a6fabc18c2"
+ }
+]

@@ -4,12 +4,30 @@
     {
       "venue": "De Sering",
       "title": "Community Kitchen: vegan diner (op donatie)",
-      "weekdays": ["ma", "di", "wo", "do", "vr", "za"],
+      "weekdays": [
+        "ma",
+        "di",
+        "wo",
+        "do",
+        "vr",
+        "za"
+      ],
       "start": "18:00",
       "end": "21:00",
       "category": "food",
       "url": "https://desering.org/",
       "note": "Rhôneweg 6 (Sloterdijk) · ook lunch ma–vr 12:00–14:00"
+    },
+    {
+      "venue": "Zaal 100",
+      "title": "Restaurant: Yayang (Aziatisch)",
+      "weekdays": [
+        "wo"
+      ],
+      "start": "18:00",
+      "category": "food",
+      "url": "https://zaal100.nl/",
+      "note": "De Wittenstraat 100 · ± €12"
     }
   ]
 }

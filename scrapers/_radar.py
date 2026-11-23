@@ -45,7 +45,8 @@ def parse_group(raw: list[dict], source: str, venue: str) -> list[Event]:
         if set(cats) & SKIP_CATEGORIES:
             continue
         text = f"{title} {e.get('body') or ''}"
-        if re.search(r"\b(voku|vokü|volkskeuken|kitchen|keuken|dinner|diner|food)\b", title, re.I):
+        if "food" in cats or re.search(r"\b(voku|vokü|volkskeuken|kitchen|keuken|dinner|diner|food|eetcaf[eé])\b",
+                                        title, re.I):
             category = "food"
         else:
             category = next((CATEGORY_MAP[c] for c in cats if c in CATEGORY_MAP), None) or guess_category(text)

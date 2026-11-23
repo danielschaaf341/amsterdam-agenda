@@ -1,0 +1,765 @@
+[
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+  "name": "Labyrinth Weekend ",
+  "startDate": "2026-11-27T23:00:00+01:00",
+  "endDate": "2026-11-28T09:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441316/WhatsApp-Image-2026-09-17-at-18.37.43-2-0da6.jpeg",
+  "description": "Labyrinth Weekend , 27-11-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "WEEKEND | friday + saturday ",
+    "price": "36.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "27.11 FRIDAY | phase 1",
+    "price": "17.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "27.11 FRIDAY | phase 2",
+    "price": "22.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "27.11 FRIDAY | phase 3",
+    "price": "27.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "28.11 SATURDAY | phase 1",
+    "price": "17.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "28.11 SATURDAY | phase 2",
+    "price": "22.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "28.11 SATURDAY | phase 3",
+    "price": "27.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-11-27T23:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111719294",
+  "name": "VOID by ORPHIC",
+  "startDate": "2026-12-03T20:00:00+01:00",
+  "endDate": "2026-12-04T00:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111719294",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462865/5-93c1.png",
+  "description": "VOID by ORPHIC, 03-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Regular Ticket",
+    "price": "5.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111719294",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-03T20:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+  "name": "De Reünie",
+  "startDate": "2026-12-04T23:00:00+01:00",
+  "endDate": "2026-12-05T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441282/WhatsApp-Image-2026-09-10-at-19.06.47-b4b0.jpeg",
+  "description": "De Reünie, 04-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "16.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-05T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "22.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/SoldOut",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-05T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "25.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-05T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+  "name": "AURA",
+  "startDate": "2026-12-05T23:00:00+01:00",
+  "endDate": "2026-12-06T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441319/Aura_radion_5_12_26_1080x1440h-2-450d.png",
+  "description": "AURA, 05-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "16.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-06T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "23.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-06T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "28.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-06T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+  "name": "RADION Presents: DJ Fuckoff",
+  "startDate": "2026-12-11T23:00:00+01:00",
+  "endDate": "2026-12-12T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441320/RADION-presents-dj-fuckoff-0d68.png",
+  "description": "RADION Presents: DJ Fuckoff, 11-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "18.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-12T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "22.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-12T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "25.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-12T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111707701",
+  "name": "PAX-ROMANA: Saturnalia III",
+  "startDate": "2026-12-18T23:00:00+01:00",
+  "endDate": "2026-12-19T10:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111707701",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451272/POST_SATURNALIAIII-%281%29-cf9d.jpg",
+  "description": "PAX-ROMANA: Saturnalia III, 18-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "22.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707701",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-19T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "26.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707701",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-19T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111707702",
+  "name": "RADION Invites SPANDAU20",
+  "startDate": "2026-12-19T23:00:00+01:00",
+  "endDate": "2026-12-20T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111707702",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451273/SPND20-Radion26-artwork-7a03.jpg",
+  "description": "RADION Invites SPANDAU20, 19-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "16.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707702",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-20T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "21.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707702",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-20T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111707703",
+  "name": "RADION Invites VULGED",
+  "startDate": "2026-12-26T23:00:00+01:00",
+  "endDate": "2026-12-27T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111707703",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451274/RADION-Invites-Vulged-Final-be99.png",
+  "description": "RADION Invites VULGED, 26-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "16.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707703",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-27T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "21.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707703",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2026-12-27T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+  "name": "DJ Bone Presents: FURTHER NYE 2026\t\t",
+  "startDate": "2026-12-31T22:00:00+01:00",
+  "endDate": "2027-01-01T08:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451275/FURTHER_NYE_2026_4x5-1a88.png",
+  "description": "DJ Bone Presents: FURTHER NYE 2026\t\t, 31-12-2026, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Early Ticket",
+    "price": "19.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "25.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "30.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "35.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+  "name": "RADION Invites: Labyrinth x Vault Sessions x Aura",
+  "startDate": "2027-01-02T23:00:00+01:00",
+  "endDate": "2027-01-03T08:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462584/250006_Aura_Vault_Design_1080x1440h4-4beb.png",
+  "description": "RADION Invites: Labyrinth x Vault Sessions x Aura, 02-01-2027, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "25.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "30.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "35.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2027-01-03T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111722628",
+  "name": "FRENZY",
+  "startDate": "2027-01-09T23:00:00+01:00",
+  "endDate": "2027-01-10T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111722628",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1466199/2027-01-09-c1a1.jpg",
+  "description": "FRENZY, 09-01-2027, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "18.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111722628",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2027-01-10T03:00:00+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "22.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111722628",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2027-01-10T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111722964",
+  "name": "RADION Invites Transition",
+  "startDate": "2027-01-16T23:00:00+01:00",
+  "endDate": "2027-01-17T07:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111722964",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1466535/WhatsApp-Image-2026-11-18-at-18.42.59-c9c5.jpg",
+  "description": "RADION Invites Transition, 16-01-2027, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "16.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111722964",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "22.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111722964",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00",
+    "validThrough": "2027-01-17T03:00:00+01:00"
+   }
+  ],
+  "performer": []
+ },
+ {
+  "@type": "Event",
+  "@id": "https://radionamsterdam.stager.co/shop/default/events/111714551",
+  "name": "Wolvenroedel <3 Familiar Music",
+  "startDate": "2027-03-19T22:00:00+01:00",
+  "endDate": "2027-03-20T06:00:00+01:00",
+  "url": "https://radionamsterdam.stager.co/shop/default/events/111714551",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "location": {
+   "@type": "Place",
+   "name": "RADION Amsterdam",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Louwesweg 1",
+    "postalCode": "1066 EA",
+    "addressLocality": "Amsterdam",
+    "addressCountry": "NL"
+   }
+  },
+  "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1458122/IMG_3405-b5f0.PNG",
+  "description": "Wolvenroedel <3 Familiar Music, 19-03-2027, RADION Amsterdam, Amsterdam",
+  "organizer": {
+   "@type": "Organization",
+   "name": "RADION Amsterdam b.v.",
+   "url": "https://radionamsterdam.stager.co"
+  },
+  "offers": [
+   {
+    "@type": "Offer",
+    "name": "Phase 1",
+    "price": "25.00",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111714551",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 2",
+    "price": "27.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111714551",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   },
+   {
+    "@type": "Offer",
+    "name": "Phase 3",
+    "price": "32.50",
+    "priceCurrency": "EUR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://radionamsterdam.stager.co/shop/default/events/111714551",
+    "validFrom": "2026-11-23T13:43:46.148923278+01:00"
+   }
+  ],
+  "performer": []
+ }
+]

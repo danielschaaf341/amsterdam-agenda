@@ -10,7 +10,7 @@ import json
 import re
 from datetime import date, datetime, time
 
-from .base import Event, clean, local, make_id, parse_hhmm
+from .base import Event, clean, collapse_recurring, local, make_id, parse_hhmm
 
 NAME = "jazzin"
 VENUE = "jazzin.amsterdam"
@@ -18,7 +18,9 @@ HOMEPAGE = "https://jazzin.amsterdam/"
 # venues that have their own scraper → skip here to avoid near-duplicates with different titles
 OWN_SCRAPER_VENUES = {"melkweg", "occii", "de nieuwe anita", "paradiso", "tolhuistuin", "bitterzoet",
                       "ot301", "de balie", "felix meritis", "rode hoed", "de rode hoed", "pakhuis de zwijger",
-                      "splendor", "badhuistheater", "mike's badhuistheater", "nachbar", "skatecafe", "garage noord"}
+                      "splendor", "badhuistheater", "mike's badhuistheater", "nachbar", "skatecafe", "garage noord",
+                      "mezrab", "de brakke grond", "brakke grond", "carré", "koninklijk theater carré", "radion",
+                      "lofi", "thuishaven", "vrankrijk", "joe's garage", "tolhuistuin", "mkz", "molli chaoot"}
 # spelling variants seen in the feed
 VENUE_ALIASES = {"theatercafé de richel": "Theater De Richel", "theater de richel": "Theater De Richel",
                  "cafe rivièra": "Café Rivièra", "café rivièra": "Café Rivièra"}
@@ -79,9 +81,10 @@ def parse(raw: str, today: date) -> list[Event]:
             end=end if end and end > start else None,
             all_day=t is None,
             url=o.get("site") or HOMEPAGE,
-            category="jazz",
+            # Zaal 100 lists its restaurant nights here ('Restaurant: Yayang' on Wednesdays) → food
+            category="food" if re.match(r"\s*(restaurant|eetcaf[eé]|volkskeuken|voku)\b", title, re.I) else "jazz",
             status="cancelled" if re.search(r"cancel|afgelast", title, re.I)
             else "sold_out" if re.search(r"sold ?out|uitverkocht", title, re.I) else "normal",
             price="gratis" if price and price.lower() in ("free", "gratis", "€0", "0") else price,
         ))
-    return out
+    return collapse_recurring(out, NAME)

@@ -57,6 +57,10 @@ h1 { font-size: 1.2rem; margin: 0; letter-spacing: -0.01em; }
 #cats button .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
 #cats button.on { background: var(--card); color: var(--text); border-color: currentColor; }
 
+.club-mode { display: flex; align-items: center; gap: 4px; margin-top: 8px; font-size: .85rem; color: var(--muted); }
+.club-mode span { margin-right: 4px; }
+.club-mode button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 12px; font-size: .85rem; }
+.club-mode button[aria-checked="true"] { background: var(--club); border-color: var(--club); color: #fff; font-weight: 600; }
 .filter-row { display: flex; gap: 8px; margin-top: 8px; }
 #search {
   flex: 1; min-width: 0; border: 1px solid var(--line); background: var(--card); color: var(--text);

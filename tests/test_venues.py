@@ -278,7 +278,7 @@ def test_food_weekly_and_aa_network():
     assert not venues & {"OT301", "OCCII", "Filmhuis Cavia", "De Nieuwe Anita"}, "own scrapers win"
     assert not any("Zaandam" in v for v in venues)
     assert by_title(net, "Eetcafé ADM Noord").kind == "weekly"
-    (sering,) = recurring.parse(load_fixture("recurring"), FIXTURE_DATE)
+    sering = by_title(recurring.parse(load_fixture("recurring"), FIXTURE_DATE), "Community Kitchen")
     assert sering.venue == "De Sering" and sering.kind == "weekly" and sering.category == "food"
 
 
@@ -319,3 +319,35 @@ def test_radar_venues():
     assert voku.category == "food" and voku.start == datetime(2026, 11, 23, 19, 0, tzinfo=TZ)
     assert not any("Kraakspreekuur" in e.title for e in jg), "office hours are skipped"
     assert all(e.venue in ("Vrankrijk", "Joe's Garage") for e in vk + jg)
+
+
+def test_new_clubs_and_venues():
+    from scrapers import brakkegrond, jazzin, lofi, mezrab, radion, sexyland, thuishaven
+    from scrapers.base import guess_category
+    assert guess_category("Club Amsterdam Klezmer Band") != "club"  # 'club' alone is not a club night
+    klez = by_title(mezrab.parse(load_fixture("mezrab"), FIXTURE_DATE), "Klezmer")
+    assert klez.category == "music"
+    th = thuishaven.parse(load_fixture("thuishaven"), FIXTURE_DATE)
+    jm = by_title(th, "Jeff Mills")
+    assert jm.start == datetime(2026, 11, 28, 13, 0, tzinfo=TZ) and jm.price == "€34,50" and jm.subtitle == "Techno"
+    assert by_title(th, "Jamback").status == "sold_out"
+    ra = radion.parse(load_fixture("radion"), FIXTURE_DATE)
+    assert by_title(ra, "Labyrinth").start == datetime(2026, 11, 27, 23, 0, tzinfo=TZ)
+    lo = lofi.parse(load_fixture("lofi"), FIXTURE_DATE)
+    assert by_title(lo, "Dax J").all_day and all(e.category == "club" for e in lo)
+    bg = brakkegrond.parse(load_fixture("brakkegrond"), FIXTURE_DATE)
+    assert not any("Residentie" in (e.subtitle or "") for e in bg)
+    assert by_title(bg, "BauGrond").start == datetime(2026, 11, 27, 19, 30, tzinfo=TZ)  # time from ticket API
+    (sx,) = sexyland.parse(load_fixture("sexyland"), FIXTURE_DATE)
+    assert sx.start == datetime(2026, 12, 16, 19, 0, tzinfo=TZ) and "Café de Krom" in sx.subtitle
+    yayang = by_title(jazzin.parse(load_fixture("jazzin"), FIXTURE_DATE), "Restaurant: Yayang")
+    assert yayang.category == "food" and yayang.venue == "Zaal 100"
+
+
+def test_radar_food_venues():
+    from scrapers import mkz, mollichaoot
+    m = mkz.parse(load_fixture("mkz"), FIXTURE_DATE)
+    eet = [e for e in m if e.title == "MKZ Eetcafé"]
+    assert len(eet) == 1 and eet[0].kind == "weekly" and eet[0].category == "food" and eet[0].price == "€5"
+    voku = by_title(mollichaoot.parse(load_fixture("mollichaoot"), FIXTURE_DATE), "Vegan Voku")
+    assert voku.kind == "weekly" and voku.category == "food" and voku.subtitle == "Elke di 18:00"

@@ -40,8 +40,19 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | De Sering | `recurring` (recurring.json) | desering.org = Cloudflare; GitHub Pages mirror is stale (Dec 2025) | ➖ community kitchen as weekly "food" item |
 | Vrankrijk *(added)* | `vrankrijk` | Radar group 137050 (= the agenda on vrankrijk.org) | ✅ incl. Friday Pirate Kitchen (weekly, food) |
 | Joe's Garage *(added)* | `joesgarage` | Radar group 41 (= the agenda on joesgarage.nl) | ✅ vokus, salon, give-away shop |
+| Molli Chaoot *(added)* | `mollichaoot` | Radar group 567796 | ✅ Tuesday vegan voku (weekly, food) |
+| MKZ *(added)* | `mkz` | Radar group 4932 (mkz.nl is a parked domain) | ✅ eetcafé Thu–Sat €5 (weekly, food) |
+| Mezrab *(added)* | `mezrab` | Events Manager iCal `/events.ics` | ✅ storytelling, comedy, music |
+| De Brakke Grond *(added)* | `brakkegrond` | HTML cards + voordemensen ticket API for times; residencies skipped | ✅ |
+| Radion *(added)* | `radion` | Stager shop JSON-LD (radionamsterdam.stager.co) | ✅ |
+| Lofi *(added)* | `lofi` | JSON-LD on lofi.amsterdam (dates only) | ✅ |
+| Thuishaven *(added)* | `thuishaven` | HTML agenda (.agenda-item) | ✅ incl. sold out, genre |
+| Sexyland *(added)* | `sexyland` | HTML (upcoming block); venue rebuilt, reopens autumn 2027 | ✅ pop-ups only |
+| Zaal 100 restaurant | `jazzin` + recurring.json | 'Restaurant: …' items → food; Yayang (Asian) Wednesdays as weekly item | ✅ |
+| Shelter | – | site lists only exhibitions; Stager shop is staff-only | ⛔ no public agenda found |
+| Kanarie Club | – | "Events" page = private hire, no public agenda | ⛔ |
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
-| Spui25 | – | Cloudflare Turnstile; uva.nl has no usable Spui25 feed | ⛔ not built |
+| Spui25 | – | Cloudflare Turnstile (also www.spui25.nl); uva.nl has no usable Spui25 feed | ⛔ not built |
 | Radar (squat.net) | `_radar.py` | public API | city-wide feed declined by user; used **per venue group** only (Vrankrijk, Joe's Garage) |
 
 ---

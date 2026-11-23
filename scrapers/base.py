@@ -248,7 +248,7 @@ _CATEGORY_KEYWORDS = [
     ("jazz", r"\bjazz"),
     ("food", r"\b(diner|dinner|lunch|brunch|eetcaf[eé]|volkskeuken|voku|vokü|community kitchen|pop-?up dinner|"
              r"supper ?club|kitchen night|food)\b"),
-    ("club", r"\b(club|clubnacht|clubnight|dj|djs|techno|house|rave|party|feest|disco|all ?nighter)\b"),
+    ("club", r"\b(clubnacht|club ?night|dj|djs|techno|house|rave|party|feest|disco|all ?nighter|all night long)\b"),
     ("talk", r"\b(talk|lezing|debat|gesprek|in conversation|lecture|panel|podcast|boekpresentatie|interview)\b"),
     ("film", r"\b(film|films|screening|cinema|vertoning|documentaire)\b"),
     ("theatre", r"\b(theater\w*|theatre|toneel\w*|voorstelling|dans|dansvoorstelling|dance performance|cabaret|comedy|opera)\b"),

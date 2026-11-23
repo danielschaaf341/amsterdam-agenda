@@ -1,0 +1,4472 @@
+[
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795431600",
+    "value2": "1795453200",
+    "duration": 21600,
+    "time_start": "2026-11-23T12:00:00+01:00",
+    "time_end": "2026-11-23T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-23/mollis-open-table",
+  "uuid": "44c58559-da93-467a-9115-31eac12dded9"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795539600",
+    "value2": "1795554000",
+    "duration": 14400,
+    "time_start": "2026-11-24T18:00:00+01:00",
+    "time_end": "2026-11-24T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/vegan-voku-and-free-market",
+  "uuid": "bbd5d0fe-af50-41db-918b-cddd7e98c69e"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795543200",
+    "value2": "1795543200",
+    "duration": 0,
+    "time_start": "2026-11-24T19:00:00+01:00",
+    "time_end": "2026-11-24T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/mollis-mixed-media-mashup",
+  "uuid": "a604d64d-79fe-449a-82fa-3c8e600c8427"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796036400",
+    "value2": "1796058000",
+    "duration": 21600,
+    "time_start": "2026-11-30T12:00:00+01:00",
+    "time_end": "2026-11-30T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-30/mollis-open-table",
+  "uuid": "2c69a7f5-35d9-4e1e-9b3e-8abe849f94a6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796144400",
+    "value2": "1796158800",
+    "duration": 14400,
+    "time_start": "2026-12-01T18:00:00+01:00",
+    "time_end": "2026-12-01T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/vegan-voku-and-free-market",
+  "uuid": "4a3953c5-0d2d-4d68-b52c-7a3eccdc3d2c"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796148000",
+    "value2": "1796148000",
+    "duration": 0,
+    "time_start": "2026-12-01T19:00:00+01:00",
+    "time_end": "2026-12-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/mollis-mixed-media-mashup",
+  "uuid": "fc34baac-77af-4e1d-be0f-64b21ceb978c"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796641200",
+    "value2": "1796662800",
+    "duration": 21600,
+    "time_start": "2026-12-07T12:00:00+01:00",
+    "time_end": "2026-12-07T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-07/mollis-open-table",
+  "uuid": "73455e4e-cbe7-4746-bc6d-0e4f8b5e6cb7"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796749200",
+    "value2": "1796763600",
+    "duration": 14400,
+    "time_start": "2026-12-08T18:00:00+01:00",
+    "time_end": "2026-12-08T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-08/vegan-voku-and-free-market",
+  "uuid": "0c39f6cd-c8f6-4d3a-9c45-dfa08e73dfb8"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796752800",
+    "value2": "1796752800",
+    "duration": 0,
+    "time_start": "2026-12-08T19:00:00+01:00",
+    "time_end": "2026-12-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-08/mollis-mixed-media-mashup",
+  "uuid": "2299819b-b2f8-4180-9325-4a49c20d85b2"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797246000",
+    "value2": "1797267600",
+    "duration": 21600,
+    "time_start": "2026-12-14T12:00:00+01:00",
+    "time_end": "2026-12-14T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-14/mollis-open-table",
+  "uuid": "b3608bf0-9de1-4590-8aec-d6e03995913b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797354000",
+    "value2": "1797368400",
+    "duration": 14400,
+    "time_start": "2026-12-15T18:00:00+01:00",
+    "time_end": "2026-12-15T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-15/vegan-voku-and-free-market",
+  "uuid": "676968bd-e8bb-4d53-9afa-6176db509ac3"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797357600",
+    "value2": "1797357600",
+    "duration": 0,
+    "time_start": "2026-12-15T19:00:00+01:00",
+    "time_end": "2026-12-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-15/mollis-mixed-media-mashup",
+  "uuid": "dd450486-1c58-4c97-8efd-7d1c699293ae"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797850800",
+    "value2": "1797872400",
+    "duration": 21600,
+    "time_start": "2026-12-21T12:00:00+01:00",
+    "time_end": "2026-12-21T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-21/mollis-open-table",
+  "uuid": "bb91815e-d0dd-4f47-be4a-ee7b7904d04b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797958800",
+    "value2": "1797973200",
+    "duration": 14400,
+    "time_start": "2026-12-22T18:00:00+01:00",
+    "time_end": "2026-12-22T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-22/vegan-voku-and-free-market",
+  "uuid": "efd1c931-800d-4a9c-a89c-1732d10d127c"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797962400",
+    "value2": "1797962400",
+    "duration": 0,
+    "time_start": "2026-12-22T19:00:00+01:00",
+    "time_end": "2026-12-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-22/mollis-mixed-media-mashup",
+  "uuid": "70ce4e9f-33df-4a74-a47a-4d19596d91bf"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798563600",
+    "value2": "1798578000",
+    "duration": 14400,
+    "time_start": "2026-12-29T18:00:00+01:00",
+    "time_end": "2026-12-29T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-29/vegan-voku-and-free-market",
+  "uuid": "5ec932c7-e528-476a-af85-97a5836b3d87"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799168400",
+    "value2": "1799182800",
+    "duration": 14400,
+    "time_start": "2027-01-05T18:00:00+01:00",
+    "time_end": "2027-01-05T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-05/vegan-voku-and-free-market",
+  "uuid": "4a2245b1-0218-4df3-96c5-b6e762ffbe11"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799773200",
+    "value2": "1799787600",
+    "duration": 14400,
+    "time_start": "2027-01-12T18:00:00+01:00",
+    "time_end": "2027-01-12T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-12/vegan-voku-and-free-market",
+  "uuid": "c0881e47-34a8-4f1c-ba35-9c076a771c19"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800378000",
+    "value2": "1800392400",
+    "duration": 14400,
+    "time_start": "2027-01-19T18:00:00+01:00",
+    "time_end": "2027-01-19T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-19/vegan-voku-and-free-market",
+  "uuid": "62d3781c-1087-4065-9f3a-4769970b49ec"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800982800",
+    "value2": "1800997200",
+    "duration": 14400,
+    "time_start": "2027-01-26T18:00:00+01:00",
+    "time_end": "2027-01-26T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-26/vegan-voku-and-free-market",
+  "uuid": "dad7ae40-6feb-4db3-b027-57a57cba2e63"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801587600",
+    "value2": "1801602000",
+    "duration": 14400,
+    "time_start": "2027-02-02T18:00:00+01:00",
+    "time_end": "2027-02-02T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-02/vegan-voku-and-free-market",
+  "uuid": "360ec2c3-2774-4366-8ac6-9a0fc41803ee"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802192400",
+    "value2": "1802206800",
+    "duration": 14400,
+    "time_start": "2027-02-09T18:00:00+01:00",
+    "time_end": "2027-02-09T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-09/vegan-voku-and-free-market",
+  "uuid": "b88a7e07-4e9f-4327-a82e-8643a541b956"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802797200",
+    "value2": "1802811600",
+    "duration": 14400,
+    "time_start": "2027-02-16T18:00:00+01:00",
+    "time_end": "2027-02-16T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-16/vegan-voku-and-free-market",
+  "uuid": "338b7fd2-fac5-41e3-8464-381801f5131f"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803402000",
+    "value2": "1803416400",
+    "duration": 14400,
+    "time_start": "2027-02-23T18:00:00+01:00",
+    "time_end": "2027-02-23T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-23/vegan-voku-and-free-market",
+  "uuid": "9987ab45-5d98-4d3e-ae50-39763a34a578"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804006800",
+    "value2": "1804021200",
+    "duration": 14400,
+    "time_start": "2027-03-02T18:00:00+01:00",
+    "time_end": "2027-03-02T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-02/vegan-voku-and-free-market",
+  "uuid": "6cc7f9b5-6542-44f9-8229-afb346f157a3"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804611600",
+    "value2": "1804626000",
+    "duration": 14400,
+    "time_start": "2027-03-09T18:00:00+01:00",
+    "time_end": "2027-03-09T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-09/vegan-voku-and-free-market",
+  "uuid": "175e8dd0-1246-47c2-b901-9345554da0fa"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805216400",
+    "value2": "1805230800",
+    "duration": 14400,
+    "time_start": "2027-03-16T18:00:00+01:00",
+    "time_end": "2027-03-16T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-16/vegan-voku-and-free-market",
+  "uuid": "0fb8ed84-5067-40d7-ae23-ce68ac0b99b6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805821200",
+    "value2": "1805835600",
+    "duration": 14400,
+    "time_start": "2027-03-23T18:00:00+01:00",
+    "time_end": "2027-03-23T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-23/vegan-voku-and-free-market",
+  "uuid": "20cbd882-5145-49dc-a950-1c291a7be6d1"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806422400",
+    "value2": "1806436800",
+    "duration": 14400,
+    "time_start": "2027-03-30T18:00:00+02:00",
+    "time_end": "2027-03-30T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-30/vegan-voku-and-free-market",
+  "uuid": "996bb87f-8c2c-4bd7-a041-b68f597befc5"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807027200",
+    "value2": "1807041600",
+    "duration": 14400,
+    "time_start": "2027-04-06T18:00:00+02:00",
+    "time_end": "2027-04-06T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-06/vegan-voku-and-free-market",
+  "uuid": "94b59bda-5471-4f8a-b136-f3bc5b5e2f38"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807632000",
+    "value2": "1807646400",
+    "duration": 14400,
+    "time_start": "2027-04-13T18:00:00+02:00",
+    "time_end": "2027-04-13T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-13/vegan-voku-and-free-market",
+  "uuid": "9eddf429-1e23-426f-969b-f0ac1844edf4"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808236800",
+    "value2": "1808251200",
+    "duration": 14400,
+    "time_start": "2027-04-20T18:00:00+02:00",
+    "time_end": "2027-04-20T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-20/vegan-voku-and-free-market",
+  "uuid": "5668a107-a68c-453f-97fa-3221b3e08a89"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808841600",
+    "value2": "1808856000",
+    "duration": 14400,
+    "time_start": "2027-04-27T18:00:00+02:00",
+    "time_end": "2027-04-27T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-27/vegan-voku-and-free-market",
+  "uuid": "0e61e165-b028-4fb5-853c-11535d989fa5"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809446400",
+    "value2": "1809460800",
+    "duration": 14400,
+    "time_start": "2027-05-04T18:00:00+02:00",
+    "time_end": "2027-05-04T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-04/vegan-voku-and-free-market",
+  "uuid": "c2049417-b383-458b-a067-a788f8953252"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810051200",
+    "value2": "1810065600",
+    "duration": 14400,
+    "time_start": "2027-05-11T18:00:00+02:00",
+    "time_end": "2027-05-11T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-11/vegan-voku-and-free-market",
+  "uuid": "5a88d6a0-1bf5-40a1-a091-355c6cb52ba3"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810656000",
+    "value2": "1810670400",
+    "duration": 14400,
+    "time_start": "2027-05-18T18:00:00+02:00",
+    "time_end": "2027-05-18T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-18/vegan-voku-and-free-market",
+  "uuid": "ead5f90c-a2e3-40c7-8ee9-08c76ae4e7ef"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811260800",
+    "value2": "1811275200",
+    "duration": 14400,
+    "time_start": "2027-05-25T18:00:00+02:00",
+    "time_end": "2027-05-25T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-25/vegan-voku-and-free-market",
+  "uuid": "8a79c967-af10-411f-a759-e69fc791c80b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811865600",
+    "value2": "1811880000",
+    "duration": 14400,
+    "time_start": "2027-06-01T18:00:00+02:00",
+    "time_end": "2027-06-01T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-01/vegan-voku-and-free-market",
+  "uuid": "a51122fa-0af8-4c5e-8fba-47e1e22c3b52"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812470400",
+    "value2": "1812484800",
+    "duration": 14400,
+    "time_start": "2027-06-08T18:00:00+02:00",
+    "time_end": "2027-06-08T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-08/vegan-voku-and-free-market",
+  "uuid": "82c1ed31-2c0e-4fd0-8d55-fec09ec8edc2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813075200",
+    "value2": "1813089600",
+    "duration": 14400,
+    "time_start": "2027-06-15T18:00:00+02:00",
+    "time_end": "2027-06-15T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-15/vegan-voku-and-free-market",
+  "uuid": "3b2e5de4-1056-44dc-a3f3-b3a370d72bd2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813680000",
+    "value2": "1813694400",
+    "duration": 14400,
+    "time_start": "2027-06-22T18:00:00+02:00",
+    "time_end": "2027-06-22T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-22/vegan-voku-and-free-market",
+  "uuid": "076381ae-dee1-4c2d-ab61-9b9bb0f01ff6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1814284800",
+    "value2": "1814299200",
+    "duration": 14400,
+    "time_start": "2027-06-29T18:00:00+02:00",
+    "time_end": "2027-06-29T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-29/vegan-voku-and-free-market",
+  "uuid": "4c59a25a-7855-4f8c-acd5-5876e3743c62"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1814889600",
+    "value2": "1814904000",
+    "duration": 14400,
+    "time_start": "2027-07-06T18:00:00+02:00",
+    "time_end": "2027-07-06T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-06/vegan-voku-and-free-market",
+  "uuid": "242087fa-913c-4dbc-800f-361cb4a05fde"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1815494400",
+    "value2": "1815508800",
+    "duration": 14400,
+    "time_start": "2027-07-13T18:00:00+02:00",
+    "time_end": "2027-07-13T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-13/vegan-voku-and-free-market",
+  "uuid": "86bbf263-a442-4e63-940c-ced0acf64886"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1816099200",
+    "value2": "1816113600",
+    "duration": 14400,
+    "time_start": "2027-07-20T18:00:00+02:00",
+    "time_end": "2027-07-20T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-20/vegan-voku-and-free-market",
+  "uuid": "db83c08d-bc7d-4af6-9375-ab46ed525b10"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1816704000",
+    "value2": "1816718400",
+    "duration": 14400,
+    "time_start": "2027-07-27T18:00:00+02:00",
+    "time_end": "2027-07-27T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-27/vegan-voku-and-free-market",
+  "uuid": "86145938-25b2-4406-8081-bf2d172dfa75"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1817308800",
+    "value2": "1817323200",
+    "duration": 14400,
+    "time_start": "2027-08-03T18:00:00+02:00",
+    "time_end": "2027-08-03T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-03/vegan-voku-and-free-market",
+  "uuid": "104b9944-5f78-4322-ac02-3977e2a6d09e"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1817913600",
+    "value2": "1817928000",
+    "duration": 14400,
+    "time_start": "2027-08-10T18:00:00+02:00",
+    "time_end": "2027-08-10T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-10/vegan-voku-and-free-market",
+  "uuid": "c9a31743-61ed-4db7-908a-2526ea270f21"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1818518400",
+    "value2": "1818532800",
+    "duration": 14400,
+    "time_start": "2027-08-17T18:00:00+02:00",
+    "time_end": "2027-08-17T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-17/vegan-voku-and-free-market",
+  "uuid": "3ff752de-a153-40fc-b026-7e5a34da56f2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1819123200",
+    "value2": "1819137600",
+    "duration": 14400,
+    "time_start": "2027-08-24T18:00:00+02:00",
+    "time_end": "2027-08-24T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-24/vegan-voku-and-free-market",
+  "uuid": "936314a8-ff16-4d19-ae84-0b446fde7dd6"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795431600",
+    "value2": "1795453200",
+    "duration": 21600,
+    "time_start": "2026-11-23T12:00:00+01:00",
+    "time_end": "2026-11-23T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-23/mollis-open-table",
+  "uuid": "44c58559-da93-467a-9115-31eac12dded9"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795539600",
+    "value2": "1795554000",
+    "duration": 14400,
+    "time_start": "2026-11-24T18:00:00+01:00",
+    "time_end": "2026-11-24T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/vegan-voku-and-free-market",
+  "uuid": "bbd5d0fe-af50-41db-918b-cddd7e98c69e"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795543200",
+    "value2": "1795543200",
+    "duration": 0,
+    "time_start": "2026-11-24T19:00:00+01:00",
+    "time_end": "2026-11-24T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/mollis-mixed-media-mashup",
+  "uuid": "a604d64d-79fe-449a-82fa-3c8e600c8427"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796036400",
+    "value2": "1796058000",
+    "duration": 21600,
+    "time_start": "2026-11-30T12:00:00+01:00",
+    "time_end": "2026-11-30T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-30/mollis-open-table",
+  "uuid": "2c69a7f5-35d9-4e1e-9b3e-8abe849f94a6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796144400",
+    "value2": "1796158800",
+    "duration": 14400,
+    "time_start": "2026-12-01T18:00:00+01:00",
+    "time_end": "2026-12-01T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/vegan-voku-and-free-market",
+  "uuid": "4a3953c5-0d2d-4d68-b52c-7a3eccdc3d2c"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796148000",
+    "value2": "1796148000",
+    "duration": 0,
+    "time_start": "2026-12-01T19:00:00+01:00",
+    "time_end": "2026-12-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/mollis-mixed-media-mashup",
+  "uuid": "fc34baac-77af-4e1d-be0f-64b21ceb978c"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796641200",
+    "value2": "1796662800",
+    "duration": 21600,
+    "time_start": "2026-12-07T12:00:00+01:00",
+    "time_end": "2026-12-07T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-07/mollis-open-table",
+  "uuid": "73455e4e-cbe7-4746-bc6d-0e4f8b5e6cb7"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796749200",
+    "value2": "1796763600",
+    "duration": 14400,
+    "time_start": "2026-12-08T18:00:00+01:00",
+    "time_end": "2026-12-08T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-08/vegan-voku-and-free-market",
+  "uuid": "0c39f6cd-c8f6-4d3a-9c45-dfa08e73dfb8"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796752800",
+    "value2": "1796752800",
+    "duration": 0,
+    "time_start": "2026-12-08T19:00:00+01:00",
+    "time_end": "2026-12-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-08/mollis-mixed-media-mashup",
+  "uuid": "2299819b-b2f8-4180-9325-4a49c20d85b2"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797246000",
+    "value2": "1797267600",
+    "duration": 21600,
+    "time_start": "2026-12-14T12:00:00+01:00",
+    "time_end": "2026-12-14T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-14/mollis-open-table",
+  "uuid": "b3608bf0-9de1-4590-8aec-d6e03995913b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797354000",
+    "value2": "1797368400",
+    "duration": 14400,
+    "time_start": "2026-12-15T18:00:00+01:00",
+    "time_end": "2026-12-15T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-15/vegan-voku-and-free-market",
+  "uuid": "676968bd-e8bb-4d53-9afa-6176db509ac3"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797357600",
+    "value2": "1797357600",
+    "duration": 0,
+    "time_start": "2026-12-15T19:00:00+01:00",
+    "time_end": "2026-12-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-15/mollis-mixed-media-mashup",
+  "uuid": "dd450486-1c58-4c97-8efd-7d1c699293ae"
+ },
+ {
+  "body": "Weekly Study Café @Molli Chaoot, van Ostadestraat 55hs, every Monday 12:00-18:00 We have got to work to live, and now we have got to pay to work?! 'Co-working' spaces are part of a capitalist trend which increasingly privatizes the public space. As more café's start charging if you are working, we d",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797850800",
+    "value2": "1797872400",
+    "duration": 21600,
+    "time_start": "2026-12-21T12:00:00+01:00",
+    "time_end": "2026-12-21T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=MO;COUNT=6;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Open Table",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-21/mollis-open-table",
+  "uuid": "bb91815e-d0dd-4f47-be4a-ee7b7904d04b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797958800",
+    "value2": "1797973200",
+    "duration": 14400,
+    "time_start": "2026-12-22T18:00:00+01:00",
+    "time_end": "2026-12-22T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-22/vegan-voku-and-free-market",
+  "uuid": "efd1c931-800d-4a9c-a89c-1732d10d127c"
+ },
+ {
+  "body": "Come create your next masterpiece at Molli's Mixed Media Mashup every Tuesday evening! Over the course of 4 weeks, we'll be writing poetry, painting, and making zines. In the first session, we'll be drawing from a mashup mixing bowl of prompts, words, and phrases to create accidental poetry. We will",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797962400",
+    "value2": "1797962400",
+    "duration": 0,
+    "time_start": "2026-12-22T19:00:00+01:00",
+    "time_end": "2026-12-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;COUNT=12;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Molli's Mixed Media Mashup",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-22/mollis-mixed-media-mashup",
+  "uuid": "70ce4e9f-33df-4a74-a47a-4d19596d91bf"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798563600",
+    "value2": "1798578000",
+    "duration": 14400,
+    "time_start": "2026-12-29T18:00:00+01:00",
+    "time_end": "2026-12-29T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-29/vegan-voku-and-free-market",
+  "uuid": "5ec932c7-e528-476a-af85-97a5836b3d87"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799168400",
+    "value2": "1799182800",
+    "duration": 14400,
+    "time_start": "2027-01-05T18:00:00+01:00",
+    "time_end": "2027-01-05T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-05/vegan-voku-and-free-market",
+  "uuid": "4a2245b1-0218-4df3-96c5-b6e762ffbe11"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799773200",
+    "value2": "1799787600",
+    "duration": 14400,
+    "time_start": "2027-01-12T18:00:00+01:00",
+    "time_end": "2027-01-12T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-12/vegan-voku-and-free-market",
+  "uuid": "c0881e47-34a8-4f1c-ba35-9c076a771c19"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800378000",
+    "value2": "1800392400",
+    "duration": 14400,
+    "time_start": "2027-01-19T18:00:00+01:00",
+    "time_end": "2027-01-19T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-19/vegan-voku-and-free-market",
+  "uuid": "62d3781c-1087-4065-9f3a-4769970b49ec"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800982800",
+    "value2": "1800997200",
+    "duration": 14400,
+    "time_start": "2027-01-26T18:00:00+01:00",
+    "time_end": "2027-01-26T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-01-26/vegan-voku-and-free-market",
+  "uuid": "dad7ae40-6feb-4db3-b027-57a57cba2e63"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801587600",
+    "value2": "1801602000",
+    "duration": 14400,
+    "time_start": "2027-02-02T18:00:00+01:00",
+    "time_end": "2027-02-02T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-02/vegan-voku-and-free-market",
+  "uuid": "360ec2c3-2774-4366-8ac6-9a0fc41803ee"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802192400",
+    "value2": "1802206800",
+    "duration": 14400,
+    "time_start": "2027-02-09T18:00:00+01:00",
+    "time_end": "2027-02-09T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-09/vegan-voku-and-free-market",
+  "uuid": "b88a7e07-4e9f-4327-a82e-8643a541b956"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802797200",
+    "value2": "1802811600",
+    "duration": 14400,
+    "time_start": "2027-02-16T18:00:00+01:00",
+    "time_end": "2027-02-16T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-16/vegan-voku-and-free-market",
+  "uuid": "338b7fd2-fac5-41e3-8464-381801f5131f"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803402000",
+    "value2": "1803416400",
+    "duration": 14400,
+    "time_start": "2027-02-23T18:00:00+01:00",
+    "time_end": "2027-02-23T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-02-23/vegan-voku-and-free-market",
+  "uuid": "9987ab45-5d98-4d3e-ae50-39763a34a578"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804006800",
+    "value2": "1804021200",
+    "duration": 14400,
+    "time_start": "2027-03-02T18:00:00+01:00",
+    "time_end": "2027-03-02T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-02/vegan-voku-and-free-market",
+  "uuid": "6cc7f9b5-6542-44f9-8229-afb346f157a3"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804611600",
+    "value2": "1804626000",
+    "duration": 14400,
+    "time_start": "2027-03-09T18:00:00+01:00",
+    "time_end": "2027-03-09T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-09/vegan-voku-and-free-market",
+  "uuid": "175e8dd0-1246-47c2-b901-9345554da0fa"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805216400",
+    "value2": "1805230800",
+    "duration": 14400,
+    "time_start": "2027-03-16T18:00:00+01:00",
+    "time_end": "2027-03-16T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-16/vegan-voku-and-free-market",
+  "uuid": "0fb8ed84-5067-40d7-ae23-ce68ac0b99b6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805821200",
+    "value2": "1805835600",
+    "duration": 14400,
+    "time_start": "2027-03-23T18:00:00+01:00",
+    "time_end": "2027-03-23T22:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-23/vegan-voku-and-free-market",
+  "uuid": "20cbd882-5145-49dc-a950-1c291a7be6d1"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806422400",
+    "value2": "1806436800",
+    "duration": 14400,
+    "time_start": "2027-03-30T18:00:00+02:00",
+    "time_end": "2027-03-30T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-03-30/vegan-voku-and-free-market",
+  "uuid": "996bb87f-8c2c-4bd7-a041-b68f597befc5"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807027200",
+    "value2": "1807041600",
+    "duration": 14400,
+    "time_start": "2027-04-06T18:00:00+02:00",
+    "time_end": "2027-04-06T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-06/vegan-voku-and-free-market",
+  "uuid": "94b59bda-5471-4f8a-b136-f3bc5b5e2f38"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807632000",
+    "value2": "1807646400",
+    "duration": 14400,
+    "time_start": "2027-04-13T18:00:00+02:00",
+    "time_end": "2027-04-13T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-13/vegan-voku-and-free-market",
+  "uuid": "9eddf429-1e23-426f-969b-f0ac1844edf4"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808236800",
+    "value2": "1808251200",
+    "duration": 14400,
+    "time_start": "2027-04-20T18:00:00+02:00",
+    "time_end": "2027-04-20T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-20/vegan-voku-and-free-market",
+  "uuid": "5668a107-a68c-453f-97fa-3221b3e08a89"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808841600",
+    "value2": "1808856000",
+    "duration": 14400,
+    "time_start": "2027-04-27T18:00:00+02:00",
+    "time_end": "2027-04-27T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-04-27/vegan-voku-and-free-market",
+  "uuid": "0e61e165-b028-4fb5-853c-11535d989fa5"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809446400",
+    "value2": "1809460800",
+    "duration": 14400,
+    "time_start": "2027-05-04T18:00:00+02:00",
+    "time_end": "2027-05-04T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-04/vegan-voku-and-free-market",
+  "uuid": "c2049417-b383-458b-a067-a788f8953252"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810051200",
+    "value2": "1810065600",
+    "duration": 14400,
+    "time_start": "2027-05-11T18:00:00+02:00",
+    "time_end": "2027-05-11T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-11/vegan-voku-and-free-market",
+  "uuid": "5a88d6a0-1bf5-40a1-a091-355c6cb52ba3"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810656000",
+    "value2": "1810670400",
+    "duration": 14400,
+    "time_start": "2027-05-18T18:00:00+02:00",
+    "time_end": "2027-05-18T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-18/vegan-voku-and-free-market",
+  "uuid": "ead5f90c-a2e3-40c7-8ee9-08c76ae4e7ef"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811260800",
+    "value2": "1811275200",
+    "duration": 14400,
+    "time_start": "2027-05-25T18:00:00+02:00",
+    "time_end": "2027-05-25T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-05-25/vegan-voku-and-free-market",
+  "uuid": "8a79c967-af10-411f-a759-e69fc791c80b"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811865600",
+    "value2": "1811880000",
+    "duration": 14400,
+    "time_start": "2027-06-01T18:00:00+02:00",
+    "time_end": "2027-06-01T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-01/vegan-voku-and-free-market",
+  "uuid": "a51122fa-0af8-4c5e-8fba-47e1e22c3b52"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812470400",
+    "value2": "1812484800",
+    "duration": 14400,
+    "time_start": "2027-06-08T18:00:00+02:00",
+    "time_end": "2027-06-08T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-08/vegan-voku-and-free-market",
+  "uuid": "82c1ed31-2c0e-4fd0-8d55-fec09ec8edc2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813075200",
+    "value2": "1813089600",
+    "duration": 14400,
+    "time_start": "2027-06-15T18:00:00+02:00",
+    "time_end": "2027-06-15T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-15/vegan-voku-and-free-market",
+  "uuid": "3b2e5de4-1056-44dc-a3f3-b3a370d72bd2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813680000",
+    "value2": "1813694400",
+    "duration": 14400,
+    "time_start": "2027-06-22T18:00:00+02:00",
+    "time_end": "2027-06-22T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-22/vegan-voku-and-free-market",
+  "uuid": "076381ae-dee1-4c2d-ab61-9b9bb0f01ff6"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1814284800",
+    "value2": "1814299200",
+    "duration": 14400,
+    "time_start": "2027-06-29T18:00:00+02:00",
+    "time_end": "2027-06-29T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-06-29/vegan-voku-and-free-market",
+  "uuid": "4c59a25a-7855-4f8c-acd5-5876e3743c62"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1814889600",
+    "value2": "1814904000",
+    "duration": 14400,
+    "time_start": "2027-07-06T18:00:00+02:00",
+    "time_end": "2027-07-06T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-06/vegan-voku-and-free-market",
+  "uuid": "242087fa-913c-4dbc-800f-361cb4a05fde"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1815494400",
+    "value2": "1815508800",
+    "duration": 14400,
+    "time_start": "2027-07-13T18:00:00+02:00",
+    "time_end": "2027-07-13T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-13/vegan-voku-and-free-market",
+  "uuid": "86bbf263-a442-4e63-940c-ced0acf64886"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1816099200",
+    "value2": "1816113600",
+    "duration": 14400,
+    "time_start": "2027-07-20T18:00:00+02:00",
+    "time_end": "2027-07-20T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-20/vegan-voku-and-free-market",
+  "uuid": "db83c08d-bc7d-4af6-9375-ab46ed525b10"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1816704000",
+    "value2": "1816718400",
+    "duration": 14400,
+    "time_start": "2027-07-27T18:00:00+02:00",
+    "time_end": "2027-07-27T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-07-27/vegan-voku-and-free-market",
+  "uuid": "86145938-25b2-4406-8081-bf2d172dfa75"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1817308800",
+    "value2": "1817323200",
+    "duration": 14400,
+    "time_start": "2027-08-03T18:00:00+02:00",
+    "time_end": "2027-08-03T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-03/vegan-voku-and-free-market",
+  "uuid": "104b9944-5f78-4322-ac02-3977e2a6d09e"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1817913600",
+    "value2": "1817928000",
+    "duration": 14400,
+    "time_start": "2027-08-10T18:00:00+02:00",
+    "time_end": "2027-08-10T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-10/vegan-voku-and-free-market",
+  "uuid": "c9a31743-61ed-4db7-908a-2526ea270f21"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1818518400",
+    "value2": "1818532800",
+    "duration": 14400,
+    "time_start": "2027-08-17T18:00:00+02:00",
+    "time_end": "2027-08-17T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-17/vegan-voku-and-free-market",
+  "uuid": "3ff752de-a153-40fc-b026-7e5a34da56f2"
+ },
+ {
+  "body": "Every Tuesday we cook a delicious three course vegan meal from food that is saved frrom the market. There will also be a free market with fresh food available to take home Due to the size of the Molli there is limited space available and we don't take reservations! We work on a first come first serv",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1819123200",
+    "value2": "1819137600",
+    "duration": 14400,
+    "time_start": "2027-08-24T18:00:00+02:00",
+    "time_end": "2027-08-24T22:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20271101T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "id": "4e9c1920-6f50-4f11-8789-9c938f37ec89",
+    "resource": "location",
+    "title": "Molli Chaoot Van Ostadestraat 55hs  Amsterdam Netherlands"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Vegan Voku and Free Market ",
+  "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2027-08-24/vegan-voku-and-free-market",
+  "uuid": "936314a8-ff16-4d19-ae84-0b446fde7dd6"
+ }
+]

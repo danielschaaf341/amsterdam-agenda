@@ -13,7 +13,8 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _koepel.py         shared: The Movies + Filmhallen (/fk-feed/agenda JSON)
   _peppered.py       shared: Bellevue, Kleine Komedie, Frascati (Playwright, BunnyCDN JS check)
   _weticket.py       shared: WeTicket storefront RSS feeds (Skatecafé, Garage Noord, Ingang)
-  _radar.py          shared: one Radar group per venue (Vrankrijk, Joe's Garage)
+  _radar.py          shared: one Radar group per venue (Vrankrijk, Joe's Garage, Molli Chaoot, MKZ)
+  _stager.py         shared: Stager shop JSON-LD (Nachbar, Radion)
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
@@ -113,6 +114,12 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
    `python build.py` and look at the site on a phone-sized viewport.
 5. If the venue is also covered by an aggregator (jazzin), add it to `jazzin.OWN_SCRAPER_VENUES`.
 6. Update the RECON.md table (method, difficulty, notes) and commit.
+
+## Site filters
+
+Quick periods, categories, venues (+ ★ favourites), search, and a **club switch** (Aan / Alleen / Uit,
+stored in localStorage). `guess_category` only says "club" for real club words (clubnacht, DJ, techno…),
+not for a bare "club" (Club Amsterdam Klezmer, book club).
 
 ## Quirks worth remembering
 

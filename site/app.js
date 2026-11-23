@@ -24,6 +24,7 @@ const state = {
   favEvents: new Set(store.get("favEvents", [])),
   favVenues: new Set(store.get("favVenues", [])),
   search: "",
+  clubMode: store.get("clubMode", "on"),          // on | only | off
   weekOffset: 0,
 };
 
@@ -62,6 +63,8 @@ function relLabel(k) {
 function isFav(ev) { return state.favEvents.has(ev.id) || state.favVenues.has(ev.venue); }
 
 function matches(ev, { ignoreQuick = false } = {}) {
+  if (state.clubMode === "off" && ev.category === "club") return false;
+  if (state.clubMode === "only" && ev.category !== "club") return false;
   if (state.cats.size && !state.cats.has(ev.category)) return false;
   if (state.hiddenVenues.has(ev.venue)) return false;
   if (state.search) {
@@ -264,6 +267,7 @@ function renderCats() {
 function render() {
   document.querySelectorAll(".view-toggle button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
   document.querySelectorAll("#quick button").forEach((b) => b.classList.toggle("on", b.dataset.quick === state.quick));
+  document.querySelectorAll(".club-mode button").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.club === state.clubMode)));
   $("#list").hidden = state.view !== "list";
   $("#week").hidden = state.view !== "week";
   renderSeries();
@@ -319,6 +323,11 @@ function bind() {
     state.quick = state.quick === q ? "all" : q;
     if (state.view === "week") state.weekOffset = 0;
     render();
+  });
+  document.querySelector(".club-mode").addEventListener("click", (e) => {
+    const mode = e.target.closest("button")?.dataset.club;
+    if (!mode) return;
+    state.clubMode = mode; store.set("clubMode", mode); render();
   });
   $("#cats").addEventListener("click", (e) => {
     const c = e.target.closest("button")?.dataset.cat;
