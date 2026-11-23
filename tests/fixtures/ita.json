@@ -1,0 +1,2022 @@
+[
+ {
+  "id": 519,
+  "url": "/nl/voorstellingen/de-suriname-trilogie-stepping-stones",
+  "title": "De Suriname-trilogie: Stepping Stones",
+  "subTitle": "Orkater",
+  "image": "https://media.ita.nl/media/stepping-stones-fotografie-bas-de-brouwer-naamsvermelding-altijd-verplicht-85-1280x853.jpg?guid=0f8b4268-174b-4aa2-ae62-ad6e7d970bfa",
+  "genres": [
+   "Muziektheater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Celebrating Identity",
+   "Gastproductie",
+   "Reclaiming History"
+  ],
+  "program": {
+   "id": 1042,
+   "startAt": "2026-11-25T20:00:00",
+   "endAt": "2026-11-25T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/58853/120669/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1196,
+   "startAt": "2026-11-25T20:30:00",
+   "endAt": "2026-11-25T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Laatste kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122242/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 644,
+  "url": "/nl/voorstellingen/hiphop-is-erfgoed-femmes-in-hiphop",
+  "title": "Hiphop is Erfgoed: Femmes in Hiphop",
+  "subTitle": "Foundation",
+  "image": "https://media.ita.nl/media/bookshop-headers-4.jpg?guid=a35cb573-48c2-4600-bff0-fc80847e7127",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength"
+  ],
+  "program": {
+   "id": 1288,
+   "startAt": "2026-11-26T19:30:00",
+   "endAt": "2026-11-26T21:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/60370/122964/"
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 519,
+  "url": "/nl/voorstellingen/de-suriname-trilogie-stepping-stones",
+  "title": "De Suriname-trilogie: Stepping Stones",
+  "subTitle": "Orkater",
+  "image": "https://media.ita.nl/media/stepping-stones-fotografie-bas-de-brouwer-naamsvermelding-altijd-verplicht-85-1280x853.jpg?guid=0f8b4268-174b-4aa2-ae62-ad6e7d970bfa",
+  "genres": [
+   "Muziektheater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Celebrating Identity",
+   "Gastproductie",
+   "Reclaiming History"
+  ],
+  "program": {
+   "id": 1040,
+   "startAt": "2026-11-26T20:00:00",
+   "endAt": "2026-11-26T21:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/58853/120670/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1197,
+   "startAt": "2026-11-26T20:30:00",
+   "endAt": "2026-11-26T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Laatste kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122243/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 519,
+  "url": "/nl/voorstellingen/de-suriname-trilogie-stepping-stones",
+  "title": "De Suriname-trilogie: Stepping Stones",
+  "subTitle": "Orkater",
+  "image": "https://media.ita.nl/media/stepping-stones-fotografie-bas-de-brouwer-naamsvermelding-altijd-verplicht-85-1280x853.jpg?guid=0f8b4268-174b-4aa2-ae62-ad6e7d970bfa",
+  "genres": [
+   "Muziektheater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Celebrating Identity",
+   "Gastproductie",
+   "Reclaiming History"
+  ],
+  "program": {
+   "id": 1041,
+   "startAt": "2026-11-27T20:00:00",
+   "endAt": "2026-11-27T21:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/58853/120671/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1198,
+   "startAt": "2026-11-27T20:30:00",
+   "endAt": "2026-11-27T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122244/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 462,
+  "url": "/nl/voorstellingen/oersoep",
+  "title": "Oersoep",
+  "subTitle": "NITE / Rebekka Nilsson",
+  "image": "https://media.ita.nl/media/nite_oersoep_16x9_shotbyhalie.jpg?guid=d94fa754-7c3c-4917-ac11-bad883f3ccea",
+  "genres": [
+   "Muziektheater",
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 887,
+   "startAt": "2026-11-28T20:00:00",
+   "endAt": "2026-11-28T22:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57809/119255/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1199,
+   "startAt": "2026-11-28T20:30:00",
+   "endAt": "2026-11-28T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122245/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 462,
+  "url": "/nl/voorstellingen/oersoep",
+  "title": "Oersoep",
+  "subTitle": "NITE / Rebekka Nilsson",
+  "image": "https://media.ita.nl/media/nite_oersoep_16x9_shotbyhalie.jpg?guid=d94fa754-7c3c-4917-ac11-bad883f3ccea",
+  "genres": [
+   "Muziektheater",
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 888,
+   "startAt": "2026-11-29T15:00:00",
+   "endAt": "2026-11-29T17:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57809/119256/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1195,
+   "startAt": "2026-11-29T15:30:00",
+   "endAt": "2026-11-29T16:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122246/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 510,
+  "url": "/nl/voorstellingen/wachten-met-dirk-de-wachter",
+  "title": "Wachten met Dirk De Wachter",
+  "subTitle": "Haagsch College",
+  "image": "https://media.ita.nl/media/wachten-met-dirk-de-wachter-landscape-v2.png?guid=fa721edd-e1d3-4425-9dba-cf83f2d311ee",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 1023,
+   "startAt": "2026-11-30T20:00:00",
+   "endAt": "2026-11-30T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 450,
+  "url": "/nl/voorstellingen/een-groter-verhaal",
+  "title": "Een groter verhaal",
+  "subTitle": "Bureau Vergezicht / Theater Rotterdam",
+  "image": "https://media.ita.nl/media/bureauvergezicht_een-groter-verhaal-c-brian-elstak_liggend.jpg?guid=85829012-0010-4778-8538-1c7fcb684c67",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Reclaiming History",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 863,
+   "startAt": "2026-12-01T19:30:00",
+   "endAt": "2026-12-01T20:40:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 450,
+  "url": "/nl/voorstellingen/een-groter-verhaal",
+  "title": "Een groter verhaal",
+  "subTitle": "Bureau Vergezicht / Theater Rotterdam",
+  "image": "https://media.ita.nl/media/bureauvergezicht_een-groter-verhaal-c-brian-elstak_liggend.jpg?guid=85829012-0010-4778-8538-1c7fcb684c67",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Reclaiming History",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 864,
+   "startAt": "2026-12-02T19:30:00",
+   "endAt": "2026-12-02T20:40:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1192,
+   "startAt": "2026-12-02T20:30:00",
+   "endAt": "2026-12-02T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122247/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 485,
+  "url": "/nl/voorstellingen/mefisto",
+  "title": "Mefisto",
+  "subTitle": "Het Nationale Theater / Belle van Heerikhuizen",
+  "image": "https://media.ita.nl/media/mefisto-2-het-nationale-theater-foto-anne-claire-de-breij_liggend.jpg?guid=f247a361-a613-40e2-ba7b-da3a5d684ba4",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Perspectives on power",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 922,
+   "startAt": "2026-12-03T19:30:00",
+   "endAt": "2026-12-03T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57816/119286/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 544,
+  "url": "/nl/voorstellingen/habitat",
+  "title": "HABITAT",
+  "subTitle": "Jordan Achiano",
+  "image": "https://media.ita.nl/media/header_habitat-jordan-archano_2026-05-06-102450_mfdd.jpg?guid=b6495dd4-8e28-41c2-96df-a72dca177abd",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Language no problem",
+   "Engels",
+   "Celebrating Identity",
+   "Gastproductie"
+  ],
+  "program": {
+   "id": 1087,
+   "startAt": "2026-12-03T20:30:00",
+   "endAt": "2026-12-03T21:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59205/121179/"
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 485,
+  "url": "/nl/voorstellingen/mefisto",
+  "title": "Mefisto",
+  "subTitle": "Het Nationale Theater / Belle van Heerikhuizen",
+  "image": "https://media.ita.nl/media/mefisto-2-het-nationale-theater-foto-anne-claire-de-breij_liggend.jpg?guid=f247a361-a613-40e2-ba7b-da3a5d684ba4",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Perspectives on power",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 923,
+   "startAt": "2026-12-04T19:30:00",
+   "endAt": "2026-12-04T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57816/119288/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 553,
+  "url": "/nl/voorstellingen/het-incident",
+  "title": "Het incident",
+  "subTitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen",
+  "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2025-2026",
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 1194,
+   "startAt": "2026-12-04T20:30:00",
+   "endAt": "2026-12-04T21:45:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59917/122249/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 538,
+  "url": "/nl/voorstellingen/openbare-rondleiding-in-het-engels",
+  "title": "Guided tour (in English)",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/rondleiding_31-07-2026_feegolin31-07-2026_0718.jpg?guid=22e76f37-aa8f-4151-a591-f7ccc82e3e0e",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Engels",
+   "Archief"
+  ],
+  "program": {
+   "id": 1077,
+   "startAt": "2026-12-05T15:00:00",
+   "endAt": "2026-12-05T16:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59225/121212/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 3330,
+  "url": "/nl/voorstellingen/openbare-rondleiding-in-het-nederlands",
+  "title": "Rondleiding (in het Nederlands)",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/rondleiding_31-07-2026_feegolin31-07-2026_0718.jpg?guid=22e76f37-aa8f-4151-a591-f7ccc82e3e0e",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 727,
+   "startAt": "2026-12-05T15:00:00",
+   "endAt": "2026-12-05T16:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59223/121200/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 3162,
+  "url": "/nl/voorstellingen/the-bookshop-kids",
+  "title": "The Bookshop Kids",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/the-bookshop-kids-green.jpg?guid=0aeecd6b-aa40-4dc2-88ca-4da177a410c2",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 700,
+   "startAt": "2026-12-06T10:30:00",
+   "endAt": "2026-12-06T11:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59164/121098/"
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1156,
+   "startAt": "2026-12-08T19:30:00",
+   "endAt": "2026-12-08T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1157,
+   "startAt": "2026-12-09T19:30:00",
+   "endAt": "2026-12-09T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 4074,
+  "url": "/nl/voorstellingen/write-for-rights-in-de-stadsschouwburg",
+  "title": "Write for Rights in de Stadsschouwburg",
+  "subTitle": "ITA  / Amnesty",
+  "image": "https://media.ita.nl/media/writeforrights26.png?guid=ce57ecd6-185c-4c78-b2cb-7608ee650a70",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Gastproductie",
+   "Shifting Politics"
+  ],
+  "program": {
+   "id": 2062,
+   "startAt": "2026-12-10T18:00:00",
+   "endAt": "2026-12-10T20:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Vrije inloop",
+    "link": ""
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1159,
+   "startAt": "2026-12-10T19:30:00",
+   "endAt": "2026-12-10T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2063,
+   "startAt": "2026-12-10T20:00:00",
+   "endAt": "2026-12-10T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/124812/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1160,
+   "startAt": "2026-12-11T19:30:00",
+   "endAt": "2026-12-11T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2074,
+   "startAt": "2026-12-11T20:00:00",
+   "endAt": "2026-12-11T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/124813/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 472,
+  "url": "/nl/voorstellingen/geopolitieke-eindejaarsshow-2026",
+  "title": "Geopolitieke Eindejaarsshow 2026",
+  "subTitle": "Haagsch College",
+  "image": "https://media.ita.nl/media/geopolitieke-eindejaarsshow-theaterbeeld-website-landscape-v2.png?guid=d35ffa61-da4c-4f5b-9813-466698d46912",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 794,
+   "startAt": "2026-12-12T19:30:00",
+   "endAt": "2026-12-12T21:15:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/58260/119900/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2075,
+   "startAt": "2026-12-12T20:00:00",
+   "endAt": "2026-12-12T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/124814/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2066,
+   "startAt": "2026-12-13T15:00:00",
+   "endAt": "2026-12-13T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1161,
+   "startAt": "2026-12-14T19:30:00",
+   "endAt": "2026-12-14T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1162,
+   "startAt": "2026-12-15T19:30:00",
+   "endAt": "2026-12-15T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1163,
+   "startAt": "2026-12-16T19:30:00",
+   "endAt": "2026-12-16T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1101,
+   "startAt": "2026-12-16T20:00:00",
+   "endAt": "2026-12-16T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119263/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1164,
+   "startAt": "2026-12-17T19:30:00",
+   "endAt": "2026-12-17T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1102,
+   "startAt": "2026-12-17T20:00:00",
+   "endAt": "2026-12-17T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119264/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1120,
+   "startAt": "2026-12-18T20:00:00",
+   "endAt": "2026-12-18T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119265/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1121,
+   "startAt": "2026-12-19T20:00:00",
+   "endAt": "2026-12-19T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119266/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 645,
+  "url": "/nl/voorstellingen/bookshop-kids-rondleiding",
+  "title": "The Bookshop Kids Rondleiding",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/rondleiding-kids.jpg?guid=7c17eecd-c6e0-4f38-90df-684de76b2738",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "The Bookshop"
+  ],
+  "program": {
+   "id": 1291,
+   "startAt": "2026-12-20T10:30:00",
+   "endAt": "2026-12-20T11:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59946/122309/"
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1122,
+   "startAt": "2026-12-20T15:00:00",
+   "endAt": "2026-12-20T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119267/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1165,
+   "startAt": "2026-12-20T15:30:00",
+   "endAt": "2026-12-20T19:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1158,
+   "startAt": "2026-12-21T19:30:00",
+   "endAt": "2026-12-21T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 465,
+  "url": "/nl/voorstellingen/romeo-en-julia",
+  "title": "Romeo en Julia",
+  "subTitle": "Theater Oostpool / Char Li Chung",
+  "image": "https://media.ita.nl/media/theater-oostpool-romeo-en-julia-elza-jo-16x9.jpg?guid=ff5ad2b4-a532-407a-af12-c1fed90ccf3a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 899,
+   "startAt": "2026-12-22T20:00:00",
+   "endAt": "2026-12-22T22:50:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57850/119342/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1059,
+   "startAt": "2026-12-23T14:30:00",
+   "endAt": "2026-12-23T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118931/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 465,
+  "url": "/nl/voorstellingen/romeo-en-julia",
+  "title": "Romeo en Julia",
+  "subTitle": "Theater Oostpool / Char Li Chung",
+  "image": "https://media.ita.nl/media/theater-oostpool-romeo-en-julia-elza-jo-16x9.jpg?guid=ff5ad2b4-a532-407a-af12-c1fed90ccf3a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Perspectives on power"
+  ],
+  "program": {
+   "id": 900,
+   "startAt": "2026-12-23T20:00:00",
+   "endAt": "2026-12-23T22:50:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57850/119343/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1060,
+   "startAt": "2026-12-24T14:30:00",
+   "endAt": "2026-12-24T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118932/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1061,
+   "startAt": "2026-12-25T14:30:00",
+   "endAt": "2026-12-25T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118933/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1062,
+   "startAt": "2026-12-26T14:30:00",
+   "endAt": "2026-12-26T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118934/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 488,
+  "url": "/nl/voorstellingen/oh-oh-oh-dennenboom-6",
+  "title": "Oh oh oh dennenboom (6+)",
+  "subTitle": "hetpaleis / Kim Karssen & Hendrik Kegels",
+  "image": "https://media.ita.nl/media/2025-2026-oh-oh-oh-dennenboom-selectie-website-c-diego-franssens-5.jpg?guid=2424e5ca-02ac-4a5a-8beb-2e961a07ff4c",
+  "genres": [
+   "Jeugd en familie",
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 930,
+   "startAt": "2026-12-26T15:00:00",
+   "endAt": "2026-12-26T16:20:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/58835/120630/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1063,
+   "startAt": "2026-12-27T14:30:00",
+   "endAt": "2026-12-27T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118935/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 528,
+  "url": "/nl/voorstellingen/alice-in-wonderland-8",
+  "title": "Alice in Wonderland (8+)",
+  "subTitle": "De Toneelmakerij / DOX / Paul Knieriem",
+  "image": "https://media.ita.nl/media/alice-in-wonderland-langwerpig.jpg?guid=0ed33429-b222-4b7c-b3e8-8b0d474e95af",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "Gastproductie",
+   "Female Strength",
+   "Escaping Reality"
+  ],
+  "program": {
+   "id": 1066,
+   "startAt": "2026-12-28T14:30:00",
+   "endAt": "2026-12-28T15:55:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57583/118936/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 538,
+  "url": "/nl/voorstellingen/openbare-rondleiding-in-het-engels",
+  "title": "Guided tour (in English)",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/rondleiding_31-07-2026_feegolin31-07-2026_0718.jpg?guid=22e76f37-aa8f-4151-a591-f7ccc82e3e0e",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Engels",
+   "Archief"
+  ],
+  "program": {
+   "id": 1078,
+   "startAt": "2027-01-02T15:00:00",
+   "endAt": "2027-01-02T16:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59225/121213/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 3330,
+  "url": "/nl/voorstellingen/openbare-rondleiding-in-het-nederlands",
+  "title": "Rondleiding (in het Nederlands)",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/rondleiding_31-07-2026_feegolin31-07-2026_0718.jpg?guid=22e76f37-aa8f-4151-a591-f7ccc82e3e0e",
+  "genres": [
+   "Perspectief"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 728,
+   "startAt": "2027-01-02T15:00:00",
+   "endAt": "2027-01-02T16:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59223/121201/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 3162,
+  "url": "/nl/voorstellingen/the-bookshop-kids",
+  "title": "The Bookshop Kids",
+  "subTitle": "ITA",
+  "image": "https://media.ita.nl/media/the-bookshop-kids-green.jpg?guid=0aeecd6b-aa40-4dc2-88ca-4da177a410c2",
+  "genres": [
+   "Jeugd en familie"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands"
+  ],
+  "program": {
+   "id": 701,
+   "startAt": "2027-01-03T10:30:00",
+   "endAt": "2027-01-03T11:30:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/59164/121099/"
+   },
+   "location": {
+    "id": 302,
+    "name": "The Bookshop"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2095,
+   "startAt": "2027-01-04T19:30:00",
+   "endAt": "2027-01-04T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57606/124978/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2096,
+   "startAt": "2027-01-05T19:30:00",
+   "endAt": "2027-01-05T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57606/124979/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 552,
+  "url": "/nl/voorstellingen/de-kopenhagen-trilogie",
+  "title": "De Kopenhagen Trilogie",
+  "subTitle": "ITA  / Eline Arbo",
+  "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Female Strength",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 2097,
+   "startAt": "2027-01-06T19:30:00",
+   "endAt": "2027-01-06T23:00:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57606/124980/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1133,
+   "startAt": "2027-01-07T20:00:00",
+   "endAt": "2027-01-07T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119268/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1134,
+   "startAt": "2027-01-08T20:00:00",
+   "endAt": "2027-01-08T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Uitverkocht",
+    "link": ""
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1135,
+   "startAt": "2027-01-09T20:00:00",
+   "endAt": "2027-01-09T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119270/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1136,
+   "startAt": "2027-01-10T15:00:00",
+   "endAt": "2027-01-10T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119271/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ },
+ {
+  "id": 549,
+  "url": "/nl/voorstellingen/wuthering-heights",
+  "title": "Wuthering Heights",
+  "subTitle": "ITA  / Kjersti Horn",
+  "image": "https://media.ita.nl/media/wh_1x1.jpg?guid=8f941888-dd99-4fc8-8807-1446c978d21b",
+  "genres": [
+   "Theater"
+  ],
+  "attributes": [
+   "2026-2027",
+   "Nederlands",
+   "ITA Productie",
+   "Perspectives on power",
+   "Nieuw"
+  ],
+  "program": {
+   "id": 1137,
+   "startAt": "2027-01-13T20:00:00",
+   "endAt": "2027-01-13T23:23:00",
+   "isCanceled": false,
+   "hasWaitingList": false,
+   "button": {
+    "text": "Koop kaarten",
+    "link": "https://tix.ita.nl/nl/buyingflow/tickets/57810/119272/"
+   },
+   "location": {
+    "id": 17,
+    "name": "Stadsschouwburg Amsterdam"
+   }
+  }
+ }
+]

@@ -1,0 +1,2910 @@
+[
+ {
+  "id": 342,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Breken met Big Tech ",
+  "slug": "breken-met-big-tech",
+  "featured_image": {
+   "id": 12058,
+   "path": null,
+   "name": "RH - breken met big tech",
+   "extension": "png",
+   "mime_type": "image/png",
+   "full_path": "RH - breken met big tech.png",
+   "url": "https://rodehoed.nl/files/RH%20-%20breken%20met%20big%20tech.png/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/RH%20-%20breken%20met%20big%20tech.png/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "heading",
+        "attrs": {
+         "textAlign": "start",
+         "level": 2
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Hoe maak je je los van techoligarchen?"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        }
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "De kans is groot dat je ‘s ochtends eerder naar je telefoon grijpt dan naar een kop koffie. En dat een Amerikaans techbedrijf eerder weet dat je wakker bent dan vrijwel iedereen die je kent. Onze afhankelijkheid van Amerikaanse techbro’s is zo alomvattend dat het bijna onmogelijk lijkt er iets aan te doen. Maar is dat zo? En wat kunnen we zelf doen om minder afhankelijk te worden?"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Samen met NRC-journalisten "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Merijn de Waal"
+         },
+         {
+          "type": "text",
+          "text": " en "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Hanneke Chin-A-Fo"
+         },
+         {
+          "type": "text",
+          "text": " zetten we koers uit. Van hen verscheen deze maand het boek "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Breken met Big Tech"
+         },
+         {
+          "type": "text",
+          "text": ". Ook "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Alexandra van Huffelen "
+         },
+         {
+          "type": "text",
+          "text": "schuift aan. Zij is voorzitter van het College van Bestuur van de Radboud Universiteit en oud-staatssecretaris van Digitalisering. "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Claudia van Kruistum"
+         },
+         {
+          "type": "text",
+          "text": " van SURF leidt een pilot waarin ruim dertig onderwijs- en onderzoeksinstellingen onderzoeken hoe ze met open-sourcesoftware minder afhankelijk worden van de grote techbedrijven. Verder zijn "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Merel Uildriks"
+         },
+         {
+          "type": "text",
+          "text": ", medeoprichter van Smartphonevrij Opgroeien, en schrijver, columnist en presentator "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Özcan Akyol"
+         },
+         {
+          "type": "text",
+          "text": " van de partij. "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Mirthe Frese"
+         },
+         {
+          "type": "text",
+          "text": " leidt de avond."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "We zijn veel te afhankelijk geworden van een land dat ons niet langer ziet als onze vanzelfsprekende opperbondgenoot. Dat besef is bij ons en in Europa inmiddels flink ingedaald. Wat te doen? Deze avond draait om wat je zelf kunt doen en waarom dat zo ontzettend belangrijk is."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 0
+    }
+   },
+   {
+    "type": "BlockQuote",
+    "data": {
+     "color": "white",
+     "title": null,
+     "text": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           },
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Dit boek gaat over de strijd van onze tijd. Het is inhoudelijk heel goed, maar het is ook praktisch: je kunt meteen aan de slag "
+         },
+         {
+          "type": "text",
+          "text": "- Joris Luyendijk "
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 1
+    }
+   },
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "In hun nieuwe boek laten "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Merijn de Waal "
+         },
+         {
+          "type": "text",
+          "text": "en "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Hanneke Chin-A-Fo"
+         },
+         {
+          "type": "text",
+          "text": " zien wat er op het spel staat voor Europa én voor jou. Het staat vol met praktische tips over hoe je als individu meer digitale autonomie kunt herpakken."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Welke alternatieven zijn er voor de opslag van je persoonlijke gegevens, vergroot een digitale deurbel daadwerkelijk je veiligheid en hoe kom je collectief in actie om je kinderen te beschermen tegen een telefoonverslaving? "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Kortom, hoe maak jij jezelf toekomstbestendig? "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Dit programma komt tot stand in samenwerking met NRC."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 2
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Sprekers",
+     "speakers": [
+      {
+       "name": "Özcan Akyol",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Özcan ‘EUS’ Akyol (Deventer, 1984), is een Nederlandse schrijver, columnist en presentator."
+           }
+          ]
+         },
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Hij debuteerde in 2012 met de semi-autobiografische schelmenroman "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Eus"
+           },
+           {
+            "type": "text",
+            "text": " en ontwikkelde zich daarna tot een creatieve duizendpoot. Hij schreef ook de roman "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Toerist"
+           },
+           {
+            "type": "text",
+            "text": " en in oktober 2023 verscheen zijn derde boek "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Afslag 23"
+           },
+           {
+            "type": "text",
+            "text": ". Eus is ook columnist voor verschillende kranten en tijdschriften en hij maakte furore als televisiepresentator met succesvolle titels als De Neven van Eus, De Meestergids, De Geknipte Gast en Eus’ Boekenclub. "
+           },
+           {
+            "type": "hardBreak"
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Foto door: Marloes Bosch"
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12073,
+        "path": null,
+        "name": "Ozcan Akyol c Marloes Bosch (rechtenrvij onder naamsvermelding) kopie",
+        "extension": "jpeg",
+        "mime_type": "image/jpeg",
+        "full_path": "Ozcan Akyol c Marloes Bosch (rechtenrvij onder naamsvermelding) kopie.jpeg",
+        "url": "https://rodehoed.nl/files/Ozcan%20Akyol%20c%20Marloes%20Bosch%20%28rechtenrvij%20onder%20naamsvermelding%29%20kopie.jpeg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 56,
+         "y": 41
+        },
+        "src": "https://rodehoed.nl/files/Ozcan%20Akyol%20c%20Marloes%20Bosch%20%28rechtenrvij%20onder%20naamsvermelding%29%20kopie.jpeg/"
+       }
+      },
+      {
+       "name": "Claudia van Kruistum ",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Claudia van Kruistum is strategisch projectmanager bij SURF, de ICT-coöperatie van Nederlandse onderwijs- en onderzoeksinstellingen. Ze leidt een sectorbrede pilot met Nextcloud, waarin ruim dertig instellingen onderzoeken hoe ze met open-sourcesoftware minder afhankelijk kunnen worden van grote Amerikaanse technologiebedrijven. Ze heeft een achtergrond in onderwijs en onderzoek en houdt zich bezig met digitale autonomie en de vraag hoe publieke organisaties meer zeggenschap kunnen krijgen over hun digitale infrastructuur."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12072,
+        "path": null,
+        "name": "Foto",
+        "extension": "JPG",
+        "mime_type": "image/jpeg",
+        "full_path": "Foto.JPG",
+        "url": "https://rodehoed.nl/files/Foto.JPG/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 55,
+         "y": 39
+        },
+        "src": "https://rodehoed.nl/files/Foto.JPG/"
+       }
+      },
+      {
+       "name": "Alexandra van Huffelen ",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Alexandra van Huffelen is sinds 1 februari 2025 voorzitter van het College van Bestuur van de Radboud Universiteit. Zij heeft onder meer strategie, alumni, impact en kennisveiligheid in haar portefeuille."
+           }
+          ]
+         },
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Alexandra van Huffelen studeerde bestuurskunde aan de universiteiten van Leiden, Rotterdam en Aarhus. Eerder was zij staatssecretaris van Koninkrijksrelaties en Digitalisering en staatssecretaris van Financiën Toeslagen en Douane. Daarvoor was ze onder meer Algemeen directeur van het openbaar vervoer bedrijf van Amsterdam (GVB N.V.), wethouder Duurzaamheid, binnenstad en buitenruimte in de gemeente Rotterdam, en werkte ze voor Essent. Van Huffelen was lid van de Eerste Kamer (D66) en als toezichthouder actief in onder meer de zorg- en cultuursector. Momenteel is zij tevens partijvoorzitter van D66 en voorzitter van het bestuur van de ondersteuningsstichting van de Bachvereniging."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12070,
+        "path": null,
+        "name": "cvb-alexandra-van-huffelen-2025-dva-2764.jpg",
+        "extension": "webp",
+        "mime_type": "image/webp",
+        "full_path": "cvb-alexandra-van-huffelen-2025-dva-2764.jpg.webp",
+        "url": "https://rodehoed.nl/files/cvb-alexandra-van-huffelen-2025-dva-2764.jpg.webp/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 48,
+         "y": 41
+        },
+        "src": "https://rodehoed.nl/files/cvb-alexandra-van-huffelen-2025-dva-2764.jpg.webp/"
+       }
+      },
+      {
+       "name": "Merel Uildriks",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Merel Uildriks is medeoprichter en community builder van Smartphonevrij Opgroeien, een ouderinitiatief dat pleit voor uitstel van smartphonebezit bij kinderen. Ze schreef mee aan het gelijknamige boek en werkt sinds 2009 als freelance journalist en tekstschrijver."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12071,
+        "path": null,
+        "name": "1762357824061",
+        "extension": "jpeg",
+        "mime_type": "image/jpeg",
+        "full_path": "1762357824061.jpeg",
+        "url": "https://rodehoed.nl/files/1762357824061.jpeg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 50,
+         "y": 50
+        },
+        "src": "https://rodehoed.nl/files/1762357824061.jpeg/"
+       }
+      },
+      {
+       "name": "Hanneke Chin-A-Fo",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Hanneke Chin-A-Fo is onderzoeksjournalist en commentator. Ze schrijft vooral over internationale zaken: klimaat, grondstoffen, oorlog, internationaal recht, honger, geld. Draagt bij aan de rubriek Als het maar verandert. Eerder Azië-specialist, oorlogsverslaggever, financieel redacteur."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12060,
+        "path": null,
+        "name": "Hanneke Chin A Fo",
+        "extension": "webp",
+        "mime_type": "image/webp",
+        "full_path": "Hanneke Chin A Fo.webp",
+        "url": "https://rodehoed.nl/files/Hanneke%20Chin%20A%20Fo.webp/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Hanneke%20Chin%20A%20Fo.webp/"
+       }
+      },
+      {
+       "name": "Merijn de Waal",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Merijn de Waal (1981) werkt sinds 2006 bij NRC. Hij was eerder onder meer correspondent in Madrid voor zuidwest-Europa en is sinds 2017 (weer) de buitenlandredacteur voor de Amerika's. Deed in de VS verslag van drie presidentsverkiezingen: in 2008, 2020 en 2024. Hij reist net zo graag zuidelijk van de Rio Grande, door Latijns-Amerika. Auteur van drie boeken: Spaanse sporen (2015), Over de muur van Trump (2019) en De Koning van Amerika (2025)."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12061,
+        "path": null,
+        "name": "Merijn De Waal",
+        "extension": "webp",
+        "mime_type": "image/webp",
+        "full_path": "Merijn De Waal.webp",
+        "url": "https://rodehoed.nl/files/Merijn%20De%20Waal.webp/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Merijn%20De%20Waal.webp/"
+       }
+      }
+     ],
+     "blockIndex": 3
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Moderator",
+     "speakers": [
+      {
+       "name": "Mirthe Frese",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Mirthe Frese (1984) is schrijver, programmamaker, presentator en performer. Ze begon haar carrière als programmamaker bij De Balie. Sindsdien werkt ze voor verschillende culturele instellingen, universiteiten en NGO’s . In september ’24 verscheen haar debuutroman Zonder slaap ben ik het noodlot voor."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12059,
+        "path": null,
+        "name": "Mirthe-4350-1-683x1024",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Mirthe-4350-1-683x1024.jpg",
+        "url": "https://rodehoed.nl/files/Mirthe-4350-1-683x1024.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 47,
+         "y": 15
+        },
+        "src": "https://rodehoed.nl/files/Mirthe-4350-1-683x1024.jpg/"
+       }
+      }
+     ],
+     "blockIndex": 4
+    }
+   }
+  ],
+  "published_at": "2026-10-26T12:46:00.000000Z",
+  "created_by": 7,
+  "updated_by": 7,
+  "start_date": "2026-11-23T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "Op maandag 23 november zetten we de eerste stappen naar meer digitale onafhankelijkheid",
+  "ticketmatic_id": 12474,
+  "price": 15,
+  "discounted_price": 13.5,
+  "status": {
+   "label": "Bestel kaarten",
+   "value": "open",
+   "color": "open",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-10-23T12:56:06.000000Z",
+  "updated_at": "2026-11-09T13:35:48.000000Z",
+  "sub_title": "Wat jij kunt doen om minder afhankelijk te worden van de techbro’s",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": null,
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/breken-met-big-tech/",
+  "topics": [
+   {
+    "id": 8,
+    "name": "Journalistiek",
+    "slug": "journalistiek"
+   },
+   {
+    "id": 9,
+    "name": "Maatschappij",
+    "slug": "maatschappelijk"
+   },
+   {
+    "id": 13,
+    "name": "Technologie",
+    "slug": "technologie"
+   }
+  ],
+  "ticket_link": "https://apps.ticketmatic.com/widgets/amerpodia/addtickets?event=12474&extraproducts=&skinid=10007&returnurl=https%3A%2F%2Frodehoed.nl%2Fticketmatic%2Fhandle-return%2F%3Fevent_id%3D12474%26lang%3Ddefault&flow=basketwithcheckout&edit=yes&oncompletion=return&accesskey=10b85907d7b0014a63af0898&signature=dc92acee460110d8aedaf8a28802e2b416b806ac8310dffac6b6064d72083c95&l=NL"
+ },
+ {
+  "id": 336,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Een Europese geschiedenis: het verborgen verleden van Oekraïne",
+  "slug": "een-europese-geschiedenis-het-verborgen-verleden-van-oekraine",
+  "featured_image": {
+   "id": 12039,
+   "path": null,
+   "name": "Jaroslav Hrytsak png",
+   "extension": "jpg",
+   "mime_type": "image/jpeg",
+   "full_path": "Jaroslav Hrytsak png.jpg",
+   "url": "https://rodehoed.nl/files/Jaroslav%20Hrytsak%20png.jpg/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": {
+    "x": 49,
+    "y": 69
+   },
+   "src": "https://rodehoed.nl/files/Jaroslav%20Hrytsak%20png.jpg/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Sinds de grootscheepse Russische invasie van 2022 zijn alle ogen in Europa op Oekraïne gericht. Tot die tijd was het voor de buitenwereld niet meer dan een ‘grensland’, zoals de naam van het land vaak wordt vertaald. Abusievelijk, volgens "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Jaroslav Hrytsak"
+         },
+         {
+          "type": "text",
+          "text": ", hoogleraar aan de Oekraïense Katholieke Universiteit in Lviv."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Oekraïne lag namelijk niet altijd in de periferie van Europa, maar vaak juist in het hart van het continent. Alle grote confrontaties tussen Oost en West hebben zich meer of minder in Oekraïne afgespeeld. Mede daardoor is het land door de eeuwen heen aangeraakt door talrijke westerse invloeden, die aan Rusland juist voorbijgingen."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Op 27 november tilt Jaroslav Hrytsak in de Rode Hoed in Amsterdam de sluier op van een Oekraïens verleden dat voor het grote publiek lang verborgen is gebleven en door Rusland wordt ontkend. Een Europese geschiedenis, die tot op de dag vandaag beïnvloedt hoe de Oekraïense burgermaatschappij zich verzet tegen onderdrukking en imperialisme."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "De voertaal is Engels. Na de lezing is er een kort nagesprek met journalist Kysia Hekster (NOS). De avond wordt muzikaal afgesloten door een gerenommeerd Oekraïens kamerensemble."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Deze avond is een samenwerking tussen RAAM en de Rode Hoed. Dit evenement wordt mede mogelijk gemaakt door het Vfonds."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "link",
+            "attrs": {
+             "href": "https://platformraam.nl/artikelen/2580-grandioos-boek-over-de-gewelddadige-wording-van-oekraine",
+             "target": null,
+             "rel": null,
+             "class": null,
+             "title": null
+            }
+           },
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Lees hier de bespreking"
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": " van Hrytsaks boek op de website van RAAM, door Hubert Smeets."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 5
+    }
+   },
+   {
+    "type": "BlockQuote",
+    "data": {
+     "color": "beige",
+     "title": "Over Ukraine: The Forging of a Nation:",
+     "text": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Hrytsaks levendige en meeslepende boek legt de blijvende trots bloot die zijn landgenoten ertoe bewoog weerstand te bieden aan Russische agressie, en het biedt reden tot hoop. ~ Luke Harding, The Guardian"
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 6
+    }
+   },
+   {
+    "type": "BlockQuote",
+    "data": {
+     "color": "beige",
+     "title": null,
+     "text": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Wie slechts tijd heeft om één uitstekende publicatie over Oekraïne te lezen, wordt met dit boek het best bediend. ~ Frank Herold, Tagesspiegel"
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 7
+    }
+   },
+   {
+    "type": "BlockQuote",
+    "data": {
+     "color": "beige",
+     "title": null,
+     "text": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Hrytsak is zo soeverein in de beheersing van de bronnen dat hij niet contrair voor de show hoeft te zijn. The Forging of a Nation biedt zowel de leek als de kenner veel kennis en analyse. ~ Hubert Smeets, RAAM"
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 8
+    }
+   },
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Kennisplatform RAAM is in 2016 opgericht en wil de kennis in Nederland over politieke, maatschappelijke en culturele ontwikkelingen in Oost-Europa verdiepen. Met die missie acht RAAM het van essentieel belang om collega’s uit de genoemde landen uit te nodigen en aan het woord te laten."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 9
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": null,
+     "speakers": [
+      {
+       "name": "Jaroslav Hrytsak ",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Jaroslav Hrytsak is een van de meest bekende Oekraïense historici en hoogleraar aan de Oekraïense Katholieke Universiteit in Lviv. Hij is schrijver van de internationale bestseller Ukraine: The Forging of a Nation (2023). Op dit moment is Hrytsak gastonderzoeker aan het Instituut voor Menswetenschappen in Wenen, waar hij werkt aan een nieuw boek"
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12039,
+        "path": null,
+        "name": "Jaroslav Hrytsak png",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Jaroslav Hrytsak png.jpg",
+        "url": "https://rodehoed.nl/files/Jaroslav%20Hrytsak%20png.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 49,
+         "y": 69
+        },
+        "src": "https://rodehoed.nl/files/Jaroslav%20Hrytsak%20png.jpg/"
+       }
+      },
+      {
+       "name": "Kysia Hekster",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Kysia Hekster is sinds 2021 EU- en NAVO-correspondent voor de NOS in Brussel en heeft ook België en Luxemburg in portefeuille. Eerder was ze voor de NOS, waar ze sinds 1998 werkt, onder meer verslaggever binnenland en Koninklijk Huis (2012-2021) en correspondent in Moskou (2008-2012)."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12040,
+        "path": null,
+        "name": "-hekster_1",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "-hekster_1.jpg",
+        "url": "https://rodehoed.nl/files/-hekster_1.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/-hekster_1.jpg/"
+       }
+      }
+     ],
+     "blockIndex": 10
+    }
+   }
+  ],
+  "published_at": "2026-10-06T12:14:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2026-11-27T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "De Oekraïense historicus Jaroslav Hrytsak spreekt op vrijdagavond 27 november 2026 de tiende Oktoberlezing van Kennisplatform RAAM uit in de Rode Hoed in Amsterdam. Hrytsak, schrijver van de bestseller Ukraine: The Forging of a Nation, ontrafelt in zijn lezing de complexe geschiedenis van Oekraïne, die meer raakvlakken heeft met onze eigen Europese geschiedenis dan we soms denken.",
+  "ticketmatic_id": 12459,
+  "price": 15,
+  "discounted_price": 13.5,
+  "status": {
+   "label": "Uitverkocht",
+   "value": "sold_out",
+   "color": "closed",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-10-06T11:52:03.000000Z",
+  "updated_at": "2026-10-20T08:41:09.000000Z",
+  "sub_title": "Jaroslav Hrytsak spreekt de tiende RAAM-lezing uit",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": null,
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/een-europese-geschiedenis-het-verborgen-verleden-van-oekraine/",
+  "topics": [
+   {
+    "id": 9,
+    "name": "Maatschappij",
+    "slug": "maatschappelijk"
+   },
+   {
+    "id": 10,
+    "name": "Politiek",
+    "slug": "politiek_economie_recht"
+   }
+  ],
+  "ticket_link": null
+ },
+ {
+  "id": 341,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "De Ongelijkheidsmachine",
+  "slug": "de-ongelijkheidsmachine",
+  "featured_image": {
+   "id": 12067,
+   "path": null,
+   "name": "RH - De Ongelijkheidsmachine - Website 1920x1080",
+   "extension": "png",
+   "mime_type": "image/png",
+   "full_path": "RH - De Ongelijkheidsmachine - Website 1920x1080.png",
+   "url": "https://rodehoed.nl/files/RH%20-%20De%20Ongelijkheidsmachine%20-%20Website%201920x1080.png/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": {
+    "x": 52,
+    "y": 43
+   },
+   "src": "https://rodehoed.nl/files/RH%20-%20De%20Ongelijkheidsmachine%20-%20Website%201920x1080.png/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Wie zich al in een maatschappelijke achterstandspositie bevindt, wordt harder gestraft en raakt na een straf vaak nóg verder achterop. Welke rol spelen afkomst, inkomen, gender en leeftijd in hoe we door het strafrechtsysteem worden behandeld? En waarom lukt het de betrokken Amsterdamse partijen maar niet om deze patronen van racisme en discriminatie te doorbreken? "
+         },
+         {
+          "type": "hardBreak"
+         },
+         {
+          "type": "hardBreak"
+         },
+         {
+          "type": "text",
+          "text": "Pas uitgevoerd onderzoek van de Universiteit van Amsterdam, de Vrije Universiteit en Gemeente Amsterdam toont aan dat ons strafrechtsysteem ongelijkheid in stand houdt of zelfs vergroot. "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        }
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Ongelijkheid in het strafrecht "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "De avond begint met een inleiding vanuit het onderzoek. Daarna volgen twee panels. In het begin van de avond wordt er gekeken naar de grootste uitdaging: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Wie criminaliseren we wel en wie niet? "
+         },
+         {
+          "type": "text",
+          "text": "Hoe ziet ongelijkheid in het strafrecht er uit en het feit dat het strafrecht ongelijkheid in stand houdt en vergoot. "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Daarna zoeken we naar wegen naar een rechtvaardiger strafrechtsysteem, met de buurtrechter als voorbeeld. Ook gaan we met de politiek in gesprek over wat er nodig is. We hebben het zowel over cijfers als over concrete voorbeelden."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        }
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Direct vanuit de dagelijkse rechtspraak"
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Aan het gesprek doen onder anderen mee: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Tofik Dibi"
+         },
+         {
+          "type": "text",
+          "text": " (Amsterdams fractievoorzitter van BIJ1), strafrechter "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Sannah Hübel"
+         },
+         {
+          "type": "text",
+          "text": " (gerechtshof Amsterdam), hoogleraar straf(proces)recht "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Marloes van Noorloos"
+         },
+         {
+          "type": "text",
+          "text": " (Universiteit Leiden), misdaadverslaggever "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Paul Vugts"
+         },
+         {
+          "type": "text",
+          "text": " (Het Parool), jurist en filosoof "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Jair Schalkwijk"
+         },
+         {
+          "type": "text",
+          "text": " (Controle Alt Delete), strafrechtadvocaat "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Krit Zeegers"
+         },
+         {
+          "type": "text",
+          "text": " (Prakken d’Oliveira Human Rights Lawyers) en wijkrechter "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Mirjam van der Kaay "
+         },
+         {
+          "type": "text",
+          "text": "(Rechtbank Amsterdam). Omdat er rechters en advocaten aan tafel zitten, praten zij direct vanuit de dagelijkse rechtspraak. "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "bold"
+           }
+          ],
+          "text": "Mirthe Frese "
+         },
+         {
+          "type": "text",
+          "text": "leidt de avond."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Kom langs, stel je vragen en denk samen met experts en betrokkenen na over hoe we dit systeem kunnen veranderen."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 11
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Sprekers",
+     "speakers": [
+      {
+       "name": "Tofik Dibi",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Tofik Dibi is politiek leider en Amsterdams fractievoorzitter van BIJ1. Eerder was hij Tweede Kamerlid voor GroenLinks van 2006 tot 2012. Hij werkte voor zijn politieke terugkeer als bestuursadviseur van de stadsdeelvoorzitter van Amsterdam Nieuw-West. Ook schrijft hij teksten voor film, tv en theater."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12082,
+        "path": null,
+        "name": "abb4910e-4c4c-47a0-b884-94489512af2d",
+        "extension": "jpeg",
+        "mime_type": "image/jpeg",
+        "full_path": "abb4910e-4c4c-47a0-b884-94489512af2d.jpeg",
+        "url": "https://rodehoed.nl/files/abb4910e-4c4c-47a0-b884-94489512af2d.jpeg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/abb4910e-4c4c-47a0-b884-94489512af2d.jpeg/"
+       }
+      },
+      {
+       "name": "Sannah Hübel",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Sannah Hübel is strafrechter bij het gerechtshof Amsterdam. Daarvoor is zij lange tijd werkzaam geweest als rechter (commissaris) bij de rechtbank Amsterdam. Ze is naast haar werk als rechter bestuurslid van Judges for Judges, docent Europees (straf)recht en heeft jarenlang deel uitgemaakt van de landelijke selectiecommissie rechters. Ze spreekt zich op LinkedIn geregeld uit tegen discriminatie en was initiatiefnemer van het manifest voor gelijke beloning van rechters."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12075,
+        "path": null,
+        "name": "Scherm-afbeelding 2026-11-10 om 12.00.09",
+        "extension": "png",
+        "mime_type": "image/png",
+        "full_path": "Scherm-afbeelding 2026-11-10 om 12.00.09.png",
+        "url": "https://rodehoed.nl/files/Scherm-afbeelding%202026-11-10%20om%2012.00.09.png/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Scherm-afbeelding%202026-11-10%20om%2012.00.09.png/"
+       }
+      },
+      {
+       "name": "Marloes van Noorloos",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Marloes van Noorloos is hoogleraar straf(proces)recht aan de Universiteit Leiden. Haar onderzoek richt zich onder meer op sociaaleconomische ongelijkheid in het strafrecht."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12076,
+        "path": null,
+        "name": "Profielfoto",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Profielfoto.jpg",
+        "url": "https://rodehoed.nl/files/Profielfoto.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 46,
+         "y": 41
+        },
+        "src": "https://rodehoed.nl/files/Profielfoto.jpg/"
+       }
+      },
+      {
+       "name": "Paul Vugts ",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Paul Vugts werkt 29 jaar voor Het Parool, voornamelijk als misdaadverslaggever. Hij schreef een reeks boeken, publiceert wekelijke een column en maakt met collega's Corrie Gerritsma en Wouter Laumans ook elke week de Parool Misdaadpodcast. Ze staan ook geregeld in het theater met een podiumversie daarvan. "
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12078,
+        "path": null,
+        "name": "PHOTO-2026-11-13-18-56-44",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "PHOTO-2026-11-13-18-56-44.jpg",
+        "url": "https://rodehoed.nl/files/PHOTO-2026-11-13-18-56-44.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 53,
+         "y": 35
+        },
+        "src": "https://rodehoed.nl/files/PHOTO-2026-11-13-18-56-44.jpg/"
+       }
+      },
+      {
+       "name": "Jair Schalkwijk",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Jair is een maatschappelijk kritische, betrokken en bevlogen man. Tijdens zijn opleiding rechtsgeleerdheid was hij o.a. coach voor jongere studenten. Na zijn studie was hij docent conflictbeslechting, docent beroepsethiek en richtte hij de Doetank op, een Amsterdams onderzoeks- en actiebureau, heropende hij voormalig buurthuis de Rietwijker en initieerde hij club Bret. Hij stond aan de wieg van Controle Alt Delete, de organisatie die zich inzet voor eerlijke en effectieve wetshandhaving. Als promovendus bij de afdeling criminologie van de rechtenfaculteit van de Erasmus Universiteit versterkt hij momenteel zijn onderzoeksvaardigheden. Inmiddels is Jair al jaren onderdeel van ons team en verrijkt hij ons met zijn politieke kennis en groene blik op het leven."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12079,
+        "path": null,
+        "name": "download",
+        "extension": "jpeg",
+        "mime_type": "image/jpeg",
+        "full_path": "download.jpeg",
+        "url": "https://rodehoed.nl/files/download.jpeg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/download.jpeg/"
+       }
+      },
+      {
+       "name": "Krit Zeegers",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Krit Zeegers werkt als strafrechtadvocaat bij Prakken d'Oliveira Human Rights Lawyers. Hij staat zowel verdachten, als slachtoffers van strafbare feiten bij. Zijn praktijk heeft een bijzondere focus op bijstand aan activisten en Krit heeft veel ervaring op het gebied van openbare orde-delicten, uitingsdelicten (belediging, bedreiging, opruiing), vrijheid van meningsuiting, (anti-)discriminatie en kraken (strafzaken en ontruimingen). Na zijn studies aan University College Utrecht en rechtsgeleerdheid aan de Universiteit van Amsterdam, promoveerde Krit in 2015 op zijn onderzoek naar de rechten van de verdachte in het internationaal strafproces. In 2015 is Krit beëdigd als advocaat. Na zijn advocaat-stage bij een groot en commercieel kantoor, werkte Krit van 2018 tot 2023 als strafrechtadvocaat bij Jebbink Soeteman Advocaten, waar hij zich onder meer specialiseerde in bijstand aan activisten. Sinds 2023 is Krit advocaat bij de strafrechtsectie van Prakken d’Oliveira Human Rights Lawyers."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12080,
+        "path": null,
+        "name": "krit_zeegers",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "krit_zeegers.jpg",
+        "url": "https://rodehoed.nl/files/krit_zeegers.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 50,
+         "y": 34
+        },
+        "src": "https://rodehoed.nl/files/krit_zeegers.jpg/"
+       }
+      },
+      {
+       "name": "Mirjam van der Kaay",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Mirjam van der Kaay werkt als wijkrechter en kantonrechter bij de Rechtbank Amsterdam. Als vaste buurtrechter in Amsterdam doet zij kleine strafzaken en zaken rond schulden en incasso."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12081,
+        "path": null,
+        "name": "Mirjam van der Kaay",
+        "extension": "png",
+        "mime_type": "image/png",
+        "full_path": "Mirjam van der Kaay.png",
+        "url": "https://rodehoed.nl/files/Mirjam%20van%20der%20Kaay.png/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 54,
+         "y": 21
+        },
+        "src": "https://rodehoed.nl/files/Mirjam%20van%20der%20Kaay.png/"
+       }
+      }
+     ],
+     "blockIndex": 12
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Moderator",
+     "speakers": [
+      {
+       "name": "Mirthe Frese",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Mirthe Frese (1984) is schrijver, programmamaker, presentator en performer. Ze begon haar carrière als programmamaker bij De Balie. Sindsdien werkt ze voor verschillende culturele instellingen, universiteiten en NGO’s . In september ’24 verscheen haar debuutroman Zonder slaap ben ik het noodlot voor."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12059,
+        "path": null,
+        "name": "Mirthe-4350-1-683x1024",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Mirthe-4350-1-683x1024.jpg",
+        "url": "https://rodehoed.nl/files/Mirthe-4350-1-683x1024.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": {
+         "x": 47,
+         "y": 15
+        },
+        "src": "https://rodehoed.nl/files/Mirthe-4350-1-683x1024.jpg/"
+       }
+      }
+     ],
+     "blockIndex": 13
+    }
+   }
+  ],
+  "published_at": "2026-10-26T12:43:00.000000Z",
+  "created_by": 7,
+  "updated_by": 7,
+  "start_date": "2026-11-30T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "Ongelijkheid in onze maatschappij is overal aanwezig. ",
+  "ticketmatic_id": 12475,
+  "price": 15,
+  "discounted_price": 13.5,
+  "status": {
+   "label": "Bestel kaarten",
+   "value": "open",
+   "color": "open",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-10-23T12:09:12.000000Z",
+  "updated_at": "2026-11-18T11:13:48.000000Z",
+  "sub_title": "Een avond over ongelijkheid, racisme en discriminatie in het strafrechtsysteem in Amsterdam",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": "De Ongelijkheidsmachine",
+   "title": null,
+   "description": "Een avond over ongelijkheid, racisme en discriminatie in het strafrechtsysteem in Amsterdam",
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": "Ongelijkheidsmachine",
+   "og_description": null,
+   "og_image": null,
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/de-ongelijkheidsmachine/",
+  "topics": [
+   {
+    "id": 14,
+    "name": "Wetenschap",
+    "slug": "wetenschap"
+   },
+   {
+    "id": 21,
+    "name": "Rechtspraak",
+    "slug": "rechtspraak"
+   },
+   {
+    "id": 34,
+    "name": "Debat",
+    "slug": "debat"
+   }
+  ],
+  "ticket_link": "https://apps.ticketmatic.com/widgets/amerpodia/addtickets?event=12475&extraproducts=&skinid=10007&returnurl=https%3A%2F%2Frodehoed.nl%2Fticketmatic%2Fhandle-return%2F%3Fevent_id%3D12475%26lang%3Ddefault&flow=basketwithcheckout&edit=yes&oncompletion=return&accesskey=10b85907d7b0014a63af0898&signature=00345672d1ebcc98abf997394ac77fc46ec8ca9e8f80ee1e1ef55e20ba67b3c7&l=NL"
+ },
+ {
+  "id": 338,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Bucketlist Filosofie: Germaine de Staël",
+  "slug": "bucketlist-filosofie-madame-de-stael",
+  "featured_image": {
+   "id": 12041,
+   "path": null,
+   "name": "RH - Bucketlist Filosofie - Madame van Stael - website 1920x1080 72ppi",
+   "extension": "png",
+   "mime_type": "image/png",
+   "full_path": "RH - Bucketlist Filosofie - Madame van Stael - website 1920x1080 72ppi.png",
+   "url": "https://rodehoed.nl/files/RH%20-%20Bucketlist%20Filosofie%20-%20Madame%20van%20Stael%20-%20website%201920x1080%2072ppi.png/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/RH%20-%20Bucketlist%20Filosofie%20-%20Madame%20van%20Stael%20-%20website%201920x1080%2072ppi.png/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Germaine de Staël (1766–1817), de Frans-Zwitserse essayist, romancier en filosofe bouwde naam en faam op met haar scherpe tong en vooruitstrevende gedachtegoed. Ze schreef, organiseerde salons en sprak zich vrij uit over persvrijheid en de positie van vrouwen. Napoleon vreesde haar invloed zozeer dat hij haar in 1803 uit Parijs verbande."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Wie was deze feminist avant la lettre? En wat kunnen we vandaag de dag nog leren van haar ideeën? Op 7 december duiken we samen met verschillende sprekers en vaste moderator Daan Roovers in het leven en werk van Germaine de Staël."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 14
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Sprekers",
+     "speakers": [
+      {
+       "name": "Eveline Groot",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Eveline Groot is als postdoctoraal onderzoeker en docent verbonden aan de Erasmus School of Philosophy in Rotterdam. Momenteel werkt zij aan een onderzoek over De Staël’s gematigd liberalisme in relatie tot democratische weerbaarheid en is zij als coördinator en docent betrokken bij de bacheloropleiding Filosofie en de masteropleiding Philosophy Now. In haar werk heeft Eveline specifiek aandacht voor de herwaardering van vrouwelijke denkers in de geschiedenis van de filosofie."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12042,
+        "path": null,
+        "name": "Eveline de Groot",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Eveline de Groot.jpg",
+        "url": "https://rodehoed.nl/files/Eveline%20de%20Groot.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Eveline%20de%20Groot.jpg/"
+       }
+      },
+      {
+       "name": "Margot Dijkgraaf",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Margot Dijkgraaf is literatuurcriticus (nrc), schrijver, curator, interviewer en ‘ambassadeur tussen Frankrijk en Nederland op het gebied van de letteren’, zoals een Franse ambassadeur ooit zei. Ze was directeur van het Centre Français du livre bij Maison Descartes en van Academisch-cultureel Centrum SPUI25.  Ze vervult advies-, jury- en bestuursfuncties in het culturele veld, is curator voor diverse internationale literaire evenementen, interviewt schrijvers in binnen- en buitenland en is de initiatiefnemer van de Europese Literatuurprijs. Van haar hand verschenen onder andere: Spiegelbeeld en schaduwspel. Het oeuvre van Hella S. Haasse (2014), Lezen in Frankrijk. Een literaire tour de France (2018), Zij namen het woord. Rebelse schrijfsters in de Franse letteren (2020), Met Parijse pen. Literaire omzwervingen (2020, met foto’s van Bart Koetsier) en In de voetsporen van mijn grootvader (2021). Eerder dit jaar publiceerde ze Germaine de Staël. Schrijver, balling en feminist avant la lettre. In 2021 kreeg ze de Gouden Ganzeveer."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12054,
+        "path": null,
+        "name": "margot",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "margot.jpg",
+        "url": "https://rodehoed.nl/files/margot.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/margot.jpg/"
+       }
+      },
+      {
+       "name": "Zahra Runderkamp",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Zahra Runderkamp (1991) is onderzoeker op het gebied van diversiteit en inclusie in de politiek. In 2025 promoveerde zij aan de Universiteit van Amsterdam op het proefschrift 'Personal institutions, political lives. Diversity without inclusion in Dutch politics' en won zij de Vrouw in de Media Award 2025. Eerder was zij voorzitter van het Europees Jeugdparlement. Voor Binnenlands Bestuur schrijft zij een maandelijkse column waarin zij met een wetenschappelijke blik vraagstukken rond diversiteit en inclusie in het Nederlandse openbaar bestuur bespreekt."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 12064,
+        "path": null,
+        "name": "Zahra Runderkamp",
+        "extension": "jpeg",
+        "mime_type": "image/jpeg",
+        "full_path": "Zahra Runderkamp.jpeg",
+        "url": "https://rodehoed.nl/files/Zahra%20Runderkamp.jpeg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Zahra%20Runderkamp.jpeg/"
+       }
+      }
+     ],
+     "blockIndex": 15
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": "Moderator",
+     "speakers": [
+      {
+       "name": "Daan Roovers",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Voormalig ‘denker des vaderlands’ "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "bold"
+             }
+            ],
+            "text": "Daan Roovers"
+           },
+           {
+            "type": "text",
+            "text": " is docent publieksfilosofie (Universiteit van Amsterdam, Erasmus Universiteit), programmamaker (Rode Hoed, omroep Human) en schrijver van o.a. "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Wij zijn de politiek"
+           },
+           {
+            "type": "text",
+            "text": " (2019), "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Mensen maken"
+           },
+           {
+            "type": "text",
+            "text": " (2017) en "
+           },
+           {
+            "type": "text",
+            "marks": [
+             {
+              "type": "italic"
+             }
+            ],
+            "text": "Een kleine geschiedenis van de filosofie"
+           },
+           {
+            "type": "text",
+            "text": ". Ze is lid van de ‘denktank Nederland 2040’. Sinds 2023 is ze lid van de Eerste Kamer namens GroenLinks-PvdA. Daarnaast doet ze academisch onderzoek naar de ontwikkeling van het begrip publieke opinie."
+           }
+          ]
+         }
+        ]
+       },
+       "image": {
+        "id": 254,
+        "path": null,
+        "name": "roovers-daan-ruud-pos-9848-e1572274383340",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "roovers-daan-ruud-pos-9848-e1572274383340.jpg",
+        "url": "https://rodehoed.nl/files/roovers-daan-ruud-pos-9848-e1572274383340.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/roovers-daan-ruud-pos-9848-e1572274383340.jpg/"
+       }
+      }
+     ],
+     "blockIndex": 16
+    }
+   }
+  ],
+  "published_at": "2026-10-23T13:34:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2026-12-07T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "In de serie Bucketlist Filosofie staat telkens een klassieker uit de filosofie centraal. Op maandag 7 december duiken we in het leven en werk van Frans-Zwitserse Germaine de Staël. \n",
+  "ticketmatic_id": 12458,
+  "price": 15,
+  "discounted_price": 13.5,
+  "status": {
+   "label": "Bestel kaarten",
+   "value": "open",
+   "color": "open",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-10-07T08:45:29.000000Z",
+  "updated_at": "2026-10-28T11:38:02.000000Z",
+  "sub_title": "Over vrijheid, feminisme en de vrouw die Napoleon vreesde",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": "Bucketlist Filosofie: Madame de Staël",
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/bucketlist-filosofie-madame-de-stael/",
+  "topics": [
+   {
+    "id": 1,
+    "name": "Filosofie",
+    "slug": "filosofie"
+   },
+   {
+    "id": 9,
+    "name": "Maatschappij",
+    "slug": "maatschappelijk"
+   },
+   {
+    "id": 17,
+    "name": "Geschiedenis",
+    "slug": "geschiedenis"
+   }
+  ],
+  "ticket_link": "https://apps.ticketmatic.com/widgets/amerpodia/addtickets?event=12458&extraproducts=&skinid=10007&returnurl=https%3A%2F%2Frodehoed.nl%2Fticketmatic%2Fhandle-return%2F%3Fevent_id%3D12458%26lang%3Ddefault&flow=basketwithcheckout&edit=yes&oncompletion=return&accesskey=10b85907d7b0014a63af0898&signature=3cb2cebc5c409fc71d3ffa83955135808e9c20d5ad815d9da622b80c3a7bba58&l=NL"
+ },
+ {
+  "id": 334,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Jingle Bells",
+  "slug": "jingle-bells-middag",
+  "featured_image": {
+   "id": 12036,
+   "path": null,
+   "name": "RH - Jingle Bells 1920x1080 (1)",
+   "extension": "png",
+   "mime_type": "image/png",
+   "full_path": "RH - Jingle Bells 1920x1080 (1).png",
+   "url": "https://rodehoed.nl/files/RH%20-%20Jingle%20Bells%201920x1080%20%281%29.png/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/RH%20-%20Jingle%20Bells%201920x1080%20%281%29.png/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Het feestelijke programma bevat bekende en onbekende Christmas Carols zoals "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "The Shepherds' Carol"
+         },
+         {
+          "type": "text",
+          "text": ", "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "O Little Town of Bethlehe"
+         },
+         {
+          "type": "text",
+          "text": "m en"
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": " I Saw Three Ships Come Sailing In"
+         },
+         {
+          "type": "text",
+          "text": ", maar ook de indrukwekkende "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Fantasia on Christmas Carols"
+         },
+         {
+          "type": "text",
+          "text": " van Vaughan Williams, een prachtige jazzy versie van "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Silent Night"
+         },
+         {
+          "type": "text",
+          "text": ", een uitgelaten "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Sleigh Ride"
+         },
+         {
+          "type": "text",
+          "text": " en natuurlijk: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Jingle Bells"
+         },
+         {
+          "type": "text",
+          "text": "! En of dat nog niet kerstsfeer genoeg is, mag ons publiek traditioneel meezingen met klassiekers als "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "The First Nowell "
+         },
+         {
+          "type": "text",
+          "text": "en "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "God Rest Ye Merry Gentlemen"
+         },
+         {
+          "type": "text",
+          "text": "."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Bariton Sven Weyens, en de zangers en muzikanten van The Carol Company & Orchestra onder leiding van Stef Collignon heten u van harte welkom bij: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Jingle Bells - a Romantic Christmas Carol Concert"
+         },
+         {
+          "type": "text",
+          "text": ". "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "En om de avond helemaal feestelijk af te sluiten, is na afloop ook een heerlijk glas Glühwein inbegrepen bij uw ticket!"
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 17
+    }
+   },
+   {
+    "type": "Image",
+    "data": {
+     "image": {
+      "id": 12034,
+      "path": null,
+      "name": "d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e",
+      "extension": "jpeg",
+      "mime_type": "image/jpeg",
+      "full_path": "d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg",
+      "url": "https://rodehoed.nl/files/d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg/",
+      "title": null,
+      "description": null,
+      "alt": null,
+      "caption": null,
+      "focal_point": null,
+      "src": "https://rodehoed.nl/files/d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg/"
+     },
+     "caption": null,
+     "blockIndex": 18
+    }
+   }
+  ],
+  "published_at": "2026-09-30T09:53:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2026-12-19T00:00:00.000000Z",
+  "start_time": "16:30",
+  "end_date": null,
+  "hero": null,
+  "intro": "Er is geen betere manier om de kerstdagen te beginnen dan met dit sfeervolle, hartverwarmend vrolijke kerstconcert door The Carol Company & Orchestra!",
+  "ticketmatic_id": 12456,
+  "price": 32.5,
+  "discounted_price": 19.5,
+  "status": {
+   "label": "Bestel kaarten",
+   "value": "open",
+   "color": "open",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-09-30T09:52:39.000000Z",
+  "updated_at": "2026-10-01T08:06:35.000000Z",
+  "sub_title": "A Romantic Christmas Concert ",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": "Jingle Bells",
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/jingle-bells-middag/",
+  "topics": [
+   {
+    "id": 3,
+    "name": "Zingen",
+    "slug": "zingen"
+   },
+   {
+    "id": 41,
+    "name": "Muziek",
+    "slug": "muziek"
+   }
+  ],
+  "ticket_link": "https://apps.ticketmatic.com/widgets/amerpodia/addtickets?event=12456&extraproducts=&skinid=10007&returnurl=https%3A%2F%2Frodehoed.nl%2Fticketmatic%2Fhandle-return%2F%3Fevent_id%3D12456%26lang%3Ddefault&flow=basketwithcheckout&edit=yes&oncompletion=return&accesskey=10b85907d7b0014a63af0898&signature=0d8fb1430592b2be8bad3d1727820721bd61aa84466fb941f319c6012a3787ec&l=NL"
+ },
+ {
+  "id": 335,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Jingle Bells",
+  "slug": "jingle-bells-avond",
+  "featured_image": {
+   "id": 12036,
+   "path": null,
+   "name": "RH - Jingle Bells 1920x1080 (1)",
+   "extension": "png",
+   "mime_type": "image/png",
+   "full_path": "RH - Jingle Bells 1920x1080 (1).png",
+   "url": "https://rodehoed.nl/files/RH%20-%20Jingle%20Bells%201920x1080%20%281%29.png/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/RH%20-%20Jingle%20Bells%201920x1080%20%281%29.png/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Het feestelijke programma bevat bekende en onbekende Christmas Carols zoals "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "The Shepherds' Carol"
+         },
+         {
+          "type": "text",
+          "text": ", "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "O Little Town of Bethlehe"
+         },
+         {
+          "type": "text",
+          "text": "m en"
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": " I Saw Three Ships Come Sailing In"
+         },
+         {
+          "type": "text",
+          "text": ", maar ook de indrukwekkende "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Fantasia on Christmas Carols"
+         },
+         {
+          "type": "text",
+          "text": " van Vaughan Williams, een prachtige jazzy versie van "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Silent Night"
+         },
+         {
+          "type": "text",
+          "text": ", een uitgelaten "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Sleigh Ride"
+         },
+         {
+          "type": "text",
+          "text": " en natuurlijk: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Jingle Bells"
+         },
+         {
+          "type": "text",
+          "text": "! En of dat nog niet kerstsfeer genoeg is, mag ons publiek traditioneel meezingen met klassiekers als "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "The First Nowell "
+         },
+         {
+          "type": "text",
+          "text": "en "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "God Rest Ye Merry Gentlemen"
+         },
+         {
+          "type": "text",
+          "text": "."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Bariton Sven Weyens, en de zangers en muzikanten van The Carol Company & Orchestra onder leiding van Stef Collignon heten u van harte welkom bij: "
+         },
+         {
+          "type": "text",
+          "marks": [
+           {
+            "type": "italic"
+           }
+          ],
+          "text": "Jingle Bells - a Romantic Christmas Carol Concert"
+         },
+         {
+          "type": "text",
+          "text": ". "
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "En om de avond helemaal feestelijk af te sluiten, is na afloop ook een heerlijk glas Glühwein inbegrepen bij uw ticket!"
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 19
+    }
+   },
+   {
+    "type": "Image",
+    "data": {
+     "image": {
+      "id": 12034,
+      "path": null,
+      "name": "d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e",
+      "extension": "jpeg",
+      "mime_type": "image/jpeg",
+      "full_path": "d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg",
+      "url": "https://rodehoed.nl/files/d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg/",
+      "title": null,
+      "description": null,
+      "alt": null,
+      "caption": null,
+      "focal_point": null,
+      "src": "https://rodehoed.nl/files/d1b1b6ad-cb69-4f5b-8297-7094e6a9e23e.jpeg/"
+     },
+     "caption": null,
+     "blockIndex": 20
+    }
+   }
+  ],
+  "published_at": "2026-09-30T10:01:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2026-12-19T00:00:00.000000Z",
+  "start_time": "20:30",
+  "end_date": null,
+  "hero": null,
+  "intro": "Er is geen betere manier om de kerstdagen te beginnen dan met dit sfeervolle, hartverwarmend vrolijke kerstconcert door The Carol Company & Orchestra!",
+  "ticketmatic_id": 12455,
+  "price": 32.5,
+  "discounted_price": 19.5,
+  "status": {
+   "label": "Bestel kaarten",
+   "value": "open",
+   "color": "open",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-09-30T10:01:18.000000Z",
+  "updated_at": "2026-10-01T08:05:22.000000Z",
+  "sub_title": "A Romantic Christmas Concert ",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": "Jingle Bells",
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/jingle-bells-avond/",
+  "topics": [
+   {
+    "id": 3,
+    "name": "Zingen",
+    "slug": "zingen"
+   },
+   {
+    "id": 41,
+    "name": "Muziek",
+    "slug": "muziek"
+   }
+  ],
+  "ticket_link": "https://apps.ticketmatic.com/widgets/amerpodia/addtickets?event=12455&extraproducts=&skinid=10007&returnurl=https%3A%2F%2Frodehoed.nl%2Fticketmatic%2Fhandle-return%2F%3Fevent_id%3D12455%26lang%3Ddefault&flow=basketwithcheckout&edit=yes&oncompletion=return&accesskey=10b85907d7b0014a63af0898&signature=16013fbb5b5c1665a8989663e1b9f4aee4e87a1dc458902d5d6e15d33827ce5f&l=NL"
+ },
+ {
+  "id": 330,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Dienst zonder God",
+  "slug": "dienst-zonder-god-winter",
+  "featured_image": {
+   "id": 9,
+   "path": null,
+   "name": "programmabeeld-begin-van-de-winter-2",
+   "extension": "jpeg",
+   "mime_type": "image/jpeg",
+   "full_path": "programmabeeld-begin-van-de-winter-2.jpeg",
+   "url": "https://rodehoed.nl/files/programmabeeld-begin-van-de-winter-2.jpeg/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/programmabeeld-begin-van-de-winter-2.jpeg/"
+  },
+  "content": [
+   {
+    "type": "BlockQuote",
+    "data": {
+     "color": "white",
+     "title": "Ricky Koole over wat haar tot deze diensten bewoog:",
+     "text": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Ik heb regelmatig kerkdiensten bezocht waar een mooi koor is en sprekers die je aan het denken zetten. Maar die gaan uiteindelijk altijd over God, over het geloof of over de oplossing vinden in het hiernamaals. Aangezien ik niet geloof – of als ik geloof dan ook meteen in alles – vind ik het moeilijk als er een God wordt geplaatst boven alles. Ik voel me dan ook niet geroepen om mee te zingen. Ik stel nu diensten samen waarbij je als niet-gelovige naar hartenlust kunt meezingen. Ook gelovigen kunnen dat, volgens mij, prima."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 21
+    }
+   },
+   {
+    "type": "Speakers",
+    "data": {
+     "title": null,
+     "speakers": [
+      {
+       "name": "Sarah Sluimer",
+       "description": {
+        "type": "doc",
+        "content": [
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Schrijver en theatermaker Sarah Sluimer studeerde Theaterwetenschap en Literatuurwetenschap aan de Universiteit van Amsterdam en Performance Studies aan de Universiteit Utrecht. In 2018 debuteerde ze met haar roman Keizer, gevolgd door De Stilte (2020), en sinds januari 2021 schrijft Sluimer een vaste zaterdagcolumn in NRC Handelsblad. Eerder werkte ze onder meer bij ITA en De Balie en publiceerde ze in Opzij, de Volkskrant, Vrij Nederland en De Correspondent. Naast haar literaire werk schrijft ze voor theater en muziektheater. Voor DNO schreef ze het libretto van I have missed you forever (OFF 2022.)"
+           }
+          ]
+         },
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          },
+          "content": [
+           {
+            "type": "text",
+            "text": "Ze schreef de monoloog En ze maakte een kind voor Orkater (2024), onlangs genomineerd voor de Vertaalprijs, en maakte ze een nieuwe bewerking van Hedda Gabler bij De Toneelschuur (2026). In 2026 ging haar tweede libretto bij DNO in premiere: Requiem for Mariza. Sluimer bereidt momenteel haar regiedebuut bij Orkater voor. Begin volgend jaar gaat haar bewerking van NORA in première. Ook werkt ze aan een stuk voor Toneelgroep Oostpool. "
+           }
+          ]
+         },
+         {
+          "type": "paragraph",
+          "attrs": {
+           "textAlign": "start"
+          }
+         }
+        ]
+       },
+       "image": {
+        "id": 12077,
+        "path": null,
+        "name": "Dienst zonder god",
+        "extension": "jpg",
+        "mime_type": "image/jpeg",
+        "full_path": "Dienst zonder god.jpg",
+        "url": "https://rodehoed.nl/files/Dienst%20zonder%20god.jpg/",
+        "title": null,
+        "description": null,
+        "alt": null,
+        "caption": null,
+        "focal_point": null,
+        "src": "https://rodehoed.nl/files/Dienst%20zonder%20god.jpg/"
+       }
+      }
+     ],
+     "blockIndex": 22
+    }
+   }
+  ],
+  "published_at": "2026-09-29T09:56:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2026-12-21T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "Vier keer per jaar, met de wisseling van de seizoenen, organiseert de Rode Hoed in samenwerking met zangeres en theatermaakster Ricky Koole een jonge, eigenzinnige dienst. In de drukte van de stad sta je anderhalf uur stil bij wat je belangrijk vindt.  De preek wordt deze keer gehouden door schrijver en theatermaker Sarah Sluimer. Het koor zingt pop, soul en traditionals en er is muziek van topmuzikanten. Ga zitten en laat je raken!",
+  "ticketmatic_id": 12479,
+  "price": 17.5,
+  "discounted_price": 15,
+  "status": {
+   "label": "Uitverkocht",
+   "value": "sold_out",
+   "color": "closed",
+   "date": null
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-09-29T09:52:03.000000Z",
+  "updated_at": "2026-11-19T13:41:24.000000Z",
+  "sub_title": "Begin van de winter",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": "Dienst zonder God",
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": "Dienst zonder God",
+   "og_description": null,
+   "og_image": "social-images/01M3P985Z5P19X4QDCVTWBWKHX.jpg",
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/dienst-zonder-god-winter/",
+  "topics": [
+   {
+    "id": 1,
+    "name": "Filosofie",
+    "slug": "filosofie"
+   }
+  ],
+  "ticket_link": null
+ },
+ {
+  "id": 343,
+  "old_id": null,
+  "site": "default",
+  "origin_id": null,
+  "title": "Concours de la Chanson 2027: De finale",
+  "slug": "concours-de-la-chanson-2027",
+  "featured_image": {
+   "id": 12083,
+   "path": null,
+   "name": "Foto concours",
+   "extension": "jpg",
+   "mime_type": "image/jpeg",
+   "full_path": "Foto concours.jpg",
+   "url": "https://rodehoed.nl/files/Foto%20concours.jpg/",
+   "title": null,
+   "description": null,
+   "alt": null,
+   "caption": null,
+   "focal_point": null,
+   "src": "https://rodehoed.nl/files/Foto%20concours.jpg/"
+  },
+  "content": [
+   {
+    "type": "Content",
+    "data": {
+     "content": {
+      "type": "doc",
+      "content": [
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Het Concours geeft al veertig jaar een podium aan Franstalig zangtalent en brengt klassieke en nieuwe chansons onder de aandacht in Nederland. Voor de finalisten ligt er dan al een bijzonder traject achter, met een openbare Voorronde en een Masterclass onder leiding van masters uit het vak. Op de Finale laten ze horen wat ze in huis hebben, van een tijdloze klassieker tot nieuw Franstalig werk."
+         }
+        ]
+       },
+       {
+        "type": "paragraph",
+        "attrs": {
+         "textAlign": "start"
+        },
+        "content": [
+         {
+          "type": "text",
+          "text": "Een avond vol passie, Franse muziek en veel plezier. Zing mee in je hoofd, stem op je favoriet en beleef hoe een nieuwe generatie het chanson tot leven brengt."
+         }
+        ]
+       }
+      ]
+     },
+     "blockIndex": 23
+    }
+   }
+  ],
+  "published_at": "2026-11-19T14:37:00.000000Z",
+  "created_by": 4,
+  "updated_by": 4,
+  "start_date": "2027-03-20T00:00:00.000000Z",
+  "start_time": "20:00",
+  "end_date": null,
+  "hero": null,
+  "intro": "Tijdens de Finale van het Concours de la Chanson in de Rode Hoed strijden de beste Franstalige zangtalenten uit Nederland en België om de Grand Prix van de jury en de Prix du Public, die door jullie, het publiek, wordt bepaald.",
+  "ticketmatic_id": null,
+  "price": null,
+  "discounted_price": null,
+  "status": {
+   "label": "Vrije toegang",
+   "value": "open",
+   "color": "open"
+  },
+  "online_event": null,
+  "tickets_status": null,
+  "created_at": "2026-11-19T14:37:19.000000Z",
+  "updated_at": "2026-11-19T14:38:27.000000Z",
+  "sub_title": "Kaartverkoop start op 23 januari 2027",
+  "ticketmatic_related": [],
+  "seo": {
+   "focus_keyphrase": null,
+   "title": null,
+   "description": null,
+   "noindex": false,
+   "nofollow": false,
+   "canonical": null,
+   "og_title": null,
+   "og_description": null,
+   "og_image": null,
+   "exclude_from_sitemap": false,
+   "change_frequency": null,
+   "priority": null
+  },
+  "detail_url": "https://rodehoed.nl/programma/concours-de-la-chanson-2027/",
+  "topics": [
+   {
+    "id": 3,
+    "name": "Zingen",
+    "slug": "zingen"
+   },
+   {
+    "id": 7,
+    "name": "Cultuur",
+    "slug": "cultuur"
+   }
+  ],
+  "ticket_link": null
+ }
+]

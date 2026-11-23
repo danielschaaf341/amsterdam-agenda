@@ -1,0 +1,2164 @@
+{
+ "a-talent-for-murder": {
+  "post_id": 202258,
+  "title": "A Talent For Murder",
+  "subtitle": "",
+  "starring_short": "Helen Mirren, Alden Ehrenreich, Olivia Cooke, Juliet Stevenson",
+  "synopsis": "<p>Een jonge literaire agent reist naar Zwitserland om wereldberoemde The Talented Mr Ripley-schrijver Patricia Highsmith (Helen Mirren) over te halen om nog boek in de Ripley-thrillerreeks te schrijven. Zijn pogingen nemen echter al snel een onheilspellende wending, als blijkt dat de eigenzinnige schrijver haar eigen psychologische schaakspel speelt.</p>\n<p>Deze smeuïge kammerspiel-thriller is de eerste speelfilm van Nederlandse fotograaf en regisseur Anton Corbijn (Control, The American, A Most Wanted Man) in meer dan tien jaar. De film is gebaseerd op het toneelstuk ‘Switzerland’ uit 2014 en de hoofdrollen worden vervuld door Helen Mirren, Alden Ehrenreich, Olivia Cooke en Juliet Stevenson. De film gaat in wereldpremière tijdens het Toronto International Film Festival.</p>\n",
+  "storyline": "<p>Een jonge literaire agent reist naar Zwitserland om The Talented Mr Ripley-schrijver Patricia Highsmith (Helen Mirren) over te halen om nog boek in de Ripley-thrillerreeks te schrijven. Zij speelt echter haar eigen psychologische schaakspel.</p>\n",
+  "country": "VS, Verenigd Koninkrijk, Zwitserland, Italië",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/A-Talent-For-Murder_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Anton Corbijn"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "106"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -4,
+  "review": false,
+  "permalink": "https://themovies.nl/films/a-talent-for-murder/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261224",
+   "last_week": ""
+  }
+ },
+ "amarga-navidad": {
+  "post_id": 200858,
+  "title": "Amarga Navidad",
+  "subtitle": "",
+  "starring_short": "Bárbara Lennie, Leonardo Sbaraglia, Anita Sánchez-Gijón, Milena Smit",
+  "synopsis": "<p>De nieuwe film van Spaanse meester Pedro Almodóvar draait om Elsa (Bárbara Lennie), een reclameregisseur die haar moeder verliest. Ze probeert haar verdriet te verdringen door zich volledig op werk te storten, totdat migraines haar dwingen te stoppen met werken. Ze vertrekt naar Lanzarote met haar vriendin Patricia, terwijl haar vriend Bonifacio in Madrid achterblijft. Parallel daaraan volgen we filmmaker Raúl (Leonardo Sbaraglia), een scenarioschrijver die het verhaal van Elsa op meta-niveau op papier zet. Daarmee speelt de film met het idee van autofictie, een mix van autobiografie en fictie, en onderzoekt hij hoe leven en kunst in elkaar overlopen.</p>\n<p>Amarga Navidad is een intieme persoonlijke Spaanse tragikomedie, geschreven en geregisseerd door Pedro Almodóvar, de veelgeprezen filmmaker achter titels als Madres paralelas, Dolor y Gloria en The Room Next Door.</p>\n",
+  "storyline": "<p>De nieuwe film van Spaanse meester Pedro Almodóvar draait om Elsa (Bárbara Lennie), een reclameregisseur die haar moeder verliest. Parallel daaraan volgen we filmmaker Raúl (Leonardo Sbaraglia), een scenarioschrijver die het verhaal van Elsa op meta-niveau op papier zet.</p>\n",
+  "country": "Spanje",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/08/Amarga-Navidad_ps_1_jpg_sd-low_Photo-by-Iglesias-Ma-s-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik",
+   "kijkwijzer-seks": "Seks"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Spaans"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Pedro Almodóvar"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "112"
+  },
+  "tags": {
+   "pedro-almodovar": "Pedro Almodóvar"
+  },
+  "week": 3,
+  "review": false,
+  "permalink": "https://themovies.nl/films/amarga-navidad/",
+  "provider_multiple_id": 3193,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261105",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211523,
+    "provider_id": "208149",
+    "program_start": "202611231400",
+    "program_end": "202611231607",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "112"
+   },
+   {
+    "child_id": 211524,
+    "provider_id": "208150",
+    "program_start": "202611241400",
+    "program_end": "202611241607",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "112"
+   },
+   {
+    "child_id": 211525,
+    "provider_id": "208151",
+    "program_start": "202611251400",
+    "program_end": "202611251607",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "112"
+   }
+  ]
+ },
+ "amelie": {
+  "post_id": 10360,
+  "title": "Amélie",
+  "subtitle": "Le fabuleux destin d'Amélie Poulain - 25th Anniversary",
+  "starring_short": "Audrey Tautou, Matthieu Kassovitz, Isabelle Nanty, Yolande Moreau, Dominique Pinon, Jamel Debbouze",
+  "synopsis": "<p>Amélie Poulain werkt als serveerster in een café in de Parijse wijk Montmartre en observeert graag mensen terwijl ze haar fantasie de vrije loop laat. Maar dan ontdekt ze haar ultieme levensdoel: andermans problemen oplossen. Zo helpt ze de conciërge van haar appartementencomplex, die de hele dag port drinkt terwijl ze tegen haar opgezette hond praat. Maar ook Georgette, haar hypochondere collega. En ‘de man van glas’, haar buurman die aan huis gekluisterd zijn leven leidt via de Renoir-reproducties die hij schildert. Amélies missie wordt onverwachts verstoord wanneer ze de zonderlinge jongen Nino Quincampoix ontmoet. Twintig jaar later zal Amélie je opnieuw betoveren.</p>\n",
+  "storyline": "<p>Amélie Poulain werkt als serveerster in een café in de Parijse wijk Montmartre en observeert graag mensen terwijl ze haar fantasie de vrije loop laat. Maar dan ontdekt ze haar ultieme levensdoel: andermans problemen oplossen.</p>\n",
+  "country": "Frankrijk",
+  "year": "2001",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2021/10/Am-lie-25th-anniversary_ps_1_jpg_sd-high-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-seks": "Seks"
+  },
+  "show_in_nc": false,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Frans"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Jean-Pierre Jeunet"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "120"
+  },
+  "tags": {
+   "klassieker": "Klassieker",
+   "expected": "Verwacht"
+  },
+  "week": -1,
+  "review": false,
+  "permalink": "https://themovies.nl/films/amelie/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261203",
+   "last_week": ""
+  }
+ },
+ "andiamo-a-bere-lultima": {
+  "post_id": 190040,
+  "title": "Andiamo a bere l&#8217;ultima",
+  "subtitle": "",
+  "starring_short": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla",
+  "synopsis": "<p>Het ziet er niet best uit voor vijftigers Carlobianchi en Doriano. Ze zijn bijna blut. Sinds de financiële crisis van 2008 is het de kleine oplichters niet meer gelukt een lucratieve zwendel op te zetten. Hun laatste hoop is de terugkeer van hun kameraad Genio die vóór zijn vlucht naar Argentinië de buit van een klus heeft verborgen. Tijdens een alcoholische tocht door het Venetiaanse platteland ontmoeten Carlobianchi en Doriano de verlegen architectuurstudent Giulio, die ze op sleeptouw nemen en met hun ongevraagde adviezen een frisse kijk op het leven en de liefde geven.</p>\n<p>De tragikomische roadmovie Andiamo a bere l’ultima van Francesco Sossai ging vorig jaar in Cannes in première, werd vervolgens geselecteerd voor de festivals van onder meer Toronto, New York, Thessaloniki en Göteborg en won maar liefst acht David di Donatello Awards (de Italiaanse filmprijzen), waaronder voor Beste Film, Beste Regisseur en Beste Mannelijke Hoofdrol.</p>\n",
+  "storyline": "<p>Het ziet er niet best uit voor vijftigers Carlobianchi en Doriano. Ze zijn bijna blut. Sinds de financiële crisis van 2008 is het de kleine oplichters niet meer gelukt een lucratieve zwendel op te zetten.</p>\n",
+  "country": "Italië",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/06/Andiamo-a-bere-l-ultima_ps_1_jpg_sd-high-400x600.jpg",
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Italiaans"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Francesco Sossai"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "100"
+  },
+  "tags": {
+   "last_week": "Laatste kans"
+  },
+  "week": 4,
+  "review": {
+   "text": "\"Uiteindelijk wordt alles duidelijk in deze vrolijke en treurige dwaaltocht\"",
+   "author": "De Volkskrant",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/andiamo-a-bere-lultima/",
+  "provider_multiple_id": 3005,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261029",
+   "last_week": "20261119"
+  },
+  "times": [
+   {
+    "child_id": 211488,
+    "provider_id": "208142",
+    "program_start": "202611231145",
+    "program_end": "202611231340",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "100"
+   },
+   {
+    "child_id": 211489,
+    "provider_id": "208143",
+    "program_start": "202611241145",
+    "program_end": "202611241340",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "100"
+   },
+   {
+    "child_id": 211490,
+    "provider_id": "208144",
+    "program_start": "202611251145",
+    "program_end": "202611251340",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "100"
+   }
+  ]
+ },
+ "behemoth": {
+  "post_id": 209584,
+  "title": "Behemoth!",
+  "subtitle": "",
+  "starring_short": "Pedro Pascal, Olivia Wilde, Matthew Lillard, Will Arnett",
+  "synopsis": "<p>Een getalenteerde cellist (Pedro Pascal) keert na twintig jaar reizen terug naar Los Angeles. Muziek vormt al zijn hele leven de rode draad, maar brengt hem nu op een avontuur dat zijn leven voorgoed zal veranderen.</p>\n",
+  "storyline": "<p>Een getalenteerde cellist (Pedro Pascal) keert na twintig jaar reizen terug naar Los Angeles. Muziek vormt al zijn hele leven de rode draad, maar brengt hem nu op een avontuur dat zijn leven voorgoed zal veranderen.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/Behemoth-_ps_1_sd-high-scaled-400x600.png",
+  "classification": {
+   "kijkwijzer-9": "Kijkwijzer 9",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Tony Gilroy"
+  },
+  "duration": "",
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -1,
+  "review": false,
+  "permalink": "https://themovies.nl/films/behemoth/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261203",
+   "last_week": ""
+  }
+ },
+ "club-kid": {
+  "post_id": 202996,
+  "title": "Club Kid",
+  "subtitle": "",
+  "starring_short": "Jordan Firstman, Colleen Camp, Kirby Howell-Baptiste, Cara Delevingne",
+  "synopsis": "<p>Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij niets wist, plotseling in zijn leven verschijnt.</p>\n",
+  "storyline": "<p>Het wilde leven van een clubpromotor komt op zijn kop te staan wanneer zijn zoon, van wiens bestaan hij niets wist, plotseling in zijn leven verschijnt.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/poster-clubkid-400x600.jpeg",
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Jordan Firstman"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "126"
+  },
+  "tags": [],
+  "week": 2,
+  "review": {
+   "text": "\"Een aangrijpende vertelling over het overwinnen van destructieve zelfhaat\"",
+   "author": "NRC",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/club-kid/",
+  "provider_multiple_id": 3209,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261112",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211450,
+    "provider_id": "208075",
+    "program_start": "202611231130",
+    "program_end": "202611231347",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211455,
+    "provider_id": "208086",
+    "program_start": "202611231615",
+    "program_end": "202611231832",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211469,
+    "provider_id": "208174",
+    "program_start": "202611231845",
+    "program_end": "202611232102",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211462,
+    "provider_id": "208100",
+    "program_start": "202611232045",
+    "program_end": "202611232302",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211451,
+    "provider_id": "208076",
+    "program_start": "202611241130",
+    "program_end": "202611241347",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211457,
+    "provider_id": "208088",
+    "program_start": "202611241615",
+    "program_end": "202611241832",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211463,
+    "provider_id": "208101",
+    "program_start": "202611242045",
+    "program_end": "202611242302",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211458,
+    "provider_id": "208089",
+    "program_start": "202611251615",
+    "program_end": "202611251832",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   },
+   {
+    "child_id": 211464,
+    "provider_id": "208102",
+    "program_start": "202611252045",
+    "program_end": "202611252302",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "122"
+   }
+  ]
+ },
+ "deliverance": {
+  "post_id": 54679,
+  "title": "Deliverance",
+  "subtitle": "",
+  "starring_short": "Jon Voight, Burt Reynolds, Ned Beatty, Ronny Cox",
+  "synopsis": "<p>Intent on seeing the Cahulawassee River before it&#8217;s turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they&#8217;ll never forget into the dangerous American back-country.</p>\n",
+  "storyline": "<p>Intent on seeing the Cahulawassee River before it&#8217;s turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they&#8217;ll never forget into the dangerous American back-country.</p>\n",
+  "country": "VS",
+  "year": "1972",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2023/03/deliverance-poster-400x600.jpeg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Geen"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "John Boorman"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "110"
+  },
+  "tags": {
+   "klassieker": "Klassieker",
+   "monumental": "Monumental",
+   "expected": "Verwacht"
+  },
+  "week": -1,
+  "review": false,
+  "permalink": "https://themovies.nl/films/deliverance/",
+  "provider_multiple_id": 1404,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261206",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 198995,
+    "provider_id": "198194",
+    "program_start": "202612062100",
+    "program_end": "202612062305",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "No subs"
+    ],
+    "duration": "110"
+   },
+   {
+    "child_id": 198996,
+    "provider_id": "198196",
+    "program_start": "202612202100",
+    "program_end": "202612202305",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "No subs"
+    ],
+    "duration": "110"
+   }
+  ]
+ },
+ "donnie-darko": {
+  "post_id": 202285,
+  "title": "Donnie Darko",
+  "subtitle": "25th Anniversary",
+  "starring_short": "Jake Gyllenhaal, Jena Malone, Maggie Gyllenhaal, Drew Barrymore,",
+  "synopsis": "<p>Donnie Darko is een van die zeldzame cultfilms die een generatie niet alleen beschouwde, maar waarin ze zichzelf herkende. Door de jaren tachtig niet nostalgisch maar ongemakkelijk te tonen (een wereld van keurige buitenwijken, conservatieve moraal, beklemmende schooldiscipline en volwassenen die doen alsof alles onder controle is) werd Richard Kelly’s debuut een bepalende film voor de vroege jaren nul. Nadat Donnie op onverklaarbare wijze aan de dood ontsnapt wanneer een vliegtuigmotor zijn slaapkamer verplettert, raakt hij steeds verder verstrikt in mysterieuze visioenen en de hypocrisie van de volwassen wereld om hem heen. Tussen coming-of-age-drama, nachtmerrie en apocalyptische satire blijft Donnie Darko ook vijfentwintig jaar later een definiërende klassieker over het opgroeien op het moment dat de wereld zelf uit balans lijkt te raken</p>\n",
+  "storyline": "<p>Nadat Donnie op onverklaarbare wijze aan de dood ontsnapt wanneer een vliegtuigmotor zijn slaapkamer verplettert, raakt hij steeds verder verstrikt in mysterieuze visioenen en de hypocrisie van de volwassen wereld om hem heen. </p>\n",
+  "country": "VS",
+  "year": "2001",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/ODC-Donnie-Dark-Poster-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-discriminatie": "Discriminatie",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Richard Kelly"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "113"
+  },
+  "tags": {
+   "klassieker": "Klassieker",
+   "premiere": "Premi&egrave;re"
+  },
+  "week": 1,
+  "review": false,
+  "permalink": "https://themovies.nl/films/donnie-darko/",
+  "provider_multiple_id": 3230,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261119",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211551,
+    "provider_id": "208137",
+    "program_start": "202611232130",
+    "program_end": "202611232338",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "113"
+   },
+   {
+    "child_id": 211552,
+    "provider_id": "208177",
+    "program_start": "202611242130",
+    "program_end": "202611242338",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "113"
+   },
+   {
+    "child_id": 211553,
+    "provider_id": "208178",
+    "program_start": "202611252130",
+    "program_end": "202611252338",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "113"
+   }
+  ]
+ },
+ "dune-part-three": {
+  "post_id": 195727,
+  "title": "Dune: Part Three",
+  "subtitle": "",
+  "starring_short": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh",
+  "synopsis": "<p>Dune: Part Three speelt zich af bijna twintig jaar nadat Paul Atreides de macht greep over het Keizerrijk. Als oude bondgenoten terugkeren, nieuwe gevaren opduiken en er overal verraad loert, moet Paul de gevolgen van zijn wrede bewind onder ogen zien. In zijn visioenen ziet hij zijn rijk ineenstorten, en als zijn verloren gewaande geliefde ineens weer verschijnt, wordt Paul meegesleurd in een mysterieuze samenzwering, waarin Chani een grote rol blijkt te spelen. Terwijl het volk in opstand komt en zijn vijanden steeds gevaarlijker worden, komt Paul erachter wat de prijs is van zijn macht en wat de gevolgen zijn voor zijn dierbaren.</p>\n<p>Met Dune: Part Three komt er een adembenemend einde aan de spectaculaire trilogie van de voor een Academy Award genomineerde regisseur Denis Villeneuve.</p>\n",
+  "storyline": "<p>Met Dune: Part Three komt er een adembenemend einde aan de spectaculaire trilogie van de voor een Academy Award genomineerde regisseur Denis Villeneuve.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/07/Dune_-Part-Three_ps_1_jpg_sd-high_Photo-Courtesy-Warner-Bros-Pictures-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Denis Villeneuve"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "150"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -3,
+  "review": false,
+  "permalink": "https://themovies.nl/films/dune-part-three/",
+  "provider_multiple_id": 3055,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261216",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 202273,
+    "provider_id": "200836",
+    "program_start": "202612152100",
+    "program_end": "202612152335",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "Preview"
+    ],
+    "duration": "140"
+   }
+  ]
+ },
+ "everybody-digs-bill-evans": {
+  "post_id": 207136,
+  "title": "Everybody Digs Bill Evans",
+  "subtitle": "",
+  "starring_short": "Anders Danielsen Lie, Bill Pullman, Laurie Metcalf, Barry Ward, Valene Kane",
+  "synopsis": "<p>Nadat de legendarische jazzpianist Bill Evans samen met zijn ultieme trio twee grensverleggende albums heeft opgenomen, komt zijn briljante jonge bassist tragisch te overlijden. Het verlies valt Bill Evans zwaar. Het verhaal volgt zijn zoektocht om het verdriet te boven te komen en uiteindelijk de weg terug naar de muziek te vinden.</p>\n",
+  "storyline": "<p>Nadat de legendarische jazzpianist Bill Evans samen met zijn ultieme trio twee grensverleggende albums heeft opgenomen, komt zijn briljante jonge bassist tragisch te overlijden. Het verlies valt Bill Evans zwaar. Het verhaal volgt zijn zoektocht om het verdriet te boven te komen en uiteindelijk de weg terug naar de muziek te vinden.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/Everybody-Digs-Bill-Evans_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Grant Gee"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "103"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -4,
+  "review": false,
+  "permalink": "https://themovies.nl/films/everybody-digs-bill-evans/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261224",
+   "last_week": ""
+  }
+ },
+ "excalibur": {
+  "post_id": 196956,
+  "title": "Excalibur",
+  "subtitle": "",
+  "starring_short": "Nigel Terry, Nicol Williamson, Nicholas Clay, Helen Mirren",
+  "synopsis": "<p>Raised by Merlin, young Arthur draws the mystical sword of Excalibur from the stone and becomes King. He grows to manhood and with his wife Guenevere and first knight Lancelot unites the country and founds the Knights of the Round Table. But the love between Lancelot and Guenevere, and the treachery of his sister Morgana and son Mordred cause King Arthur&#8217;s pride to jeopardize the kingdom. An epic battle between the knights of good and evil decides the fate of Camelot.</p>\n",
+  "storyline": "<p>The love between first knight Lancelot and Guenevere, and the treachery of his sister Morgana and son Mordred cause King Arthur&#8217;s pride to jeopardize the kingdom. An epic battle between the knights of good and evil decides the fate of Camelot.</p>\n",
+  "country": "UK",
+  "year": "1981",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/07/excalibur-poster-400x600.jpeg",
+  "classification": [],
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "English"
+  },
+  "language": "",
+  "director_name": {
+   "label": "Regie",
+   "value": "John Boorman"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "141"
+  },
+  "tags": {
+   "klassieker": "Klassieker",
+   "monumental": "Monumental",
+   "expected": "Verwacht"
+  },
+  "week": 0,
+  "review": false,
+  "permalink": "https://themovies.nl/films/excalibur/",
+  "provider_multiple_id": 3121,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261129",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 198993,
+    "provider_id": "198193",
+    "program_start": "202611292100",
+    "program_end": "202611292335",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "No subs"
+    ],
+    "duration": "140"
+   },
+   {
+    "child_id": 198994,
+    "provider_id": "198195",
+    "program_start": "202612132100",
+    "program_end": "202612132335",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "No subs"
+    ],
+    "duration": "140"
+   }
+  ]
+ },
+ "fatherland": {
+  "post_id": 202218,
+  "title": "Fatherland",
+  "subtitle": "",
+  "starring_short": "Sandra Hüller, August Diehl, Hanns Zischler, Anna Madeley",
+  "synopsis": "<p>Op het hoogtepunt van de Koude Oorlog vertrekken schrijver en Nobelprijswinnaar Thomas Mann en zijn dochter Erika, actrice, journaliste en rallycoureur, op een roadtrip door een verwoest Duitsland: van het door de Verenigde Staten gedomineerde Frankfurt tot het door de Sovjets gecontroleerde Weimar.</p>\n",
+  "storyline": "<p>Op het hoogtepunt van de Koude Oorlog vertrekken schrijver en Nobelprijswinnaar Thomas Mann en zijn dochter Erika, actrice, journaliste en rallycoureur, op een roadtrip door een verwoest Duitsland.</p>\n",
+  "country": "Duitsland",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/Fatherland_ps_1_jpg_sd-high-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Duits"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Pawel Pawlikowski"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "82"
+  },
+  "tags": {
+   "premiere": "Premi&egrave;re"
+  },
+  "week": 1,
+  "review": {
+   "text": "\"Dit meesterwerk is compact en complex, maar herbergt een enorme filosofische en psychologische rijkdom\"",
+   "author": "NRC",
+   "stars": "5"
+  },
+  "permalink": "https://themovies.nl/films/fatherland/",
+  "provider_multiple_id": 3200,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261119",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211559,
+    "provider_id": "208049",
+    "program_start": "202611231400",
+    "program_end": "202611231537",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "82"
+   },
+   {
+    "child_id": 211566,
+    "provider_id": "208094",
+    "program_start": "202611231850",
+    "program_end": "202611232027",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "82"
+   },
+   {
+    "child_id": 211560,
+    "provider_id": "208050",
+    "program_start": "202611241400",
+    "program_end": "202611241537",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "82"
+   },
+   {
+    "child_id": 211567,
+    "provider_id": "208095",
+    "program_start": "202611241850",
+    "program_end": "202611242027",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "82"
+   },
+   {
+    "child_id": 211561,
+    "provider_id": "208051",
+    "program_start": "202611251400",
+    "program_end": "202611251537",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "82"
+   },
+   {
+    "child_id": 211568,
+    "provider_id": "208096",
+    "program_start": "202611251850",
+    "program_end": "202611252027",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "82"
+   }
+  ]
+ },
+ "fjord": {
+  "post_id": 190841,
+  "title": "Fjord",
+  "subtitle": "Winnaar Gouden Palm Cannes 2026",
+  "starring_short": "Renate Reinsve, Sebastian Stan",
+  "synopsis": "<p>Na de dood van Mihais ouders laten Mihai en Lisbeth Gheorghiu alles achter zich en verhuizen ze met hun kinderen naar een afgelegen dorpje in Noorwegen, in de hoop een nieuw leven op te bouwen in de buurt van Lisbeths familie. Daar raken ze bevriend met hun buren, de familie Halberg, wier hartelijkheid de belofte van een nieuwe start in zich draagt. Maar de broze vrede begint te wankelen wanneer de jonge dochter van de Gheorghius, Elia, onder de blauwe plekken op school verschijnt.</p>\n",
+  "storyline": "<p>Een jong Romeens gezien verhuist naar een afgelegen dorp in Noorwegen. Ze raken bevriend met hun buren, wier hartelijkheid de belofte van een nieuwe start in zich draagt. De broze vrede begint te barsten wanneer de jonge dochter van de Gheorghius, Elia, onder de blauwe plekken op school verschijnt.</p>\n",
+  "country": "Roemenië, Noorwegen",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-al": "Alle leeftijden"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Noors, Roemeens, Engels, Zweeds"
+  },
+  "language": "",
+  "director_name": {
+   "label": "Regie",
+   "value": "Christian Mungiu"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "146"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -1,
+  "review": false,
+  "permalink": "https://themovies.nl/films/fjord/",
+  "provider_multiple_id": 3012,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261203",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 208871,
+    "provider_id": "206053",
+    "program_start": "202611231830",
+    "program_end": "202611232111",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [
+     "Preview"
+    ],
+    "duration": "146"
+   }
+  ]
+ },
+ "la-bola-negra": {
+  "post_id": 208052,
+  "title": "La Bola Negra",
+  "subtitle": "",
+  "starring_short": "Glenn Close, Penélope Cruz, Natalia de Molina",
+  "synopsis": "<p>La Bola Negra vertelt het verhaal van drie mannen, gespreid over drie scharniermomenten in de Spaanse geschiedenis: 1932, 1937 en 2017. Drie levens die nauw met elkaar verbonden zijn door seksualiteit en verlangen, pijn en generationeel trauma. Drie verhalen, geïnspireerd door een van de laatste onvoltooide werken van Federico García Lorca.</p>\n",
+  "storyline": "<p>La Bola Negra vertelt het verhaal van drie mannen, gespreid over drie scharniermomenten in de Spaanse geschiedenis: 1932, 1937 en 2017. Drie levens die nauw met elkaar verbonden zijn door seksualiteit en verlangen, pijn en generationeel trauma.</p>\n",
+  "country": "Spanje",
+  "year": "",
+  "image": "",
+  "poster": {
+   "sizes": []
+  },
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Spaans"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Javier Ambrossi, Javier Calvo"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "160"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": 45,
+  "review": false,
+  "permalink": "https://themovies.nl/films/la-bola-negra/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20270121",
+   "last_week": ""
+  }
+ },
+ "minotaur": {
+  "post_id": 204139,
+  "title": "Minotaur",
+  "subtitle": "",
+  "starring_short": "Dmitriy Mazurov, Iris Lebedeva",
+  "synopsis": "<p>In dit indringende drama van Andrey Zvyagintsev heeft de succesvolle Russische ondernemer Gleb het ogenschijnlijk goed voor elkaar. Met zijn vrouw Galina en puberzoon Seryozha woont hij in een grote, glazen villa aan de rand van een provinciestad. Als Rusland in 2022 Oekraïne binnenvalt, dringt de realiteit steeds meer door in zijn dagelijkse leven: werknemers vluchten naar het buitenland en Gleb’s onderneming moet meewerken aan de mobilisatie. Zijn bedrijf staat onder druk en de maatschappelijke onrust neemt toe. Wanneer hij ontdekt dat zijn vrouw hem bedriegt, verliest hij langzaam de greep op de werkelijkheid. Gevangen tussen politieke druk, zakelijke belangen en persoonlijke vernedering, probeert Gleb de controle over zijn leven te behouden. Het mondt uit in een steeds verder escalerende confrontatie met zichzelf en de mensen om hem heen, waarin de grens tussen de politieke werkelijkheid en zijn privéleven steeds verder vervaagt.</p>\n<p>Met Minotaur keerde de Russische meestercineast Andrey Zvyagintsev bijna tien jaar terug naar de hoofdcompetitie van Cannes, waar de film de Grand Prix won. De film werd zeer enthousiast ontvangen door de internationale filmpers en ook het werk van vaste cameraman Mikhail Krichman en de sterke vertolkingen van hoofdrolspelers Dmitriy Mazurov en Iris Lebedeva worden geroemd. Het scenario is gebaseerd op Claude Chabrol’s La Femme Infidèle (1969) en de beklemmende score is van Evgueni en Sacha Galperine. Met de mythische verwijzingen naar de Minotaurus brengt Zvyagintsev een meeslepende thriller over schuld, keuzes en menselijke kwetsbaarheid.</p>\n",
+  "storyline": "<p>In dit indringende drama van Andrey Zvyagintsev heeft de succesvolle Russische ondernemer Gleb het ogenschijnlijk goed voor elkaar. Als Rusland in 2022 Oekraïne binnenvalt, dringt de realiteit steeds meer door in zijn dagelijkse leven.</p>\n",
+  "country": "Frankrijk, Letland",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/Minotaur_ps_1_jpg_sd-high-scaled-400x600.jpeg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-seks": "Seks"
+  },
+  "show_in_nc": true,
+  "bonus": true,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Frans"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Andrey Zvyagintsev"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "140"
+  },
+  "tags": {
+   "bonus": "+Extra",
+   "expected": "Verwacht"
+  },
+  "week": 0,
+  "review": false,
+  "permalink": "https://themovies.nl/films/minotaur/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261126",
+   "last_week": ""
+  }
+ },
+ "moonlight": {
+  "post_id": 107819,
+  "title": "Moonlight",
+  "subtitle": "10th Anniversary Edition",
+  "starring_short": "Trevante Rhodes, Naomie Harris, Mahershala Ali, Janelle Monáe",
+  "synopsis": "<p>&#8216;Moonlight&#8217; speelt zich af in een ruige buurt van Miami in de jaren 80. De film volgt drie periodes uit het leven van een jonge Afro-Amerikaanse man die worstelt met zijn identiteit, mannelijkheid, seksuele geaardheid en plaats in de wereld.</p>\n<p>Gebaseerd op het ongepubliceerde toneelstuk ‘In Moonlight Black Boys Look Blue’ van Tarell Alvin McCraney.</p>\n",
+  "storyline": "<p>&#8216;Moonlight&#8217; speelt zich af in een ruige buurt van Miami in de jaren 80. De film volgt drie periodes uit het leven van een jonge Afro-Amerikaanse man die worstelt met zijn identiteit, mannelijkheid, seksuele geaardheid en plaats in de wereld.</p>\n",
+  "country": "VS",
+  "year": "2016",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2024/06/moonlight-poster-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-discriminatie": "Discriminatie",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Barry Jenkins"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "111"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": 44,
+  "review": false,
+  "permalink": "https://themovies.nl/films/moonlight/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20270128",
+   "last_week": ""
+  }
+ },
+ "mouse": {
+  "post_id": 208064,
+  "title": "Mouse",
+  "subtitle": "",
+  "starring_short": "Katherine Mallen Kupferer, Sophie Okonedo",
+  "synopsis": "<p>In de zomer van 2002 maken de 17-jarige Minnie en Callie zich op voor hun laatste jaar op de middelbare school in Arkansas. Minnie en Callie zijn beste vriendinnen, maar zouden niet meer van elkaar kunnen verschillen. Callie is zelfverzekerd, populair en droomt van een leven in de spotlights. De verlegen Minnie houdt zich daarentegen het liefst op de achtergrond en laat Callie graag in het middelpunt staan. Wanneer een tragisch ongeval plotseling een einde maakt aan hun vriendschap, blijft Minnie volledig ontredderd achter. Zonder haar beste vriendin moet ze niet alleen leren omgaan met haar verlies, maar ook voor het eerst alleen haar weg zien te vinden naar volwassenheid en een toekomst die nog alle kanten op kan. Ze zoekt steun bij Callies moeder Helen (Oscar-genomineerd actrice Sophie Okonedo), met wie ze een ingewikkelde maar bijzondere band ontwikkelt.</p>\n<p>Mouse is de derde speelfilm van Kelly O’Sullivan en Alex Thompson, na Saint Frances en Ghostlight. Met humor, warmte en aandacht voor wat onuitgesproken blijft, vertellen ze een subtiel en emotioneel verhaal over verlies, vriendschap en de zoektocht naar identiteit en seksualiteit.</p>\n",
+  "storyline": "<p>Wanneer een tragisch ongeval een einde maakt aan de vriendschap tussen de 17-jarige Minnie en Callie, blijft Minnie ontredderd achter. Zonder haar beste vriendin moet ze niet alleen leren omgaan met haar verlies, maar ook voor het eerst alleen haar weg zien te vinden naar volwassenheid.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": {
+   "sizes": []
+  },
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Kelly O’Sullivan, Alex Thompson"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "120"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -3,
+  "review": false,
+  "permalink": "https://themovies.nl/films/mouse/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261217",
+   "last_week": ""
+  }
+ },
+ "primetime": {
+  "post_id": 204149,
+  "title": "Primetime",
+  "subtitle": "",
+  "starring_short": "Robert Pattinson, Merritt Wever, Anna Faris, Phoebe Bridgers",
+  "synopsis": "<p>In 2006 staat televisiehost Chris Hansen (Robert Pattinson) op het punt om geschiedenis te schrijven met het programma ‘To Catch a Predator’, waarin volwassen mannen die denken een afspraak te hebben met een minderjarige in de val gelokt en geconfronteerd worden met hun daden.</p>\n<p>De film is geproduceerd door A24 en Square Peg en geregisseerd door Lance Oppenheim, die na verschillende documentaires zijn speelfilmdebuut maakt met Primetime. Naast Robert Pattinson zijn onder andere Phoebe Bridgers, Anna Faris en Merritt Wever in de film te zien. De film is geselecteerd voor de competitie van het Filmfestival van Venetië.</p>\n",
+  "storyline": "<p>In 2006 staat televisiehost Chris Hansen (Robert Pattinson) op het punt om geschiedenis te schrijven met het programma ‘To Catch a Predator’, waarin volwassen mannen die denken een afspraak te hebben met een minderjarige in de val gelokt en geconfronteerd worden met hun daden.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/Primetime_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Lance Oppenheim"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "110"
+  },
+  "tags": [],
+  "week": 4,
+  "review": {
+   "text": "\"Lynchiaanse koortsdroom\"",
+   "author": "NRC",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/primetime/",
+  "provider_multiple_id": 3277,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261029",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211520,
+    "provider_id": "208181",
+    "program_start": "202611232115",
+    "program_end": "202611232320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "110"
+   },
+   {
+    "child_id": 211521,
+    "provider_id": "208182",
+    "program_start": "202611242115",
+    "program_end": "202611242320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "110"
+   },
+   {
+    "child_id": 211522,
+    "provider_id": "208183",
+    "program_start": "202611252115",
+    "program_end": "202611252320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "110"
+   }
+  ]
+ },
+ "queen-at-sea": {
+  "post_id": 198942,
+  "title": "Queen At Sea",
+  "subtitle": "",
+  "starring_short": "Juliette Binoche, Tom Courtenay, Anna Calder-Marshall, Florence Hunt",
+  "synopsis": "<p>De vergevorderde dementie van Amanda’s moeder Leslie plaatst Amanda en haar stiefvader Martin voor een moreel dilemma. Nu Leslie’s toestand zienderogen verslechtert, rijst de vraag in hoeverre zij nog het vermogen heeft om zelf belangrijke beslissingen te nemen. Amanda en Martin hebben elk hun eigen ideeën over wat het beste is voor Leslie, maar wie besluit uiteindelijk: een echtgenoot, een dochter of een instelling? Terwijl Amanda en Martin steeds zwaardere keuzes moeten maken, raken ze verder verstrikt in een pijnlijk conflict over intimiteit, zorg en autonomie.</p>\n<p>Kunnen de meest liefdevolle intenties onbedoeld schade aanrichten? Queen at Sea is een intiem familiedrama over de realiteit van dementie en de pijnlijke dilemma’s die dit voor familie en geliefden met zich mee kan brengen. Regisseur Lance Hammer oordeelt bewust niet over zijn personages en confronteert de kijker met vraagstukken waar geen eenvoudige antwoorden op bestaan. Het resultaat is een integere, maar urgente film met ijzersterke acteerprestaties van Juliette Binoche, Tom Courtenay en Anna Calder-Marshall. Queen at Sea beleefde zijn wereldpremière op het filmfestival van Berlijn, waar het de juryprijs en de prijs voor de beste bijrol (gedeeld door Anna Calder-Marshall en Tom Courtenay) in de wacht sleepte.</p>\n",
+  "storyline": "<p>Terwijl dementie het vermogen van een vrouw aantast om haar innerlijke wereld te uiten, zoeken haar man en dochter naar manieren om in haar belang te handelen, balancerend tussen liefde en de kwetsbare grenzen van zorg, bescherming en autonomie.</p>\n",
+  "country": "Verenigd Koninkrijk, VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/08/Queen-at-Sea_ps_1_jpg_sd-high_Seafaring-LLC-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Lance Hammer"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "121"
+  },
+  "tags": [],
+  "week": 2,
+  "review": {
+   "text": "\"Bewonderenswaardig genuanceerd over intimiteit, erotiek en seks bij dementie\"",
+   "author": "NRC",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/queen-at-sea/",
+  "provider_multiple_id": 3174,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261112",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211530,
+    "provider_id": "208114",
+    "program_start": "202611231345",
+    "program_end": "202611231601",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "121"
+   },
+   {
+    "child_id": 211531,
+    "provider_id": "208115",
+    "program_start": "202611241345",
+    "program_end": "202611241601",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "121"
+   },
+   {
+    "child_id": 211532,
+    "provider_id": "208116",
+    "program_start": "202611251345",
+    "program_end": "202611251601",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "121"
+   }
+  ]
+ },
+ "the-cycle-of-love": {
+  "post_id": 196752,
+  "title": "The Cycle of Love",
+  "subtitle": "",
+  "starring_short": "Lotta von Schedvin, PK Mahanandia, Chirag Lobo, Mina Dale",
+  "synopsis": "<p>Een liefdesverhaal zo onwaarschijnlijk romantisch en ontroerend, dat het nog steeds op Zweedse basisscholen wordt verteld. In 1975 wordt de jonge Indiër PK verliefd op de Zweedse Lotta. Wanneer zij terugkeert naar huis, stapt hij op een tweedehands fiets, met nauwelijks geld op zak, voor een reis van meer dan 10.000 kilometer om haar terug te vinden.</p>\n<p>Wat volgt is een adembenemende tocht: dwars door onbekende landen, over bergpassen en door eindeloze landschappen, voortdurend afhankelijk van de hulp van mensen die hij onderweg ontmoet.</p>\n<p>PK is een dalit, een zogenaamde onaanraakbare: geboren aan de onderkant van het Indiase kastensysteem, voorbestemd voor een leven in armoede en uitsluiting. Tegelijkertijd maakt een astroloog bij zijn geboorte een bijzondere, bijna onmogelijke, voorspelling over zijn toekomstige geliefde. De ontmoeting met Lotta in New Delhi lijkt deze profetie te doen uitkomen. Maar als zij haar belofte om hem weer op te zoeken niet nakomt, wordt dat zeer de vraag.</p>\n<p>Oscarwinnend regisseur Orlando von Einsiedel (The White Helmets) brengt dit onvoorstelbaar waargebeurde verhaal tot leven, door de reis opnieuw af te leggen met PK en een jonge acteur die hem vertolkt. Met reconstructies, interviews en ontmoetingen onderweg verbindt hij verleden en heden tot een meeslepend verhaal over liefde, medemenselijkheid en doorzettingsvermogen.</p>\n<p>The Cycle of Love is een van die zeldzame verhalen waarvan je nauwelijks kunt geloven dat het echt gebeurd is. Een hartverwarmende documentaire die je met hernieuwd vertrouwen in de liefde &#8211; en in de mens &#8211; de zaal doet verlaten.</p>\n",
+  "storyline": "<p>In 1975 wordt de jonge Indiër PK verliefd op de Zweedse Lotta. Wanneer zij terugkeert naar huis, stapt hij op een tweedehands fiets, met nauwelijks geld op zak, voor een reis van meer dan 10.000 kilometer om haar terug te vinden.</p>\n",
+  "country": "Verenigd Koninkrijk",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/07/The-Cycle-of-Love_ps_1_jpg_sd-high-400x600.jpg",
+  "classification": {
+   "kijkwijzer-9": "Kijkwijzer 9",
+   "kijkwijzer-eng": "Eng"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels, Hindi"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Orlando von Einsiedel"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "98"
+  },
+  "tags": [],
+  "week": 8,
+  "review": {
+   "text": "\"Probeer maar eens niet te vallen voor deze weinig subtiele, maar ontwapenend lieve documentaire-roadmovie\"",
+   "author": "De Volkskrant",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/the-cycle-of-love/",
+  "provider_multiple_id": 3086,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261001",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211444,
+    "provider_id": "208156",
+    "program_start": "202611231630",
+    "program_end": "202611231823",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "98"
+   },
+   {
+    "child_id": 211445,
+    "provider_id": "208157",
+    "program_start": "202611241630",
+    "program_end": "202611241823",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "98"
+   },
+   {
+    "child_id": 211446,
+    "provider_id": "208158",
+    "program_start": "202611251630",
+    "program_end": "202611251823",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "98"
+   }
+  ]
+ },
+ "the-debut": {
+  "post_id": 204229,
+  "title": "The Debut",
+  "subtitle": "",
+  "starring_short": "Julianne Moore, Paul Giamatti, Halle Bailey, Jesse Eisenberg",
+  "synopsis": "<p>Wat kan er gebeuren als een onopvallende huisvrouw zich aan het amateurtoneel waagt? Wanneer Mona Friedman (Julianne Moore) een rol krijgt in een amateurtheaterproductie, verandert ze in een gedreven &#8216;method actor&#8217;. Ze is tot alles bereid om de artistieke integriteit van haar bescheiden rol te beschermen – zelfs als dat betekent dat ze de strijd aan moet gaan met de dominante regisseur (Paul Giamatti) van het stuk.</p>\n<p>The Debut is een komisch muzikaal drama, geschreven en geregisseerd door Jesse Eisenberg (A Real Pain, The Social Network), met hoofdrollen voor Julianne Moore (The Room Next Door) en Paul Giamatti (The Holdovers).</p>\n",
+  "storyline": "<p>Wat kan er gebeuren als een onopvallende huisvrouw zich aan het amateurtoneel waagt? Wanneer Mona Friedman (Julianne Moore) een rol krijgt in een amateurtheaterproductie, verandert ze in een gedreven &#8216;method actor&#8217;.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/The-Debut_ps_1_jpg_sd-high-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Jesse Eisenberg"
+  },
+  "duration": "",
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": -2,
+  "review": false,
+  "permalink": "https://themovies.nl/films/the-debut/",
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261210",
+   "last_week": ""
+  }
+ },
+ "the-devils": {
+  "post_id": 204116,
+  "title": "The Devils",
+  "subtitle": "",
+  "starring_short": "Oliver Reed, Vanessa Redgrave, Dudley Sutton, Gemma Jones",
+  "synopsis": "<p>1634, Frankrijk. De corrupte kardinaal Richelieu wil aan de macht komen maar wordt tegengewerkt door de charismatische priester Urbain Grandier. Een seksueel gefrustreerde non ziet haar kans schoon en beschuldigt Grandier ervan haar hele klooster te hebben verleid en aan de duivel te hebben overgeleverd.</p>\n<p>Hier kijken cultfilmliefhebbers al decennia naar uit: de definitieve versie en 4K-restauratie van Ken Russells <i>The Devils</i> eindelijk op het witte doek! Russells controversiële meesterwerk was een halve eeuw gecensureerd – vooral de hysterische crucifix-orgie, oftewel de<i> Rape of Christ-</i>scène, moest het ontgelden – maar vanavond draait hij op Imagine in volle glorie, de hypermoderne sets van Derek Jarman strakker dan ooit. Met dank aan filmjournalist Mark Kermode, die voor Russells dood nauw met hem aan de montage werkte. <i>The Devils</i> is gebaseerd op<a href=\"https://nl.wikipedia.org/wiki/Aldous_Huxley\"> Aldous Huxley</a>s roman <i>The Devils of Loudun, </i>en Russell noemde het zelf zijn meest politieke werk. Nu corruptie en religieuze hersenspoeling hoogtij vieren is de film relevanter dan ooit.</p>\n",
+  "storyline": "<p>Langverwachte restauratie van Ken Russells controversiële en hyperrelevante cultklassieker over seksuele repressie en religieuze vervolging.</p>\n",
+  "country": "Verenigd Koninkrijk",
+  "year": "1971",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/MV5BMTU0MDhkNGMtOGU5ZC00ZThlLWE5YmItNWVkZDY4MzY2ZDJjXkEyXkFqcGc@._V1_-400x600.jpg",
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": " Ken Russell"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "111"
+  },
+  "tags": [],
+  "week": 2,
+  "review": false,
+  "permalink": "https://themovies.nl/films/the-devils/",
+  "provider_multiple_id": 3255,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261112",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211533,
+    "provider_id": "208131",
+    "program_start": "202611241900",
+    "program_end": "202611242106",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "111"
+   },
+   {
+    "child_id": 211534,
+    "provider_id": "208132",
+    "program_start": "202611251900",
+    "program_end": "202611252106",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "111"
+   }
+  ]
+ },
+ "the-only-living-pickpocket-in-new-york": {
+  "post_id": 204142,
+  "title": "The Only Living Pickpocket in New York",
+  "subtitle": "",
+  "starring_short": "John Turturro, Giancarlo Esposito, Steve Buscemi",
+  "synopsis": "<p>The Only Living Pickpocket in New York is een stijlvolle misdaadfilm en een liefdevolle, melancholische ode aan een veranderend New York. Met de iconische straten van de stad als decor, een sfeervolle soundtrack en een indrukwekkende cast met John Turturro, Giancarlo Esposito, Steve Buscemi en Jamie Lee Curtis, schetst Noah Segan een wereld waarin oude gewoontes en vergane glorie steeds meer onder druk komen te staan.</p>\n<p>Harry Lehman (John Turturro) is een ouderwetse zakkenroller in een tijd waarin zijn vak langzaam uitsterft. Toch blijft hij stelen, om de eindjes aan elkaar te knopen en voor zijn ernstig zieke vrouw Rosie te zorgen. Wanneer een ogenschijnlijk eenvoudige diefstal hem onverwacht iets van grote waarde oplevert, raakt Harry verstrikt in een gevaarlijk web van criminelen. Wat volgt is een zenuwslopende race door de straten van New York, waarin Harry zijn ouderwetse vakmanschap, zijn netwerk en zijn instincten moet aanspreken om zichzelf én zijn buit terug te krijgen.</p>\n<p>Met spanning, droge humor, melancholie en een scherp oog voor de stad vertelt The Only Living Pickpocket in New York een verhaal over loyaliteit, vergane glorie en de vraag wat er overblijft wanneer de wereld om je heen onherroepelijk verandert.</p>\n",
+  "storyline": "<p>Met spanning, droge humor, melancholie en een scherp oog voor de stad vertelt The Only Living Pickpocket in New York een verhaal over loyaliteit, vergane glorie en de vraag wat er overblijft wanneer de wereld om je heen onherroepelijk verandert.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/The-Only-Living-Pickpocket-in-New-York_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-6": "Kijkwijzer 6",
+   "kijkwijzer-eng": "Eng",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Noah Segan"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "88"
+  },
+  "tags": [],
+  "week": 2,
+  "review": {
+   "text": "\"Aangenaam traag voortbewegend misdaaddrama\"",
+   "author": "De Volkskrant",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/the-only-living-pickpocket-in-new-york/",
+  "provider_multiple_id": 3276,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261112",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211540,
+    "provider_id": "208080",
+    "program_start": "202611231415",
+    "program_end": "202611231558",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "88"
+   },
+   {
+    "child_id": 211548,
+    "provider_id": "208163",
+    "program_start": "202611231915",
+    "program_end": "202611232058",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "88"
+   },
+   {
+    "child_id": 211541,
+    "provider_id": "208081",
+    "program_start": "202611241415",
+    "program_end": "202611241558",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "88"
+   },
+   {
+    "child_id": 211549,
+    "provider_id": "208164",
+    "program_start": "202611241915",
+    "program_end": "202611242058",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "88"
+   },
+   {
+    "child_id": 211542,
+    "provider_id": "208082",
+    "program_start": "202611251415",
+    "program_end": "202611251558",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "88"
+   },
+   {
+    "child_id": 211550,
+    "provider_id": "208165",
+    "program_start": "202611251915",
+    "program_end": "202611252058",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 4",
+    "tags": [],
+    "duration": "88"
+   }
+  ]
+ },
+ "wicker": {
+  "post_id": 201599,
+  "title": "Wicker",
+  "subtitle": "",
+  "starring_short": "Olivia Colman, Alexander Skarsgard, Peter Dinklage, Elizabeth Debicki",
+  "synopsis": "<p>In de eigenzinnige fabel Wicker leeft aan de rand van een vissersdorp een vissersvrouw (Olivia Colman): vrijgezel, meurend en het mikpunt van spot. Wanneer ze genoeg heeft van haar bekrompen dorpsgenoten, bestelt ze bij de plaatselijke mandenvlechter (Peter Dinklage), de ideale echtgenoot van riet. Tot haar verbazing blijkt deze bijzondere rieten man (Alexander Skarsgård) nog gevoeliger en talentvoller dan ze ooit had kunnen dromen. Wat begint als een onwaarschijnlijk liefdesverhaal, ontketent al snel verontwaardiging, jaloezie en complete chaos in het conservatieve dorp.</p>\n<p>Met Oscarwinnares Olivia Colman, Alexander Skarsgård, Peter Dinklage en Elizabeth Debicki is Wicker een heerlijke fabel met een moderne twist over liefde, verlangen en de moed om tegen de stroom in te gaan.</p>\n",
+  "storyline": "<p>Met Oscarwinnares Olivia Colman, Alexander Skarsgård, Peter Dinklage en Elizabeth Debicki is Wicker een heerlijke fabel met een moderne twist over liefde, verlangen en de moed om tegen de stroom in te gaan.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/Wicker_ps_1_jpg_sd-high_Copyright-2026-WW-Entertainment-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-discriminatie": "Discriminatie",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik",
+   "kijkwijzer-seks": "Seks"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Alex Huston Fischer, Eleanor Wilson"
+  },
+  "duration": "",
+  "tags": [],
+  "week": 5,
+  "review": {
+   "text": "\"Charmant, hartverwarmend sprookje\"",
+   "author": "NRC",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/wicker/",
+  "provider_multiple_id": 3195,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261022",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211474,
+    "provider_id": "208121",
+    "program_start": "202611231630",
+    "program_end": "202611231825",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "100"
+   },
+   {
+    "child_id": 211475,
+    "provider_id": "208122",
+    "program_start": "202611241630",
+    "program_end": "202611241825",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "100"
+   },
+   {
+    "child_id": 211476,
+    "provider_id": "208123",
+    "program_start": "202611251630",
+    "program_end": "202611251825",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "100"
+   }
+  ]
+ },
+ "wild-horse-nine": {
+  "post_id": 202173,
+  "title": "Wild Horse Nine",
+  "subtitle": "",
+  "starring_short": "Sam Rockwell, John Malkovich, Steve Buscemi, Tom Waits, Parker Posey",
+  "synopsis": "<p>Kort voor de Chileense staatsgreep van 1973 worden CIA-agenten Chris (John Malkovich) en Lee (Sam Rockwell) door hun leidinggevende MJ (Steve Buscemi) vanuit Santiago naar Paaseiland gestuurd. Te midden van de iconische beelden van het eiland worden de jarenlange partners geconfronteerd met hun duistere verleden en de intriges van het heden. Wanneer Chris onverwacht een band opbouwt met twee rebelse studenten (Mariana di Girolamo en Ailín Salas), dreigt hun verblijf in dit afgelegen paradijs volledig uit de hand te lopen.</p>\n",
+  "storyline": "<p>Kort voor de Chileense staatsgreep van 1973 worden CIA-agenten Chris (John Malkovich) en Lee (Sam Rockwell) door hun leidinggevende MJ (Steve Buscemi) vanuit Santiago naar Paaseiland gestuurd</p>\n",
+  "country": "Verenigd Koninkrijk, VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/09/Wild-Horse-Nine_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-16": "Kijkwijzer 16",
+   "kijkwijzer-geweld": "Geweld",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": true,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Martin McDonagh"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "116"
+  },
+  "tags": {
+   "bonus": "+Extra"
+  },
+  "week": 3,
+  "review": {
+   "text": "\"John Malkovich zet een verrassende, onvergetelijke rol neer, die hem waarschijnlijk zijn eerste Oscar zal opleveren\"",
+   "author": "NRC",
+   "stars": "5"
+  },
+  "permalink": "https://themovies.nl/films/wild-horse-nine/",
+  "provider_multiple_id": 3197,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261105",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211494,
+    "provider_id": "208043",
+    "program_start": "202611231115",
+    "program_end": "202611231326",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211501,
+    "provider_id": "208056",
+    "program_start": "202611231600",
+    "program_end": "202611231811",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211513,
+    "provider_id": "208068",
+    "program_start": "202611232130",
+    "program_end": "202611232341",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211495,
+    "provider_id": "208044",
+    "program_start": "202611241115",
+    "program_end": "202611241326",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211502,
+    "provider_id": "208057",
+    "program_start": "202611241600",
+    "program_end": "202611241811",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211508,
+    "provider_id": "208063",
+    "program_start": "202611241830",
+    "program_end": "202611242041",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211514,
+    "provider_id": "208069",
+    "program_start": "202611242100",
+    "program_end": "202611242311",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211496,
+    "provider_id": "208045",
+    "program_start": "202611251115",
+    "program_end": "202611251326",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211503,
+    "provider_id": "208058",
+    "program_start": "202611251600",
+    "program_end": "202611251811",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211509,
+    "provider_id": "208064",
+    "program_start": "202611251830",
+    "program_end": "202611252041",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   },
+   {
+    "child_id": 211515,
+    "provider_id": "208070",
+    "program_start": "202611252100",
+    "program_end": "202611252311",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "116"
+   }
+  ]
+ },
+ "you-can-see-everything": {
+  "post_id": 207990,
+  "title": "You Can See Everything",
+  "subtitle": "",
+  "starring_short": "Billy Evans, Nathan Fielder, Elizabeth Holmes",
+  "synopsis": "<p>Vierendertig dagen voordat ze de gevangenis in moet, nodigt de beruchte oprichtster van Theranos, Elizabeth Holmes, een sceptische filmploeg uit om al haar bewegingen vast te leggen. Wat begint als een intiem portret, mondt uit in een verbijsterende reis van drie jaar.</p>\n",
+  "storyline": "<p>Vierendertig dagen voordat ze de gevangenis in moet, nodigt de beruchte oprichtster van Theranos, Elizabeth Holmes, een sceptische filmploeg uit om al haar bewegingen vast te leggen. Wat begint als een intiem portret, mondt uit in een verbijsterende reis van drie jaar.</p>\n",
+  "country": "VS",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/10/You-Can-See-Everything_ps_1_jpg_sd-high-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Engels"
+  },
+  "language": {
+   "label": "Ondertitels",
+   "value": "Nederlands"
+  },
+  "director_name": {
+   "label": "Regie",
+   "value": "Nathan Fielder, Lance Oppenheim"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "175"
+  },
+  "tags": {
+   "expected": "Verwacht"
+  },
+  "week": 47,
+  "review": false,
+  "permalink": "https://themovies.nl/films/you-can-see-everything/",
+  "provider_multiple_id": 3281,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20270107",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 208993,
+    "provider_id": "206088",
+    "program_start": "202611301915",
+    "program_end": "202611302225",
+    "ticket_status": "sold-out",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 208994,
+    "provider_id": "206089",
+    "program_start": "202612031915",
+    "program_end": "202612032225",
+    "ticket_status": "sold-out",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211243,
+    "provider_id": "208038",
+    "program_start": "202612101930",
+    "program_end": "202612102240",
+    "ticket_status": "sold-out",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 209760,
+    "provider_id": "206698",
+    "program_start": "202612161915",
+    "program_end": "202612162225",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 209761,
+    "provider_id": "206710",
+    "program_start": "202612221915",
+    "program_end": "202612222225",
+    "ticket_status": "sold-out",
+    "cinema_id": "1",
+    "location": "Zaal 2",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211178,
+    "provider_id": "208019",
+    "program_start": "202701071930",
+    "program_end": "202701072240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211179,
+    "provider_id": "208020",
+    "program_start": "202701081930",
+    "program_end": "202701082240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211180,
+    "provider_id": "208021",
+    "program_start": "202701091930",
+    "program_end": "202701092240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211181,
+    "provider_id": "208022",
+    "program_start": "202701102045",
+    "program_end": "202701102355",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211182,
+    "provider_id": "208023",
+    "program_start": "202701111930",
+    "program_end": "202701112240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211183,
+    "provider_id": "208024",
+    "program_start": "202701121930",
+    "program_end": "202701122240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   },
+   {
+    "child_id": 211184,
+    "provider_id": "208025",
+    "program_start": "202701131930",
+    "program_end": "202701132240",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 1",
+    "tags": [],
+    "duration": "175"
+   }
+  ]
+ },
+ "youri": {
+  "post_id": 199355,
+  "title": "Youri",
+  "subtitle": "",
+  "starring_short": "Joes Brauers, Levan Gelbakhiani, Julia Akkerman, Rick Paul van Mulligen",
+  "synopsis": "<p>Amsterdam, jaren tachtig. Wanneer journalist Jan Brokken de uit de Sovjet-Unie gevluchte, wereldberoemde concertpianist Youri Egorov interviewt, ontstaat een onverwachte maar hechte vriendschap tussen de twee totaal verschillende mannen. Terwijl de flamboyante Egorov zijn vrijheid en kunstenaarschap omarmt, helpt hij de introverte Brokken de moed te vinden om zijn droom na te jagen: schrijver worden.</p>\n",
+  "storyline": "<p>Amsterdam, jaren tachtig. Wanneer journalist Jan Brokken de uit de Sovjet-Unie gevluchte, wereldberoemde concertpianist Youri Egorov interviewt, ontstaat een onverwachte maar hechte vriendschap tussen de twee totaal verschillende mannen.</p>\n",
+  "country": "Nederland",
+  "year": "",
+  "image": "",
+  "poster": "https://themovies.nl/content/uploads/sites/4/2026/08/Youri_ps_1_jpg_sd-high_Photo-by-Martijn-van-Gelder-scaled-400x600.jpg",
+  "classification": {
+   "kijkwijzer-12": "Kijkwijzer 12",
+   "kijkwijzer-drugs": "Drugs",
+   "kijkwijzer-groftaalgebruik": "Groftaalgebruik"
+  },
+  "show_in_nc": true,
+  "bonus": false,
+  "spoken_language": {
+   "label": "Taal",
+   "value": "Nederlands"
+  },
+  "language": "",
+  "director_name": {
+   "label": "Regie",
+   "value": "Sander Burger"
+  },
+  "duration": {
+   "label": "Speeltijd",
+   "value": "110"
+  },
+  "tags": [],
+  "week": 6,
+  "review": {
+   "text": "\"Een fraai eerbetoon\"",
+   "author": "NRC",
+   "stars": "4"
+  },
+  "permalink": "https://themovies.nl/films/youri/",
+  "provider_multiple_id": 3178,
+  "dates": {
+   "cinema_id": "1",
+   "release": "20261015",
+   "last_week": ""
+  },
+  "times": [
+   {
+    "child_id": 211481,
+    "provider_id": "208107",
+    "program_start": "202611231115",
+    "program_end": "202611231320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "110"
+   },
+   {
+    "child_id": 211482,
+    "provider_id": "208108",
+    "program_start": "202611241115",
+    "program_end": "202611241320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "110"
+   },
+   {
+    "child_id": 211483,
+    "provider_id": "208109",
+    "program_start": "202611251115",
+    "program_end": "202611251320",
+    "ticket_status": "tickets available",
+    "cinema_id": "1",
+    "location": "Zaal 3",
+    "tags": [],
+    "duration": "110"
+   }
+  ]
+ }
+}

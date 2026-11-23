@@ -1,0 +1,1158 @@
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "All of a Sudden",
+  "url": "https://www.filmvandaag.nl/film/151924-all-of-a-sudden",
+  "description": "Marie-Lou, directrice van een verzorgingstehuis in Parijs, probeert met een innovatieve verzorgingsmethode conventies te doorbreken. Ze stuit op felle…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T12:25:00+01:00",
+  "endDate": "2026-11-25T15:56:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151924.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Ryûsuke Hamaguchi"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Arrebato",
+  "url": "https://www.filmvandaag.nl/film/23215-arrebato",
+  "description": "Een filmmaker die gepassioneerd is door vampierfilms en zwaar drugsgebruik, worstelt met zijn obsessies. Hij raakt in een crisis en probeert, samen…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T19:00:00+01:00",
+  "endDate": "2026-11-24T21:10:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/23000/23215.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Iván Zulueta"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Club Kid",
+  "url": "https://www.filmvandaag.nl/film/151952-club-kid",
+  "description": "Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij niets wist,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T20:40:00+01:00",
+  "endDate": "2026-11-23T22:56:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151952.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Jordan Firstman"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Club Kid",
+  "url": "https://www.filmvandaag.nl/film/151952-club-kid",
+  "description": "Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij niets wist,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T18:35:00+01:00",
+  "endDate": "2026-11-24T20:51:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151952.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Jordan Firstman"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Club Kid",
+  "url": "https://www.filmvandaag.nl/film/151952-club-kid",
+  "description": "Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij niets wist,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T14:40:00+01:00",
+  "endDate": "2026-11-25T16:56:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151952.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Jordan Firstman"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Club Kid",
+  "url": "https://www.filmvandaag.nl/film/151952-club-kid",
+  "description": "Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij niets wist,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T21:00:00+01:00",
+  "endDate": "2026-11-25T23:16:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151952.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Jordan Firstman"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Coward",
+  "url": "https://www.filmvandaag.nl/film/151921-coward",
+  "description": "Aan het Belgische front in WOI probeert Pierre zich staande te houden tussen de andere mannen. Achter de linies ontmoet hij de charismatische Francis,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T15:40:00+01:00",
+  "endDate": "2026-11-25T17:55:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151921.jpg?v=1&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Lukas Dhont"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Donnie Darko",
+  "url": "https://www.filmvandaag.nl/film/2707-donnie-darko",
+  "description": "Nadat Donnie op onverklaarbare wijze aan de dood ontsnapt wanneer een vliegtuigmotor zijn slaapkamer verplettert, raakt hij steeds verder verstrikt in…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T13:20:00+01:00",
+  "endDate": "2026-11-25T15:28:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/2000/2707.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Richard Kelly"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T16:50:00+01:00",
+  "endDate": "2026-11-23T18:27:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T18:55:00+01:00",
+  "endDate": "2026-11-23T20:32:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T16:50:00+01:00",
+  "endDate": "2026-11-24T18:27:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T21:45:00+01:00",
+  "endDate": "2026-11-24T23:22:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T12:50:00+01:00",
+  "endDate": "2026-11-25T14:27:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Fatherland",
+  "url": "https://www.filmvandaag.nl/film/151933-fatherland",
+  "description": "In de zomer van 1949, op het hoogtepunt van de Koude Oorlog, vertrekken schrijver en Nobelprijswinnaar Thomas Mann (Hanns Zischler) en zijn dochter…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T21:40:00+01:00",
+  "endDate": "2026-11-25T23:17:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151933.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pawel Pawlikowski"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Hope",
+  "url": "https://www.filmvandaag.nl/film/151930-hope",
+  "description": "In het afgelegen Koreaanse dorpje Hope Harbor worden politiechef Bum-seok (Hwang Jung- min) en agent Sung-ae (Jung Ho-yeon) op pad gestuurd om op zoek…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T21:20:00+01:00",
+  "endDate": "2026-11-24T00:12:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151930.jpg?v=4&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Na Hong-jin"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Hope",
+  "url": "https://www.filmvandaag.nl/film/151930-hope",
+  "description": "In het afgelegen Koreaanse dorpje Hope Harbor worden politiechef Bum-seok (Hwang Jung- min) en agent Sung-ae (Jung Ho-yeon) op pad gestuurd om op zoek…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T16:10:00+01:00",
+  "endDate": "2026-11-24T19:02:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151930.jpg?v=4&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Na Hong-jin"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Hope",
+  "url": "https://www.filmvandaag.nl/film/151930-hope",
+  "description": "In het afgelegen Koreaanse dorpje Hope Harbor worden politiechef Bum-seok (Hwang Jung- min) en agent Sung-ae (Jung Ho-yeon) op pad gestuurd om op zoek…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T18:15:00+01:00",
+  "endDate": "2026-11-25T21:07:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151930.jpg?v=4&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Na Hong-jin"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Lady",
+  "url": "https://www.filmvandaag.nl/film/151372-lady",
+  "description": "Lady Isabella wil graag in de schijnwerpers staan, en de lokale talentenjacht ‘Stately Stars’ biedt haar die kans. De enorme druk en het verlies…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-27T21:00:00+01:00",
+  "endDate": "2026-11-27T22:52:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/151000/151372.jpg?v=1&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Samuel Abrahams"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Max mon amour",
+  "url": "https://www.filmvandaag.nl/film/27945-max-mon-amour",
+  "description": "Peter Jones, een Britse diplomaat met veel invloed in Parijs, denkt dat zijn vrouw Margaret ontrouw is. Om duidelijkheid te krijgen, schakelt hij een…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T21:00:00+01:00",
+  "endDate": "2026-11-23T22:47:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/27000/27945.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Nagisa Ôshima"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Pandemonium",
+  "url": "https://www.filmvandaag.nl/film/156029-pandemonium",
+  "description": "Sydney is opgevoed door dingo&#039;s en keert terug naar Babylon in Australië om haar familie te zoeken. Daar ontdekt ze dat haar moeder een kwaadaardige…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-28T23:59:00+01:00",
+  "endDate": "2026-11-29T01:42:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/156000/156029.jpg?v=1&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Haydn Keenan"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Primetime",
+  "url": "https://www.filmvandaag.nl/film/152415-primetime",
+  "description": "In 2006 staat televisiehost Chris Hansen (Robert Pattinson) op het punt om geschiedenis te schrijven met het programma ‘To Catch a Predator’,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T21:20:00+01:00",
+  "endDate": "2026-11-24T23:24:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/152000/152415.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Lance Oppenheim"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Primetime",
+  "url": "https://www.filmvandaag.nl/film/152415-primetime",
+  "description": "In 2006 staat televisiehost Chris Hansen (Robert Pattinson) op het punt om geschiedenis te schrijven met het programma ‘To Catch a Predator’,…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T18:40:00+01:00",
+  "endDate": "2026-11-25T20:44:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/152000/152415.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Lance Oppenheim"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Sneak Preview",
+  "url": "https://www.filmvandaag.nl/film/98609-sneak-preview",
+  "description": "De Sneak Preview is een verrassingsvoorstelling. Een voorpremière speciaal voor alle echte filmfanaten. Er wordt altijd een film vertoond die nog…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T21:00:00+01:00",
+  "endDate": "2026-11-24T21:15:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/98000/98609.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "n.v.t."
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Spring",
+  "url": "https://www.filmvandaag.nl/film/97367-spring",
+  "description": "Na het overlijden van zijn zieke moeder beseft Evan dat zijn leven doelloos is. Hij gebruikt zijn laatste salaris om naar Europa te reizen en komt…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-28T19:00:00+01:00",
+  "endDate": "2026-11-28T21:04:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/97000/97367.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Justin Benson"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "The Devils",
+  "url": "https://www.filmvandaag.nl/film/12480-the-devils",
+  "description": "In de 17e eeuw in Frankrijk heeft een priester met radicale politieke en religieuze ideeën en een uitbundig seksleven veel vijanden. Zijn rivalen…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T17:10:00+01:00",
+  "endDate": "2026-11-23T19:16:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/12000/12480.jpg?v=1&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Ken Russell"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "The Devils",
+  "url": "https://www.filmvandaag.nl/film/12480-the-devils",
+  "description": "In de 17e eeuw in Frankrijk heeft een priester met radicale politieke en religieuze ideeën en een uitbundig seksleven veel vijanden. Zijn rivalen…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T16:20:00+01:00",
+  "endDate": "2026-11-25T18:26:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/12000/12480.jpg?v=1&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Ken Russell"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Time and Water",
+  "url": "https://www.filmvandaag.nl/film/149764-time-and-water",
+  "description": "De beroemde IJslandse dichter en auteur Andri Snær Magnason jaagt iets ongrijpbaars na. Terwijl het gletsjerijs van zijn vaderland smelt, bouwt hij…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T16:30:00+01:00",
+  "endDate": "2026-11-23T18:18:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149764.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Sara Dosa"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Time and Water",
+  "url": "https://www.filmvandaag.nl/film/149764-time-and-water",
+  "description": "De beroemde IJslandse dichter en auteur Andri Snær Magnason jaagt iets ongrijpbaars na. Terwijl het gletsjerijs van zijn vaderland smelt, bouwt hij…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T19:20:00+01:00",
+  "endDate": "2026-11-24T21:08:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149764.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Sara Dosa"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Time and Water",
+  "url": "https://www.filmvandaag.nl/film/149764-time-and-water",
+  "description": "De beroemde IJslandse dichter en auteur Andri Snær Magnason jaagt iets ongrijpbaars na. Terwijl het gletsjerijs van zijn vaderland smelt, bouwt hij…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T17:10:00+01:00",
+  "endDate": "2026-11-25T18:58:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149764.jpg?v=3&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Sara Dosa"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Wan Pipel",
+  "url": "https://www.filmvandaag.nl/film/7954-wan-pipel",
+  "description": "De creoolse economiestudent Roy moet na vijf jaar Nederland en zijn vriendin Karina gehaast achterlaten en terugkeren naar Suriname, omdat zijn moeder…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T19:15:00+01:00",
+  "endDate": "2026-11-25T21:21:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/7000/7954.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Pim de la Parra"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Wild Horse Nine",
+  "url": "https://www.filmvandaag.nl/film/149456-wild-horse-nine",
+  "description": "Kort voor de Chileense staatsgreep van 1973 worden CIA-agenten Chris (John Malkovich) en Lee (Sam Rockwell) door hun leidinggevende MJ (Steve Buscemi)…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-23T18:35:00+01:00",
+  "endDate": "2026-11-23T20:46:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149456.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Martin McDonagh"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Wild Horse Nine",
+  "url": "https://www.filmvandaag.nl/film/149456-wild-horse-nine",
+  "description": "Kort voor de Chileense staatsgreep van 1973 worden CIA-agenten Chris (John Malkovich) en Lee (Sam Rockwell) door hun leidinggevende MJ (Steve Buscemi)…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-24T16:30:00+01:00",
+  "endDate": "2026-11-24T18:41:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149456.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Martin McDonagh"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Wild Horse Nine",
+  "url": "https://www.filmvandaag.nl/film/149456-wild-horse-nine",
+  "description": "Kort voor de Chileense staatsgreep van 1973 worden CIA-agenten Chris (John Malkovich) en Lee (Sam Rockwell) door hun leidinggevende MJ (Steve Buscemi)…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-25T21:20:00+01:00",
+  "endDate": "2026-11-25T23:31:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/149000/149456.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Martin McDonagh"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Youth",
+  "url": "https://www.filmvandaag.nl/film/97495-youth",
+  "description": "Fred en Mick zijn twee oude vrienden die in een luxe resort in de Alpen vertoeven voor een lange vakantie. Ze kijken terug op hun veelbewogen leven…",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2026-11-29T19:00:00+01:00",
+  "endDate": "2026-11-29T21:19:00+01:00",
+  "image": "https://static.filmvandaag.nl/covers/97000/97495.jpg?width=1200&aspect_ratio=1%3A0.525",
+  "location": {
+   "@type": "Place",
+   "name": "Kriterion",
+   "address": "Roetersstraat 170, 1018 WE, Amsterdam"
+  },
+  "organizer": {
+   "@type": "Organization",
+   "name": "Kriterion",
+   "url": "http://www.kriterion.nl/"
+  },
+  "performer": {
+   "@type": "Person",
+   "name": "Paolo Sorrentino"
+  },
+  "offers": {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "EUR",
+   "url": "http://www.kriterion.nl/",
+   "availability": "https://schema.org/InStock",
+   "validFrom": "2026-11-23T00:00:00+01:00"
+  }
+ }
+]
