@@ -27,6 +27,14 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | Eye Filmmuseum | `eye` | RSC payload of `/whats-on` → themed programmes as series | ✅ (no single screenings) |
 | Kriterion | `kriterion` | **via Filmvandaag JSON-LD** (kriterion.nl = Cloudflare Turnstile) | ⚠️ thin: Sneak Preview + late-night |
 | LAB111 | `lab111` | WP REST + post pages – written & tested, **disabled** | ⛔ site serves a bot-check page to our identified UA |
+| Garage Noord *(added)* | `garagenoord` | WeTicket RSS feed (garagenoord.weticket.io) – exact times | ✅ incl. "bar40" nights |
+| Skatecafé *(added)* | `skatecafe` | WeTicket RSS feed (skatecafe.weticket.io); skatecafe.nl itself = bot check | ✅ |
+| Ingang *(added)* | `ingang` | WeTicket RSS feed (ingang.weticket.io) | ✅ (few events) |
+| FC Hyena *(added)* | `fchyena` | /films → Specials collection → /specials/<slug> prose dates + "elke derde dinsdag" rule | ✅ specials only (thin) |
+| Café 40 | – | probably Garage Noord's bar (Gedempt Hamerkanaal **40**; "bar40 hosted by…") → covered by `garagenoord` | ➖ |
+| Nachbar | – | only Instagram + DJGuide; no own site / ticket feed found | ⛔ |
+| Café Voorwaarts | – | no website or ticket feed found | ⛔ |
+| DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
 | Spui25 | – | Cloudflare Turnstile; uva.nl has no usable Spui25 feed | ⛔ not built |
 | Radar (squat.net) | – | public API works | ✗ declined by user |
 

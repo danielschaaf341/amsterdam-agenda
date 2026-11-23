@@ -224,3 +224,32 @@ def test_peppered_skips_performances_elsewhere():
     # tour dates elsewhere (De Schuur, Haarlem; Podium Mozaiek, Amsterdam) are skipped, and the
     # September festival reprise doesn't stretch the run
     assert teckel.start.date() == date(2027, 3, 11) and teckel.end.date() == date(2027, 4, 5)
+
+
+def test_weticket_venues():
+    from scrapers import garagenoord, skatecafe
+    sk = skatecafe.parse(load_fixture("skatecafe"), FIXTURE_DATE)
+    d = by_title(sk, "DRUKWERK")
+    assert d.title.startswith("DRUKWERK") and d.status == "sold_out"
+    assert d.start == datetime(2026, 11, 26, 18, 0, tzinfo=TZ)  # feed is UTC
+    assert by_title(sk, "SKATELES VOOR KIDS").category == "other"
+    gn = garagenoord.parse(load_fixture("garagenoord"), FIXTURE_DATE)
+    assert sum(e.category == "club" for e in gn) >= len(gn) - 2  # (daytime sound system = music)
+    assert by_title(gn, "Kynant").start == datetime(2026, 11, 28, 23, 30, tzinfo=TZ)
+
+
+def test_fchyena_specials_only():
+    from scrapers import fchyena
+    assert fchyena.nth_weekday(2026, 12, 1, 3) == date(2026, 12, 15)  # third Tuesday
+    events = fchyena.parse(load_fixture("fchyena"), FIXTURE_DATE)
+    scream = by_title(events, "Hyena Scream")
+    assert scream.start == datetime(2026, 11, 30, 11, 0, tzinfo=TZ) and "Paper Tiger" in scream.title
+    sneaks = [e for e in events if "sneak" in e.title.lower()]
+    assert [e.start.date() for e in sneaks] == [date(2026, 12, 15), date(2027, 1, 19)] and sneaks[0].all_day
+
+
+def test_ingang():
+    from scrapers import ingang
+    events = ingang.parse(load_fixture("ingang"), FIXTURE_DATE)
+    e = by_title(events, "Second Night")
+    assert e.venue == "Ingang" and e.start.date() == date(2026, 11, 28)

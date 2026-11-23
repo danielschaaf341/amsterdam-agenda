@@ -12,6 +12,7 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   http.py            polite Client: UA, 1.5 s delay per host, 6 h disk cache, Playwright render()
   _koepel.py         shared: The Movies + Filmhallen (/fk-feed/agenda JSON)
   _peppered.py       shared: Bellevue, Kleine Komedie, Frascati (Playwright, BunnyCDN JS check)
+  _weticket.py       shared: WeTicket storefront RSS feeds (Skatecafé, Garage Noord, Ingang)
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
@@ -61,7 +62,9 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
   Rialto Shaw Brothers, Eye retrospectives). Filmhuis Cavia is all curated → everything counts.
 - Theatre/film **runs** (many performances close together, `is_run`) → one series; monthly recurring
   shows stay individual events. Skip performances at other locations (tours).
-- Don't add Radar (squat.net) – the user declined it.
+- Don't add Radar (squat.net) – the user declined it. Don't use DJGuide (blocks automated access on
+  purpose) or Instagram (login wall). For small clubs, look for a ticket shop with a feed first:
+  `<name>.weticket.io` exposes `api.weticket.io/storefront/organizations/<uuid>/events.xml`.
 - **Never bypass bot protection** (Cloudflare Turnstile, "One moment, please…" pages, stealth tricks,
   UA spoofing to dodge blocks). The client raises `BlockedError` on such pages. A plain headless
   browser that passes a JS check (BunnyCDN `/csq/`) is fine. If a site blocks us: set `ENABLED = False`
