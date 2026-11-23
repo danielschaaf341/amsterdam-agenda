@@ -306,3 +306,16 @@ def test_tolhuistuin_own_programme():
     fair = by_title(events, "Colourful Noord Winter Fair")
     assert fair.start == datetime(2026, 12, 20, 12, 0, tzinfo=TZ) and fair.price == "gratis"
     assert by_title(events, "Toegankelijk uitgaansfeest").category == "club"
+
+
+def test_radar_venues():
+    from scrapers import joesgarage, vrankrijk
+    vk = vrankrijk.parse(load_fixture("vrankrijk"), FIXTURE_DATE)
+    pirate = [e for e in vk if e.title == "Friday Pirate Kitchen and Punk Night"]
+    assert len(pirate) == 1 and pirate[0].kind == "weekly" and pirate[0].category == "food"
+    assert pirate[0].subtitle == "Elke vr 19:00"
+    jg = joesgarage.parse(load_fixture("joesgarage"), FIXTURE_DATE)
+    voku = by_title(jg, "Benefit voku")
+    assert voku.category == "food" and voku.start == datetime(2026, 11, 23, 19, 0, tzinfo=TZ)
+    assert not any("Kraakspreekuur" in e.title for e in jg), "office hours are skipped"
+    assert all(e.venue in ("Vrankrijk", "Joe's Garage") for e in vk + jg)

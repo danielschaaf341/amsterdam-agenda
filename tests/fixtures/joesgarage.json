@@ -1,0 +1,843 @@
+[
+ {
+  "body": "Postaja: \"We are an anarchist community living in a squatted compound in Zagreb. Postaja is an old train repair complex where we have built a kind of solar punk utopia since 2020. We renovated it heavily, built spaces for creativity and sports. Neighbours and other people come for creative and polit",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795456800",
+    "value2": "1795456800",
+    "duration": 0,
+    "time_start": "2026-11-23T19:00:00+01:00",
+    "time_end": "2026-11-23T19:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Benefit voku for Postaja squat in Zagreb",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-23/benefit-voku-postaja-squat-zagreb",
+  "uuid": "02f407c3-b586-40be-977c-b9894f7ed968"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795543200",
+    "value2": "1795548600",
+    "duration": 5400,
+    "time_start": "2026-11-24T19:00:00+01:00",
+    "time_end": "2026-11-24T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-24/kraakspreekuur-oost",
+  "uuid": "4639e41a-1010-4e71-91c9-76b19b971764"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795615200",
+    "value2": "1795629600",
+    "duration": 14400,
+    "time_start": "2026-11-25T15:00:00+01:00",
+    "time_end": "2026-11-25T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/joes-salon",
+  "uuid": "14e742ac-e019-49f8-8e21-655b15ab5f2a"
+ },
+ {
+  "body": "Arabic conversational class, to practice verbs, conjugation and learn from each other. Come whatever level you have, its an open class structure where you can ask questions and get feedback or talk. Improvised teaching ;) Pleae come on time! Since June 2005, Joe's Garage is an autonomous squatted po",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "id": "2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "resource": "taxonomy_term",
+    "name": "course/workshop"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795618800",
+    "value2": "1795626000",
+    "duration": 7200,
+    "time_start": "2026-11-25T16:00:00+01:00",
+    "time_end": "2026-11-25T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Arab Spring class",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/arab-spring-class",
+  "uuid": "45a6285d-a445-4bff-9103-1f418f107255"
+ },
+ {
+  "body": "Proxycafe, free software workshops. Discussing tech and politics, GNU/Linux, fixing computers and revive old laptops, free and opensource software workshops. Zapatista coffee. https://proxycafe.puscii.nl/",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8463bb01-e974-4785-9c2d-b95d87c9ee2d",
+    "id": "8463bb01-e974-4785-9c2d-b95d87c9ee2d",
+    "resource": "taxonomy_term",
+    "name": "discussion/presentation"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795629600",
+    "value2": "1795640400",
+    "duration": 10800,
+    "time_start": "2026-11-25T19:00:00+01:00",
+    "time_end": "2026-11-25T22:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "proxycafe",
+  "url": "https://radar.squat.net/en/event/amsterdam/proxycafe/2026-11-25/proxycafe",
+  "uuid": "d565083a-40e9-463b-a1bb-02f3432f7ccd"
+ },
+ {
+  "body": "Volkseten Vegazulu is a people’s kitchens existing since the very beginning of Joe’s Garage, June 2005. Your donations are welcome. Food is vegan, no reservation. All benefits go to social &amp; political struggles. Joe’s Garage is a space run by volunteers. Without a collective effort, without your",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "id": "8e846372-fa86-4cb2-87d1-f24da784ec6b",
+    "resource": "taxonomy_term",
+    "name": "food"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795716000",
+    "duration": 0,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-26T19:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "For anarchist comrades and court case expenses from Greece",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-26/anarchist-comrades-and-court-case-expenses-greece",
+  "uuid": "b5b3f951-3199-4bb3-8b0c-830c36d875ba"
+ },
+ {
+  "body": "This is a weekly open practice session of east Mediterranean music, in which we play genres such as rebetiko and Greek/Balkan/Turkish/Middle Eastern folk music. Together we explore the melodic pathways, rhythms (e.g. 9/8, 7/8. 5/4) and harmonies of, as well as connections between these musical tradi",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795809600",
+    "value2": "1795820100",
+    "duration": 10500,
+    "time_start": "2026-11-27T21:00:00+01:00",
+    "time_end": "2026-11-27T23:55:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Aman molli: Practice of east Mediterranean Music",
+  "url": "https://radar.squat.net/en/event/aman-molli/2026-11-27/aman-molli-practice-east-mediterranean-music",
+  "uuid": "7c0717e2-ddf3-48f2-8a94-0f160c925b93"
+ },
+ {
+  "body": "In order to compensate frustrations about tedious work, waste of time, people keep buying worthless things and are not happy about it. In the meantime, mountains of waste are growing, air and water are becoming polluted. Moreover, most of our consumer goods are made in poor countries, where people h",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795870800",
+    "value2": "1795885200",
+    "duration": 14400,
+    "time_start": "2026-11-28T14:00:00+01:00",
+    "time_end": "2026-11-28T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Give away shop",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-28/give-away-shop",
+  "uuid": "26a99942-670d-42d5-af0b-2cfa3c6fe86e"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796148000",
+    "value2": "1796153400",
+    "duration": 5400,
+    "time_start": "2026-12-01T19:00:00+01:00",
+    "time_end": "2026-12-01T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-01/kraakspreekuur-oost",
+  "uuid": "a71cd05e-ff00-45f7-96fd-b5bade222afb"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796220000",
+    "value2": "1796234400",
+    "duration": 14400,
+    "time_start": "2026-12-02T15:00:00+01:00",
+    "time_end": "2026-12-02T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-02/joes-salon",
+  "uuid": "23128dae-a937-4186-b278-5f9300e51c2c"
+ },
+ {
+  "body": "Arabic conversational class, to practice verbs, conjugation and learn from each other. Come whatever level you have, its an open class structure where you can ask questions and get feedback or talk. Improvised teaching ;) Pleae come on time! Since June 2005, Joe's Garage is an autonomous squatted po",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "id": "2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "resource": "taxonomy_term",
+    "name": "course/workshop"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796223600",
+    "value2": "1796230800",
+    "duration": 7200,
+    "time_start": "2026-12-02T16:00:00+01:00",
+    "time_end": "2026-12-02T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Arab Spring class",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-02/arab-spring-class",
+  "uuid": "0650263c-1180-4886-940b-b8780e007715"
+ },
+ {
+  "body": "In order to compensate frustrations about tedious work, waste of time, people keep buying worthless things and are not happy about it. In the meantime, mountains of waste are growing, air and water are becoming polluted. Moreover, most of our consumer goods are made in poor countries, where people h",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796475600",
+    "value2": "1796490000",
+    "duration": 14400,
+    "time_start": "2026-12-05T14:00:00+01:00",
+    "time_end": "2026-12-05T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Give away shop",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-05/give-away-shop",
+  "uuid": "215daaa9-bf74-4d6e-af90-f12525e89023"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796752800",
+    "value2": "1796758200",
+    "duration": 5400,
+    "time_start": "2026-12-08T19:00:00+01:00",
+    "time_end": "2026-12-08T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-08/kraakspreekuur-oost",
+  "uuid": "0e7ed41e-fd2b-4c5e-9331-e654389abd4a"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796824800",
+    "value2": "1796839200",
+    "duration": 14400,
+    "time_start": "2026-12-09T15:00:00+01:00",
+    "time_end": "2026-12-09T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-09/joes-salon",
+  "uuid": "20c027af-200c-4e81-95fe-ac3c970a8a05"
+ },
+ {
+  "body": "In order to compensate frustrations about tedious work, waste of time, people keep buying worthless things and are not happy about it. In the meantime, mountains of waste are growing, air and water are becoming polluted. Moreover, most of our consumer goods are made in poor countries, where people h",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797080400",
+    "value2": "1797094800",
+    "duration": 14400,
+    "time_start": "2026-12-12T14:00:00+01:00",
+    "time_end": "2026-12-12T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Give away shop",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-12/give-away-shop",
+  "uuid": "936fe699-3164-4e5c-9737-132cf1b75b68"
+ },
+ {
+  "body": "Get involved at Joe's Garage, a squatted social center. Come along to figure out how you could contribute to such a space. Joe's Garage always needs active participants to remain open. Such a monthly meeting is also the moment to discuss your proposals, get to know each others, share tasks, plan the",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/20a888f9-54c1-4767-8af1-40de3d1d2636",
+    "id": "20a888f9-54c1-4767-8af1-40de3d1d2636",
+    "resource": "taxonomy_term",
+    "name": "meeting"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797100200",
+    "value2": "1797103800",
+    "duration": 3600,
+    "time_start": "2026-12-12T19:30:00+01:00",
+    "time_end": "2026-12-12T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=+2SA;BYMONTH=1,2,3,4,5,6,7,8,9,10,11,12;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Garage open assembly",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-12/joes-garage-open-assembly",
+  "uuid": "cd45c202-f5a6-46f0-a7a2-c3836be76ddb"
+ },
+ {
+  "body": "Doe deze zondag met ons mee voor All Crafts Are Beautiful ! Er is een tijd om samen de barricades op te gaan en er is een tijd om samen te komen om het samenkomen. Je kan je eigen handwerkproject meenemen maar we hebben ook garen, stof, een naaimachine, brei- en haaknaalden die je gratis mag gebruik",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "id": "2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "resource": "taxonomy_term",
+    "name": "course/workshop"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "id": "fc1d0760-6f0c-4239-be54-00ba7b97b965",
+    "resource": "taxonomy_term",
+    "name": "work space/diy"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797166800",
+    "value2": "1797181200",
+    "duration": 14400,
+    "time_start": "2026-12-13T14:00:00+01:00",
+    "time_end": "2026-12-13T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "All Crafts Are Beautiful",
+  "url": "https://radar.squat.net/en/node/600180",
+  "uuid": "039fa97a-9bbd-4014-856e-75974451360e"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797357600",
+    "value2": "1797363000",
+    "duration": 5400,
+    "time_start": "2026-12-15T19:00:00+01:00",
+    "time_end": "2026-12-15T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-15/kraakspreekuur-oost",
+  "uuid": "5a8618c4-3016-4bbe-a44c-655f80cd6599"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797429600",
+    "value2": "1797444000",
+    "duration": 14400,
+    "time_start": "2026-12-16T15:00:00+01:00",
+    "time_end": "2026-12-16T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-16/joes-salon",
+  "uuid": "896ab7fa-0f54-489e-a7dc-0eb3d589f0d7"
+ },
+ {
+  "body": "Arabic conversational class, to practice verbs, conjugation and learn from each other. Come whatever level you have, its an open class structure where you can ask questions and get feedback or talk. Improvised teaching ;) Pleae come on time! Since June 2005, Joe's Garage is an autonomous squatted po",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "id": "2a7f6975-4c01-4777-8611-dffe0306c06f",
+    "resource": "taxonomy_term",
+    "name": "course/workshop"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797433200",
+    "value2": "1797440400",
+    "duration": 7200,
+    "time_start": "2026-12-16T16:00:00+01:00",
+    "time_end": "2026-12-16T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Arab Spring class",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-16/arab-spring-class",
+  "uuid": "61935c17-29e0-468e-8a94-406430307b95"
+ },
+ {
+  "body": "In order to compensate frustrations about tedious work, waste of time, people keep buying worthless things and are not happy about it. In the meantime, mountains of waste are growing, air and water are becoming polluted. Moreover, most of our consumer goods are made in poor countries, where people h",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797685200",
+    "value2": "1797699600",
+    "duration": 14400,
+    "time_start": "2026-12-19T14:00:00+01:00",
+    "time_end": "2026-12-19T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Give away shop",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-19/give-away-shop",
+  "uuid": "7b537e65-b209-4d50-a41e-11e784a83db7"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797962400",
+    "value2": "1797967800",
+    "duration": 5400,
+    "time_start": "2026-12-22T19:00:00+01:00",
+    "time_end": "2026-12-22T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-22/kraakspreekuur-oost",
+  "uuid": "1b0be649-64be-401c-a922-679d00246f79"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798034400",
+    "value2": "1798048800",
+    "duration": 14400,
+    "time_start": "2026-12-23T15:00:00+01:00",
+    "time_end": "2026-12-23T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-23/joes-salon",
+  "uuid": "fff5233c-9c93-4d11-b9f6-decadb8cb481"
+ },
+ {
+  "body": "In order to compensate frustrations about tedious work, waste of time, people keep buying worthless things and are not happy about it. In the meantime, mountains of waste are growing, air and water are becoming polluted. Moreover, most of our consumer goods are made in poor countries, where people h",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "id": "0b9e8d1f-d51d-4d32-b984-2dba1099e0fa",
+    "resource": "taxonomy_term",
+    "name": "(free) shop/market"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798290000",
+    "value2": "1798304400",
+    "duration": 14400,
+    "time_start": "2026-12-26T14:00:00+01:00",
+    "time_end": "2026-12-26T18:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=SA;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Give away shop",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-26/give-away-shop",
+  "uuid": "7ee08b14-1db7-4a6e-a804-89373aeffe32"
+ },
+ {
+  "body": "Do you think it is unreasonable that your fundamental right to safe shelter is not taken into account? Are you angry because speculators are taking advantage of the housing shortage and the government is just pretending that it doesn't care? Despite the fact that squatting is forbidden in the Nether",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/e97f372b-29bc-460b-bff6-35d2462411ff",
+    "id": "e97f372b-29bc-460b-bff6-35d2462411ff",
+    "resource": "taxonomy_term",
+    "name": "advice/help/office hours"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798567200",
+    "value2": "1798572600",
+    "duration": 5400,
+    "time_start": "2026-12-29T19:00:00+01:00",
+    "time_end": "2026-12-29T20:30:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=TU;UNTIL=20261231T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Kraakspreekuur Oost",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-29/kraakspreekuur-oost",
+  "uuid": "1edd3da5-0c88-4038-9b43-fdfbcc77d88a"
+ },
+ {
+  "body": "Salon ~ Saloon - aimless hangout/ad hoc events listed on radar! Tea and coffee and snacks served. Want to hold a workshop, voku, or other event? Write to joe [at] lists [dot] squat [dot] net ! Donation-based, cash only. Proceeds go to structural maintenance, or whatever cause needs it.",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798639200",
+    "value2": "1798653600",
+    "duration": 14400,
+    "time_start": "2026-12-30T15:00:00+01:00",
+    "time_end": "2026-12-30T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=WE;UNTIL=20261230T225959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/22c11074-2477-4a49-9564-e0064bc640e2",
+    "id": "22c11074-2477-4a49-9564-e0064bc640e2",
+    "resource": "location",
+    "title": "Joe's Garage Pretoriusstraat 43  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Joe's Salon",
+  "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-12-30/joes-salon",
+  "uuid": "b81cd788-956e-4fba-bba6-ad544416ebe7"
+ }
+]

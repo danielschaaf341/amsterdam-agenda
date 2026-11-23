@@ -13,6 +13,7 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _koepel.py         shared: The Movies + Filmhallen (/fk-feed/agenda JSON)
   _peppered.py       shared: Bellevue, Kleine Komedie, Frascati (Playwright, BunnyCDN JS check)
   _weticket.py       shared: WeTicket storefront RSS feeds (Skatecafé, Garage Noord, Ingang)
+  _radar.py          shared: one Radar group per venue (Vrankrijk, Joe's Garage)
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
@@ -66,7 +67,8 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
   every performance** (user wish, `ita.GROUP_RUNS = False`).
 - **Food** is its own category. Repeating food items (lunch/dinner/eetcafé) → `collapse_recurring` →
   kind="weekly". Places without an agenda but with fixed food nights go in `recurring.json`.
-- Don't add Radar (squat.net) – the user declined it. Don't use DJGuide (blocks automated access on
+- Radar (squat.net) city-wide is declined by the user; per-venue Radar groups are fine (`_radar.py`,
+  used for Vrankrijk and Joe's Garage, whose own sites show that same agenda). Don't use DJGuide (blocks automated access on
   purpose) or Instagram (login wall). For small clubs, look for a ticket shop with a feed first:
   `<name>.weticket.io` exposes `api.weticket.io/storefront/organizations/<uuid>/events.xml`;
   `<name>.stager.co/shop/<name>` has schema.org Event JSON-LD; WordPress "The Events Calendar" sites

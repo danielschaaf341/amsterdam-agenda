@@ -1,0 +1,3162 @@
+[
+ {
+  "body": "Vegan Food at 7 30/ Benefit for Butter Fly Collective Live Music 21 00 Chuck SJ (UK) ‘Trans heartfelt punk’ / 22 00 Fairyluna 'Bubblegum hyperpop' free entry/ welcome to donate to touring artists Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795631400",
+    "value2": "1795647600",
+    "duration": 16200,
+    "time_start": "2026-11-25T19:30:00+01:00",
+    "time_end": "2026-11-26T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday/Live Music Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-25/wtf-queer-wednesday-live-music-night",
+  "uuid": "2a622287-c803-4d32-a523-a785666aa544"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795721400",
+    "duration": 5400,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-26T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/aaah-anarchist-action-assistance-hour",
+  "uuid": "77d6e33d-ea47-49cc-80bf-f8869e2fc9b4"
+ },
+ {
+  "body": "“Last minute show for Robber’s EP release weekender and the debut of Sharp Axe, a new international act with familiar faces. Money raised will be going to AAAH! (Anarchist Action Assistance Hour)” 19:00 - Antifa Cafe Amsterdam, w soup! 20:00 - Benefit Night for Anarchist Action Assistance Hour (AAAH",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795734000",
+    "duration": 18000,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-27T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": null,
+  "title": "Benefit night for Anarchist Action Assistance Hour (AAAH!)",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/benefit-night-anarchist-action-assistance-hour-aaah",
+  "uuid": "8f05f27c-0c99-4fad-96ea-8d1239d8de70"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795802400",
+    "value2": "1795802400",
+    "duration": 0,
+    "time_start": "2026-11-27T19:00:00+01:00",
+    "time_end": "2026-11-27T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-27/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4f245fdb-1f01-42a5-8bdc-3b4b40088d0c"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795993200",
+    "value2": "1795993200",
+    "duration": 0,
+    "time_start": "2026-11-30T00:00:00+01:00",
+    "time_end": "2026-11-30T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-30/amsterdam-street-medics",
+  "uuid": "fd1f2368-d242-4f6c-b4ad-6f8b03111a1c"
+ },
+ {
+  "body": "ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This event is hosted b",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796126400",
+    "value2": "1796144400",
+    "duration": 18000,
+    "time_start": "2026-12-01T13:00:00+01:00",
+    "time_end": "2026-12-01T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "ABC Community  Bike Repair",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-01/abc-community-bike-repair",
+  "uuid": "3b62a51c-d612-406d-a59c-e77c8d3cc301"
+ },
+ {
+  "body": "OPEN AT 9PM /No Voku Today/ WTF Q monthly mtg at 7pm/ all queers welcome",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796241600",
+    "value2": "1796256000",
+    "duration": 14400,
+    "time_start": "2026-12-02T21:00:00+01:00",
+    "time_end": "2026-12-03T01:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday NO VOKU/ WTF Q MTG",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-02/wtf-queer-wednesday-no-voku-wtf-q-mtg",
+  "uuid": "6fba0e82-f9ec-4dab-82f9-4db674901d8b"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796320800",
+    "value2": "1796326200",
+    "duration": 5400,
+    "time_start": "2026-12-03T19:00:00+01:00",
+    "time_end": "2026-12-03T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-03/aaah-anarchist-action-assistance-hour",
+  "uuid": "21072ed9-2be9-46bd-a41a-275b82d2c5aa"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796407200",
+    "value2": "1796407200",
+    "duration": 0,
+    "time_start": "2026-12-04T19:00:00+01:00",
+    "time_end": "2026-12-04T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-04/friday-pirate-kitchen-and-punk-night",
+  "uuid": "ebac75c7-9c2b-442e-8bb8-8870843ec91e"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796841000",
+    "value2": "1796857200",
+    "duration": 16200,
+    "time_start": "2026-12-09T19:30:00+01:00",
+    "time_end": "2026-12-10T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-09/wtf-queer-wednesday",
+  "uuid": "48744fde-51bc-43ee-89bf-a2a1f71d1a21"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796925600",
+    "value2": "1796931000",
+    "duration": 5400,
+    "time_start": "2026-12-10T19:00:00+01:00",
+    "time_end": "2026-12-10T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-10/aaah-anarchist-action-assistance-hour",
+  "uuid": "f1196b21-19ea-4ff3-9ac4-0cca8a87faeb"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797012000",
+    "value2": "1797012000",
+    "duration": 0,
+    "time_start": "2026-12-11T19:00:00+01:00",
+    "time_end": "2026-12-11T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-11/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f252cacb-62a4-42e7-81ea-3347bc8eeecd"
+ },
+ {
+  "body": "Abolish Borders Collective (ABC) is a group of No Border Activists organizing solidarity support in Ceuta. The conditions in which people on the move are currently stuck in the streets of Ceuta are horrific. A lot of people, including minors, are living on the streets without access to basic necessi",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/ff3e2872-6140-4645-98f0-784d656a9c5c",
+    "id": "ff3e2872-6140-4645-98f0-784d656a9c5c",
+    "resource": "taxonomy_term",
+    "name": "music/concert"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797098400",
+    "duration": 0,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T19:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "BANDS: HOLOCAUSTS - AKRABUT benefit for \"abolish borders collective\" Ceuta",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-12/bands-holocausts-akrabut-benefit-abolish-borders-collective",
+  "uuid": "db21287c-da3a-4735-8650-2944efc483c1"
+ },
+ {
+  "body": "Abolish Borders Collective (ABC) is a group of No Border Activists organizing solidarity support in Ceuta. The conditions in which people on the move are currently stuck in the streets of Ceuta are horrific. A lot of people, including minors, are living on the streets without access to basic necessi",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797115500",
+    "duration": 17100,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T23:45:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "BANDS: HOLOCAUSTS - AKRABUT benefit for \"abolish borders collective\" Ceuta",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-12/bands-holocausts-akrabut-benefit-abolish-borders-collective-0",
+  "uuid": "42f3f557-679e-440d-94e6-1d1c499c8783"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797202800",
+    "value2": "1797202800",
+    "duration": 0,
+    "time_start": "2026-12-14T00:00:00+01:00",
+    "time_end": "2026-12-14T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-14/amsterdam-street-medics",
+  "uuid": "1d217f09-dc46-4ec1-9be6-236677186c2f"
+ },
+ {
+  "body": "ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This event is hosted b",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797336000",
+    "value2": "1797354000",
+    "duration": 18000,
+    "time_start": "2026-12-15T13:00:00+01:00",
+    "time_end": "2026-12-15T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "ABC Community  Bike Repair",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-15/abc-community-bike-repair",
+  "uuid": "ac890608-d910-491c-8ece-0d71a43f9699"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797445800",
+    "value2": "1797462000",
+    "duration": 16200,
+    "time_start": "2026-12-16T19:30:00+01:00",
+    "time_end": "2026-12-17T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-16/wtf-queer-wednesday",
+  "uuid": "3bc8acfe-492d-4549-a60a-5f4fd8241f62"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797530400",
+    "value2": "1797535800",
+    "duration": 5400,
+    "time_start": "2026-12-17T19:00:00+01:00",
+    "time_end": "2026-12-17T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-17/aaah-anarchist-action-assistance-hour",
+  "uuid": "bbd5a543-846f-4f5a-8434-0543cc4fed0d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797616800",
+    "value2": "1797616800",
+    "duration": 0,
+    "time_start": "2026-12-18T19:00:00+01:00",
+    "time_end": "2026-12-18T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-18/friday-pirate-kitchen-and-punk-night",
+  "uuid": "49b8ec7a-4df6-48e2-bbba-9a140d1dcbbe"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797807600",
+    "value2": "1797807600",
+    "duration": 0,
+    "time_start": "2026-12-21T00:00:00+01:00",
+    "time_end": "2026-12-21T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-21/amsterdam-street-medics",
+  "uuid": "cc85309a-b2b3-4496-bf6a-e01b49ebc83a"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798050600",
+    "value2": "1798066800",
+    "duration": 16200,
+    "time_start": "2026-12-23T19:30:00+01:00",
+    "time_end": "2026-12-24T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-23/wtf-queer-wednesday",
+  "uuid": "a07f4dfe-a601-4065-8b98-d412c7e0226d"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798135200",
+    "value2": "1798140600",
+    "duration": 5400,
+    "time_start": "2026-12-24T19:00:00+01:00",
+    "time_end": "2026-12-24T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-24/aaah-anarchist-action-assistance-hour",
+  "uuid": "2907c661-c4ce-43dc-a90f-8d6d9b98626c"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798221600",
+    "value2": "1798221600",
+    "duration": 0,
+    "time_start": "2026-12-25T19:00:00+01:00",
+    "time_end": "2026-12-25T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-25/friday-pirate-kitchen-and-punk-night",
+  "uuid": "21830774-7b73-4019-9402-e53f052fa3f2"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798412400",
+    "value2": "1798412400",
+    "duration": 0,
+    "time_start": "2026-12-28T00:00:00+01:00",
+    "time_end": "2026-12-28T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-28/amsterdam-street-medics",
+  "uuid": "de734481-f9d7-4247-b5eb-f83b3998e826"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798826400",
+    "value2": "1798826400",
+    "duration": 0,
+    "time_start": "2027-01-01T19:00:00+01:00",
+    "time_end": "2027-01-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-01/friday-pirate-kitchen-and-punk-night",
+  "uuid": "83835d4d-780f-4f51-8647-567192ac18ee"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799431200",
+    "value2": "1799431200",
+    "duration": 0,
+    "time_start": "2027-01-08T19:00:00+01:00",
+    "time_end": "2027-01-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-08/friday-pirate-kitchen-and-punk-night",
+  "uuid": "10cf1b03-88e8-421e-8cf0-61f949757967"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800036000",
+    "value2": "1800036000",
+    "duration": 0,
+    "time_start": "2027-01-15T19:00:00+01:00",
+    "time_end": "2027-01-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-15/friday-pirate-kitchen-and-punk-night",
+  "uuid": "afdf9925-aef3-4b5b-b176-9dde645fdb56"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800640800",
+    "value2": "1800640800",
+    "duration": 0,
+    "time_start": "2027-01-22T19:00:00+01:00",
+    "time_end": "2027-01-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-22/friday-pirate-kitchen-and-punk-night",
+  "uuid": "aedf70f0-fa72-40c2-a0ca-6afeaf1db869"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801245600",
+    "value2": "1801245600",
+    "duration": 0,
+    "time_start": "2027-01-29T19:00:00+01:00",
+    "time_end": "2027-01-29T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-29/friday-pirate-kitchen-and-punk-night",
+  "uuid": "cc5db98d-835f-45fd-9c21-caf21e3ed8d0"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801850400",
+    "value2": "1801850400",
+    "duration": 0,
+    "time_start": "2027-02-05T19:00:00+01:00",
+    "time_end": "2027-02-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-05/friday-pirate-kitchen-and-punk-night",
+  "uuid": "08a61138-2ba8-4ae7-aef3-a63d42347260"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802455200",
+    "value2": "1802455200",
+    "duration": 0,
+    "time_start": "2027-02-12T19:00:00+01:00",
+    "time_end": "2027-02-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-12/friday-pirate-kitchen-and-punk-night",
+  "uuid": "16d541ac-64bb-41df-bb73-3cbb27e733c1"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803060000",
+    "value2": "1803060000",
+    "duration": 0,
+    "time_start": "2027-02-19T19:00:00+01:00",
+    "time_end": "2027-02-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-19/friday-pirate-kitchen-and-punk-night",
+  "uuid": "9c14ef4a-7263-442d-b390-13d641b98aa4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803664800",
+    "value2": "1803664800",
+    "duration": 0,
+    "time_start": "2027-02-26T19:00:00+01:00",
+    "time_end": "2027-02-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-26/friday-pirate-kitchen-and-punk-night",
+  "uuid": "36c702e0-fd48-44a5-afe2-78f7320456bd"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804269600",
+    "value2": "1804269600",
+    "duration": 0,
+    "time_start": "2027-03-05T19:00:00+01:00",
+    "time_end": "2027-03-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-05/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8a1dd1af-d50f-4634-a2b2-a92d3308eb8c"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804874400",
+    "value2": "1804874400",
+    "duration": 0,
+    "time_start": "2027-03-12T19:00:00+01:00",
+    "time_end": "2027-03-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-12/friday-pirate-kitchen-and-punk-night",
+  "uuid": "fbf233a0-3851-4b36-8918-23e18b0140d4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805479200",
+    "value2": "1805479200",
+    "duration": 0,
+    "time_start": "2027-03-19T19:00:00+01:00",
+    "time_end": "2027-03-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-19/friday-pirate-kitchen-and-punk-night",
+  "uuid": "2615b89a-7190-4011-875d-c3f89a015d69"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806084000",
+    "value2": "1806084000",
+    "duration": 0,
+    "time_start": "2027-03-26T19:00:00+01:00",
+    "time_end": "2027-03-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-26/friday-pirate-kitchen-and-punk-night",
+  "uuid": "1447ebc8-dbfc-4510-a861-6183bb9edcd1"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806685200",
+    "value2": "1806685200",
+    "duration": 0,
+    "time_start": "2027-04-02T19:00:00+02:00",
+    "time_end": "2027-04-02T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-02/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f58484f5-ff40-4c23-b0b2-5155449afcc4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807290000",
+    "value2": "1807290000",
+    "duration": 0,
+    "time_start": "2027-04-09T19:00:00+02:00",
+    "time_end": "2027-04-09T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-09/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8adc46c7-6777-480c-8897-45925ac66aac"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807894800",
+    "value2": "1807894800",
+    "duration": 0,
+    "time_start": "2027-04-16T19:00:00+02:00",
+    "time_end": "2027-04-16T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-16/friday-pirate-kitchen-and-punk-night",
+  "uuid": "5446ab46-1a03-469f-a427-180cbcc656d4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808499600",
+    "value2": "1808499600",
+    "duration": 0,
+    "time_start": "2027-04-23T19:00:00+02:00",
+    "time_end": "2027-04-23T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-23/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4817ba00-885c-4cb6-9890-74f667c71840"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809104400",
+    "value2": "1809104400",
+    "duration": 0,
+    "time_start": "2027-04-30T19:00:00+02:00",
+    "time_end": "2027-04-30T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-30/friday-pirate-kitchen-and-punk-night",
+  "uuid": "ade67e4e-c0b2-4d47-bac5-0d704c70dc6d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809709200",
+    "value2": "1809709200",
+    "duration": 0,
+    "time_start": "2027-05-07T19:00:00+02:00",
+    "time_end": "2027-05-07T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-07/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8b871bc0-0295-4749-a410-e4059fb88764"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810314000",
+    "value2": "1810314000",
+    "duration": 0,
+    "time_start": "2027-05-14T19:00:00+02:00",
+    "time_end": "2027-05-14T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-14/friday-pirate-kitchen-and-punk-night",
+  "uuid": "64d05f98-8509-48f4-a5d9-77e889cea0d8"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810918800",
+    "value2": "1810918800",
+    "duration": 0,
+    "time_start": "2027-05-21T19:00:00+02:00",
+    "time_end": "2027-05-21T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-21/friday-pirate-kitchen-and-punk-night",
+  "uuid": "556ad67f-81cc-4e5d-9cf5-0e1b6881199b"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811523600",
+    "value2": "1811523600",
+    "duration": 0,
+    "time_start": "2027-05-28T19:00:00+02:00",
+    "time_end": "2027-05-28T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-28/friday-pirate-kitchen-and-punk-night",
+  "uuid": "9dc0183e-0731-4b51-8edd-5dd63ac23d55"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812128400",
+    "value2": "1812128400",
+    "duration": 0,
+    "time_start": "2027-06-04T19:00:00+02:00",
+    "time_end": "2027-06-04T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-04/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f3588420-c0fc-4e6f-bde2-900b9130d469"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812733200",
+    "value2": "1812733200",
+    "duration": 0,
+    "time_start": "2027-06-11T19:00:00+02:00",
+    "time_end": "2027-06-11T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-11/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4d478120-64f8-4edf-9268-3756bd4c819d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813338000",
+    "value2": "1813338000",
+    "duration": 0,
+    "time_start": "2027-06-18T19:00:00+02:00",
+    "time_end": "2027-06-18T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-18/friday-pirate-kitchen-and-punk-night",
+  "uuid": "58b6df05-4390-4c80-9cab-d5edef762933"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813942800",
+    "value2": "1813942800",
+    "duration": 0,
+    "time_start": "2027-06-25T19:00:00+02:00",
+    "time_end": "2027-06-25T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-25/friday-pirate-kitchen-and-punk-night",
+  "uuid": "a90fad86-332a-4d8d-9135-6c08028c648b"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Benefit for Butter Fly Collective Live Music 21 00 Chuck SJ (UK) ‘Trans heartfelt punk’ / 22 00 Fairyluna 'Bubblegum hyperpop' free entry/ welcome to donate to touring artists Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795631400",
+    "value2": "1795647600",
+    "duration": 16200,
+    "time_start": "2026-11-25T19:30:00+01:00",
+    "time_end": "2026-11-26T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday/Live Music Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-25/wtf-queer-wednesday-live-music-night",
+  "uuid": "2a622287-c803-4d32-a523-a785666aa544"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795721400",
+    "duration": 5400,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-26T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/aaah-anarchist-action-assistance-hour",
+  "uuid": "77d6e33d-ea47-49cc-80bf-f8869e2fc9b4"
+ },
+ {
+  "body": "“Last minute show for Robber’s EP release weekender and the debut of Sharp Axe, a new international act with familiar faces. Money raised will be going to AAAH! (Anarchist Action Assistance Hour)” 19:00 - Antifa Cafe Amsterdam, w soup! 20:00 - Benefit Night for Anarchist Action Assistance Hour (AAAH",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795716000",
+    "value2": "1795734000",
+    "duration": 18000,
+    "time_start": "2026-11-26T19:00:00+01:00",
+    "time_end": "2026-11-27T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": null,
+  "title": "Benefit night for Anarchist Action Assistance Hour (AAAH!)",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-26/benefit-night-anarchist-action-assistance-hour-aaah",
+  "uuid": "8f05f27c-0c99-4fad-96ea-8d1239d8de70"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1795802400",
+    "value2": "1795802400",
+    "duration": 0,
+    "time_start": "2026-11-27T19:00:00+01:00",
+    "time_end": "2026-11-27T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-27/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4f245fdb-1f01-42a5-8bdc-3b4b40088d0c"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1795993200",
+    "value2": "1795993200",
+    "duration": 0,
+    "time_start": "2026-11-30T00:00:00+01:00",
+    "time_end": "2026-11-30T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-11-30/amsterdam-street-medics",
+  "uuid": "fd1f2368-d242-4f6c-b4ad-6f8b03111a1c"
+ },
+ {
+  "body": "ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This event is hosted b",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796126400",
+    "value2": "1796144400",
+    "duration": 18000,
+    "time_start": "2026-12-01T13:00:00+01:00",
+    "time_end": "2026-12-01T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "ABC Community  Bike Repair",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-01/abc-community-bike-repair",
+  "uuid": "3b62a51c-d612-406d-a59c-e77c8d3cc301"
+ },
+ {
+  "body": "OPEN AT 9PM /No Voku Today/ WTF Q monthly mtg at 7pm/ all queers welcome",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796241600",
+    "value2": "1796256000",
+    "duration": 14400,
+    "time_start": "2026-12-02T21:00:00+01:00",
+    "time_end": "2026-12-03T01:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday NO VOKU/ WTF Q MTG",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-02/wtf-queer-wednesday-no-voku-wtf-q-mtg",
+  "uuid": "6fba0e82-f9ec-4dab-82f9-4db674901d8b"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796320800",
+    "value2": "1796326200",
+    "duration": 5400,
+    "time_start": "2026-12-03T19:00:00+01:00",
+    "time_end": "2026-12-03T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-03/aaah-anarchist-action-assistance-hour",
+  "uuid": "21072ed9-2be9-46bd-a41a-275b82d2c5aa"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1796407200",
+    "value2": "1796407200",
+    "duration": 0,
+    "time_start": "2026-12-04T19:00:00+01:00",
+    "time_end": "2026-12-04T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-04/friday-pirate-kitchen-and-punk-night",
+  "uuid": "ebac75c7-9c2b-442e-8bb8-8870843ec91e"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796841000",
+    "value2": "1796857200",
+    "duration": 16200,
+    "time_start": "2026-12-09T19:30:00+01:00",
+    "time_end": "2026-12-10T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-09/wtf-queer-wednesday",
+  "uuid": "48744fde-51bc-43ee-89bf-a2a1f71d1a21"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1796925600",
+    "value2": "1796931000",
+    "duration": 5400,
+    "time_start": "2026-12-10T19:00:00+01:00",
+    "time_end": "2026-12-10T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-10/aaah-anarchist-action-assistance-hour",
+  "uuid": "f1196b21-19ea-4ff3-9ac4-0cca8a87faeb"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797012000",
+    "value2": "1797012000",
+    "duration": 0,
+    "time_start": "2026-12-11T19:00:00+01:00",
+    "time_end": "2026-12-11T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-11/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f252cacb-62a4-42e7-81ea-3347bc8eeecd"
+ },
+ {
+  "body": "Abolish Borders Collective (ABC) is a group of No Border Activists organizing solidarity support in Ceuta. The conditions in which people on the move are currently stuck in the streets of Ceuta are horrific. A lot of people, including minors, are living on the streets without access to basic necessi",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   },
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/ff3e2872-6140-4645-98f0-784d656a9c5c",
+    "id": "ff3e2872-6140-4645-98f0-784d656a9c5c",
+    "resource": "taxonomy_term",
+    "name": "music/concert"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797098400",
+    "duration": 0,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T19:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "BANDS: HOLOCAUSTS - AKRABUT benefit for \"abolish borders collective\" Ceuta",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-12/bands-holocausts-akrabut-benefit-abolish-borders-collective",
+  "uuid": "db21287c-da3a-4735-8650-2944efc483c1"
+ },
+ {
+  "body": "Abolish Borders Collective (ABC) is a group of No Border Activists organizing solidarity support in Ceuta. The conditions in which people on the move are currently stuck in the streets of Ceuta are horrific. A lot of people, including minors, are living on the streets without access to basic necessi",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797098400",
+    "value2": "1797115500",
+    "duration": 17100,
+    "time_start": "2026-12-12T19:00:00+01:00",
+    "time_end": "2026-12-12T23:45:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "BANDS: HOLOCAUSTS - AKRABUT benefit for \"abolish borders collective\" Ceuta",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-12/bands-holocausts-akrabut-benefit-abolish-borders-collective-0",
+  "uuid": "42f3f557-679e-440d-94e6-1d1c499c8783"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797202800",
+    "value2": "1797202800",
+    "duration": 0,
+    "time_start": "2026-12-14T00:00:00+01:00",
+    "time_end": "2026-12-14T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-14/amsterdam-street-medics",
+  "uuid": "1d217f09-dc46-4ec1-9be6-236677186c2f"
+ },
+ {
+  "body": "ABC Community bike repair event Is your bike making a weird noise? Do you just need a 15mm wrench to tighten the wheels? Or do you want to pimp your ride? ABC is hosting a community bike repair session at the Vrankrijk on the 1st and 3rd Tuesdays of the month from 13:00-18:00. This event is hosted b",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797336000",
+    "value2": "1797354000",
+    "duration": 18000,
+    "time_start": "2026-12-15T13:00:00+01:00",
+    "time_end": "2026-12-15T18:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "ABC Community  Bike Repair",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-15/abc-community-bike-repair",
+  "uuid": "ac890608-d910-491c-8ece-0d71a43f9699"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797445800",
+    "value2": "1797462000",
+    "duration": 16200,
+    "time_start": "2026-12-16T19:30:00+01:00",
+    "time_end": "2026-12-17T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-16/wtf-queer-wednesday",
+  "uuid": "3bc8acfe-492d-4549-a60a-5f4fd8241f62"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797530400",
+    "value2": "1797535800",
+    "duration": 5400,
+    "time_start": "2026-12-17T19:00:00+01:00",
+    "time_end": "2026-12-17T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-17/aaah-anarchist-action-assistance-hour",
+  "uuid": "bbd5a543-846f-4f5a-8434-0543cc4fed0d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1797616800",
+    "value2": "1797616800",
+    "duration": 0,
+    "time_start": "2026-12-18T19:00:00+01:00",
+    "time_end": "2026-12-18T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-18/friday-pirate-kitchen-and-punk-night",
+  "uuid": "49b8ec7a-4df6-48e2-bbba-9a140d1dcbbe"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1797807600",
+    "value2": "1797807600",
+    "duration": 0,
+    "time_start": "2026-12-21T00:00:00+01:00",
+    "time_end": "2026-12-21T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-21/amsterdam-street-medics",
+  "uuid": "cc85309a-b2b3-4496-bf6a-e01b49ebc83a"
+ },
+ {
+  "body": "Vegan Food at 7 30/ Open til Midnight / We are DIY Community Based/ Hosting Queer Events",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798050600",
+    "value2": "1798066800",
+    "duration": 16200,
+    "time_start": "2026-12-23T19:30:00+01:00",
+    "time_end": "2026-12-24T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "WTF Queer Wednesday",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-23/wtf-queer-wednesday",
+  "uuid": "a07f4dfe-a601-4065-8b98-d412c7e0226d"
+ },
+ {
+  "body": "What is AAAH!? AAAH! is a weekly Anarchist Action Assistance Hour, where you can meet other groups that can support you with pulling off your action, or give advice about logistics. During AAAH! you can make connections with groups including, but not limited to: Street Medics, Support &amp; Recovery",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798135200",
+    "value2": "1798140600",
+    "duration": 5400,
+    "time_start": "2026-12-24T19:00:00+01:00",
+    "time_end": "2026-12-24T20:30:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "AAAH!!! Anarchist Action Assistance Hour",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-24/aaah-anarchist-action-assistance-hour",
+  "uuid": "2907c661-c4ce-43dc-a90f-8d6d9b98626c"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798221600",
+    "value2": "1798221600",
+    "duration": 0,
+    "time_start": "2026-12-25T19:00:00+01:00",
+    "time_end": "2026-12-25T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-25/friday-pirate-kitchen-and-punk-night",
+  "uuid": "21830774-7b73-4019-9402-e53f052fa3f2"
+ },
+ {
+  "body": "Amsterdam Street Medics provide first aid, emergency care (at actions, demos, and other activist hot spots), assistance with health related issues, aid in locating resources (such as mental health support, addiction treatment, etc), and listening. We offer periodic training for new medics. We want t",
+  "category": [],
+  "date_time": [
+   {
+    "value": "1798412400",
+    "value2": "1798412400",
+    "duration": 0,
+    "time_start": "2026-12-28T00:00:00+01:00",
+    "time_end": "2026-12-28T00:00:00+01:00",
+    "rrule": null
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Amsterdam Street Medics",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-12-28/amsterdam-street-medics",
+  "uuid": "de734481-f9d7-4247-b5eb-f83b3998e826"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1798826400",
+    "value2": "1798826400",
+    "duration": 0,
+    "time_start": "2027-01-01T19:00:00+01:00",
+    "time_end": "2027-01-01T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-01/friday-pirate-kitchen-and-punk-night",
+  "uuid": "83835d4d-780f-4f51-8647-567192ac18ee"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1799431200",
+    "value2": "1799431200",
+    "duration": 0,
+    "time_start": "2027-01-08T19:00:00+01:00",
+    "time_end": "2027-01-08T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-08/friday-pirate-kitchen-and-punk-night",
+  "uuid": "10cf1b03-88e8-421e-8cf0-61f949757967"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800036000",
+    "value2": "1800036000",
+    "duration": 0,
+    "time_start": "2027-01-15T19:00:00+01:00",
+    "time_end": "2027-01-15T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-15/friday-pirate-kitchen-and-punk-night",
+  "uuid": "afdf9925-aef3-4b5b-b176-9dde645fdb56"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1800640800",
+    "value2": "1800640800",
+    "duration": 0,
+    "time_start": "2027-01-22T19:00:00+01:00",
+    "time_end": "2027-01-22T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-22/friday-pirate-kitchen-and-punk-night",
+  "uuid": "aedf70f0-fa72-40c2-a0ca-6afeaf1db869"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801245600",
+    "value2": "1801245600",
+    "duration": 0,
+    "time_start": "2027-01-29T19:00:00+01:00",
+    "time_end": "2027-01-29T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-01-29/friday-pirate-kitchen-and-punk-night",
+  "uuid": "cc5db98d-835f-45fd-9c21-caf21e3ed8d0"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1801850400",
+    "value2": "1801850400",
+    "duration": 0,
+    "time_start": "2027-02-05T19:00:00+01:00",
+    "time_end": "2027-02-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-05/friday-pirate-kitchen-and-punk-night",
+  "uuid": "08a61138-2ba8-4ae7-aef3-a63d42347260"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1802455200",
+    "value2": "1802455200",
+    "duration": 0,
+    "time_start": "2027-02-12T19:00:00+01:00",
+    "time_end": "2027-02-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-12/friday-pirate-kitchen-and-punk-night",
+  "uuid": "16d541ac-64bb-41df-bb73-3cbb27e733c1"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803060000",
+    "value2": "1803060000",
+    "duration": 0,
+    "time_start": "2027-02-19T19:00:00+01:00",
+    "time_end": "2027-02-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-19/friday-pirate-kitchen-and-punk-night",
+  "uuid": "9c14ef4a-7263-442d-b390-13d641b98aa4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1803664800",
+    "value2": "1803664800",
+    "duration": 0,
+    "time_start": "2027-02-26T19:00:00+01:00",
+    "time_end": "2027-02-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-02-26/friday-pirate-kitchen-and-punk-night",
+  "uuid": "36c702e0-fd48-44a5-afe2-78f7320456bd"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804269600",
+    "value2": "1804269600",
+    "duration": 0,
+    "time_start": "2027-03-05T19:00:00+01:00",
+    "time_end": "2027-03-05T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-05/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8a1dd1af-d50f-4634-a2b2-a92d3308eb8c"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1804874400",
+    "value2": "1804874400",
+    "duration": 0,
+    "time_start": "2027-03-12T19:00:00+01:00",
+    "time_end": "2027-03-12T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-12/friday-pirate-kitchen-and-punk-night",
+  "uuid": "fbf233a0-3851-4b36-8918-23e18b0140d4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1805479200",
+    "value2": "1805479200",
+    "duration": 0,
+    "time_start": "2027-03-19T19:00:00+01:00",
+    "time_end": "2027-03-19T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-19/friday-pirate-kitchen-and-punk-night",
+  "uuid": "2615b89a-7190-4011-875d-c3f89a015d69"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806084000",
+    "value2": "1806084000",
+    "duration": 0,
+    "time_start": "2027-03-26T19:00:00+01:00",
+    "time_end": "2027-03-26T19:00:00+01:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-03-26/friday-pirate-kitchen-and-punk-night",
+  "uuid": "1447ebc8-dbfc-4510-a861-6183bb9edcd1"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1806685200",
+    "value2": "1806685200",
+    "duration": 0,
+    "time_start": "2027-04-02T19:00:00+02:00",
+    "time_end": "2027-04-02T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-02/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f58484f5-ff40-4c23-b0b2-5155449afcc4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807290000",
+    "value2": "1807290000",
+    "duration": 0,
+    "time_start": "2027-04-09T19:00:00+02:00",
+    "time_end": "2027-04-09T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-09/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8adc46c7-6777-480c-8897-45925ac66aac"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1807894800",
+    "value2": "1807894800",
+    "duration": 0,
+    "time_start": "2027-04-16T19:00:00+02:00",
+    "time_end": "2027-04-16T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-16/friday-pirate-kitchen-and-punk-night",
+  "uuid": "5446ab46-1a03-469f-a427-180cbcc656d4"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1808499600",
+    "value2": "1808499600",
+    "duration": 0,
+    "time_start": "2027-04-23T19:00:00+02:00",
+    "time_end": "2027-04-23T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-23/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4817ba00-885c-4cb6-9890-74f667c71840"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809104400",
+    "value2": "1809104400",
+    "duration": 0,
+    "time_start": "2027-04-30T19:00:00+02:00",
+    "time_end": "2027-04-30T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-04-30/friday-pirate-kitchen-and-punk-night",
+  "uuid": "ade67e4e-c0b2-4d47-bac5-0d704c70dc6d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1809709200",
+    "value2": "1809709200",
+    "duration": 0,
+    "time_start": "2027-05-07T19:00:00+02:00",
+    "time_end": "2027-05-07T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-07/friday-pirate-kitchen-and-punk-night",
+  "uuid": "8b871bc0-0295-4749-a410-e4059fb88764"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810314000",
+    "value2": "1810314000",
+    "duration": 0,
+    "time_start": "2027-05-14T19:00:00+02:00",
+    "time_end": "2027-05-14T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-14/friday-pirate-kitchen-and-punk-night",
+  "uuid": "64d05f98-8509-48f4-a5d9-77e889cea0d8"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1810918800",
+    "value2": "1810918800",
+    "duration": 0,
+    "time_start": "2027-05-21T19:00:00+02:00",
+    "time_end": "2027-05-21T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-21/friday-pirate-kitchen-and-punk-night",
+  "uuid": "556ad67f-81cc-4e5d-9cf5-0e1b6881199b"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1811523600",
+    "value2": "1811523600",
+    "duration": 0,
+    "time_start": "2027-05-28T19:00:00+02:00",
+    "time_end": "2027-05-28T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-05-28/friday-pirate-kitchen-and-punk-night",
+  "uuid": "9dc0183e-0731-4b51-8edd-5dd63ac23d55"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812128400",
+    "value2": "1812128400",
+    "duration": 0,
+    "time_start": "2027-06-04T19:00:00+02:00",
+    "time_end": "2027-06-04T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-04/friday-pirate-kitchen-and-punk-night",
+  "uuid": "f3588420-c0fc-4e6f-bde2-900b9130d469"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1812733200",
+    "value2": "1812733200",
+    "duration": 0,
+    "time_start": "2027-06-11T19:00:00+02:00",
+    "time_end": "2027-06-11T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-11/friday-pirate-kitchen-and-punk-night",
+  "uuid": "4d478120-64f8-4edf-9268-3756bd4c819d"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813338000",
+    "value2": "1813338000",
+    "duration": 0,
+    "time_start": "2027-06-18T19:00:00+02:00",
+    "time_end": "2027-06-18T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-18/friday-pirate-kitchen-and-punk-night",
+  "uuid": "58b6df05-4390-4c80-9cab-d5edef762933"
+ },
+ {
+  "body": "FRIDAY, VRANKRIJK IS OPEN FROM 19:00 TO 00:00. WE’VE GOT VEGAN FOOD FROM 7PM! WE ARE ALSO HELPING TO COLLECT DONATIONS FOR PEOPLE ON THE MOVE IN THE STREETS OF CEUTA -Camping: Towels, Bedding, Sleeping bags, Backpacks, Tents, Tarps. -Clothes: Men’s clothing, new underwear and socks, Sneakers and fli",
+  "category": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/taxonomy_term/2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "id": "2a56c4d7-eb98-4f96-9ac6-d383a1af5ce8",
+    "resource": "taxonomy_term",
+    "name": "bar/cafe"
+   }
+  ],
+  "date_time": [
+   {
+    "value": "1813942800",
+    "value2": "1813942800",
+    "duration": 0,
+    "time_start": "2027-06-25T19:00:00+02:00",
+    "time_end": "2027-06-25T19:00:00+02:00",
+    "rrule": "RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=FR;UNTIL=20270831T215959Z;WKST=MO"
+   }
+  ],
+  "price": null,
+  "offline": [
+   {
+    "uri": "https://radar.squat.net/api/1.2/location/b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "id": "b64778f7-d25c-472e-86ae-29413bc01b3a",
+    "resource": "location",
+    "title": "Vrankrijk Spuistraat 216  Amsterdam Pays-Bas"
+   }
+  ],
+  "event_status": "confirmed",
+  "title": "Friday Pirate Kitchen and Punk Night",
+  "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2027-06-25/friday-pirate-kitchen-and-punk-night",
+  "uuid": "a90fad86-332a-4d8d-9135-6c08028c648b"
+ }
+]

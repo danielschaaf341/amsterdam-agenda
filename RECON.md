@@ -38,9 +38,11 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | Tolhuistuin own programme *(added)* | `tolhuistuin` | `:all-items` JSON on /agenda; Paradiso concerts skipped | ✅ |
 | Carré *(added)* | `carre` | site JSON `/api/render/production-page-list-nl` | ✅ runs → series |
 | De Sering | `recurring` (recurring.json) | desering.org = Cloudflare; GitHub Pages mirror is stale (Dec 2025) | ➖ community kitchen as weekly "food" item |
+| Vrankrijk *(added)* | `vrankrijk` | Radar group 137050 (= the agenda on vrankrijk.org) | ✅ incl. Friday Pirate Kitchen (weekly, food) |
+| Joe's Garage *(added)* | `joesgarage` | Radar group 41 (= the agenda on joesgarage.nl) | ✅ vokus, salon, give-away shop |
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
 | Spui25 | – | Cloudflare Turnstile; uva.nl has no usable Spui25 feed | ⛔ not built |
-| Radar (squat.net) | – | public API works | ✗ declined by user |
+| Radar (squat.net) | `_radar.py` | public API | city-wide feed declined by user; used **per venue group** only (Vrankrijk, Joe's Garage) |
 
 ---
 
