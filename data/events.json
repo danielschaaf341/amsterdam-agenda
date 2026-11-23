@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T13:54:48+01:00",
+ "generated": "2026-11-23T14:20:20+01:00",
  "window_days": 42,
- "count": 850,
+ "count": 928,
  "events": [
   {
    "id": "eye-1633828",
@@ -17,6 +17,19 @@
    "all_day": true,
    "subtitle": "Tentoonstelling, Films, Talks & Events · Über das Leben, die Liebe und den Tod",
    "source": "eye"
+  },
+  {
+   "id": "brakkegrond-994",
+   "title": "Mekhitar Garabedian: Alep (Bronze Lamp)",
+   "venue": "De Brakke Grond",
+   "start": "2026-10-25T00:00:00+02:00",
+   "url": "https://brakkegrond.nl/agenda/994/mekhitar-garabedian",
+   "category": "other",
+   "end": "2026-11-25T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "brakkegrond"
   },
   {
    "id": "amsterdamalternative-42800e9d2eb6",
@@ -90,6 +103,18 @@
    "source": "bellevue"
   },
   {
+   "id": "mkz-7da650c3cb09",
+   "title": "MKZ Studycafé",
+   "venue": "MKZ",
+   "start": "2026-11-23T10:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-23/mkz-studycafe",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke ma 10:00",
+   "source": "mkz"
+  },
+  {
    "id": "tolhuistuin-e28529942718",
    "title": "The Space Choir",
    "venue": "Tolhuistuin",
@@ -137,7 +162,7 @@
    "category": "film",
    "end": "2026-11-23T21:11:00+01:00",
    "status": "normal",
-   "image": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg",
+   "image": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg?t=1795438206",
    "kind": "event",
    "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 1",
    "source": "themovies"
@@ -165,6 +190,18 @@
    "status": "normal",
    "kind": "event",
    "source": "joesgarage"
+  },
+  {
+   "id": "mezrab-5073",
+   "title": "Mezrab Comedy Open Mic",
+   "venue": "Mezrab",
+   "start": "2026-11-23T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-11-23/",
+   "category": "theatre",
+   "end": "2026-11-23T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "amsterdamalternative-23486",
@@ -350,6 +387,18 @@
    "source": "paradiso"
   },
   {
+   "id": "mollichaoot-1579fbe54dcb",
+   "title": "Vegan Voku and Free Market",
+   "venue": "Molli Chaoot",
+   "start": "2026-11-24T18:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/vegan-voku-and-free-market",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke di 18:00",
+   "source": "mollichaoot"
+  },
+  {
    "id": "filmhallen-206065",
    "title": "Fjord (Preview)",
    "venue": "Filmhallen",
@@ -362,6 +411,30 @@
    "kind": "event",
    "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 2",
    "source": "filmhallen"
+  },
+  {
+   "id": "mezrab-5018",
+   "title": "Pearls on a String",
+   "venue": "Mezrab",
+   "start": "2026-11-24T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/pearls-on-a-string-2026-11-24/",
+   "category": "music",
+   "end": "2026-11-24T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
+   "id": "mollichaoot-d1c9dd4223c7",
+   "title": "Molli's Mixed Media Mashup",
+   "venue": "Molli Chaoot",
+   "start": "2026-11-24T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-11-24/mollis-mixed-media-mashup",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke di 19:00",
+   "source": "mollichaoot"
   },
   {
    "id": "zwijger-queer-poetry-night-24",
@@ -674,6 +747,18 @@
    "source": "cavia"
   },
   {
+   "id": "mkz-0dfccbe215e4",
+   "title": "Early Wednesday @ MKZ",
+   "venue": "MKZ",
+   "start": "2026-11-25T17:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-25/early-wednesday-mkz",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke wo 17:00",
+   "source": "mkz"
+  },
+  {
    "id": "tolhuistuin-6c60e9e02001",
    "title": "Het Mannengesprek: Echte mannen praten",
    "venue": "Tolhuistuin",
@@ -694,11 +779,24 @@
    "venue": "Zaal 100",
    "start": "2026-11-25T18:00:00+01:00",
    "url": "https://zaal100.nl/event/25-11-2026-yayang/",
-   "category": "jazz",
+   "category": "food",
    "status": "normal",
    "price": "€12",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "recurring-cfb1ae099f92",
+   "title": "Restaurant: Yayang (Aziatisch)",
+   "venue": "Zaal 100",
+   "start": "2026-11-25T18:00:00+01:00",
+   "url": "https://zaal100.nl/",
+   "category": "food",
+   "end": "2027-01-04T18:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke wo 18:00 · De Wittenstraat 100 · ± €12",
+   "source": "recurring"
   },
   {
    "id": "jazzin-2276609",
@@ -722,6 +820,18 @@
    "status": "normal",
    "kind": "event",
    "source": "joesgarage"
+  },
+  {
+   "id": "mezrab-4827",
+   "title": "Open Stage Storytelling Night",
+   "venue": "Mezrab",
+   "start": "2026-11-25T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-11-25/",
+   "category": "talk",
+   "end": "2026-11-25T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "jazzin-2281154",
@@ -1122,7 +1232,7 @@
    "venue": "Zaal 100",
    "start": "2026-11-26T18:00:00+01:00",
    "url": "https://zaal100.nl/event/26-11-2026-sisi-sevgi-koken/",
-   "category": "jazz",
+   "category": "food",
    "status": "normal",
    "price": "€12",
    "kind": "event",
@@ -1138,6 +1248,31 @@
    "status": "normal",
    "kind": "event",
    "source": "joesgarage"
+  },
+  {
+   "id": "mkz-21ba7c2bde45",
+   "title": "MKZ Eetcafé",
+   "venue": "MKZ",
+   "start": "2026-11-26T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/596285",
+   "category": "food",
+   "status": "normal",
+   "price": "€5",
+   "kind": "weekly",
+   "subtitle": "Elke do, vr, za 19:00",
+   "source": "mkz"
+  },
+  {
+   "id": "mezrab-5117",
+   "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 Years! ♫",
+   "venue": "Mezrab",
+   "start": "2026-11-26T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/clubamsterdamklezmer-band/",
+   "category": "music",
+   "end": "2026-11-26T22:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "vrankrijk-13a916a09e1a",
@@ -1383,7 +1518,7 @@
    "venue": "Pakhuis de Zwijger",
    "start": "2026-11-26T20:00:00+01:00",
    "url": "https://dezwijger.nl/programma/club-apocalypso",
-   "category": "club",
+   "category": "theatre",
    "status": "normal",
    "image": "https://images.intuitive.nl/unsafe/330x190/smart/https://admin.dezwijger.nl/wp-content/uploads/2026/10/liggendeversiewarmingup.JPG.png",
    "kind": "event",
@@ -1749,6 +1884,31 @@
    "source": "cavia"
   },
   {
+   "id": "mkz-ff3f879f4c32",
+   "title": "MKZ Eetcafé - No border mutual aid voku",
+   "venue": "MKZ",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/596286",
+   "category": "food",
+   "status": "normal",
+   "price": "€5",
+   "kind": "weekly",
+   "subtitle": "Elke do, vr, za 19:00",
+   "source": "mkz"
+  },
+  {
+   "id": "mezrab-4880",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-11-27/",
+   "category": "talk",
+   "end": "2026-11-27T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "ot301-23457",
    "title": "[WHERE] I BELONG - 2ND SHORTS COMPETITION (social prorgammers)",
    "venue": "OT301",
@@ -1767,7 +1927,7 @@
    "venue": "Pakhuis de Zwijger",
    "start": "2026-11-27T19:00:00+01:00",
    "url": "https://dezwijger.nl/programma/one-more-round-mahjong-meet",
-   "category": "club",
+   "category": "talk",
    "status": "normal",
    "image": "https://images.intuitive.nl/unsafe/330x190/smart/https://admin.dezwijger.nl/wp-content/uploads/2026/11/rTkf7HeKFRHj7IWwcJA1Brk8J1Mnh2TIUialbSPYy9oRp0gC-e1793890809307.jpg",
    "kind": "event",
@@ -1824,6 +1984,18 @@
    "kind": "event",
    "subtitle": "RIGHTABOUTNOW.INC – live podcastaflevering",
    "source": "debalie"
+  },
+  {
+   "id": "brakkegrond-996",
+   "title": "BauGrond: Bau & de Brakke Grond",
+   "venue": "De Brakke Grond",
+   "start": "2026-11-27T19:30:00+01:00",
+   "url": "https://brakkegrond.nl/agenda/996/baugrond",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Performance Programma",
+   "source": "brakkegrond"
   },
   {
    "id": "paradiso-2765584",
@@ -2211,12 +2383,26 @@
    "venue": "Paradiso",
    "start": "2026-11-27T22:00:00+01:00",
    "url": "https://www.paradiso.nl/programma/the-bug-club/2925624",
-   "category": "club",
+   "category": "music",
    "status": "normal",
    "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/04-scaled-1.jpg",
    "kind": "event",
    "subtitle": "Productieve indieband uit Wales maakt eigenzinnige garagepop",
    "source": "paradiso"
+  },
+  {
+   "id": "radion-111697745",
+   "title": "Labyrinth Weekend",
+   "venue": "Radion",
+   "start": "2026-11-27T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111697745",
+   "category": "club",
+   "end": "2026-11-28T09:00:00+01:00",
+   "status": "normal",
+   "price": "€ 17,50–€ 36,50",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441316/WhatsApp-Image-2026-09-17-at-18.37.43-2-0da6.jpeg",
+   "kind": "event",
+   "source": "radion"
   },
   {
    "id": "skatecafe-f58b399c-9c66-412f-9242-cde63bd597cd",
@@ -2283,6 +2469,32 @@
    "kind": "event",
    "subtitle": "Clubnacht met dubstep, bassline, grime, garage",
    "source": "paradiso"
+  },
+  {
+   "id": "lofi-c251c88a115f",
+   "title": "Dax J [all night long]",
+   "venue": "Lofi",
+   "start": "2026-11-28T00:00:00+01:00",
+   "url": "https://weeztix.shop/q7x57t6d",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
+   "id": "thuishaven-20261128jeffmillsrodblankamo",
+   "title": "Jeff Mills / ROD / BLANKA & more",
+   "venue": "Thuishaven",
+   "start": "2026-11-28T13:00:00+01:00",
+   "url": "https://thuishaven.nl/28-nov-thuishaven-w-jeff-mills-rod-blanka-more-tec/",
+   "category": "club",
+   "end": "2026-11-28T23:00:00+01:00",
+   "status": "normal",
+   "price": "€34,50",
+   "kind": "event",
+   "subtitle": "Techno",
+   "source": "thuishaven"
   },
   {
    "id": "rialto-7d8fdeb920fc",
@@ -2653,6 +2865,18 @@
    "source": "cavia"
   },
   {
+   "id": "mezrab-5131",
+   "title": "Vintage Voudou dance night ★ Planet Ilunga Congo special + Listening in the dark session ♫",
+   "venue": "Mezrab",
+   "start": "2026-11-28T20:30:00+01:00",
+   "url": "https://mezrab.nl/events/vintage-voudou-november/",
+   "category": "music",
+   "end": "2026-11-29T01:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "amsterdamalternative-22142",
    "title": "Opium Flower / 罌粟花",
    "venue": "Plein Theater",
@@ -2852,6 +3076,18 @@
    "source": "paradiso"
   },
   {
+   "id": "lofi-234967f81771",
+   "title": "Partiboi69 pres. Life Extension",
+   "venue": "Lofi",
+   "start": "2026-11-29T00:00:00+01:00",
+   "url": "https://weeztix.shop/m8jqta9m",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
    "id": "amsterdamalternative-23300",
    "title": "Melodies around the world by Susana Raya & Jeroen Vierdag",
    "venue": "Teatro Munganga",
@@ -2889,6 +3125,19 @@
    "kind": "event",
    "subtitle": "Restory - Beyond burnout, together · Ventilator Cinema",
    "source": "ot301"
+  },
+  {
+   "id": "thuishaven-20261129jamback10hrs",
+   "title": "Jamback 10HRS",
+   "venue": "Thuishaven",
+   "start": "2026-11-29T13:00:00+01:00",
+   "url": "https://thuishaven.nl/29-nov-thuishaven-w-jamback-10hrs-hou/",
+   "category": "club",
+   "end": "2026-11-29T23:00:00+01:00",
+   "status": "sold_out",
+   "kind": "event",
+   "subtitle": "House",
+   "source": "thuishaven"
   },
   {
    "id": "jazzin-2277280",
@@ -3005,6 +3254,18 @@
    "source": "jazzin"
   },
   {
+   "id": "mkz-2311101a7c4a",
+   "title": "MKZ Eetcafé: Boardgame Night!",
+   "venue": "MKZ",
+   "start": "2026-11-29T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/563226",
+   "category": "food",
+   "status": "normal",
+   "price": "€5",
+   "kind": "event",
+   "source": "mkz"
+  },
+  {
    "id": "amsterdamalternative-23301",
    "title": "Susana Raya & Jeroen Vierdag – New original music & beloved songs reimagined",
    "venue": "Teatro Munganga",
@@ -3100,6 +3361,17 @@
    "kind": "event",
    "subtitle": "Bird Brain Theatre, Imogen Cooper",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "mezrab-5042",
+   "title": "Tell, then show! – our storytelling jam",
+   "venue": "Mezrab",
+   "start": "2026-11-29T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/tell-then-show-our-storytelling-jam-6/",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "amsterdamalternative-23338",
@@ -3565,6 +3837,18 @@
    "source": "zwijger"
   },
   {
+   "id": "mezrab-4916",
+   "title": "Mythos. Ancient tales from all around the world.",
+   "venue": "Mezrab",
+   "start": "2026-12-01T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-12-01/",
+   "category": "music",
+   "end": "2026-12-01T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "tolhuistuin-538987c92af6",
    "title": "Naast elkaar: steun bieden na seksueel geweld",
    "venue": "Tolhuistuin",
@@ -3669,17 +3953,6 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2278740",
-   "title": "Joe Jackson - Hope and Fury Tour 2026",
-   "venue": "Carré",
-   "start": "2026-12-01T20:00:00+01:00",
-   "url": "https://carre.nl/voorstelling/joe-jackson-2026",
-   "category": "jazz",
-   "status": "normal",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "carre-35133",
    "title": "Joe Jackson 2026",
    "venue": "Carré",
@@ -3704,6 +3977,18 @@
    "kind": "event",
    "subtitle": "KyoYoko",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "brakkegrond-987",
+   "title": "Judith Engelen: I met you once, I loved you twice",
+   "venue": "De Brakke Grond",
+   "start": "2026-12-01T20:00:00+01:00",
+   "url": "https://brakkegrond.nl/agenda/987/judith-engelen",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Voorstelling | Nederlandse première",
+   "source": "brakkegrond"
   },
   {
    "id": "filmhallen-195280",
@@ -3885,6 +4170,18 @@
    "source": "jazzin"
   },
   {
+   "id": "mezrab-4828",
+   "title": "Open Stage Storytelling Night",
+   "venue": "Mezrab",
+   "start": "2026-12-02T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-12-02/",
+   "category": "talk",
+   "end": "2026-12-02T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "amsterdamalternative-23368",
    "title": "Zine Nite Amsterdam",
    "venue": "Nieuwland",
@@ -4002,17 +4299,6 @@
    "kind": "event",
    "subtitle": "Popliedjes voor wie het ook nog niet weet",
    "source": "paradiso"
-  },
-  {
-   "id": "jazzin-2278741",
-   "title": "Joe Jackson - Hope and Fury Tour 2026",
-   "venue": "Carré",
-   "start": "2026-12-02T20:00:00+01:00",
-   "url": "https://carre.nl/voorstelling/joe-jackson-2026",
-   "category": "jazz",
-   "status": "normal",
-   "kind": "event",
-   "source": "jazzin"
   },
   {
    "id": "carre-35134",
@@ -4416,6 +4702,18 @@
    "source": "frascati"
   },
   {
+   "id": "mezrab-5109",
+   "title": "Banda Entopica ★ Traditional Street Band from Greece ★ Salón Sonoro ♫",
+   "venue": "Mezrab",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/banda-entopica/",
+   "category": "music",
+   "end": "2026-12-03T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "amsterdamalternative-23590",
    "title": "All-Star Maestro!",
    "venue": "Mike's Badhuistheater",
@@ -4465,6 +4763,20 @@
    "kind": "event",
    "subtitle": "In conversation with photographer Pie Aerts about six years among isolated gauchos in Southern Chile. · Grote Zaal PDZ",
    "source": "zwijger"
+  },
+  {
+   "id": "radion-111719294",
+   "title": "VOID by ORPHIC",
+   "venue": "Radion",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111719294",
+   "category": "music",
+   "end": "2026-12-04T00:00:00+01:00",
+   "status": "normal",
+   "price": "€ 5,00",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462865/5-93c1.png",
+   "kind": "event",
+   "source": "radion"
   },
   {
    "id": "amsterdamalternative-23573",
@@ -4727,6 +5039,18 @@
    "source": "paradiso"
   },
   {
+   "id": "lofi-fa24fa1c77be",
+   "title": "Amsterdub Weekend",
+   "venue": "Lofi",
+   "start": "2026-12-04T00:00:00+01:00",
+   "url": "https://weeztix.shop/5cs87we3",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
    "id": "cavia-aff-202612041700",
    "title": "Anarchist Film Festival",
    "venue": "Filmhuis Cavia",
@@ -4775,6 +5099,18 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mezrab-4881",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2026-12-04T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-12-04/",
+   "category": "talk",
+   "end": "2026-12-04T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "amsterdamalternative-23634",
@@ -4907,7 +5243,7 @@
   },
   {
    "id": "ot301-22621",
-   "title": "Resonance",
+   "title": "Resonance — 2-Year Anniversary",
    "venue": "OT301",
    "start": "2026-12-04T20:00:00+01:00",
    "url": "https://www.ot301.nl/agenda/22621",
@@ -4915,7 +5251,7 @@
    "status": "normal",
    "price": "€ 10",
    "kind": "event",
-   "subtitle": "TBA · Studios",
+   "subtitle": "Akcel, Carmen Lisa, Inez Akker, Lucid Feel, Mick · Studios",
    "source": "ot301"
   },
   {
@@ -5101,6 +5437,20 @@
    "source": "skatecafe"
   },
   {
+   "id": "radion-111697711",
+   "title": "De Reünie",
+   "venue": "Radion",
+   "start": "2026-12-04T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111697711",
+   "category": "club",
+   "end": "2026-12-05T07:00:00+01:00",
+   "status": "normal",
+   "price": "€ 16,50–€ 25,50",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441282/WhatsApp-Image-2026-09-10-at-19.06.47-b4b0.jpeg",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-bb1d158e-0dd6-423a-a2d9-f67c09becdb8",
    "title": "Slagwerk w/otis, Zora Jones & Emeel + bar40 hosted by Amz + Pre-Club Night Concert by Klub Krai",
    "venue": "Garage Noord",
@@ -5178,6 +5528,20 @@
    "source": "paradiso"
   },
   {
+   "id": "thuishaven-20261205bartskils5hrs",
+   "title": "Bart Skils 5HRS",
+   "venue": "Thuishaven",
+   "start": "2026-12-05T13:00:00+01:00",
+   "url": "https://thuishaven.nl/05-dec-bart-skils-5hrs-tec/",
+   "category": "club",
+   "end": "2026-12-05T23:00:00+01:00",
+   "status": "normal",
+   "price": "€33,50",
+   "kind": "event",
+   "subtitle": "Techno",
+   "source": "thuishaven"
+  },
+  {
    "id": "tolhuistuin-bfffc0c1919e",
    "title": "HUMAN | De publieke tribune",
    "venue": "Tolhuistuin",
@@ -5230,6 +5594,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mezrab-5087",
+   "title": "The Original Mezrab Comedy Night",
+   "venue": "Mezrab",
+   "start": "2026-12-05T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-31/",
+   "category": "theatre",
+   "end": "2026-12-05T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "frascati-3278-202612051930",
@@ -5478,6 +5854,20 @@
    "source": "skatecafe"
   },
   {
+   "id": "radion-111697748",
+   "title": "AURA",
+   "venue": "Radion",
+   "start": "2026-12-05T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111697748",
+   "category": "club",
+   "end": "2026-12-06T07:00:00+01:00",
+   "status": "normal",
+   "price": "€ 16,50–€ 28,00",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441319/Aura_radion_5_12_26_1080x1440h-2-450d.png",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-4465504f-b1ea-49b5-863e-9736feb91c97",
    "title": "Los Angles w/Jason, Ambu Bambu, AIDAN (live), Anti Logic, YoungWoman, AORTA, BARROSKINI, DIVO",
    "venue": "Garage Noord",
@@ -5568,6 +5958,20 @@
    "kind": "event",
    "subtitle": "Roy Khemradj",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "thuishaven-20261206mrbeltwezolhiddevanw",
+   "title": "Mr. Belt & Wezol / Hidde van Wee / Beave & more",
+   "venue": "Thuishaven",
+   "start": "2026-12-06T13:00:00+01:00",
+   "url": "https://thuishaven.nl/06-dec-mr-belt-wezol-hidde-van-wee-marijn-jansen-more-hou/",
+   "category": "club",
+   "end": "2026-12-06T23:00:00+01:00",
+   "status": "normal",
+   "price": "€32,50",
+   "kind": "event",
+   "subtitle": "House",
+   "source": "thuishaven"
   },
   {
    "id": "debalie-123516-202612061400",
@@ -5752,7 +6156,7 @@
    "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
    "category": "theatre",
    "end": "2026-12-07T00:00:00+01:00",
-   "status": "sold_out",
+   "status": "normal",
    "kind": "event",
    "subtitle": "Oudejaars",
    "source": "carre"
@@ -5885,6 +6289,18 @@
    "kind": "event",
    "subtitle": "Eerder opgenomen in Covent Garden, Londen · Zaal 1",
    "source": "filmhallen"
+  },
+  {
+   "id": "mezrab-5127",
+   "title": "Persian language storytelling night",
+   "venue": "Mezrab",
+   "start": "2026-12-07T18:30:00+01:00",
+   "url": "https://mezrab.nl/events/persian-language-storytelling-night-12/",
+   "category": "talk",
+   "end": "2026-12-07T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "paradiso-2932710",
@@ -6076,6 +6492,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mezrab-4931",
+   "title": "Off the Page",
+   "venue": "Mezrab",
+   "start": "2026-12-08T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/off-the-page-2-2026-12-08/",
+   "category": "music",
+   "end": "2026-12-08T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "rialto-1938",
@@ -6270,6 +6698,18 @@
    "image": "https://depijp.rialtofilm.nl/prod/media/you-can-see-everything-poster.jpg?guid=f55e2962-831e-4074-b1d6-aa730bed53b5",
    "kind": "event",
    "source": "rialto"
+  },
+  {
+   "id": "mezrab-4829",
+   "title": "Open Stage Storytelling Night",
+   "venue": "Mezrab",
+   "start": "2026-12-09T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-12-09/",
+   "category": "talk",
+   "end": "2026-12-09T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "zwijger-38b35f6f2a52",
@@ -6704,6 +7144,18 @@
    "source": "frascati"
   },
   {
+   "id": "mezrab-5116",
+   "title": "LGBTQ+ Stories",
+   "venue": "Mezrab",
+   "start": "2026-12-10T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/__trashed/",
+   "category": "talk",
+   "end": "2026-12-10T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "ita-2063",
    "title": "Wuthering Heights",
    "venue": "Stadsschouwburg (ITA)",
@@ -6847,6 +7299,19 @@
    "source": "nachbar"
   },
   {
+   "id": "brakkegrond-955",
+   "title": "Oorzaken Festival 2026: (Future) Home",
+   "venue": "De Brakke Grond",
+   "start": "2026-12-11T00:00:00+01:00",
+   "url": "https://brakkegrond.nl/agenda/955/oorzaken-festival-2026",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Festival",
+   "source": "brakkegrond"
+  },
+  {
    "id": "jazzin-2281143",
    "title": "Nick van den Bos",
    "venue": "Café Parisius",
@@ -6869,6 +7334,18 @@
    "kind": "event",
    "subtitle": "Simon Poulter · Ventilator Cinema",
    "source": "ot301"
+  },
+  {
+   "id": "mezrab-4882",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2026-12-11T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-12-11/",
+   "category": "talk",
+   "end": "2026-12-11T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "zwijger-avond-van-de-dood-2026",
@@ -7258,6 +7735,20 @@
    "source": "paradiso"
   },
   {
+   "id": "radion-111697749",
+   "title": "RADION Presents: DJ Fuckoff",
+   "venue": "Radion",
+   "start": "2026-12-11T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111697749",
+   "category": "club",
+   "end": "2026-12-12T07:00:00+01:00",
+   "status": "normal",
+   "price": "€ 18,00–€ 25,00",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1441320/RADION-presents-dj-fuckoff-0d68.png",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-ab3aa9aa-01a3-40fd-a0a7-3d65a04d6a50",
    "title": "co-curated by upsammy w/ATRICE, Third Space, upsammy",
    "venue": "Garage Noord",
@@ -7268,6 +7759,30 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "lofi-Herrensauna20261212",
+   "title": "Herrensauna",
+   "venue": "Lofi",
+   "start": "2026-12-12T00:00:00+01:00",
+   "url": "https://weeztix.shop/u2u7fj66",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
+   "id": "lofi-3dcd20d7d875",
+   "title": "Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi",
+   "venue": "Lofi",
+   "start": "2026-12-12T00:00:00+01:00",
+   "url": "https://weeztix.shop/ygx3ed3c",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
   },
   {
    "id": "jazzin-2276614",
@@ -7390,6 +7905,18 @@
    "kind": "event",
    "subtitle": "Biserka Šuran",
    "source": "frascati"
+  },
+  {
+   "id": "mezrab-5118",
+   "title": "Cabaret Saalik presents Rābkah ★ Swana Sounds ★ Libyan food ★ Belly Dance ♫",
+   "venue": "Mezrab",
+   "start": "2026-12-12T19:30:00+01:00",
+   "url": "https://mezrab.nl/events/cabaret-saalik-rabkah/",
+   "category": "theatre",
+   "end": "2026-12-13T00:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "paradiso-2934667",
@@ -7715,6 +8242,18 @@
    "source": "paradiso"
   },
   {
+   "id": "lofi-d1204c8b24ca",
+   "title": "Sunday by Malugi",
+   "venue": "Lofi",
+   "start": "2026-12-13T00:00:00+01:00",
+   "url": "https://lofi.amsterdam/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
    "id": "paradiso-2939050",
    "title": "Tomo Katsurada x Jonny Nash",
    "venue": "Paradiso",
@@ -7763,6 +8302,20 @@
    "source": "jazzin"
   },
   {
+   "id": "thuishaven-20261213gaskinjossdeandennis",
+   "title": "Gaskin / Joss Dean / Dennis Quin & more",
+   "venue": "Thuishaven",
+   "start": "2026-12-13T13:00:00+01:00",
+   "url": "https://thuishaven.nl/13-dec-gaskin-joss-dean-dennis-quin-more/",
+   "category": "club",
+   "end": "2026-12-13T23:00:00+01:00",
+   "status": "normal",
+   "price": "€33,50",
+   "kind": "event",
+   "subtitle": "House",
+   "source": "thuishaven"
+  },
+  {
    "id": "joesgarage-414b1eb18a7e",
    "title": "All Crafts Are Beautiful",
    "venue": "Joe's Garage",
@@ -7797,6 +8350,18 @@
    "price": "gratis",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mezrab-5129",
+   "title": "Book Launch Rasha Hilwi",
+   "venue": "Mezrab",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://mezrab.nl/events/book-launch-rasha-hilwi/",
+   "category": "talk",
+   "end": "2026-12-13T17:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "amsterdamalternative-22306",
@@ -7950,6 +8515,18 @@
    "kind": "event",
    "subtitle": "Impro jam!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "mezrab-4798",
+   "title": "The MezJam",
+   "venue": "Mezrab",
+   "start": "2026-12-13T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/the-mezjam-2026-12-13/",
+   "category": "music",
+   "end": "2026-12-13T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "paradiso-2888719",
@@ -8118,6 +8695,18 @@
    "source": "debalie"
   },
   {
+   "id": "mezrab-5137",
+   "title": "Storytelling Solo: Ben Haggerty, the Grateful & the dead",
+   "venue": "Mezrab",
+   "start": "2026-12-14T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/storytelling-solo-ben-haggerty-the-grateful-the-dead/",
+   "category": "talk",
+   "end": "2026-12-14T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "kleinekomedie-3440-202612142015",
    "title": "David van Rosmalen",
    "venue": "De Kleine Komedie",
@@ -8218,6 +8807,18 @@
    "kind": "event",
    "subtitle": "Celebrating spoken word, poetry, storytelling, op-eds, drama & music. · Expo",
    "source": "zwijger"
+  },
+  {
+   "id": "mezrab-4944",
+   "title": "Samizdat: Stories from the Underground",
+   "venue": "Mezrab",
+   "start": "2026-12-15T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-12-15/",
+   "category": "talk",
+   "end": "2026-12-15T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "zwijger-de-sleutel-van-pete",
@@ -8400,7 +9001,7 @@
    "category": "film",
    "end": "2026-12-15T23:35:00+01:00",
    "status": "normal",
-   "image": "https://themovies.nl/content/uploads/sites/4/2026/07/Dune_-Part-Three_ps_1_jpg_sd-high_Photo-Courtesy-Warner-Bros-Pictures-400x600.jpg",
+   "image": "https://themovies.nl/content/uploads/sites/4/2026/07/Dune_-Part-Three_ps_1_jpg_sd-high_Photo-Courtesy-Warner-Bros-Pictures-400x600.jpg?t=1795438206",
    "kind": "event",
    "subtitle": "Zaal 1",
    "source": "themovies"
@@ -8441,6 +9042,18 @@
    "source": "jazzin"
   },
   {
+   "id": "mezrab-4830",
+   "title": "Open Stage Storytelling Night",
+   "venue": "Mezrab",
+   "start": "2026-12-16T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-12-16/",
+   "category": "talk",
+   "end": "2026-12-16T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "amsterdamalternative-23653",
    "title": "Zine Nite Amsterdam",
    "venue": "Nieuwland",
@@ -8451,6 +9064,19 @@
    "price": "€ free/ donation",
    "kind": "event",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "sexyland-7646e0522a37",
+   "title": "BAS KOSTERS (Art Bar)",
+   "venue": "Sexyland",
+   "start": "2026-12-16T19:00:00+01:00",
+   "url": "https://sexyland.world/",
+   "category": "other",
+   "end": "2026-12-16T22:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Sexyland pop-up @ Café de Krom",
+   "source": "sexyland"
   },
   {
    "id": "debalie-122388",
@@ -8763,6 +9389,18 @@
    "source": "frascati"
   },
   {
+   "id": "mezrab-5128",
+   "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
+   "venue": "Mezrab",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/tarab-machine/",
+   "category": "music",
+   "end": "2026-12-17T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "jazzin-1572557",
    "title": "The Naishtat - The Trace",
    "venue": "Oedipus Brewing",
@@ -8904,19 +9542,6 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-1673050",
-   "title": "TARAB Machine",
-   "venue": "Mezrab",
-   "start": "2026-12-17T21:00:00+01:00",
-   "url": "https://mezrab.nl/events/tarab-machine/",
-   "category": "jazz",
-   "end": "2026-12-17T23:59:00+01:00",
-   "status": "normal",
-   "price": "14.50",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "amsterdamalternative-23615",
    "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
    "venue": "Pakhuis Wilhelmina",
@@ -8941,6 +9566,18 @@
    "kind": "event",
    "subtitle": "Voor nieuwsgierige oren en doorgewinterde ravers",
    "source": "paradiso"
+  },
+  {
+   "id": "lofi-9ba85a3725a9",
+   "title": "Antal & HUNEE [all night long]",
+   "venue": "Lofi",
+   "start": "2026-12-18T00:00:00+01:00",
+   "url": "https://weeztix.shop/cre775nu",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
   },
   {
    "id": "jazzin-2276618",
@@ -8987,6 +9624,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mezrab-4883",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2026-12-18T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-12-18/",
+   "category": "talk",
+   "end": "2026-12-18T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "tolhuistuin-96909eeb51bb",
@@ -9212,6 +9861,20 @@
    "source": "skatecafe"
   },
   {
+   "id": "radion-111707701",
+   "title": "PAX-ROMANA: Saturnalia III",
+   "venue": "Radion",
+   "start": "2026-12-18T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111707701",
+   "category": "club",
+   "end": "2026-12-19T10:00:00+01:00",
+   "status": "normal",
+   "price": "€ 22,50–€ 26,50",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451272/POST_SATURNALIAIII-%281%29-cf9d.jpg",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-7f91b142-3ce6-4f7a-bb79-6ea928267fb1",
    "title": "South of North w/ pebblle, Magic Pony Productions, Vladimir Ivkovic, Fry Ry & Marathon Man + bar40 hosted by SUBURBIA",
    "venue": "Garage Noord",
@@ -9249,6 +9912,45 @@
    "kind": "event",
    "subtitle": "Club nacht met house anthems",
    "source": "paradiso"
+  },
+  {
+   "id": "brakkegrond-937",
+   "title": "Khadija El Kharraz Alami: SHRINE",
+   "venue": "De Brakke Grond",
+   "start": "2026-12-19T00:00:00+01:00",
+   "url": "https://brakkegrond.nl/agenda/937/khadija-el-kharraz-alami",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Buitenshuis | Voorstelling",
+   "source": "brakkegrond"
+  },
+  {
+   "id": "lofi-Winterbloesem20261219",
+   "title": "Winterbloesem",
+   "venue": "Lofi",
+   "start": "2026-12-19T00:00:00+01:00",
+   "url": "https://weeztix.shop/tt9czr8m",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
+   "id": "thuishaven-20261219micheldehey10hrs",
+   "title": "Michel de Hey 10HRS",
+   "venue": "Thuishaven",
+   "start": "2026-12-19T13:00:00+01:00",
+   "url": "https://thuishaven.nl/19-dec-michel-de-hey-10hrs-hou/",
+   "category": "club",
+   "end": "2026-12-19T23:00:00+01:00",
+   "status": "normal",
+   "price": "€29,50",
+   "kind": "event",
+   "subtitle": "House",
+   "source": "thuishaven"
   },
   {
    "id": "tolhuistuin-58b50bd3158e",
@@ -9435,6 +10137,18 @@
    "source": "frascati"
   },
   {
+   "id": "mezrab-5092",
+   "title": "The ALT Mezrab Comedy Night",
+   "venue": "Mezrab",
+   "start": "2026-12-19T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-31/",
+   "category": "theatre",
+   "end": "2026-12-19T22:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "occii-102984-1783174217",
    "title": "NEPTUNE (US, SGG records) + POLARIZED",
    "venue": "OCCII",
@@ -9580,6 +10294,20 @@
    "source": "skatecafe"
   },
   {
+   "id": "radion-111707702",
+   "title": "RADION Invites SPANDAU20",
+   "venue": "Radion",
+   "start": "2026-12-19T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111707702",
+   "category": "club",
+   "end": "2026-12-20T07:00:00+01:00",
+   "status": "normal",
+   "price": "€ 16,50–€ 21,50",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451273/SPND20-Radion26-artwork-7a03.jpg",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-e7d8e905-81bc-4a5e-980a-9dd818726c5d",
    "title": "Femme Bass Mafia w/silver pearl, Yushh, Soa420 b2b Dangermami",
    "venue": "Garage Noord",
@@ -9659,6 +10387,19 @@
    "source": "tolhuistuin"
   },
   {
+   "id": "thuishaven-20261220mallgrabmilionluckyd",
+   "title": "Mall Grab / Milion / Lucky Done Gone & more",
+   "venue": "Thuishaven",
+   "start": "2026-12-20T13:00:00+01:00",
+   "url": "https://thuishaven.nl/20-dec-thuishaven-w-mall-grab-milion-lucky-done-gone-more/",
+   "category": "club",
+   "end": "2026-12-20T23:00:00+01:00",
+   "status": "normal",
+   "price": "€32,50",
+   "kind": "event",
+   "source": "thuishaven"
+  },
+  {
    "id": "nieuweanita-9674",
    "title": "Amsterdam Indie Game Developers",
    "venue": "De Nieuwe Anita",
@@ -9722,6 +10463,18 @@
    "kind": "event",
    "subtitle": "ITA / Kjersti Horn · Theater",
    "source": "ita"
+  },
+  {
+   "id": "mezrab-5133",
+   "title": "Kerstspecial in de Mezrab met Chardon en Baftig Constellatiom",
+   "venue": "Mezrab",
+   "start": "2026-12-20T15:15:00+01:00",
+   "url": "https://mezrab.nl/events/kerstspecial-in-de-mezrab-met-chardon-en-baftig-constellatiom/",
+   "category": "music",
+   "end": "2026-12-20T21:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "ita-1165",
@@ -10072,6 +10825,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "mezrab-5019",
+   "title": "Pearls on a String",
+   "venue": "Mezrab",
+   "start": "2026-12-22T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/pearls-on-a-string-2026-12-22/",
+   "category": "music",
+   "end": "2026-12-22T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "paradiso-2888830",
    "title": "MY BABY + Graeme James",
    "venue": "Paradiso",
@@ -10177,6 +10942,18 @@
    "kind": "event",
    "subtitle": "Contemporary",
    "source": "cavia"
+  },
+  {
+   "id": "mezrab-4831",
+   "title": "Open Stage Storytelling Night: Potluck Edition",
+   "venue": "Mezrab",
+   "start": "2026-12-23T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-12-23/",
+   "category": "talk",
+   "end": "2026-12-23T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "paradiso-2888834",
@@ -10335,6 +11112,18 @@
    "source": "ita"
   },
   {
+   "id": "mezrab-4884",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2026-12-25T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-12-25/",
+   "category": "talk",
+   "end": "2026-12-25T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "paradiso-2892709",
    "title": "Laugh Maroc",
    "venue": "Paradiso",
@@ -10416,6 +11205,20 @@
    "source": "paradiso"
   },
   {
+   "id": "radion-111707703",
+   "title": "RADION Invites VULGED",
+   "venue": "Radion",
+   "start": "2026-12-26T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111707703",
+   "category": "club",
+   "end": "2026-12-27T07:00:00+01:00",
+   "status": "normal",
+   "price": "€ 16,50–€ 21,50",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451274/RADION-Invites-Vulged-Final-be99.png",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
    "id": "garagenoord-6472dc93-fc42-439c-b654-7c015b4911ee",
    "title": "Pacific Ondergronds x KRUISPUNT Kerst",
    "venue": "Garage Noord",
@@ -10426,6 +11229,32 @@
    "status": "normal",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "lofi-bd2904d95450",
+   "title": "FSTM with Moodymann",
+   "venue": "Lofi",
+   "start": "2026-12-27T00:00:00+01:00",
+   "url": "https://weeztix.shop/gkys9jf2",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
+   "id": "thuishaven-20261227prunkbennyrodriguesb",
+   "title": "Prunk / Benny Rodrigues / Boss Priester & more",
+   "venue": "Thuishaven",
+   "start": "2026-12-27T13:00:00+01:00",
+   "url": "https://thuishaven.nl/27-dec-prunk-benny-rodrigues-boss-priester-more-hou/",
+   "category": "club",
+   "end": "2026-12-27T23:00:00+01:00",
+   "status": "normal",
+   "price": "€24,50",
+   "kind": "event",
+   "subtitle": "House",
+   "source": "thuishaven"
   },
   {
    "id": "ita-1063",
@@ -10453,6 +11282,18 @@
    "kind": "event",
    "subtitle": "Dolfijn met benen",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "mkz-6ffac97374c1",
+   "title": "MKZ Eetcafé: Boardgame Night!",
+   "venue": "MKZ",
+   "start": "2026-12-27T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/563227",
+   "category": "food",
+   "status": "normal",
+   "price": "€5",
+   "kind": "event",
+   "source": "mkz"
   },
   {
    "id": "paradiso-2902321",
@@ -10548,6 +11389,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "mezrab-5074",
+   "title": "Mezrab Comedy Open Mic",
+   "venue": "Mezrab",
+   "start": "2026-12-28T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-12-28/",
+   "category": "theatre",
+   "end": "2026-12-28T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "bellevue-6036-202612281915",
    "title": "Life Changing Stories",
    "venue": "Theater Bellevue",
@@ -10628,6 +11481,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "mezrab-5027",
+   "title": "Welcome to the Playground",
+   "venue": "Mezrab",
+   "start": "2026-12-29T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/welcome-to-the-playground-2026-12-29/",
+   "category": "music",
+   "end": "2026-12-29T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "paradiso-2905984",
    "title": "Maria Iskariot, Kaat van Stralen en Grote Geelstaart",
    "venue": "Paradiso",
@@ -10695,6 +11560,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "mezrab-4832",
+   "title": "Open Stage Storytelling Night",
+   "venue": "Mezrab",
+   "start": "2026-12-30T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2026-12-30/",
+   "category": "talk",
+   "end": "2026-12-30T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "bellevue-6036-202612301915",
    "title": "Life Changing Stories",
    "venue": "Theater Bellevue",
@@ -10749,6 +11626,18 @@
    "source": "bellevue"
   },
   {
+   "id": "lofi-0d872a1dc8d2",
+   "title": "Palet × Lofi • New Year’s Eve",
+   "venue": "Lofi",
+   "start": "2026-12-31T00:00:00+01:00",
+   "url": "https://weeztix.shop/8qdcmxz9",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
    "id": "tolhuistuin-502a15959f08",
    "title": "COUNTER GAZE METROSCOPE EXPO",
    "venue": "Tolhuistuin",
@@ -10775,6 +11664,18 @@
    "image": "https://img.dekleinekomedie.nl/udyUTZE3xWnqPHfWiUbGihxFsLoPFUAYW1uHoOmqWD0/c:5435:3071:nowe:0:2097/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzI5N19vcmlnLmpwZw",
    "kind": "event",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "mezrab-5135",
+   "title": "NEW YEAR'S EVE PARTY ★ TROPICAL MEZQUERADE",
+   "venue": "Mezrab",
+   "start": "2026-12-31T20:00:00+01:00",
+   "url": "https://mezrab.nl/events/nye-mezquerade/",
+   "category": "club",
+   "end": "2027-01-01T04:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "amsterdamalternative-23616",
@@ -10829,6 +11730,32 @@
    "source": "paradiso"
   },
   {
+   "id": "radion-111707704",
+   "title": "DJ Bone Presents: FURTHER NYE 2026",
+   "venue": "Radion",
+   "start": "2026-12-31T22:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111707704",
+   "category": "club",
+   "end": "2027-01-01T08:00:00+01:00",
+   "status": "normal",
+   "price": "€ 19,50–€ 35,00",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1451275/FURTHER_NYE_2026_4x5-1a88.png",
+   "kind": "event",
+   "source": "radion"
+  },
+  {
+   "id": "lofi-c37a15742685",
+   "title": "Ratherlost – New Year’s Day",
+   "venue": "Lofi",
+   "start": "2027-01-01T00:00:00+01:00",
+   "url": "https://weeztix.shop/zatnq2yb",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "lofi"
+  },
+  {
    "id": "skatecafe-eb72cc21-3823-4b0f-bb78-44db2b98a876",
    "title": "Skatecafe ...IsBurning - New Year's Marathon",
    "venue": "Skatecafé",
@@ -10840,6 +11767,31 @@
    "image": "https://weticket.ams3.digitaloceanspaces.com/event/skatecafe-isburning-new-year-s-marathon__by_skatecafe__cover_photo-01a18c84-dd5e-7002-addc-be48f621baa7.jpg",
    "kind": "event",
    "source": "skatecafe"
+  },
+  {
+   "id": "thuishaven-20270101denieuwjaarsdanswtja",
+   "title": "De Nieuwjaarsdans w/ Tjade & Friends",
+   "venue": "Thuishaven",
+   "start": "2027-01-01T14:00:00+01:00",
+   "url": "https://thuishaven.nl/01-jan-de-thuishaven-nieuwjaarsdans-tra/",
+   "category": "club",
+   "end": "2027-01-01T23:00:00+01:00",
+   "status": "normal",
+   "price": "€37,50",
+   "kind": "event",
+   "source": "thuishaven"
+  },
+  {
+   "id": "mezrab-4885",
+   "title": "Mezrab Friday Night Storytelling",
+   "venue": "Mezrab",
+   "start": "2027-01-01T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2027-01-01/",
+   "category": "talk",
+   "end": "2027-01-01T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
   },
   {
    "id": "ita-1078",
@@ -10883,6 +11835,18 @@
    "source": "paradiso"
   },
   {
+   "id": "mezrab-5099",
+   "title": "The Original Mezrab Comedy Night",
+   "venue": "Mezrab",
+   "start": "2027-01-02T19:00:00+01:00",
+   "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-32/",
+   "category": "theatre",
+   "end": "2027-01-02T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "mezrab"
+  },
+  {
    "id": "bellevue-5986-202701022030",
    "title": "The Bridge",
    "venue": "Theater Bellevue",
@@ -10908,6 +11872,20 @@
    "kind": "event",
    "subtitle": "De hele nacht dansen voor een prikkie",
    "source": "paradiso"
+  },
+  {
+   "id": "radion-111719013",
+   "title": "RADION Invites: Labyrinth x Vault Sessions x Aura",
+   "venue": "Radion",
+   "start": "2027-01-02T23:00:00+01:00",
+   "url": "https://radionamsterdam.stager.co/shop/default/events/111719013",
+   "category": "club",
+   "end": "2027-01-03T08:00:00+01:00",
+   "status": "normal",
+   "price": "€ 25,00–€ 35,00",
+   "image": "https://stager-prod.s3.eu-west-1.amazonaws.com/images/46/eventpublicationitem/1462584/250006_Aura_Vault_Design_1080x1440h4-4beb.png",
+   "kind": "event",
+   "source": "radion"
   },
   {
    "id": "ita-701",
