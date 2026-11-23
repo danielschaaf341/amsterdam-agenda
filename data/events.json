@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T18:08:16+01:00",
+ "generated": "2026-11-23T18:09:06+01:00",
  "window_days": 42,
- "count": 1010,
+ "count": 982,
  "events": [
   {
    "id": "eye-1633828",
@@ -114,18 +114,6 @@
    "kind": "series",
    "subtitle": "Dronken Mensen · Bellevue op Locatie",
    "source": "bellevue"
-  },
-  {
-   "id": "mkz-7da650c3cb09",
-   "title": "MKZ Studycafé",
-   "venue": "MKZ",
-   "start": "2026-11-23T10:00:00+01:00",
-   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-23/mkz-studycafe",
-   "category": "other",
-   "status": "normal",
-   "kind": "weekly",
-   "subtitle": "Elke ma 10:00",
-   "source": "mkz"
   },
   {
    "id": "tolhuistuin-e28529942718",
@@ -774,19 +762,6 @@
    "source": "joesgarage"
   },
   {
-   "id": "frascati-3291-202611251530",
-   "title": "Het geheim van één boom (4+)",
-   "venue": "Frascati",
-   "start": "2026-11-25T15:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/het-geheim-van-een-boom-4-rjcv",
-   "category": "theatre",
-   "status": "normal",
-   "image": "https://img.frascatitheater.nl/9VsrxGuvW9YwwTBwmFuribVkMT219Ip-8y9BCTYh7oY/c:1200:678:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA4M19vcmlnLmpwZWc",
-   "kind": "event",
-   "subtitle": "Jeritza Toney / Theater De Krakeling",
-   "source": "frascati"
-  },
-  {
    "id": "joesgarage-58a32611e293",
    "title": "Arab Spring class",
    "venue": "Joe's Garage",
@@ -1091,20 +1066,6 @@
    "kind": "event",
    "subtitle": "Met o.a. Gerdi Verbeet en Robert Vuijsje",
    "source": "debalie"
-  },
-  {
-   "id": "frascati-3261-202611252000",
-   "title": "soft cracks, hard curves",
-   "venue": "Frascati",
-   "start": "2026-11-25T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Isadora Tomasi · try-out",
-   "source": "frascati"
   },
   {
    "id": "amsterdamalternative-23440",
@@ -1612,20 +1573,6 @@
    "kind": "event",
    "subtitle": "Podium voor het theaterlied - in Klein Bellevue · met Niek Barendsen, Ramon Chatrer, Joost Hofman en Daan Hofman | pres Luuk Weggemans",
    "source": "kleinekomedie"
-  },
-  {
-   "id": "frascati-3261-202611262000",
-   "title": "soft cracks, hard curves",
-   "venue": "Frascati",
-   "start": "2026-11-26T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Isadora Tomasi · try-out",
-   "source": "frascati"
   },
   {
    "id": "melkweg-28659",
@@ -2293,34 +2240,6 @@
    "source": "felixmeritis"
   },
   {
-   "id": "frascati-3268-202611272000",
-   "title": "P4rTy GWoRLz N3v4h Di3",
-   "venue": "Frascati",
-   "start": "2026-11-27T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/p4rty-gworlz-n3v4h-di3-9t6w",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Vincent Riebeek · Première",
-   "source": "frascati"
-  },
-  {
-   "id": "frascati-3261-202611272000",
-   "title": "soft cracks, hard curves",
-   "venue": "Frascati",
-   "start": "2026-11-27T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Isadora Tomasi · try-out",
-   "source": "frascati"
-  },
-  {
    "id": "melkweg-28719",
    "title": "Phantom Wizard",
    "venue": "Melkweg",
@@ -2953,20 +2872,6 @@
    "kind": "event",
    "subtitle": "Met Jim van Os",
    "source": "debalie"
-  },
-  {
-   "id": "frascati-3268-202611282000",
-   "title": "P4rTy GWoRLz N3v4h Di3",
-   "venue": "Frascati",
-   "start": "2026-11-28T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/p4rty-gworlz-n3v4h-di3-9t6w",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Vincent Riebeek · Première",
-   "source": "frascati"
   },
   {
    "id": "jazzin-701294",
@@ -3809,6 +3714,18 @@
    "source": "vrankrijk"
   },
   {
+   "id": "mkz-7da650c3cb09",
+   "title": "MKZ Studycafé",
+   "venue": "MKZ",
+   "start": "2026-11-30T10:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-30/mkz-studycafe",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke ma 10:00",
+   "source": "mkz"
+  },
+  {
    "id": "fchyena-hyena-scream-20261130",
    "title": "Hyena Scream: Paper Tiger",
    "venue": "FC Hyena",
@@ -4378,20 +4295,6 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "frascati-3234-202612012030",
-   "title": "I Like Art and Art Likes Me",
-   "venue": "Frascati",
-   "start": "2026-12-01T20:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 14,00–€ 20,00",
-   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
-   "source": "frascati"
-  },
-  {
    "id": "bellevue-5907-202612012030",
    "title": "Draagkracht",
    "venue": "Theater Bellevue",
@@ -4699,19 +4602,6 @@
    "source": "nieuweanita"
   },
   {
-   "id": "frascati-3262-202612022000",
-   "title": "VACUÜM NIGHT",
-   "venue": "Frascati",
-   "start": "2026-12-02T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/vacuum-night-studio-vacuum-mees-vervuurt-zklq",
-   "category": "theatre",
-   "status": "normal",
-   "image": "https://img.frascatitheater.nl/Hx353Y4p7oMb6-6eO5nOmSGl3dEX0bjpTpyQYGTuJoU/c:900:508:nowe:0:187/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDY4Nl9vcmlnLndlYnA",
-   "kind": "event",
-   "subtitle": "Studio Vacuüm / Mees Vervuurt",
-   "source": "frascati"
-  },
-  {
    "id": "zwijger-whitewash-city-tirana-albania",
    "title": "Albania & The Flamingo Revolution 2: Whitewash City – Tirana (Albania)",
    "venue": "Pakhuis de Zwijger",
@@ -4775,20 +4665,6 @@
    "kind": "event",
    "subtitle": "Over demonstreren, blokkeren en rebelleren",
    "source": "debalie"
-  },
-  {
-   "id": "frascati-3234-202612022030",
-   "title": "I Like Art and Art Likes Me",
-   "venue": "Frascati",
-   "start": "2026-12-02T20:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 14,00–€ 20,00",
-   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
-   "source": "frascati"
   },
   {
    "id": "ita-1192",
@@ -4914,20 +4790,6 @@
    "kind": "event",
    "subtitle": "Comedy!",
    "source": "nieuweanita"
-  },
-  {
-   "id": "frascati-3278-202612031930",
-   "title": "Het hoofd van een druktemaker",
-   "venue": "Frascati",
-   "start": "2026-12-03T19:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 10,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
-   "kind": "event",
-   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
-   "source": "frascati"
   },
   {
    "id": "melkweg-27555",
@@ -5081,20 +4943,6 @@
    "price": "€22.5",
    "kind": "event",
    "source": "jazzin"
-  },
-  {
-   "id": "frascati-3277-202612032000",
-   "title": "MESSY Night",
-   "venue": "Frascati",
-   "start": "2026-12-03T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/messy-night-t8f1",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/ZLrcAdD7WmrmPE8Of-DTribEt49-YIT_eyNPmM68gBw/c:1470:831/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDk5OV9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "DREK MANOR",
-   "source": "frascati"
   },
   {
    "id": "mezrab-5109",
@@ -5340,20 +5188,6 @@
    "source": "cavia"
   },
   {
-   "id": "frascati-3234-202612032030",
-   "title": "I Like Art and Art Likes Me",
-   "venue": "Frascati",
-   "start": "2026-12-03T20:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 14,00–€ 20,00",
-   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
-   "source": "frascati"
-  },
-  {
    "id": "ita-1087",
    "title": "HABITAT",
    "venue": "Stadsschouwburg (ITA)",
@@ -5557,20 +5391,6 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "frascati-3278-202612041930",
-   "title": "Het hoofd van een druktemaker",
-   "venue": "Frascati",
-   "start": "2026-12-04T19:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
-   "category": "theatre",
-   "status": "sold_out",
-   "price": "€ 10,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
-   "kind": "event",
-   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
-   "source": "frascati"
-  },
-  {
    "id": "paradiso-2931095",
    "title": "Hohnen Ford",
    "venue": "Paradiso",
@@ -5658,20 +5478,6 @@
    "kind": "event",
    "subtitle": "Live!",
    "source": "nieuweanita"
-  },
-  {
-   "id": "frascati-3136-202612042000",
-   "title": "A TRIBUTE TO EVERYTHING THAT BREAKS",
-   "venue": "Frascati",
-   "start": "2026-12-04T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/a-tribute-to-everything-that-breaks-129j",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/k218EYlQedZZLIjw3Rih6TS4uoSxz29ebzrwHJByA4Q/c:864:488:nowe:0:172/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzkxNV9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Yoko Haveman",
-   "source": "frascati"
   },
   {
    "id": "ot301-22621",
@@ -6079,20 +5885,6 @@
    "source": "mezrab"
   },
   {
-   "id": "frascati-3278-202612051930",
-   "title": "Het hoofd van een druktemaker",
-   "venue": "Frascati",
-   "start": "2026-12-05T19:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 10,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
-   "kind": "event",
-   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
-   "source": "frascati"
-  },
-  {
    "id": "paradiso-2876921",
    "title": "Sarah Julia + FEMI",
    "venue": "Tolhuistuin",
@@ -6143,20 +5935,6 @@
    "kind": "event",
    "subtitle": "The Book Club XL returns to Felix Meritis for an evening about Black hair. Inspired by Americanah and Twisted, host Kriticos talks with hair stylist Gray and cu",
    "source": "felixmeritis"
-  },
-  {
-   "id": "frascati-3136-202612052000",
-   "title": "A TRIBUTE TO EVERYTHING THAT BREAKS",
-   "venue": "Frascati",
-   "start": "2026-12-05T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/a-tribute-to-everything-that-breaks-129j",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,00–€ 16,00",
-   "image": "https://img.frascatitheater.nl/k218EYlQedZZLIjw3Rih6TS4uoSxz29ebzrwHJByA4Q/c:864:488:nowe:0:172/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzkxNV9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Yoko Haveman",
-   "source": "frascati"
   },
   {
    "id": "amsterdamalternative-23591",
@@ -7171,20 +6949,6 @@
    "source": "nieuweanita"
   },
   {
-   "id": "frascati-3235-202612082000",
-   "title": "KENKI KRIN KRIN",
-   "venue": "Frascati",
-   "start": "2026-12-08T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
-   "source": "frascati"
-  },
-  {
    "id": "kleinekomedie-3437-202612082015",
    "title": "Aaf Brandt Corstius & Lies Visschedijk",
    "venue": "De Kleine Komedie",
@@ -7457,20 +7221,6 @@
    "source": "debalie"
   },
   {
-   "id": "frascati-3235-202612092000",
-   "title": "KENKI KRIN KRIN",
-   "venue": "Frascati",
-   "start": "2026-12-09T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
-   "source": "frascati"
-  },
-  {
    "id": "zwijger-93f21048c391",
    "title": "Filmvertoning + Nagesprek: Voor het te laat is: in gesprek over femicide",
    "venue": "Pakhuis de Zwijger",
@@ -7615,21 +7365,6 @@
    "kind": "event",
    "subtitle": "ITA / Amnesty · Perspectief",
    "source": "ita"
-  },
-  {
-   "id": "frascati-run3287",
-   "title": "Passing On",
-   "venue": "Frascati",
-   "start": "2026-12-10T18:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/passing-on-n19y",
-   "category": "theatre",
-   "end": "2026-12-11T21:00:00+01:00",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/IYtaoG4_phECV5OkbEpQYvqbd_zTBKp4a_zysuHj3IM/c:5095:2880/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA2N19vcmlnLmpwZw",
-   "kind": "series",
-   "subtitle": "Werkplaats van de Woestijne",
-   "source": "frascati"
   },
   {
    "id": "melkweg-28751",
@@ -7783,20 +7518,6 @@
    "kind": "event",
    "subtitle": "Mena Voices: Libanon",
    "source": "debalie"
-  },
-  {
-   "id": "frascati-3235-202612102000",
-   "title": "KENKI KRIN KRIN",
-   "venue": "Frascati",
-   "start": "2026-12-10T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 13,00–€ 18,00",
-   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
-   "source": "frascati"
   },
   {
    "id": "mezrab-5116",
@@ -8135,19 +7856,6 @@
    "source": "nieuweanita"
   },
   {
-   "id": "frascati-3074-202612112000",
-   "title": "Erfstuk van een vrije vogel",
-   "venue": "Frascati",
-   "start": "2026-12-11T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/erfstuk-van-een-vrije-vogel-x5hb",
-   "category": "theatre",
-   "status": "normal",
-   "image": "https://img.frascatitheater.nl/igcUbt8qkiERTFNoKdwSk5Ag24Bh1xok277Z9wF3tuQ/c:615:348/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzY5OF9vcmlnLnBuZw",
-   "kind": "event",
-   "subtitle": "Fatma Genç",
-   "source": "frascati"
-  },
-  {
    "id": "melkweg-28788",
    "title": "Big Fun in the Big Town (1986)",
    "venue": "Melkweg",
@@ -8286,19 +7994,6 @@
    "kind": "event",
    "subtitle": "Classic",
    "source": "cavia"
-  },
-  {
-   "id": "frascati-3244-202612112030",
-   "title": "SEXODUS",
-   "venue": "Frascati",
-   "start": "2026-12-11T20:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/sexodus-dqmx",
-   "category": "theatre",
-   "status": "sold_out",
-   "image": "https://img.frascatitheater.nl/N9pB7DTVfVaMoFod8VTlsxwEh7by3VOV5mmO_30_X0Q/c:1285:726:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDYzM19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
-   "source": "frascati"
   },
   {
    "id": "bellevue-5913-202612112030",
@@ -8640,19 +8335,6 @@
    "source": "vrankrijk"
   },
   {
-   "id": "frascati-3293-202612121930",
-   "title": "Scènes met mijn vader / De Was Wals",
-   "venue": "Frascati",
-   "start": "2026-12-12T19:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/scenes-met-mijn-vader-de-was-wals-5cd4",
-   "category": "film",
-   "status": "normal",
-   "image": "https://img.frascatitheater.nl/y9eh5AkXJ_m_SBnSp5wrxNaEn23tIQQnV6Mj9beVO0Q/c:5966:3376:nowe:0:0/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA5N19vcmlnLmpwZWc",
-   "kind": "event",
-   "subtitle": "Biserka Šuran",
-   "source": "frascati"
-  },
-  {
    "id": "melkweg-28507",
    "title": "Music Lab - Meervaart Studio x Melkweg",
    "venue": "Melkweg",
@@ -8895,19 +8577,6 @@
    "price": "EUR 15.00",
    "kind": "event",
    "source": "jazzin"
-  },
-  {
-   "id": "frascati-3244-202612122030",
-   "title": "SEXODUS",
-   "venue": "Frascati",
-   "start": "2026-12-12T20:30:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/sexodus-dqmx",
-   "category": "theatre",
-   "status": "sold_out",
-   "image": "https://img.frascatitheater.nl/N9pB7DTVfVaMoFod8VTlsxwEh7by3VOV5mmO_30_X0Q/c:1285:726:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDYzM19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
-   "source": "frascati"
   },
   {
    "id": "bellevue-5913-202612122030",
@@ -10266,20 +9935,6 @@
    "source": "debalie"
   },
   {
-   "id": "frascati-3285-202612172000",
-   "title": "Midwintercircus",
-   "venue": "Frascati",
-   "start": "2026-12-17T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 20,00",
-   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
-   "source": "frascati"
-  },
-  {
    "id": "mezrab-5128",
    "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
    "venue": "Mezrab",
@@ -10594,20 +10249,6 @@
    "kind": "event",
    "subtitle": "Zweven is Leven",
    "source": "nieuweanita"
-  },
-  {
-   "id": "frascati-3285-202612182000",
-   "title": "Midwintercircus",
-   "venue": "Frascati",
-   "start": "2026-12-18T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 20,00",
-   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
-   "source": "frascati"
   },
   {
    "id": "jazzin-701293",
@@ -11090,20 +10731,6 @@
    "kind": "event",
    "subtitle": "Live!",
    "source": "nieuweanita"
-  },
-  {
-   "id": "frascati-3285-202612192000",
-   "title": "Midwintercircus",
-   "venue": "Frascati",
-   "start": "2026-12-19T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 20,00",
-   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
-   "source": "frascati"
   },
   {
    "id": "mezrab-5092",
@@ -11613,20 +11240,6 @@
    "kind": "event",
    "subtitle": "Persoonlijke folk uit Rotterdam",
    "source": "paradiso"
-  },
-  {
-   "id": "frascati-3285-202612202000",
-   "title": "Midwintercircus",
-   "venue": "Frascati",
-   "start": "2026-12-20T20:00:00+01:00",
-   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 20,00",
-   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
-   "source": "frascati"
   },
   {
    "id": "jazzin-2281165",
