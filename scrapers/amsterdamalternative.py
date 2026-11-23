@@ -19,7 +19,8 @@ NAME = "amsterdamalternative"
 VENUE = "Amsterdam Alternative (netwerk)"
 HOMEPAGE = "https://amsterdamalternative.nl/agenda"
 MONTHS = 2
-OWN_SCRAPER_VENUES = {"ot301", "occii", "filmhuis cavia", "de nieuwe anita"}
+OWN_SCRAPER_VENUES = {"ot301", "occii", "filmhuis cavia", "de nieuwe anita",
+                      "pakhuis wilhelmina"}  # = Mezrab's building; mezrab.py has the full agenda
 VENUE_NAMES = {"admnoord - ‘t groene veld": "ADM Noord – 't Groene Veld", "badhuistheater": "Mike's Badhuistheater",
                "pos (possibilities open studio)": "POS (possibilities open studio)",
                "[ woonruimte coöperatief ]": "Woonruimte Coöperatief", "wg": "WG-terrein"}

@@ -275,7 +275,7 @@ def test_food_weekly_and_aa_network():
     net = aa.parse(load_fixture("amsterdamalternative"), FIXTURE_DATE)
     venues = {e.venue for e in net}
     assert {"Cinetol", "Plein Theater", "Teatro Munganga"} <= venues
-    assert not venues & {"OT301", "OCCII", "Filmhuis Cavia", "De Nieuwe Anita"}, "own scrapers win"
+    assert not venues & {"OT301", "OCCII", "Filmhuis Cavia", "De Nieuwe Anita", "Pakhuis Wilhelmina"}, "own scrapers win"
     assert not any("Zaandam" in v for v in venues)
     assert by_title(net, "Eetcafé ADM Noord").kind == "weekly"
     sering = by_title(recurring.parse(load_fixture("recurring"), FIXTURE_DATE), "Community Kitchen")

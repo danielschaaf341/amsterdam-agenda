@@ -80,7 +80,7 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
   + `DISABLED_REASON`, document it in RECON.md and tell the user (Kriterion → Filmvandaag; LAB111 off).
 - Be polite: use `Client` (identifying UA, delay, cache); keep request counts low; weekly run.
 - One scraper failing must never break the run – just raise; run.py logs it into status.json and keeps
-  that source's events from the previous run (footer shows "(oud)"). Empty responses are retried once.
+  that source's events from the previous run (footer shows "(oud)"). Empty responses are retried twice (10 s, 30 s); the workflow rebases + retries its data push so the fallback data is never lost.
 
 ## How to add a venue ("add venue X")
 
