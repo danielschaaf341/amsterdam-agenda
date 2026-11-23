@@ -9,7 +9,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["site/**", "scrapers/**", "run.py", "ics.py", "build.py", ".github/workflows/update.yml"]
+    paths: ["site/**", "scrapers/**", "run.py", "ics.py", "build.py", "recurring.json", ".github/workflows/update.yml"]
 
 permissions:
   contents: write   # commit refreshed data/ back to the repo

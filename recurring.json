@@ -20,14 +20,17 @@
     },
     {
       "venue": "Zaal 100",
-      "title": "Restaurant: Yayang (Aziatisch)",
+      "title": "Restaurant Zaal 100: vegetarisch 3-gangenmenu",
       "weekdays": [
-        "wo"
+        "ma",
+        "wo",
+        "do"
       ],
       "start": "18:00",
+      "end": "20:00",
       "category": "food",
       "url": "https://zaal100.nl/",
-      "note": "De Wittenstraat 100 · ± €12"
+      "note": "€ 12 · wo vaak Yayang (Aziatisch) · reserveren 020-6880127 na 14:00, op = op"
     }
   ]
 }
