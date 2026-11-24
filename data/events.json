@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23T18:17:40+01:00",
+ "generated": "2026-11-24T14:39:14+01:00",
  "window_days": 42,
- "count": 982,
+ "count": 1029,
  "events": [
   {
    "id": "eye-1633828",
@@ -45,20 +45,6 @@
    "source": "brakkegrond"
   },
   {
-   "id": "amsterdamalternative-42800e9d2eb6",
-   "title": "Eetcafe: Bar la Papa",
-   "venue": "ADM Noord – 't Groene Veld",
-   "start": "2026-11-02T17:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23197",
-   "category": "food",
-   "end": "2026-11-23T17:00:00+01:00",
-   "status": "normal",
-   "price": "gratis",
-   "kind": "weekly",
-   "subtitle": "Elke ma 17:00",
-   "source": "amsterdamalternative"
-  },
-  {
    "id": "amsterdamalternative-9e4f877844ec",
    "title": "Eetcafé ADM Noord",
    "venue": "ADM Noord – 't Groene Veld",
@@ -97,6 +83,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "weekly",
+   "free": true,
    "subtitle": "Elke wo, do, vr, za 12:00 · Café Gilde",
    "source": "ot301"
   },
@@ -114,264 +101,6 @@
    "kind": "series",
    "subtitle": "Dronken Mensen · Bellevue op Locatie",
    "source": "bellevue"
-  },
-  {
-   "id": "tolhuistuin-e28529942718",
-   "title": "The Space Choir",
-   "venue": "Tolhuistuin",
-   "start": "2026-11-23T17:30:00+01:00",
-   "url": "https://tolhuistuin.nl/evenementen/the-space-choir/49",
-   "category": "other",
-   "end": "2026-12-16T20:00:00+01:00",
-   "status": "normal",
-   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
-   "kind": "series",
-   "subtitle": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor! · IJzaal",
-   "source": "tolhuistuin"
-  },
-  {
-   "id": "recurring-5881cc1ac209",
-   "title": "Community Kitchen: vegan diner (op donatie)",
-   "venue": "De Sering",
-   "start": "2026-11-23T18:00:00+01:00",
-   "url": "https://desering.org/",
-   "category": "food",
-   "end": "2027-01-04T18:00:00+01:00",
-   "status": "normal",
-   "kind": "weekly",
-   "subtitle": "Elke ma, di, wo, do, vr, za 18:00–21:00 · Rhôneweg 6 (Sloterdijk) · ook lunch ma–vr 12:00–14:00",
-   "source": "recurring"
-  },
-  {
-   "id": "jazzin-2277500",
-   "title": "Arthur Ebeling + Cindy Peress",
-   "venue": "Zaal 100",
-   "start": "2026-11-23T18:00:00+01:00",
-   "url": "https://zaal100.nl/event/23-11-2026-goeie-zin/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "€15",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "recurring-318833ace260",
-   "title": "Restaurant Zaal 100: vegetarisch 3-gangenmenu",
-   "venue": "Zaal 100",
-   "start": "2026-11-23T18:00:00+01:00",
-   "url": "https://zaal100.nl/",
-   "category": "food",
-   "end": "2027-01-04T18:00:00+01:00",
-   "status": "normal",
-   "kind": "weekly",
-   "subtitle": "Elke ma, wo, do 18:00–20:00 · € 12 · wo vaak Yayang (Aziatisch) · reserveren 020-6880127 na 14:00, op = op",
-   "source": "recurring"
-  },
-  {
-   "id": "themovies-206053",
-   "title": "Fjord (Preview)",
-   "venue": "The Movies",
-   "start": "2026-11-23T18:30:00+01:00",
-   "url": "https://themovies.nl/films/fjord/",
-   "category": "film",
-   "end": "2026-11-23T21:11:00+01:00",
-   "status": "normal",
-   "image": "https://themovies.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg",
-   "kind": "event",
-   "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 1",
-   "source": "themovies"
-  },
-  {
-   "id": "filmhallen-9b24bc9e5e29",
-   "title": "Nineties bij Filmhallen",
-   "venue": "Filmhallen",
-   "start": "2026-11-23T18:50:00+01:00",
-   "url": "https://filmhallen.nl/agenda/",
-   "category": "film",
-   "end": "2026-12-30T21:15:00+01:00",
-   "status": "normal",
-   "kind": "series",
-   "subtitle": "39 films: American Beauty, Apollo 13, Braveheart, Cape Fear, Clerks, Conte d’hiver …",
-   "source": "filmhallen"
-  },
-  {
-   "id": "joesgarage-60e23db4fcc0",
-   "title": "Benefit voku for Postaja squat in Zagreb",
-   "venue": "Joe's Garage",
-   "start": "2026-11-23T19:00:00+01:00",
-   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-23/benefit-voku-postaja-squat-zagreb",
-   "category": "food",
-   "status": "normal",
-   "kind": "event",
-   "source": "joesgarage"
-  },
-  {
-   "id": "melkweg-27023",
-   "title": "Wasia Project",
-   "venue": "Melkweg",
-   "start": "2026-11-23T19:00:00+01:00",
-   "url": "https://www.melkweg.nl/nl/agenda/wasia-project-23-11-2026",
-   "category": "music",
-   "status": "normal",
-   "image": "https://assets.melkweg.nl/eventpages/2e0d385a-9e49-43aa-b408-d4e1c875e7d8/WasiaProject_ClarynChong_BleedingGold_LEAD.jpg",
-   "kind": "event",
-   "subtitle": "Support: Lumï",
-   "source": "melkweg"
-  },
-  {
-   "id": "mezrab-5073",
-   "title": "Mezrab Comedy Open Mic",
-   "venue": "Mezrab",
-   "start": "2026-11-23T19:00:00+01:00",
-   "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-11-23/",
-   "category": "theatre",
-   "end": "2026-11-23T21:30:00+01:00",
-   "status": "normal",
-   "kind": "event",
-   "source": "mezrab"
-  },
-  {
-   "id": "amsterdamalternative-23486",
-   "title": "NUKI",
-   "venue": "Cinetol",
-   "start": "2026-11-23T19:30:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23486",
-   "category": "music",
-   "status": "normal",
-   "price": "€ €21,75",
-   "kind": "event",
-   "subtitle": "NUKI",
-   "source": "amsterdamalternative"
-  },
-  {
-   "id": "paradiso-2885768",
-   "title": "SLIFT + Yoo Doo Right",
-   "venue": "Paradiso",
-   "start": "2026-11-23T19:30:00+01:00",
-   "url": "https://www.paradiso.nl/programma/slift/2885768",
-   "category": "music",
-   "status": "normal",
-   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/SLIFT-2026.jpg",
-   "kind": "event",
-   "subtitle": "Frans trio met een hypnotische mix van krautrock en psychedelica",
-   "source": "paradiso"
-  },
-  {
-   "id": "paradiso-2771079",
-   "title": "Mighty Oaks + June Carousel",
-   "venue": "Tolhuistuin",
-   "start": "2026-11-23T19:30:00+01:00",
-   "url": "https://www.paradiso.nl/programma/mighty-oaks/2771079",
-   "category": "music",
-   "status": "normal",
-   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/Main-Press-Shot_2025-12-01-084217_aoaa-1764579034.jpg",
-   "kind": "event",
-   "subtitle": "Indiefolktrio keert na hun akoestische jaren terug met volledige band",
-   "source": "paradiso"
-  },
-  {
-   "id": "jazzin-2277433",
-   "title": "Presentation Singing Circle",
-   "venue": "Café de Pianist",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://www.cafedepianist.nl/agenda-live-muziek/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "gratis",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "carre-36194",
-   "title": "Patrick Laureij - Kintsugi.",
-   "venue": "Carré",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://carre.nl/voorstelling/patrick-laureij-kintsugi",
-   "category": "theatre",
-   "end": "2026-11-23T21:30:00+01:00",
-   "status": "normal",
-   "kind": "event",
-   "subtitle": "Kintsugi",
-   "source": "carre"
-  },
-  {
-   "id": "debalie-122829",
-   "title": "Na het einde van de geschiedenis",
-   "venue": "De Balie",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://debalie.nl/programma/na-het-einde-van-de-geschiedenis-23-11-2026/",
-   "category": "talk",
-   "status": "normal",
-   "image": "https://debalie.nl/wp-content/uploads/2026/10/EINDEGESCHIEDENISV2-1024x576.jpg",
-   "kind": "event",
-   "subtitle": "Over de politieke verbeelding van de toekomst met Tinneke Beeckman, Hans Achterhuis en Marjolein Moorman",
-   "source": "debalie"
-  },
-  {
-   "id": "rodehoed-342",
-   "title": "Breken met Big Tech",
-   "venue": "De Rode Hoed",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://rodehoed.nl/programma/breken-met-big-tech/",
-   "category": "talk",
-   "status": "normal",
-   "price": "€ 15",
-   "image": "https://rodehoed.nl/files/RH%20-%20breken%20met%20big%20tech.png/",
-   "kind": "event",
-   "subtitle": "Wat jij kunt doen om minder afhankelijk te worden van de techbro’s",
-   "source": "rodehoed"
-  },
-  {
-   "id": "zwijger-59ddd12e29aa",
-   "title": "Book launch + talk: The Exterminating Empire: Capitalism’s War on Life, From Palestine to the Burning Planet",
-   "venue": "Pakhuis de Zwijger",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://dezwijger.nl/programma/the-exterminating-empire-capitalisms-war-on-life-from-palestine-to-the-burning-planet",
-   "category": "talk",
-   "status": "normal",
-   "image": "https://images.intuitive.nl/unsafe/330x190/smart/https://admin.dezwijger.nl/wp-content/uploads/2026/09/Book-Cover_Chris-de-Ploeg.png",
-   "kind": "event",
-   "subtitle": "Join us for a conversation with Chris de Ploeg about his new book, together with Jason Hickel, Ghassan Abu-Sittah and Harriët Bergman. · Grote Zaal PDZ, op locatie én livecast",
-   "source": "zwijger"
-  },
-  {
-   "id": "amsterdamalternative-23343",
-   "title": "David Dramm presents: ZaZoo: Teeth like Pearls",
-   "venue": "Splendor",
-   "start": "2026-11-23T20:00:00+01:00",
-   "url": "https://amsterdamalternative.nl/agenda/23343",
-   "category": "music",
-   "status": "normal",
-   "price": "€ 15",
-   "kind": "event",
-   "subtitle": "Debut EP Release Concert",
-   "source": "amsterdamalternative"
-  },
-  {
-   "id": "kleinekomedie-3429-202611232015",
-   "title": "Remko Vrijdag",
-   "venue": "De Kleine Komedie",
-   "start": "2026-11-23T20:15:00+01:00",
-   "url": "https://www.dekleinekomedie.nl/agenda/remko-vrijdag-ts7y",
-   "category": "theatre",
-   "status": "normal",
-   "price": "€ 12,25–€ 29,00",
-   "image": "https://img.dekleinekomedie.nl/7Ma05z224Rk6IKDLvobPgXEJZrLYdyf_SU0r6uQAhPQ/c:1941:1098:nowe:273:0/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzE5OV9vcmlnLnBuZw",
-   "kind": "event",
-   "subtitle": "Marko Maandag - première",
-   "source": "kleinekomedie"
-  },
-  {
-   "id": "jazzin-2277273",
-   "title": "Chris Potter Trio ft. Matt Brewer & Kendrick Scott",
-   "venue": "Bimhuis",
-   "start": "2026-11-23T20:30:00+01:00",
-   "url": "https://www.bimhuis.nl/agenda/chris-potter-trio-ft-matt-brewer-kendrick-scott/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "€20",
-   "kind": "event",
-   "source": "jazzin"
   },
   {
    "id": "melkweg-28601",
@@ -399,6 +128,7 @@
    "image": "https://debalie.nl/wp-content/uploads/2026/10/GEPPVM_print_CheyThePhotographer_DSF0068-683x1024.jpg",
    "kind": "event",
    "all_day": true,
+   "free": true,
    "source": "debalie"
   },
   {
@@ -413,6 +143,20 @@
    "kind": "event",
    "subtitle": "Artiest presenteert 'Live in Paradiso'",
    "source": "paradiso"
+  },
+  {
+   "id": "recurring-5881cc1ac209",
+   "title": "Community Kitchen: vegan diner (op donatie)",
+   "venue": "De Sering",
+   "start": "2026-11-24T18:00:00+01:00",
+   "url": "https://desering.org/",
+   "category": "food",
+   "end": "2027-01-05T18:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "free": true,
+   "subtitle": "Elke ma, di, wo, do, vr, za 18:00–21:00 · Rhôneweg 6 (Sloterdijk) · ook lunch ma–vr 12:00–14:00",
+   "source": "recurring"
   },
   {
    "id": "mollichaoot-1579fbe54dcb",
@@ -438,6 +182,19 @@
    "image": "https://filmhallen.nl/content/uploads/sites/4/2026/10/Fjord_ps_1_jpg_sd-high-scaled-400x600.jpg",
    "kind": "event",
    "subtitle": "Winnaar Gouden Palm Cannes 2026 · Zaal 2",
+   "source": "filmhallen"
+  },
+  {
+   "id": "filmhallen-9b24bc9e5e29",
+   "title": "Nineties bij Filmhallen",
+   "venue": "Filmhallen",
+   "start": "2026-11-24T18:30:00+01:00",
+   "url": "https://filmhallen.nl/agenda/",
+   "category": "film",
+   "end": "2026-12-30T21:15:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "subtitle": "38 films: American Beauty, Apollo 13, Braveheart, Cape Fear, Clerks, Conte d’hiver …",
    "source": "filmhallen"
   },
   {
@@ -517,7 +274,7 @@
    "source": "frascati"
   },
   {
-   "id": "jazzin-2277408",
+   "id": "jazzin-2283742",
    "title": "Gel Presenteert: Bonus Tracks les en vrijdansen",
    "venue": "Kompaszaal",
    "start": "2026-11-24T19:30:00+01:00",
@@ -605,6 +362,18 @@
    "kind": "event",
    "subtitle": "Bromens - reprise",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "richel-13150",
+   "title": "Open BAK",
+   "venue": "Theater De Richel",
+   "start": "2026-11-24T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/open-bak-24/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cabaret, Kleinkunst, Muziek, Poëzie, Theater",
+   "source": "richel"
   },
   {
    "id": "paradiso-2905046",
@@ -700,7 +469,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277501",
+   "id": "jazzin-2283833",
    "title": "Jazzcafé!",
    "venue": "Zaal 100",
    "start": "2026-11-24T21:00:00+01:00",
@@ -722,10 +491,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277274",
+   "id": "jazzin-2283605",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-11-24T22:00:00+01:00",
@@ -734,6 +504,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -751,7 +522,7 @@
    "source": "melkweg"
   },
   {
-   "id": "jazzin-2276586",
+   "id": "jazzin-2282921",
    "title": "Gratis Lunchconcert: Grachtenfestival Jazz Competition 2026",
    "venue": "Het Concertgebouw",
    "start": "2026-11-25T12:30:00+01:00",
@@ -760,6 +531,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -770,9 +542,24 @@
    "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/joes-salon",
    "category": "food",
    "status": "normal",
+   "price": "op donatie",
    "kind": "weekly",
+   "free": true,
    "subtitle": "Elke wo 15:00",
    "source": "joesgarage"
+  },
+  {
+   "id": "frascati-3291-202611251530",
+   "title": "Het geheim van één boom (4+)",
+   "venue": "Frascati",
+   "start": "2026-11-25T15:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/het-geheim-van-een-boom-4-rjcv",
+   "category": "theatre",
+   "status": "normal",
+   "image": "https://img.frascatitheater.nl/9VsrxGuvW9YwwTBwmFuribVkMT219Ip-8y9BCTYh7oY/c:1200:678:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA4M19vcmlnLmpwZWc",
+   "kind": "event",
+   "subtitle": "Jeritza Toney / Theater De Krakeling",
+   "source": "frascati"
   },
   {
    "id": "joesgarage-58a32611e293",
@@ -823,11 +610,39 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Mannengesprek.jpeg",
    "kind": "event",
+   "free": true,
    "subtitle": "Wat betekent het om man te zijn? Tijdens het slotevent van Het Mannengesprek Amsterdam komen verhalen uit de stad samen in een interactieve avond vol persoonlijke verhalen, humor en nieuwe inzichten. · Galerij",
    "source": "tolhuistuin"
   },
   {
-   "id": "jazzin-2277502",
+   "id": "tolhuistuin-e28529942718",
+   "title": "The Space Choir",
+   "venue": "Tolhuistuin",
+   "start": "2026-11-25T17:30:00+01:00",
+   "url": "https://tolhuistuin.nl/evenementen/the-space-choir/51",
+   "category": "other",
+   "end": "2026-12-16T20:00:00+01:00",
+   "status": "normal",
+   "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/The-Space-Choir-Show-Paradiso.JPG",
+   "kind": "series",
+   "subtitle": "Zing iedere maandag en/of woensdag mee met dit groovy en inclusieve popkoor! · IJzaal",
+   "source": "tolhuistuin"
+  },
+  {
+   "id": "recurring-318833ace260",
+   "title": "Restaurant Zaal 100: vegetarisch 3-gangenmenu",
+   "venue": "Zaal 100",
+   "start": "2026-11-25T18:00:00+01:00",
+   "url": "https://zaal100.nl/",
+   "category": "food",
+   "end": "2027-01-05T18:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke ma, wo, do 18:00–20:00 · € 12 · wo vaak Yayang (Aziatisch) · reserveren 020-6880127 na 14:00, op = op",
+   "source": "recurring"
+  },
+  {
+   "id": "jazzin-2283834",
    "title": "Restaurant: Yayang",
    "venue": "Zaal 100",
    "start": "2026-11-25T18:00:00+01:00",
@@ -839,7 +654,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2276609",
+   "id": "jazzin-2282944",
    "title": "Vocal Night",
    "venue": "Amsterdam Blue Dock, CvA",
    "start": "2026-11-25T19:00:00+01:00",
@@ -901,7 +716,7 @@
    "source": "mezrab"
   },
   {
-   "id": "jazzin-2281154",
+   "id": "jazzin-2287809",
    "title": "Amani • Echo Live in Concert • Srefidensi Edition • 51 jaar onafhankelijkheid Suriname",
    "venue": "ZOJazz Stage",
    "start": "2026-11-25T19:00:00+01:00",
@@ -936,6 +751,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/RCGOG_Mannenbeweging-Tolhuistuin-1440x817-abbie.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "Regeringscommissaris Mariëtte Hamer gaat in gesprek met Abbie Chalgoum en initiatiefnemers van diverse mannenbewegingen. Op zoek naar een positief geluid dat luider klinkt dan de manosfeer. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -1025,7 +841,9 @@
    "category": "food",
    "end": "2026-11-26T00:00:00+01:00",
    "status": "normal",
+   "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "vrankrijk"
   },
   {
@@ -1039,6 +857,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -1066,6 +885,20 @@
    "kind": "event",
    "subtitle": "Met o.a. Gerdi Verbeet en Robert Vuijsje",
    "source": "debalie"
+  },
+  {
+   "id": "frascati-3261-202611252000",
+   "title": "soft cracks, hard curves",
+   "venue": "Frascati",
+   "start": "2026-11-25T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Isadora Tomasi · try-out",
+   "source": "frascati"
   },
   {
    "id": "amsterdamalternative-23440",
@@ -1109,6 +942,18 @@
    "source": "bellevue"
   },
   {
+   "id": "richel-13978",
+   "title": "KASSETT – KASSETTkafé (met de Componist der Nederlanden)",
+   "venue": "Theater De Richel",
+   "start": "2026-11-25T20:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/kassett-kassettkafe-met-de-componist-der-nederlanden/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Muziek, Theater",
+   "source": "richel"
+  },
+  {
    "id": "kleinekomedie-3431-202611252015",
    "title": "Familiegeheimen",
    "venue": "De Kleine Komedie",
@@ -1123,7 +968,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277275",
+   "id": "jazzin-2283606",
    "title": "Joe Armon-Jones & Maxwell Owin",
    "venue": "Bimhuis",
    "start": "2026-11-25T20:30:00+01:00",
@@ -1202,7 +1047,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277427",
+   "id": "jazzin-2283761",
    "title": "Jazz | Timothy Banchet",
    "venue": "Sociëteit de Kring",
    "start": "2026-11-25T21:00:00+01:00",
@@ -1236,6 +1081,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -1267,7 +1113,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2281151",
+   "id": "jazzin-2287806",
    "title": "Theo Naishtat Trio",
    "venue": "Manhattan Lounge Bar",
    "start": "2026-11-26T18:00:00+01:00",
@@ -1276,6 +1122,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -1305,7 +1152,7 @@
    "source": "skatecafe"
   },
   {
-   "id": "jazzin-2277503",
+   "id": "jazzin-2283835",
    "title": "Restaurant: Sisi & Sevgi koken",
    "venue": "Zaal 100",
    "start": "2026-11-26T18:00:00+01:00",
@@ -1342,7 +1189,7 @@
   },
   {
    "id": "mezrab-5117",
-   "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 Years! ♫",
+   "title": "SOLD OUT! Club Amsterdam Klezmer ★ Amsterdam Klezmer Band 30 Years! ♫",
    "venue": "Mezrab",
    "start": "2026-11-26T19:00:00+01:00",
    "url": "https://mezrab.nl/events/clubamsterdamklezmer-band/",
@@ -1505,6 +1352,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Woeker-LindIn-banner.png",
    "kind": "event",
+   "free": true,
    "subtitle": "In het kader van de wereldwijde 'Orange the World' organiseren HTIB en VON samen met Tolhuistuin een inspirerende internationale conferentie over de preventie van geweld tegen vrouwen. · Galerij",
    "source": "tolhuistuin"
   },
@@ -1575,6 +1423,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "frascati-3261-202611262000",
+   "title": "soft cracks, hard curves",
+   "venue": "Frascati",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Isadora Tomasi · try-out",
+   "source": "frascati"
+  },
+  {
    "id": "melkweg-28659",
    "title": "Nachtburgemeester Verkiezing 2026",
    "venue": "Melkweg",
@@ -1641,7 +1503,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2276086",
+   "id": "jazzin-2282419",
    "title": "Jazz Thursdays w/ Oscar Ployart Trio & Eugenio Serra",
    "venue": "Volkshotel",
    "start": "2026-11-26T20:00:00+01:00",
@@ -1650,6 +1512,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -1663,10 +1526,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277504",
+   "id": "jazzin-2283836",
    "title": "Oktopedians",
    "venue": "Zaal 100",
    "start": "2026-11-26T20:00:00+01:00",
@@ -1675,6 +1539,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -1693,7 +1558,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276587",
+   "id": "jazzin-2282922",
    "title": "Joss Stone - Merry Christmas, Love",
    "venue": "Het Concertgebouw",
    "start": "2026-11-26T20:15:00+01:00",
@@ -1703,6 +1568,18 @@
    "price": "€56.09",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "richel-14863",
+   "title": "Wrijving",
+   "venue": "Theater De Richel",
+   "start": "2026-11-26T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/wrijving-3/",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Seks, Storytelling",
+   "source": "richel"
   },
   {
    "id": "jazzin-2109812",
@@ -1715,10 +1592,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277277",
+   "id": "jazzin-2283608",
    "title": "Storm: Jazz Orchestra of the Concertgebouw x OFFprojects",
    "venue": "Bimhuis",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1729,7 +1607,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277276",
+   "id": "jazzin-2283607",
    "title": "Teis Semey Quintet",
    "venue": "Bimhuis",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1741,7 +1619,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277434",
+   "id": "jazzin-2283767",
    "title": "Jazz Jam Session",
    "venue": "Café de Pianist",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1750,10 +1628,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277484",
+   "id": "jazzin-2283818",
    "title": "Natasha Sulym, David Golek & Cord Heineking (Vocal Jazz)",
    "venue": "De Roode Remise",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1762,10 +1641,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2276846",
+   "id": "jazzin-2283180",
    "title": "Storm - Jazz Orchestra of the Concertgebouw x OFFprojects",
    "venue": "Muziekgebouw",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1831,17 +1711,30 @@
    "source": "garagenoord"
   },
   {
-   "id": "jazzin-1999333",
-   "title": "Jazz @ De Richel",
+   "id": "richel-12266",
+   "title": "Clous van Mechelen en Olga de Meij – Ronflonflon , een ode aan Wim T. Schippers",
+   "venue": "Theater De Richel",
+   "start": "2026-11-26T21:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/muziektheater-clous-van-mechelen-olga-de-meij-hoe-bedoel-je/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Muziektheater",
+   "source": "richel"
+  },
+  {
+   "id": "richel-15014",
+   "title": "Jazz Underground",
    "venue": "Theater De Richel",
    "start": "2026-11-26T22:00:00+01:00",
-   "url": "https://theaterderichel.nl/cafe/",
+   "url": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
    "category": "jazz",
-   "end": "2026-11-26T23:59:00+01:00",
    "status": "normal",
    "price": "gratis",
    "kind": "event",
-   "source": "jazzin"
+   "free": true,
+   "subtitle": "Jazz, Muziek · Café",
+   "source": "richel"
   },
   {
    "id": "paradiso-2950473",
@@ -1894,6 +1787,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
@@ -1906,6 +1800,7 @@
    "status": "normal",
    "price": "€ 10 donation",
    "kind": "event",
+   "free": true,
    "subtitle": "Café Gilde",
    "source": "ot301"
   },
@@ -1923,7 +1818,7 @@
    "source": "ot301"
   },
   {
-   "id": "jazzin-2281139",
+   "id": "jazzin-2287794",
    "title": "Leo Bouwmeester",
    "venue": "Café Parisius",
    "start": "2026-11-27T17:30:00+01:00",
@@ -1944,6 +1839,18 @@
    "image": "https://debalie.nl/wp-content/uploads/2023/08/Plein-Publiek-Illustratie-32-verhoduing-e1693049321711-1024x682.png",
    "kind": "event",
    "source": "debalie"
+  },
+  {
+   "id": "richel-13195",
+   "title": "Betty Friday – vrij-mi-bo cabaret – MC020",
+   "venue": "Theater De Richel",
+   "start": "2026-11-27T17:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-71/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Muziek, Theater",
+   "source": "richel"
   },
   {
    "id": "cavia-territory-202611271800",
@@ -2059,6 +1966,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -2215,7 +2123,7 @@
    "source": "rodehoed"
   },
   {
-   "id": "jazzin-2279507",
+   "id": "jazzin-2285852",
    "title": "The Skepticals 27 November",
    "venue": "De Roode Bioscoop",
    "start": "2026-11-27T20:00:00+01:00",
@@ -2238,6 +2146,34 @@
    "kind": "event",
    "subtitle": "Morpheus invites you into his dreamworld at Felix Meritis for an intimate listening session where harp, cello, keys and voice come together in an immersive soun",
    "source": "felixmeritis"
+  },
+  {
+   "id": "frascati-3268-202611272000",
+   "title": "P4rTy GWoRLz N3v4h Di3",
+   "venue": "Frascati",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/p4rty-gworlz-n3v4h-di3-9t6w",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Vincent Riebeek · Première",
+   "source": "frascati"
+  },
+  {
+   "id": "frascati-3261-202611272000",
+   "title": "soft cracks, hard curves",
+   "venue": "Frascati",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Isadora Tomasi · try-out",
+   "source": "frascati"
   },
   {
    "id": "melkweg-28719",
@@ -2277,7 +2213,7 @@
    "source": "occii"
   },
   {
-   "id": "jazzin-2276730",
+   "id": "jazzin-2283062",
    "title": "Jazz at the Pianola, the Vintage project met Corinna Kramer",
    "venue": "Pianola Museum",
    "start": "2026-11-27T20:00:00+01:00",
@@ -2329,7 +2265,21 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2281155",
+   "id": "amsterdamalternative-23658",
+   "title": "MONDO CANE",
+   "venue": "Vondelbunker",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://amsterdamalternative.nl/agenda/23658",
+   "category": "music",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "subtitle": "MONDO CANE - FAC191 - Liquid Desert - MØDI",
+   "source": "amsterdamalternative"
+  },
+  {
+   "id": "jazzin-2287810",
    "title": "Marmoucha Orchestra • Wandering Roots",
    "venue": "ZOJazz Stage",
    "start": "2026-11-27T20:00:00+01:00",
@@ -2340,7 +2290,19 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277278",
+   "id": "richel-12219",
+   "title": "Kiki Schippers – De Grote Hoop",
+   "venue": "Theater De Richel",
+   "start": "2026-11-27T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/kiki-schippers-de-grote-hoop/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cabaret, Oudejaars",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283609",
    "title": "Paradox Jazz Orchestra ft. James Carter – The Music of John Coltrane",
    "venue": "Bimhuis",
    "start": "2026-11-27T20:30:00+01:00",
@@ -2352,7 +2314,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277435",
+   "id": "jazzin-2283768",
    "title": "Seppo Kitachev Quartet",
    "venue": "Café de Pianist",
    "start": "2026-11-27T20:30:00+01:00",
@@ -2361,6 +2323,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -2404,7 +2367,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2279147",
+   "id": "jazzin-2285485",
    "title": "Astrid Akse",
    "venue": "Theater Mascini",
    "start": "2026-11-27T20:30:00+01:00",
@@ -2416,7 +2379,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2279638",
+   "id": "jazzin-2285989",
    "title": "SONGS & STARDUST - a magical night of music and stories",
    "venue": "Torpedo Theater",
    "start": "2026-11-27T20:30:00+01:00",
@@ -2440,7 +2403,7 @@
    "source": "joesgarage"
   },
   {
-   "id": "jazzin-2277409",
+   "id": "jazzin-2283743",
    "title": "Blues Burner – Lightnin’ Bug",
    "venue": "Kompaszaal",
    "start": "2026-11-27T21:00:00+01:00",
@@ -2464,7 +2427,7 @@
    "source": "ot301"
   },
   {
-   "id": "jazzin-2277505",
+   "id": "jazzin-2283837",
    "title": "SOIL + tatatacouF",
    "venue": "Zaal 100",
    "start": "2026-11-27T21:00:00+01:00",
@@ -2487,6 +2450,20 @@
    "kind": "event",
    "subtitle": "Productieve indieband uit Wales maakt eigenzinnige garagepop",
    "source": "paradiso"
+  },
+  {
+   "id": "kriterion-52a0d165d508",
+   "title": "Donnie Darko (late night)",
+   "venue": "Kriterion",
+   "start": "2026-11-27T23:00:00+01:00",
+   "url": "https://www.filmvandaag.nl/film/2707-donnie-darko",
+   "category": "film",
+   "end": "2026-11-28T01:08:00+01:00",
+   "status": "normal",
+   "image": "https://static.filmvandaag.nl/covers/2000/2707.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+   "kind": "event",
+   "subtitle": "Nadat Donnie op onverklaarbare wijze aan de dood ontsnapt wanneer een vliegtuigmotor zijn slaapkamer verplettert, raakt hij steeds verder ve",
+   "source": "kriterion"
   },
   {
    "id": "radion-111697745",
@@ -2527,6 +2504,20 @@
    "image": "https://weticket.ams3.digitaloceanspaces.com/event/vhs-x-pacific-ondergronds__by_garagenoord__cover_photo-01a15e14-9c64-706d-b96c-30221d1eb3f4.png",
    "kind": "event",
    "source": "garagenoord"
+  },
+  {
+   "id": "kriterion-011891ec0ec9",
+   "title": "Club Kid (late night)",
+   "venue": "Kriterion",
+   "start": "2026-11-27T23:40:00+01:00",
+   "url": "https://www.filmvandaag.nl/film/151952-club-kid",
+   "category": "film",
+   "end": "2026-11-28T01:56:00+01:00",
+   "status": "normal",
+   "image": "https://static.filmvandaag.nl/covers/151000/151952.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+   "kind": "event",
+   "subtitle": "Het wilde nachtleven van een New Yorkse clubpromotor komt volledig op zijn kop te staan wanneer zijn 10-jarige zoon, van wiens bestaan hij n",
+   "source": "kriterion"
   },
   {
    "id": "melkweg-28725",
@@ -2686,6 +2677,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -2713,10 +2705,11 @@
    "status": "normal",
    "price": "€ Free",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277398",
+   "id": "jazzin-2283732",
    "title": "'Oh, Those Blondes' 20th Century Famous Blondes",
    "venue": "Salon de IJzerstaven",
    "start": "2026-11-28T16:00:00+01:00",
@@ -2740,7 +2733,7 @@
    "source": "melkweg"
   },
   {
-   "id": "jazzin-2281152",
+   "id": "jazzin-2287807",
    "title": "Shaffy Muziekcafé | Olaf Zwetsloot presenteert Una Bergin",
    "venue": "Sociëteit Ramses Shaffy Huis",
    "start": "2026-11-28T16:30:00+01:00",
@@ -2752,7 +2745,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2276610",
+   "id": "jazzin-2282945",
    "title": "Jong Talent | Junior Jazz Ensemble Night",
    "venue": "Amsterdam Blue Dock, CvA",
    "start": "2026-11-28T17:00:00+01:00",
@@ -2763,7 +2756,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277410",
+   "id": "jazzin-2283744",
    "title": "Simple Music Ensemble. Spirited Away",
    "venue": "Kompaszaal",
    "start": "2026-11-28T18:00:00+01:00",
@@ -2774,7 +2767,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2281140",
+   "id": "jazzin-2287795",
    "title": "Leo Bouwmeester",
    "venue": "Café Parisius",
    "start": "2026-11-28T19:00:00+01:00",
@@ -2798,7 +2791,19 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277506",
+   "id": "richel-15463",
+   "title": "Rebetiko Night Sti Sofita",
+   "venue": "Theater De Richel",
+   "start": "2026-11-28T19:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/rebetiko-night-sti-sofita-8/",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Grieks, Muziek",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283838",
    "title": "Women Unscripted Stand-up Show",
    "venue": "Zaal 100",
    "start": "2026-11-28T19:00:00+01:00",
@@ -2872,6 +2877,20 @@
    "kind": "event",
    "subtitle": "Met Jim van Os",
    "source": "debalie"
+  },
+  {
+   "id": "frascati-3268-202611282000",
+   "title": "P4rTy GWoRLz N3v4h Di3",
+   "venue": "Frascati",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/p4rty-gworlz-n3v4h-di3-9t6w",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/cVzjLEZHyEPUMlP_fT2Llo3wg6isy4JAgcYszJC1f5w/c:4077:2301:nowe:8:352/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc3OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Vincent Riebeek · Première",
+   "source": "frascati"
   },
   {
    "id": "jazzin-701294",
@@ -2963,11 +2982,12 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "subtitle": "Gary Martin - DJ Drum:Major2525 - REDMADVELVET",
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2281156",
+   "id": "jazzin-2287811",
    "title": "Alexander Beets Sextet • Celebrate the Music of Cannonball Adderley",
    "venue": "ZOJazz Stage",
    "start": "2026-11-28T20:00:00+01:00",
@@ -2978,7 +2998,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277279",
+   "id": "jazzin-2283610",
    "title": "Manu – De Herontdekking van de Hemel",
    "venue": "Bimhuis",
    "start": "2026-11-28T20:30:00+01:00",
@@ -3121,6 +3141,20 @@
    "source": "ingang"
   },
   {
+   "id": "kriterion-689f6c4e9c65",
+   "title": "I Love Boosters (late night)",
+   "venue": "Kriterion",
+   "start": "2026-11-28T23:25:00+01:00",
+   "url": "https://www.filmvandaag.nl/film/149502-i-love-boosters",
+   "category": "film",
+   "end": "2026-11-29T01:33:00+01:00",
+   "status": "normal",
+   "image": "https://static.filmvandaag.nl/covers/149000/149502.jpg?v=2&width=1200&aspect_ratio=1%3A0.525",
+   "kind": "event",
+   "subtitle": "Een bende professionele winkeldieven heeft het gemunt op een meedogenloze modeguru. Het is net een soort taakstraf.",
+   "source": "kriterion"
+  },
+  {
    "id": "paradiso-2957326",
    "title": "WB&B presents: Bobby Shmurda (21+)",
    "venue": "Bitterzoet",
@@ -3261,6 +3295,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "subtitle": "Restory - Beyond burnout, together · Ventilator Cinema",
    "source": "ot301"
   },
@@ -3278,7 +3313,7 @@
    "source": "thuishaven"
   },
   {
-   "id": "jazzin-2277280",
+   "id": "jazzin-2283611",
    "title": "Groove Beest Familieconcert: Kay Slice",
    "venue": "Bimhuis",
    "start": "2026-11-29T14:30:00+01:00",
@@ -3330,7 +3365,7 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2281157",
+   "id": "jazzin-2287812",
    "title": "Kids Concert • Jong JOC Live! • Jong Jazz orchestra of the Concertgebouw • 5-Jarig Jubileum",
    "venue": "ZOJazz Stage",
    "start": "2026-11-29T15:00:00+01:00",
@@ -3350,11 +3385,12 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "subtitle": "Restory - Beyond burnout, together · Ventilator Cinema",
    "source": "ot301"
   },
   {
-   "id": "jazzin-2277473",
+   "id": "jazzin-2283807",
    "title": "Paul van der Feen Quartet",
    "venue": "Plofhuis7 (Weesp)",
    "start": "2026-11-29T15:30:00+01:00",
@@ -3380,7 +3416,19 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2281138",
+   "id": "richel-12480",
+   "title": "Café Chantant: Allerzielen",
+   "venue": "Theater De Richel",
+   "start": "2026-11-29T15:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/cafe-chantant/",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Muziek",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2287793",
    "title": "Jazz De Boule",
    "venue": "De Boule De Boule",
    "start": "2026-11-29T16:00:00+01:00",
@@ -3389,6 +3437,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -3417,7 +3466,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277507",
+   "id": "jazzin-2283839",
    "title": "Liquid & Bones",
    "venue": "Zaal 100",
    "start": "2026-11-29T16:00:00+01:00",
@@ -3426,10 +3475,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277369",
+   "id": "jazzin-2283703",
    "title": "Jazz op zondag feat. Rolf Delfos",
    "venue": "Café de Engelbewaarder",
    "start": "2026-11-29T16:30:00+01:00",
@@ -3438,10 +3488,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277436",
+   "id": "jazzin-2283769",
    "title": "Mirco's Stormy Sunday Session",
    "venue": "Café de Pianist",
    "start": "2026-11-29T17:00:00+01:00",
@@ -3450,6 +3501,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -3463,10 +3515,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2281148",
+   "id": "jazzin-2287803",
    "title": "Mozes Rosenberg & Anton Goudsmit",
    "venue": "De KHL",
    "start": "2026-11-29T17:00:00+01:00",
@@ -3477,7 +3530,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277411",
+   "id": "jazzin-2283745",
    "title": "Sandunguera Party",
    "venue": "Kompaszaal",
    "start": "2026-11-29T17:00:00+01:00",
@@ -3587,29 +3640,16 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2202375",
-   "title": "Ondertussen - Joost II Sickenga",
+   "id": "richel-12765",
+   "title": "Ondertussen – Joost II Sickenga",
    "venue": "Theater De Richel",
    "start": "2026-11-29T20:00:00+01:00",
    "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
+   "category": "theatre",
    "status": "normal",
-   "price": "€22.5",
    "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "jazzin-2147136",
-   "title": "Ondertussen, met muziek van Ernst Reijseger",
-   "venue": "Theater De Richel",
-   "start": "2026-11-29T20:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
-   "end": "2026-11-29T23:59:00+01:00",
-   "status": "normal",
-   "price": "22.50",
-   "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Literatuur, Muziektheater",
+   "source": "richel"
   },
   {
    "id": "kleinekomedie-3544-202611292015",
@@ -3626,7 +3666,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277281",
+   "id": "jazzin-2283612",
    "title": "Jasper Blom, Felix Schlarmann & Sean Fasciani – WonderYears",
    "venue": "Bimhuis",
    "start": "2026-11-29T20:30:00+01:00",
@@ -3721,7 +3761,9 @@
    "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-30/mkz-studycafe",
    "category": "other",
    "status": "normal",
+   "price": "op donatie",
    "kind": "weekly",
+   "free": true,
    "subtitle": "Elke ma 10:00",
    "source": "mkz"
   },
@@ -3738,7 +3780,7 @@
    "source": "fchyena"
   },
   {
-   "id": "jazzin-2277508",
+   "id": "jazzin-2283840",
    "title": "Ronley Taper's Lipliners",
    "venue": "Zaal 100",
    "start": "2026-11-30T18:00:00+01:00",
@@ -3895,31 +3937,6 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2202376",
-   "title": "Ondertussen - Joost II Sickenga",
-   "venue": "Theater De Richel",
-   "start": "2026-11-30T20:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "€22.5",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "jazzin-2147137",
-   "title": "Ondertussen, met muziek van Ernst Reijseger",
-   "venue": "Theater De Richel",
-   "start": "2026-11-30T20:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
-   "end": "2026-11-30T23:59:00+01:00",
-   "status": "normal",
-   "price": "22.50",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "tolhuistuin-353601d8664f",
    "title": "Het Metabolisme van Verlies",
    "venue": "Tolhuistuin",
@@ -3949,7 +3966,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276588",
+   "id": "jazzin-2282923",
    "title": "Bugge Wesseltoft – It’s still snowing on my piano",
    "venue": "Het Concertgebouw",
    "start": "2026-11-30T20:15:00+01:00",
@@ -3959,6 +3976,18 @@
    "price": "€19",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "richel-14969",
+   "title": "Lieve de Putter – ECHOES",
+   "venue": "Theater De Richel",
+   "start": "2026-11-30T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/lieve-de-putter-echoes/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "English, Muziek, Theater",
+   "source": "richel"
   },
   {
    "id": "paradiso-2931757",
@@ -3974,7 +4003,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277399",
+   "id": "jazzin-2283733",
    "title": "Impro jazz trio Lotz-Puntin-van Vliet",
    "venue": "Salon de IJzerstaven",
    "start": "2026-11-30T20:30:00+01:00",
@@ -4102,7 +4131,7 @@
    "source": "nieuweanita"
   },
   {
-   "id": "jazzin-2277412",
+   "id": "jazzin-2283746",
    "title": "Gel Presenteert: Bonus Tracks les en vrijdansen",
    "venue": "Kompaszaal",
    "start": "2026-12-01T19:30:00+01:00",
@@ -4146,7 +4175,7 @@
    "url": "https://ita.nl/nl/voorstellingen/een-groter-verhaal",
    "category": "theatre",
    "end": "2026-12-01T20:40:00+01:00",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://media.ita.nl/media/bureauvergezicht_een-groter-verhaal-c-brian-elstak_liggend.jpg?guid=85829012-0010-4778-8538-1c7fcb684c67",
    "kind": "event",
    "subtitle": "Bureau Vergezicht / Theater Rotterdam · Theater",
@@ -4175,6 +4204,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -4256,31 +4286,6 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2202377",
-   "title": "Ondertussen - Joost II Sickenga",
-   "venue": "Theater De Richel",
-   "start": "2026-12-01T20:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "€22.5",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "jazzin-2147138",
-   "title": "Ondertussen, met muziek van Ernst Reijseger",
-   "venue": "Theater De Richel",
-   "start": "2026-12-01T20:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
-   "category": "jazz",
-   "end": "2026-12-01T23:59:00+01:00",
-   "status": "normal",
-   "price": "22.50",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "kleinekomedie-3433-202612012015",
    "title": "Tangarine",
    "venue": "De Kleine Komedie",
@@ -4293,6 +4298,32 @@
    "kind": "event",
    "subtitle": "Running in the Family II",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "richel-13152",
+   "title": "Open BAK",
+   "venue": "Theater De Richel",
+   "start": "2026-12-01T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/open-bak-25/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cabaret, Kleinkunst, Muziek, Poëzie, Theater",
+   "source": "richel"
+  },
+  {
+   "id": "frascati-3234-202612012030",
+   "title": "I Like Art and Art Likes Me",
+   "venue": "Frascati",
+   "start": "2026-12-01T20:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 14,00–€ 20,00",
+   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
+   "source": "frascati"
   },
   {
    "id": "bellevue-5907-202612012030",
@@ -4308,7 +4339,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2277509",
+   "id": "jazzin-2283841",
    "title": "Jazzcafé!",
    "venue": "Zaal 100",
    "start": "2026-12-01T21:00:00+01:00",
@@ -4320,7 +4351,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277282",
+   "id": "jazzin-2283613",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-01T22:00:00+01:00",
@@ -4329,6 +4360,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -4372,6 +4404,18 @@
    "source": "debalie"
   },
   {
+   "id": "richel-14875",
+   "title": "Productiehuis De Haard – De Eeuw Waarin Alles Kan",
+   "venue": "Theater De Richel",
+   "start": "2026-12-02T14:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/productiehuis-de-haard-de-eeuw-waarin-alles-kan/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Musical",
+   "source": "richel"
+  },
+  {
    "id": "joesgarage-69ab2f6138a2",
    "title": "Arab Spring class",
    "venue": "Joe's Garage",
@@ -4384,7 +4428,7 @@
    "source": "joesgarage"
   },
   {
-   "id": "jazzin-2276611",
+   "id": "jazzin-2282946",
    "title": "Vocal Night",
    "venue": "Amsterdam Blue Dock, CvA",
    "start": "2026-12-02T19:00:00+01:00",
@@ -4428,6 +4472,7 @@
    "status": "normal",
    "price": "€ free/ donation",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
@@ -4523,19 +4568,6 @@
    "source": "paradiso"
   },
   {
-   "id": "paradiso-2924100",
-   "title": "Radio Z",
-   "venue": "Paradiso",
-   "start": "2026-12-02T19:30:00+01:00",
-   "url": "https://www.paradiso.nl/programma/radio-z/2924100",
-   "category": "music",
-   "status": "normal",
-   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/RADIO-Z-2026.jpg",
-   "kind": "event",
-   "subtitle": "Amsterdamse hiphoptrio van Ray Fuego, Dio en Kabul $lim",
-   "source": "paradiso"
-  },
-  {
    "id": "ita-864",
    "title": "Een groter verhaal",
    "venue": "Stadsschouwburg (ITA)",
@@ -4543,11 +4575,23 @@
    "url": "https://ita.nl/nl/voorstellingen/een-groter-verhaal",
    "category": "theatre",
    "end": "2026-12-02T20:40:00+01:00",
-   "status": "sold_out",
+   "status": "normal",
    "image": "https://media.ita.nl/media/bureauvergezicht_een-groter-verhaal-c-brian-elstak_liggend.jpg?guid=85829012-0010-4778-8538-1c7fcb684c67",
    "kind": "event",
    "subtitle": "Bureau Vergezicht / Theater Rotterdam · Theater",
    "source": "ita"
+  },
+  {
+   "id": "richel-13300",
+   "title": "The Secretary",
+   "venue": "Theater De Richel",
+   "start": "2026-12-02T19:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/the-secretary/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "English, Theater, Verhuur",
+   "source": "richel"
   },
   {
    "id": "paradiso-2852178",
@@ -4602,6 +4646,19 @@
    "source": "nieuweanita"
   },
   {
+   "id": "frascati-3262-202612022000",
+   "title": "VACUÜM NIGHT",
+   "venue": "Frascati",
+   "start": "2026-12-02T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/vacuum-night-studio-vacuum-mees-vervuurt-zklq",
+   "category": "theatre",
+   "status": "normal",
+   "image": "https://img.frascatitheater.nl/Hx353Y4p7oMb6-6eO5nOmSGl3dEX0bjpTpyQYGTuJoU/c:900:508:nowe:0:187/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDY4Nl9vcmlnLndlYnA",
+   "kind": "event",
+   "subtitle": "Studio Vacuüm / Mees Vervuurt",
+   "source": "frascati"
+  },
+  {
    "id": "zwijger-whitewash-city-tirana-albania",
    "title": "Albania & The Flamingo Revolution 2: Whitewash City – Tirana (Albania)",
    "venue": "Pakhuis de Zwijger",
@@ -4624,6 +4681,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "subtitle": "Chidi Ebere",
    "source": "amsterdamalternative"
   },
@@ -4642,7 +4700,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277283",
+   "id": "jazzin-2283614",
    "title": "Martyn3024",
    "venue": "Bimhuis",
    "start": "2026-12-02T20:30:00+01:00",
@@ -4665,6 +4723,33 @@
    "kind": "event",
    "subtitle": "Over demonstreren, blokkeren en rebelleren",
    "source": "debalie"
+  },
+  {
+   "id": "frascati-3234-202612022030",
+   "title": "I Like Art and Art Likes Me",
+   "venue": "Frascati",
+   "start": "2026-12-02T20:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 14,00–€ 20,00",
+   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
+   "source": "frascati"
+  },
+  {
+   "id": "paradiso-2924100",
+   "title": "Radio Z",
+   "venue": "Paradiso",
+   "start": "2026-12-02T20:30:00+01:00",
+   "url": "https://www.paradiso.nl/programma/radio-z/2924100",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/RADIO-Z-2026.jpg",
+   "kind": "event",
+   "subtitle": "Amsterdamse hiphoptrio van Ray Fuego, Dio en Kabul $lim",
+   "source": "paradiso"
   },
   {
    "id": "ita-1192",
@@ -4695,7 +4780,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2279148",
+   "id": "jazzin-2285486",
    "title": "Léah Kline",
    "venue": "Theater Mascini",
    "start": "2026-12-02T20:30:00+01:00",
@@ -4707,7 +4792,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277428",
+   "id": "jazzin-2283762",
    "title": "Jazz | Benjamin Herman",
    "venue": "Sociëteit de Kring",
    "start": "2026-12-02T21:00:00+01:00",
@@ -4716,6 +4801,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "richel-14141",
+   "title": "The Comedy Underground",
+   "venue": "Theater De Richel",
+   "start": "2026-12-02T21:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/the-comedy-underground-43/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedy, English",
+   "source": "richel"
   },
   {
    "id": "vrankrijk-6307037d1b9e",
@@ -4728,6 +4825,20 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "richel-12299",
+   "title": "Margreet Dolman brengt Warmte in de donkerste dagen van het jaar & Dominee Gremdaat wijst de Weg naar een evenwichtig 2027",
+   "venue": "Theater De Richel",
+   "start": "2026-12-03T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/margreet-dolman-brengt-warmte-in-de-donkerste-dagen-van-het-jaar-dominee-gremdaat-wijst-de-weg-naar-een-evenwichtig-2027/",
+   "category": "theatre",
+   "end": "2027-01-10T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "subtitle": "Kleinkunst",
+   "source": "richel"
   },
   {
    "id": "melkweg-28023",
@@ -4790,6 +4901,20 @@
    "kind": "event",
    "subtitle": "Comedy!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "frascati-3278-202612031930",
+   "title": "Het hoofd van een druktemaker",
+   "venue": "Frascati",
+   "start": "2026-12-03T19:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 10,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
+   "source": "frascati"
   },
   {
    "id": "melkweg-27555",
@@ -4933,7 +5058,7 @@
    "source": "debalie"
   },
   {
-   "id": "jazzin-2279508",
+   "id": "jazzin-2285853",
    "title": "Cor Voor De Leeuwen Met Jacques Klöters",
    "venue": "De Roode Bioscoop",
    "start": "2026-12-03T20:00:00+01:00",
@@ -4943,6 +5068,20 @@
    "price": "€22.5",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "frascati-3277-202612032000",
+   "title": "MESSY Night",
+   "venue": "Frascati",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/messy-night-t8f1",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/ZLrcAdD7WmrmPE8Of-DTribEt49-YIT_eyNPmM68gBw/c:1470:831/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDk5OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "DREK MANOR",
+   "source": "frascati"
   },
   {
    "id": "mezrab-5109",
@@ -4991,6 +5130,7 @@
    "status": "normal",
    "price": "€ Free",
    "kind": "event",
+   "free": true,
    "subtitle": "Jespfur + Bby Eco (dj) · Studios",
    "source": "ot301"
   },
@@ -5072,6 +5212,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -5089,7 +5230,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276589",
+   "id": "jazzin-2282924",
    "title": "Silje Nergaard",
    "venue": "Het Concertgebouw",
    "start": "2026-12-03T20:15:00+01:00",
@@ -5111,10 +5252,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277284",
+   "id": "jazzin-2283615",
    "title": "Ibelisse Guardia Ferragutti x Zalán Szakács: Becoming Mountain | AWICHAS",
    "venue": "Bimhuis",
    "start": "2026-12-03T20:30:00+01:00",
@@ -5149,10 +5291,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277437",
+   "id": "jazzin-2283770",
    "title": "Jazz Jam Session",
    "venue": "Café de Pianist",
    "start": "2026-12-03T20:30:00+01:00",
@@ -5161,10 +5304,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277485",
+   "id": "jazzin-2283819",
    "title": "Thijmen Schoute Trio (Swing-Jazz / Latin)",
    "venue": "De Roode Remise",
    "start": "2026-12-03T20:30:00+01:00",
@@ -5173,6 +5317,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -5186,6 +5331,20 @@
    "kind": "event",
    "subtitle": "Docu",
    "source": "cavia"
+  },
+  {
+   "id": "frascati-3234-202612032030",
+   "title": "I Like Art and Art Likes Me",
+   "venue": "Frascati",
+   "start": "2026-12-03T20:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/i-like-art-and-art-likes-me-q79p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 14,00–€ 20,00",
+   "image": "https://img.frascatitheater.nl/z1GWH8yI5Ei7OmlD1uceNUDXxlJigL3FBOyyBvaYggA/c:1500:847:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Zuidelijk Toneel / Silke van Kamp",
+   "source": "frascati"
   },
   {
    "id": "ita-1087",
@@ -5216,7 +5375,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2279149",
+   "id": "jazzin-2285487",
    "title": "Henk Kraaijeveld & Daan Herweg",
    "venue": "Theater Mascini",
    "start": "2026-12-03T20:30:00+01:00",
@@ -5280,7 +5439,7 @@
    "source": "cavia"
   },
   {
-   "id": "jazzin-2281141",
+   "id": "jazzin-2287796",
    "title": "T.B.A.",
    "venue": "Café Parisius",
    "start": "2026-12-04T17:30:00+01:00",
@@ -5304,6 +5463,18 @@
    "source": "debalie"
   },
   {
+   "id": "richel-13197",
+   "title": "Betty Friday – vrij-mi-bo cabaret – MC020",
+   "venue": "Theater De Richel",
+   "start": "2026-12-04T17:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-72/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Muziek, Theater",
+   "source": "richel"
+  },
+  {
    "id": "jazzin-2191170",
    "title": "Kerstdinershow (met Willeke Schoonewille & Joop Tertaas)",
    "venue": "Café Rivièra",
@@ -5314,6 +5485,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -5388,7 +5560,22 @@
    "status": "normal",
    "price": "€ donation",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "frascati-3278-202612041930",
+   "title": "Het hoofd van een druktemaker",
+   "venue": "Frascati",
+   "start": "2026-12-04T19:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
+   "category": "theatre",
+   "status": "sold_out",
+   "price": "€ 10,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
+   "source": "frascati"
   },
   {
    "id": "paradiso-2931095",
@@ -5424,7 +5611,7 @@
    "start": "2026-12-04T19:30:00+01:00",
    "url": "https://www.paradiso.nl/programma/the-avalanches-dj-set-confidence-man-dj-set/2946870",
    "category": "club",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/Naamloos-7.jpg",
    "kind": "event",
    "subtitle": "Australische elektronische dancepop",
@@ -5456,7 +5643,7 @@
    "source": "debalie"
   },
   {
-   "id": "jazzin-2277169",
+   "id": "jazzin-2283502",
    "title": "Hidden Jazz Club",
    "venue": "De Duif",
    "start": "2026-12-04T20:00:00+01:00",
@@ -5478,6 +5665,20 @@
    "kind": "event",
    "subtitle": "Live!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "frascati-3136-202612042000",
+   "title": "A TRIBUTE TO EVERYTHING THAT BREAKS",
+   "venue": "Frascati",
+   "start": "2026-12-04T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/a-tribute-to-everything-that-breaks-129j",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/k218EYlQedZZLIjw3Rih6TS4uoSxz29ebzrwHJByA4Q/c:864:488:nowe:0:172/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzkxNV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Yoko Haveman",
+   "source": "frascati"
   },
   {
    "id": "ot301-22621",
@@ -5520,7 +5721,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2281158",
+   "id": "jazzin-2287813",
    "title": "A switi firi fu Kresneti • By John Oldenstam • ft. Louis Windzak & Olivia Sahadewsingh • Sold Out!",
    "venue": "ZOJazz Stage",
    "start": "2026-12-04T20:00:00+01:00",
@@ -5558,7 +5759,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277285",
+   "id": "jazzin-2283616",
    "title": "Artvark – Four Fathers",
    "venue": "Bimhuis",
    "start": "2026-12-04T20:30:00+01:00",
@@ -5624,7 +5825,19 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2277413",
+   "id": "richel-15163",
+   "title": "Café het Schuiven",
+   "venue": "Theater De Richel",
+   "start": "2026-12-04T20:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/cafe-het-schuiven-6/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Poëzie",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283747",
    "title": "Sinterklaas Special",
    "venue": "Kompaszaal",
    "start": "2026-12-04T21:00:00+01:00",
@@ -5817,6 +6030,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -5849,7 +6063,7 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2281142",
+   "id": "jazzin-2287797",
    "title": "Leo Bouwmeester",
    "venue": "Café Parisius",
    "start": "2026-12-05T19:00:00+01:00",
@@ -5885,6 +6099,20 @@
    "source": "mezrab"
   },
   {
+   "id": "frascati-3278-202612051930",
+   "title": "Het hoofd van een druktemaker",
+   "venue": "Frascati",
+   "start": "2026-12-05T19:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/het-hoofd-van-een-druktemaker-csq7",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 10,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/MIxzaTe71xv1FV13JG1HfBMRKuRYQosFkw4ODkWJraI/c:1305:738:nowe:330:142/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3N19vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Mingus Kramer / Frascati Producties i.s.m. Theater van Deyssel · Try-out",
+   "source": "frascati"
+  },
+  {
    "id": "paradiso-2876921",
    "title": "Sarah Julia + FEMI",
    "venue": "Tolhuistuin",
@@ -5904,7 +6132,7 @@
    "start": "2026-12-05T20:00:00+01:00",
    "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
    "category": "theatre",
-   "end": "2026-12-06T00:00:00+01:00",
+   "end": "2026-12-05T21:40:00+01:00",
    "status": "normal",
    "kind": "event",
    "subtitle": "Oudejaars",
@@ -5933,8 +6161,22 @@
    "status": "normal",
    "image": "https://felixmeritis.nl/wp-content/uploads/2026/11/FM-The-Book-Club-Website-1080x1080-72ppi-1024x1024.png",
    "kind": "event",
-   "subtitle": "The Book Club XL returns to Felix Meritis for an evening about Black hair. Inspired by Americanah and Twisted, host Kriticos talks with hair stylist Gray and cu",
+   "subtitle": "Hosted by Kriticos, creator of The Book Club, the conversation brings together Gray, founder of Amsterdam’s queer-friendly barbershop Kindred Kuts, multidiscipl",
    "source": "felixmeritis"
+  },
+  {
+   "id": "frascati-3136-202612052000",
+   "title": "A TRIBUTE TO EVERYTHING THAT BREAKS",
+   "venue": "Frascati",
+   "start": "2026-12-05T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/a-tribute-to-everything-that-breaks-129j",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,00–€ 16,00",
+   "image": "https://img.frascatitheater.nl/k218EYlQedZZLIjw3Rih6TS4uoSxz29ebzrwHJByA4Q/c:864:488:nowe:0:172/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzkxNV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Yoko Haveman",
+   "source": "frascati"
   },
   {
    "id": "amsterdamalternative-23591",
@@ -5989,7 +6231,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2281159",
+   "id": "jazzin-2287814",
    "title": "Lucas Santana invites Femke Smit and Mike del Ferro • Brazilian Music Night",
    "venue": "ZOJazz Stage",
    "start": "2026-12-05T20:00:00+01:00",
@@ -6027,7 +6269,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277286",
+   "id": "jazzin-2283617",
    "title": "Dave Douglas Quartet – Four Freedoms",
    "venue": "Bimhuis",
    "start": "2026-12-05T20:30:00+01:00",
@@ -6283,6 +6525,7 @@
    "status": "normal",
    "price": "€ Free",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
@@ -6292,14 +6535,14 @@
    "start": "2026-12-06T15:00:00+01:00",
    "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
    "category": "theatre",
-   "end": "2026-12-07T00:00:00+01:00",
+   "end": "2026-12-06T16:40:00+01:00",
    "status": "normal",
    "kind": "event",
    "subtitle": "Oudejaars",
    "source": "carre"
   },
   {
-   "id": "jazzin-2279509",
+   "id": "jazzin-2285854",
    "title": "Boi Akih | De Messiah Van HäNdel",
    "venue": "De Roode Bioscoop",
    "start": "2026-12-06T15:00:00+01:00",
@@ -6353,7 +6596,7 @@
    "source": "tolhuistuin"
   },
   {
-   "id": "jazzin-2281160",
+   "id": "jazzin-2287815",
    "title": "OSCAM Kinderdag festival • Merdeka!",
    "venue": "ZOJazz Stage",
    "start": "2026-12-06T15:00:00+01:00",
@@ -6401,7 +6644,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2276612",
+   "id": "jazzin-2282947",
    "title": "Jazz in the villa: Divakar Nambiath Trio",
    "venue": "Singer Laren",
    "start": "2026-12-06T16:00:00+01:00",
@@ -6425,7 +6668,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277370",
+   "id": "jazzin-2283704",
    "title": "Jazz op zondag feat. Sophie Hassfurther",
    "venue": "Café de Engelbewaarder",
    "start": "2026-12-06T16:30:00+01:00",
@@ -6434,6 +6677,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -6443,7 +6687,7 @@
    "start": "2026-12-06T19:00:00+01:00",
    "url": "https://carre.nl/voorstelling/claudia-de-breij-oudejaarsconference",
    "category": "theatre",
-   "end": "2026-12-07T00:00:00+01:00",
+   "end": "2026-12-06T20:40:00+01:00",
    "status": "normal",
    "kind": "event",
    "subtitle": "Oudejaars",
@@ -6527,7 +6771,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276590",
+   "id": "jazzin-2282925",
    "title": "Salvador Sobral",
    "venue": "Het Concertgebouw",
    "start": "2026-12-06T20:15:00+01:00",
@@ -6539,7 +6783,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277287",
+   "id": "jazzin-2283618",
    "title": "Ben van Gelder Quintet ft. Jeff Ballard",
    "venue": "Bimhuis",
    "start": "2026-12-06T20:30:00+01:00",
@@ -6726,7 +6970,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -6800,7 +7043,7 @@
    "id": "zwijger-play-the-city-amsterdam-x-tokyo",
    "title": "PdZ x SHIBAURA HOUSE: Play the City: Amsterdam x Tokyo",
    "venue": "Pakhuis de Zwijger",
-   "start": "2026-12-08T10:00:00+01:00",
+   "start": "2026-12-08T13:00:00+01:00",
    "url": "https://dezwijger.nl/programma/play-the-city-amsterdam-x-tokyo",
    "category": "club",
    "status": "normal",
@@ -6810,7 +7053,7 @@
    "source": "zwijger"
   },
   {
-   "id": "jazzin-2276613",
+   "id": "jazzin-2282948",
    "title": "CvA Big Band o.l.v. Ilja Reijngoud met Ella Zirina",
    "venue": "Amsterdam Blue Dock, CvA",
    "start": "2026-12-08T19:00:00+01:00",
@@ -6872,7 +7115,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277414",
+   "id": "jazzin-2283748",
    "title": "Gel Presenteert: Bonus Tracks les en vrijdansen",
    "venue": "Kompaszaal",
    "start": "2026-12-08T19:30:00+01:00",
@@ -6949,6 +7192,20 @@
    "source": "nieuweanita"
   },
   {
+   "id": "frascati-3235-202612082000",
+   "title": "KENKI KRIN KRIN",
+   "venue": "Frascati",
+   "start": "2026-12-08T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
+   "source": "frascati"
+  },
+  {
    "id": "kleinekomedie-3437-202612082015",
    "title": "Aaf Brandt Corstius & Lies Visschedijk",
    "venue": "De Kleine Komedie",
@@ -6956,7 +7213,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -6990,7 +7246,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2277288",
+   "id": "jazzin-2283619",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-08T22:00:00+01:00",
@@ -6999,6 +7255,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -7176,7 +7433,7 @@
    "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
    "category": "theatre",
    "end": "2026-12-09T23:00:00+01:00",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
    "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
@@ -7221,6 +7478,20 @@
    "source": "debalie"
   },
   {
+   "id": "frascati-3235-202612092000",
+   "title": "KENKI KRIN KRIN",
+   "venue": "Frascati",
+   "start": "2026-12-09T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
+   "source": "frascati"
+  },
+  {
    "id": "zwijger-93f21048c391",
    "title": "Filmvertoning + Nagesprek: Voor het te laat is: in gesprek over femicide",
    "venue": "Pakhuis de Zwijger",
@@ -7230,7 +7501,7 @@
    "status": "normal",
    "image": "https://images.intuitive.nl/unsafe/330x190/smart/https://admin.dezwijger.nl/wp-content/uploads/2026/11/Blauwdruk-header-3-e1793709384984.png",
    "kind": "event",
-   "subtitle": "Twee films en een gesprek over de dwingende controle die aan femicide voorafgaat en de kinderen en nabestaanden die achterblijven. · Grote Zaal PDZ",
+   "subtitle": "Twee films over de dwingende controle die vaak aan femicide voorafgaat en kinderen en nabestaanden die achterblijven, gevolgd door een nagesprek · Grote Zaal PDZ",
    "source": "zwijger"
   },
   {
@@ -7254,7 +7525,6 @@
    "url": "https://www.dekleinekomedie.nl/agenda/aaf-brandt-corstius-lies-visschedijk-nrc4",
    "category": "theatre",
    "status": "sold_out",
-   "price": "€ 25,00",
    "image": "https://img.dekleinekomedie.nl/9Zp12pKKHML5otGYNuwvoIbvt5yI4anSmyWguS0KaME/c:3508:1985:nowe:0:252/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzIzNl9vcmlnLmpwZw",
    "kind": "event",
    "subtitle": "Over de liefde - reprise",
@@ -7288,7 +7558,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277429",
+   "id": "jazzin-2283763",
    "title": "Jazz | Timothy Banchet, Marjorie Barnes, Cas Jiskoot, Yoran Vroom",
    "venue": "Sociëteit de Kring",
    "start": "2026-12-09T21:00:00+01:00",
@@ -7297,6 +7567,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "richel-14143",
+   "title": "The Comedy Underground",
+   "venue": "Theater De Richel",
+   "start": "2026-12-09T21:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/the-comedy-underground-44/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedy, English",
+   "source": "richel"
   },
   {
    "id": "paradiso-2876931",
@@ -7365,6 +7647,21 @@
    "kind": "event",
    "subtitle": "ITA / Amnesty · Perspectief",
    "source": "ita"
+  },
+  {
+   "id": "frascati-run3287",
+   "title": "Passing On",
+   "venue": "Frascati",
+   "start": "2026-12-10T18:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/passing-on-n19y",
+   "category": "theatre",
+   "end": "2026-12-11T21:00:00+01:00",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/IYtaoG4_phECV5OkbEpQYvqbd_zTBKp4a_zysuHj3IM/c:5095:2880/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA2N19vcmlnLmpwZw",
+   "kind": "series",
+   "subtitle": "Werkplaats van de Woestijne",
+   "source": "frascati"
   },
   {
    "id": "melkweg-28751",
@@ -7520,6 +7817,20 @@
    "source": "debalie"
   },
   {
+   "id": "frascati-3235-202612102000",
+   "title": "KENKI KRIN KRIN",
+   "venue": "Frascati",
+   "start": "2026-12-10T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/kenki-krin-krin-l3sf",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,00–€ 18,00",
+   "image": "https://img.frascatitheater.nl/GWt2SCo6vALqawZCLLuRbK47Mv0IHEIPjDgKTh5c70Q/c:3133:1770:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDQ5MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Cherella Gessel / Well Made Productions / Bijlmer Parktheater",
+   "source": "frascati"
+  },
+  {
    "id": "mezrab-5116",
    "title": "LGBTQ+ Stories",
    "venue": "Mezrab",
@@ -7546,6 +7857,18 @@
    "source": "ita"
   },
   {
+   "id": "richel-14602",
+   "title": "Comedy Queens",
+   "venue": "Theater De Richel",
+   "start": "2026-12-10T20:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/comedy-queens-3/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedy",
+   "source": "richel"
+  },
+  {
    "id": "jazzin-2154831",
    "title": "Jazz Thursdays w/ Amsterdam Jazz Trio + Jula Kalshoven & Goldmund super extravagant Christmas Appaloosa",
    "venue": "Volkshotel",
@@ -7556,10 +7879,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2276088",
+   "id": "jazzin-2282421",
    "title": "Jazz Thursdays w/ Jula Kalshoven & Goldmund",
    "venue": "Volkshotel",
    "start": "2026-12-10T20:00:00+01:00",
@@ -7568,6 +7892,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -7585,7 +7910,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277289",
+   "id": "jazzin-2283620",
    "title": "Jasper Høiby’s 3Elements ft. Xavi Torres & Naíma Acuña",
    "venue": "Bimhuis",
    "start": "2026-12-10T20:30:00+01:00",
@@ -7597,7 +7922,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277438",
+   "id": "jazzin-2283771",
    "title": "Jazz Jam Session",
    "venue": "Café de Pianist",
    "start": "2026-12-10T20:30:00+01:00",
@@ -7606,10 +7931,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277405",
+   "id": "jazzin-2283739",
    "title": "Liva Dumpe solo - JazzFest jubileum buurtconcert in de Elthetokerk",
    "venue": "Elthethokerk",
    "start": "2026-12-10T20:30:00+01:00",
@@ -7619,6 +7945,19 @@
    "price": "€5 (pay what you want)",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "cavia-sprouts-film-festival-202612102030",
+   "title": "Filmhuis Cavia x Sprouts Film Festival: Clearcut + This Is Not Your Garden",
+   "venue": "Filmhuis Cavia",
+   "start": "2026-12-10T20:30:00+01:00",
+   "url": "https://www.filmhuiscavia.nl/programma/december-2026#sprouts-film-festival",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.filmhuiscavia.nl/application/files/9017/9546/1110/this-is-not-your-garden-.jpg",
+   "kind": "event",
+   "subtitle": "Special",
+   "source": "cavia"
   },
   {
    "id": "bellevue-5912-202612102030",
@@ -7648,19 +7987,6 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-1999334",
-   "title": "Jazz @ De Richel",
-   "venue": "Theater De Richel",
-   "start": "2026-12-10T22:00:00+01:00",
-   "url": "https://theaterderichel.nl/cafe/",
-   "category": "jazz",
-   "end": "2026-12-10T23:59:00+01:00",
-   "status": "normal",
-   "price": "gratis",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
    "id": "nachbar-111699200",
    "title": "SANDOR DAYALA ALL NIGHT",
    "venue": "Nachbar",
@@ -7688,7 +8014,7 @@
    "source": "brakkegrond"
   },
   {
-   "id": "jazzin-2281143",
+   "id": "jazzin-2287798",
    "title": "Nick van den Bos",
    "venue": "Café Parisius",
    "start": "2026-12-11T17:30:00+01:00",
@@ -7697,6 +8023,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "richel-13199",
+   "title": "Betty Friday – vrij-mi-bo cabaret – MC020",
+   "venue": "Theater De Richel",
+   "start": "2026-12-11T17:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-73/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Muziek, Theater",
+   "source": "richel"
   },
   {
    "id": "ot301-23322",
@@ -7774,6 +8112,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/Untitled_2026-09-11-113323_pnme.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "ONE FINE MESS, dance early, sleep great, every second Friday of the month! Rob Manga, Taco Fett & Eelco 5000 will bring great records, you bring the dancing shoes! · IJzaal",
    "source": "tolhuistuin"
   },
@@ -7856,6 +8195,19 @@
    "source": "nieuweanita"
   },
   {
+   "id": "frascati-3074-202612112000",
+   "title": "Erfstuk van een vrije vogel",
+   "venue": "Frascati",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/erfstuk-van-een-vrije-vogel-x5hb",
+   "category": "theatre",
+   "status": "normal",
+   "image": "https://img.frascatitheater.nl/igcUbt8qkiERTFNoKdwSk5Ag24Bh1xok277Z9wF3tuQ/c:615:348/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyMzY5OF9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Fatma Genç",
+   "source": "frascati"
+  },
+  {
    "id": "melkweg-28788",
    "title": "Big Fun in the Big Town (1986)",
    "venue": "Melkweg",
@@ -7909,7 +8261,19 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2281161",
+   "id": "richel-13007",
+   "title": "De Interventie",
+   "venue": "Theater De Richel",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/de-interventie-3/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedy, Theater",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2287816",
    "title": "Symfonia Zuidoost • By Dywel Braaf ft. Azubike Onwuka • 1st Edition",
    "venue": "ZOJazz Stage",
    "start": "2026-12-11T20:00:00+01:00",
@@ -7934,7 +8298,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277290",
+   "id": "jazzin-2283621",
    "title": "Cassie Kinoshi & seed.",
    "venue": "Bimhuis",
    "start": "2026-12-11T20:30:00+01:00",
@@ -7946,7 +8310,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277439",
+   "id": "jazzin-2283772",
    "title": "Gypsy Jazz Jam",
    "venue": "Café de Pianist",
    "start": "2026-12-11T20:30:00+01:00",
@@ -7955,6 +8319,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -7971,7 +8336,7 @@
    "source": "debalie"
   },
   {
-   "id": "jazzin-2279510",
+   "id": "jazzin-2285855",
    "title": "William | Jelle | Rafael",
    "venue": "De Roode Bioscoop",
    "start": "2026-12-11T20:30:00+01:00",
@@ -7996,6 +8361,19 @@
    "source": "cavia"
   },
   {
+   "id": "frascati-3244-202612112030",
+   "title": "SEXODUS",
+   "venue": "Frascati",
+   "start": "2026-12-11T20:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/sexodus-dqmx",
+   "category": "theatre",
+   "status": "sold_out",
+   "image": "https://img.frascatitheater.nl/N9pB7DTVfVaMoFod8VTlsxwEh7by3VOV5mmO_30_X0Q/c:1285:726:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDYzM19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
+   "source": "frascati"
+  },
+  {
    "id": "bellevue-5913-202612112030",
    "title": "Asset, Liability & Equity",
    "venue": "Theater Bellevue",
@@ -8008,6 +8386,18 @@
    "kind": "event",
    "subtitle": "ARK/Connor Schumacher",
    "source": "bellevue"
+  },
+  {
+   "id": "richel-15468",
+   "title": "StandOut presents ‘3 in 1’",
+   "venue": "Theater De Richel",
+   "start": "2026-12-11T20:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/3-in-1/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Arabic, Comedy, Stand-Up",
+   "source": "richel"
   },
   {
    "id": "paradiso-2914943",
@@ -8023,7 +8413,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277415",
+   "id": "jazzin-2283749",
    "title": "Swinging Christmas",
    "venue": "Kompaszaal",
    "start": "2026-12-11T21:00:00+01:00",
@@ -8034,7 +8424,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2279435",
+   "id": "jazzin-2285780",
    "title": "Eric & Tuur - Eric Vloeimans & Tuur Florizoone",
    "venue": "Theater de Omval",
    "start": "2026-12-11T21:00:00+01:00",
@@ -8200,7 +8590,7 @@
    "source": "lofi"
   },
   {
-   "id": "jazzin-2276614",
+   "id": "jazzin-2282949",
    "title": "12 Hours of Jazz",
    "venue": "CvA",
    "start": "2026-12-12T11:00:00+01:00",
@@ -8220,6 +8610,7 @@
    "status": "normal",
    "price": "€ free/ donation",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
@@ -8234,6 +8625,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -8247,11 +8639,12 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "subtitle": "TBC",
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2279150",
+   "id": "jazzin-2285488",
    "title": "Trio Robert Vermeulen",
    "venue": "Theater Mascini",
    "start": "2026-12-12T15:30:00+01:00",
@@ -8274,7 +8667,7 @@
    "source": "occii"
   },
   {
-   "id": "jazzin-2281144",
+   "id": "jazzin-2287799",
    "title": "Berend van den Berg",
    "venue": "Café Parisius",
    "start": "2026-12-12T19:00:00+01:00",
@@ -8335,6 +8728,19 @@
    "source": "vrankrijk"
   },
   {
+   "id": "frascati-3293-202612121930",
+   "title": "Scènes met mijn vader / De Was Wals",
+   "venue": "Frascati",
+   "start": "2026-12-12T19:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/scenes-met-mijn-vader-de-was-wals-5cd4",
+   "category": "film",
+   "status": "normal",
+   "image": "https://img.frascatitheater.nl/y9eh5AkXJ_m_SBnSp5wrxNaEn23tIQQnV6Mj9beVO0Q/c:5966:3376:nowe:0:0/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTA5N19vcmlnLmpwZWc",
+   "kind": "event",
+   "subtitle": "Biserka Šuran",
+   "source": "frascati"
+  },
+  {
    "id": "melkweg-28507",
    "title": "Music Lab - Meervaart Studio x Melkweg",
    "venue": "Melkweg",
@@ -8393,7 +8799,7 @@
    "category": "talk",
    "end": "2026-12-12T21:15:00+01:00",
    "status": "normal",
-   "image": "https://media.ita.nl/media/geopolitieke-eindejaarsshow-theaterbeeld-website-landscape-v2.png?guid=d35ffa61-da4c-4f5b-9813-466698d46912",
+   "image": "https://media.ita.nl/media/geopolitieke-eindejaarsshow.png?guid=1215ceb6-bfee-46c4-9c55-3e479d631cdb",
    "kind": "event",
    "subtitle": "Haagsch College · Perspectief",
    "source": "ita"
@@ -8517,7 +8923,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2281162",
+   "id": "jazzin-2287817",
    "title": "Roda de Samba • By Saravá Samba Project • 2nd Edition",
    "venue": "ZOJazz Stage",
    "start": "2026-12-12T20:00:00+01:00",
@@ -8542,7 +8948,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277291",
+   "id": "jazzin-2283622",
    "title": "Tineke Postma Group ft. Theo Bleckmann",
    "venue": "Bimhuis",
    "start": "2026-12-12T20:30:00+01:00",
@@ -8567,7 +8973,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2281136",
+   "id": "jazzin-2287791",
    "title": "Trio Jos van Beest – Aspects of Oscar",
    "venue": "Cultureel Café Bacchus",
    "start": "2026-12-12T20:30:00+01:00",
@@ -8577,6 +8983,19 @@
    "price": "EUR 15.00",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "frascati-3244-202612122030",
+   "title": "SEXODUS",
+   "venue": "Frascati",
+   "start": "2026-12-12T20:30:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/sexodus-dqmx",
+   "category": "theatre",
+   "status": "sold_out",
+   "image": "https://img.frascatitheater.nl/N9pB7DTVfVaMoFod8VTlsxwEh7by3VOV5mmO_30_X0Q/c:1285:726:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDYzM19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
+   "source": "frascati"
   },
   {
    "id": "bellevue-5913-202612122030",
@@ -8602,6 +9021,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -8734,7 +9154,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2276615",
+   "id": "jazzin-2282950",
    "title": "Jong Talent | Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
    "venue": "Bimhuis",
    "start": "2026-12-13T12:00:00+01:00",
@@ -8745,7 +9165,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277292",
+   "id": "jazzin-2283623",
    "title": "Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
    "venue": "Bimhuis",
    "start": "2026-12-13T12:00:00+01:00",
@@ -8778,11 +9198,13 @@
    "category": "other",
    "end": "2026-12-13T18:00:00+01:00",
    "status": "normal",
+   "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "joesgarage"
   },
   {
-   "id": "jazzin-2277416",
+   "id": "jazzin-2283750",
    "title": "Gel Sunday Extra",
    "venue": "Kompaszaal",
    "start": "2026-12-13T14:30:00+01:00",
@@ -8816,6 +9238,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -8858,7 +9281,7 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2277363",
+   "id": "jazzin-2283697",
    "title": "Bubbling Blue Notes | Bubbling Blue Notes Live Jazz",
    "venue": "Theater De Dillewijn (Ankeveen)",
    "start": "2026-12-13T15:00:00+01:00",
@@ -8881,6 +9304,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Feministische_Impactprijs_2026_FCGenderenWetenschap_genomineerden_Campagnebeeld_v2.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "De uitreiking van de Feministische Impact Prijs (FIP) 2026, een tweejaarlijks initiatief van het Feministisch Cultuurfonds ofwel FC Gender&wetenschap. · Zonzij",
    "source": "tolhuistuin"
   },
@@ -8898,7 +9322,7 @@
    "source": "ot301"
   },
   {
-   "id": "jazzin-2277440",
+   "id": "jazzin-2283773",
    "title": "Alleen Maar Leuke Mensen",
    "venue": "Café de Pianist",
    "start": "2026-12-13T16:00:00+01:00",
@@ -8907,6 +9331,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -8935,7 +9360,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277371",
+   "id": "jazzin-2283705",
    "title": "Jazz op zondag feat. Claudio jr de Rosa",
    "venue": "Café de Engelbewaarder",
    "start": "2026-12-13T16:30:00+01:00",
@@ -8944,6 +9369,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -8957,10 +9383,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2281149",
+   "id": "jazzin-2287804",
    "title": "Soldiers of Love",
    "venue": "De KHL",
    "start": "2026-12-13T17:00:00+01:00",
@@ -9048,7 +9475,19 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277293",
+   "id": "richel-15133",
+   "title": "Toneelgroep Dagwerk – Brothers in crime & Het Verhaal van Jozef",
+   "venue": "Theater De Richel",
+   "start": "2026-12-13T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/toneelgroep-dagwerk-brothers-in-crime-van-jan-nieuwenhuis/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Toneel, Verhuur",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283624",
    "title": "Interlinie #3: Mother Tongue & Bex Burch – As Yet Untitled",
    "venue": "Bimhuis",
    "start": "2026-12-13T20:30:00+01:00",
@@ -9073,7 +9512,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277486",
+   "id": "jazzin-2283820",
    "title": "Inês Martínez Ferreira & David Urban (Vocal Jazz)",
    "venue": "De Roode Remise",
    "start": "2026-12-13T20:30:00+01:00",
@@ -9082,6 +9521,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -9227,7 +9667,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276591",
+   "id": "jazzin-2282926",
    "title": "Jan van Duikeren & Marcel Veenendaal",
    "venue": "Het Concertgebouw",
    "start": "2026-12-14T20:15:00+01:00",
@@ -9252,6 +9692,18 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "richel-13998",
+   "title": "SATIRE SATIRE SATIRE – Aflevering 2 – Oost-Europa",
+   "venue": "Theater De Richel",
+   "start": "2026-12-14T20:15:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/satire-satire-satire-aflevering-2-oost-europa/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Livestream, Satire, Theater",
+   "source": "richel"
+  },
+  {
    "id": "paradiso-2896810",
    "title": "Hermanos Gutiérrez",
    "venue": "Paradiso",
@@ -9265,7 +9717,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2276616",
+   "id": "jazzin-2282951",
    "title": "Monday Jam Session",
    "venue": "A Beautiful Mess",
    "start": "2026-12-14T21:00:00+01:00",
@@ -9433,7 +9885,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2276592",
+   "id": "jazzin-2282927",
    "title": "Kurt Elling & Jazz Orchestra of the Concertgebouw: Swinging Holidays",
    "venue": "Het Concertgebouw",
    "start": "2026-12-15T20:15:00+01:00",
@@ -9481,6 +9933,7 @@
    "price": "€ 9,50–€ 21,00",
    "image": "https://img.theaterbellevue.nl/i30fQL94oq2Ig5X9Hdr5HwPY0V6kX5fNCq-mYpEqSCY/c:1191:673:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMTcwMV9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Rory de Groot/Mezrab House of Creation · try-out | pay what you can",
    "source": "bellevue"
   },
@@ -9513,7 +9966,19 @@
    "source": "themovies"
   },
   {
-   "id": "jazzin-2277294",
+   "id": "richel-14727",
+   "title": "Nesim el Ahmadi – Iedereen komt aan de beurt",
+   "venue": "Theater De Richel",
+   "start": "2026-12-15T21:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/nesim-el-ahmadi-iedereen-komt-aan-de-beurt/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cabaret, Comedy",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283625",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-15T22:00:00+01:00",
@@ -9522,6 +9987,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -9551,7 +10017,7 @@
    "source": "joesgarage"
   },
   {
-   "id": "jazzin-2276617",
+   "id": "jazzin-2282952",
    "title": "Vocal Night",
    "venue": "Amsterdam Blue Dock, CvA",
    "start": "2026-12-16T19:00:00+01:00",
@@ -9609,6 +10075,7 @@
    "status": "normal",
    "price": "€ free/ donation",
    "kind": "event",
+   "free": true,
    "source": "amsterdamalternative"
   },
   {
@@ -9646,7 +10113,7 @@
    "status": "normal",
    "image": "https://images.intuitive.nl/unsafe/330x190/smart/https://admin.dezwijger.nl/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-2.04.42-PM.jpeg",
    "kind": "event",
-   "subtitle": "Wat veranderde Live Aid voor de mensen in Ethiopië? In gesprek naar aanleiding van de podcast van NPO Doc en NTR 'Do They Know It's Christmas?. · IJzaal PDZ",
+   "subtitle": "Wat veranderde Live Aid voor de mensen in Ethiopië? In gesprek naar aanleiding van de podcast van NPO DOCS en NTR 'Do They Know It's Christmas?'. · IJzaal PDZ",
    "source": "zwijger"
   },
   {
@@ -9793,11 +10260,12 @@
    "price": "€ 9,50–€ 21,00",
    "image": "https://img.theaterbellevue.nl/i30fQL94oq2Ig5X9Hdr5HwPY0V6kX5fNCq-mYpEqSCY/c:1191:673:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMTcwMV9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Rory de Groot/Mezrab House of Creation · try-out | pay what you can",
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2277430",
+   "id": "jazzin-2283764",
    "title": "Jazz | Benjamin Herman",
    "venue": "Sociëteit de Kring",
    "start": "2026-12-16T21:00:00+01:00",
@@ -9821,7 +10289,7 @@
    "source": "skatecafe"
   },
   {
-   "id": "jazzin-2277417",
+   "id": "jazzin-2283751",
    "title": "Simple Music Ensemble. Harry Potter",
    "venue": "Kompaszaal",
    "start": "2026-12-17T19:00:00+01:00",
@@ -9905,7 +10373,7 @@
    "url": "https://denieuweanita.nl/agenda/keldercabaret-jubileum-editie/",
    "category": "theatre",
    "status": "normal",
-   "image": "https://denieuweanita.nl/wp-content/uploads/2026/03/logo.png",
+   "image": "https://denieuweanita.nl/wp-content/uploads/2026/11/1de22003-f226-4f74-9eb5-037cae3aee91-1024x1024.jpeg",
    "kind": "event",
    "subtitle": "Jubileum!",
    "source": "nieuweanita"
@@ -9935,6 +10403,20 @@
    "source": "debalie"
   },
   {
+   "id": "frascati-3285-202612172000",
+   "title": "Midwintercircus",
+   "venue": "Frascati",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 20,00",
+   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
+   "source": "frascati"
+  },
+  {
    "id": "mezrab-5128",
    "title": "Tarab Machine live ★ Reinventing the golden age of Iraqi and Arab music ♫",
    "venue": "Mezrab",
@@ -9957,6 +10439,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -9970,6 +10453,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -10010,10 +10494,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2281163",
+   "id": "jazzin-2287818",
    "title": "Rembrandt Quartet featuring Jesse Schilderink",
    "venue": "ZOJazz Stage",
    "start": "2026-12-17T20:00:00+01:00",
@@ -10024,7 +10509,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277295",
+   "id": "jazzin-2283626",
    "title": "Luís Vicente Trio – Expanding Horizons with Leo Genovese & Tony Malaby",
    "venue": "Bimhuis",
    "start": "2026-12-17T20:30:00+01:00",
@@ -10036,7 +10521,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277441",
+   "id": "jazzin-2283774",
    "title": "Jazz Jam Session",
    "venue": "Café de Pianist",
    "start": "2026-12-17T20:30:00+01:00",
@@ -10045,6 +10530,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -10113,7 +10599,7 @@
    "source": "lofi"
   },
   {
-   "id": "jazzin-2276618",
+   "id": "jazzin-2282953",
    "title": "Vrijdag Jazz",
    "venue": "Openbare Bibliotheek Amsterdam",
    "start": "2026-12-18T16:30:00+01:00",
@@ -10134,10 +10620,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2281145",
+   "id": "jazzin-2287800",
    "title": "Nick van den Bos",
    "venue": "Café Parisius",
    "start": "2026-12-18T17:30:00+01:00",
@@ -10148,7 +10635,19 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277418",
+   "id": "richel-13201",
+   "title": "Betty Friday – vrij-mi-bo cabaret – MC020",
+   "venue": "Theater De Richel",
+   "start": "2026-12-18T17:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-74/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Kleinkunst, Muziek, Theater",
+   "source": "richel"
+  },
+  {
+   "id": "jazzin-2283752",
    "title": "Neighbourhood Christmas Dinner + Free Dance Class + Live Music Party",
    "venue": "Kompaszaal",
    "start": "2026-12-18T18:00:00+01:00",
@@ -10208,6 +10707,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/DK_Tolhuis_Web_1440x817_01_2026-09-07-103810_mppz.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "Het gevoel van een blockparty, maar dan in je huiskamer. Samen dansen we de week van ons af in de IJzaal op de beste house, funk, soul, broken beat en meer van de Danskamer dj’s. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -10251,6 +10751,20 @@
    "source": "nieuweanita"
   },
   {
+   "id": "frascati-3285-202612182000",
+   "title": "Midwintercircus",
+   "venue": "Frascati",
+   "start": "2026-12-18T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 20,00",
+   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
+   "source": "frascati"
+  },
+  {
    "id": "jazzin-701293",
    "title": "New York Jazz meets Jordaan; Nadje Noordhuis (06-49420542)",
    "venue": "Laurierstraat 72",
@@ -10264,7 +10778,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2276731",
+   "id": "jazzin-2283063",
    "title": "Jazz at the Pianola, New Market-4",
    "venue": "Pianola Museum",
    "start": "2026-12-18T20:00:00+01:00",
@@ -10290,7 +10804,7 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2281164",
+   "id": "jazzin-2287819",
    "title": "Licks & Brains • Funky Xmas • Featuring Mrs. Hips",
    "venue": "ZOJazz Stage",
    "start": "2026-12-18T20:00:00+01:00",
@@ -10315,7 +10829,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277296",
+   "id": "jazzin-2283627",
    "title": "Sam Newbould Quintet",
    "venue": "Bimhuis",
    "start": "2026-12-18T20:30:00+01:00",
@@ -10378,6 +10892,18 @@
    "kind": "event",
    "subtitle": "Jip Smit · dernière",
    "source": "bellevue"
+  },
+  {
+   "id": "richel-12985",
+   "title": "Klaplopers- Stand-up Comedy",
+   "venue": "Theater De Richel",
+   "start": "2026-12-18T21:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/klaplopers-stand-up-comedy-12/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedy, Stand-Up",
+   "source": "richel"
   },
   {
    "id": "ot301-23617",
@@ -10561,6 +11087,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/De-publieke-tribune-LANDSCAPE-c-HUMAN_1.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
   },
@@ -10591,7 +11118,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2279151",
+   "id": "jazzin-2285489",
    "title": "Clous van Mechelen & Olga de Meij",
    "venue": "Theater Mascini",
    "start": "2026-12-19T15:30:00+01:00",
@@ -10616,7 +11143,7 @@
    "source": "rodehoed"
   },
   {
-   "id": "jazzin-2281146",
+   "id": "jazzin-2287801",
    "title": "Leo Bouwmeester",
    "venue": "Café Parisius",
    "start": "2026-12-19T17:30:00+01:00",
@@ -10681,6 +11208,18 @@
    "source": "tolhuistuin"
   },
   {
+   "id": "jazzin-2283628",
+   "title": "Dutch Jazz Competition",
+   "venue": "Bimhuis",
+   "start": "2026-12-19T19:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/dutch-jazz-competition-4/",
+   "category": "jazz",
+   "status": "normal",
+   "price": "€10",
+   "kind": "event",
+   "source": "jazzin"
+  },
+  {
    "id": "paradiso-2885344",
    "title": "Doodseskader",
    "venue": "Tolhuistuin",
@@ -10731,6 +11270,20 @@
    "kind": "event",
    "subtitle": "Live!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "frascati-3285-202612192000",
+   "title": "Midwintercircus",
+   "venue": "Frascati",
+   "start": "2026-12-19T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 20,00",
+   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
+   "source": "frascati"
   },
   {
    "id": "mezrab-5092",
@@ -10852,7 +11405,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2279152",
+   "id": "jazzin-2285490",
    "title": "Thaïsa Olivia Quartet",
    "venue": "Theater Mascini",
    "start": "2026-12-19T20:30:00+01:00",
@@ -10970,7 +11523,7 @@
    "source": "ita"
   },
   {
-   "id": "jazzin-2277419",
+   "id": "jazzin-2283753",
    "title": "Christmas Special! Lindy Hop Crash Course",
    "venue": "Kompaszaal",
    "start": "2026-12-20T11:00:00+01:00",
@@ -11006,6 +11559,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/event-header-images/Colourful-goodies.jpeg",
    "kind": "event",
+   "free": true,
    "subtitle": "Voor het eerst dit jaar: Colourful Noord Winter Fair. Een festival om diversiteit in Noord te vieren met kleurrijke ondernemers, optredens en kinderactiviteiten. · Tuin",
    "source": "tolhuistuin"
   },
@@ -11036,7 +11590,7 @@
    "source": "nieuweanita"
   },
   {
-   "id": "jazzin-2277297",
+   "id": "jazzin-2283629",
    "title": "Van Eijck / Brinkmann / Vespestad",
    "venue": "Bimhuis",
    "start": "2026-12-20T14:30:00+01:00",
@@ -11046,6 +11600,19 @@
    "price": "€13",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "debalie-123781",
+   "title": "Volkskrant op Zondag: smaakt het minderheidskabinet naar meer?",
+   "venue": "De Balie",
+   "start": "2026-12-20T15:00:00+01:00",
+   "url": "https://debalie.nl/programma/volkskrant-op-zondag-smaakt-het-minderheidskabinet-naar-meer-20-12-2026/",
+   "category": "talk",
+   "status": "normal",
+   "image": "https://debalie.nl/wp-content/uploads/2026/11/VolkskrantOpZondag-1024x576.jpg",
+   "kind": "event",
+   "subtitle": "Eén jaar regeren zonder meerderheid",
+   "source": "debalie"
   },
   {
    "id": "felixmeritis-13710",
@@ -11166,7 +11733,7 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2277372",
+   "id": "jazzin-2283706",
    "title": "Jazz op zondag feat. Bart Wirtz",
    "venue": "Café de Engelbewaarder",
    "start": "2026-12-20T16:30:00+01:00",
@@ -11175,10 +11742,11 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2277442",
+   "id": "jazzin-2283775",
    "title": "Barrio del Mundo",
    "venue": "Café de Pianist",
    "start": "2026-12-20T17:00:00+01:00",
@@ -11187,6 +11755,7 @@
    "status": "normal",
    "price": "gratis",
    "kind": "event",
+   "free": true,
    "source": "jazzin"
   },
   {
@@ -11242,7 +11811,21 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2281165",
+   "id": "frascati-3285-202612202000",
+   "title": "Midwintercircus",
+   "venue": "Frascati",
+   "start": "2026-12-20T20:00:00+01:00",
+   "url": "https://www.frascatitheater.nl/nl/agenda/midwintercircus-sg7p",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 20,00",
+   "image": "https://img.frascatitheater.nl/EFrcPkTMQzK07saJBgoBx4ryt_wXDIGJYNxRp5fXTlY/c:1910:1080/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNTI3NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Circusbende & Frascati · Door het hele theater / première",
+   "source": "frascati"
+  },
+  {
+   "id": "jazzin-2287820",
    "title": "The Joe Cuba Legacy Septet • Salsa Night",
    "venue": "ZOJazz Stage",
    "start": "2026-12-20T20:00:00+01:00",
@@ -11267,7 +11850,7 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2277298",
+   "id": "jazzin-2283630",
    "title": "The Preacher Men",
    "venue": "Bimhuis",
    "start": "2026-12-20T20:30:00+01:00",
@@ -11314,6 +11897,31 @@
    "kind": "event",
    "subtitle": "Contemporary",
    "source": "cavia"
+  },
+  {
+   "id": "richel-11934",
+   "title": "FUNHOUSE",
+   "venue": "Theater De Richel",
+   "start": "2026-12-21T18:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/funhouse-12/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Funhouse",
+   "source": "richel"
+  },
+  {
+   "id": "richel-15499",
+   "title": "VPRO Boeken komt naar Amsterdam!",
+   "venue": "Theater De Richel",
+   "start": "2026-12-21T19:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/vpro-boeken-komt-naar-amsterdam/",
+   "category": "talk",
+   "end": "2027-01-11T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "subtitle": "Literatuur",
+   "source": "richel"
   },
   {
    "id": "melkweg-27985",
@@ -11434,7 +12042,7 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2277299",
+   "id": "jazzin-2283631",
    "title": "An Absurdist Intergalactic Night: Maartje Wortel, Diane Mahín, Lukraak & Freejazz Bingo",
    "venue": "Bimhuis",
    "start": "2026-12-21T20:37:00+01:00",
@@ -11629,13 +12237,25 @@
    "source": "vrankrijk"
   },
   {
-   "id": "jazzin-2277170",
+   "id": "jazzin-2283503",
    "title": "Hidden Jazz Club",
    "venue": "De Duif",
    "start": "2026-12-23T20:00:00+01:00",
    "url": "https://stadsherstel.nl/cultuuragenda/hidden-jazz-club-20/",
    "category": "jazz",
    "status": "normal",
+   "kind": "event",
+   "source": "jazzin"
+  },
+  {
+   "id": "jazzin-2285856",
+   "title": "David Kweksilber En Peter Kuit | Als Wiske Een Dichterlijke Bui Heeft",
+   "venue": "De Roode Bioscoop",
+   "start": "2026-12-23T20:00:00+01:00",
+   "url": "https://www.roodebioscoop.nl/david-kweksilber-en-peter-kuit-als-wiske-een-dichterlijke-bui-heeft",
+   "category": "jazz",
+   "status": "normal",
+   "price": "€20",
    "kind": "event",
    "source": "jazzin"
   },
@@ -11667,6 +12287,17 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "jazzin-2283765",
+   "title": "Jazz | Timothy Banchet",
+   "venue": "Sociëteit de Kring",
+   "start": "2026-12-23T21:00:00+01:00",
+   "url": "https://kring.nl/programma/openbaar/jazz-timothy-banchet-23-dec/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "source": "jazzin"
+  },
+  {
    "id": "ita-1060",
    "title": "Alice in Wonderland (8+)",
    "venue": "Stadsschouwburg (ITA)",
@@ -11692,6 +12323,17 @@
    "kind": "event",
    "subtitle": "Kapitein Zeppos in Paradiso",
    "source": "paradiso"
+  },
+  {
+   "id": "jazzin-2287821",
+   "title": "Beats, Books & Bites • By Georgy Morhea • A Classic Christmas • 2nd Edition",
+   "venue": "ZOJazz Stage",
+   "start": "2026-12-24T18:00:00+01:00",
+   "url": "https://zojazz-stage.weticket.io/beats-books-bites-by-georgy-morhea-2nd-edition",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "source": "jazzin"
   },
   {
    "id": "vrankrijk-8249fcc6c9a0",
@@ -11967,6 +12609,7 @@
    "price": "€ 0,00",
    "image": "https://img.theaterbellevue.nl/jx9yoxWbqTU6Mb0MZDmDw6XTeLd4i99UlIbgd_WE17M/c:6000:3391:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjEzMF9vcmlnLnBuZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys",
    "source": "bellevue"
   },
@@ -11981,6 +12624,7 @@
    "price": "€ 23,00",
    "image": "https://img.theaterbellevue.nl/qGbLPKr7UpXL-27u4ew1xMoljt34DOK8WRqRlbHjTzw/c:5000:2826:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjA1Nl9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
   },
@@ -12059,6 +12703,7 @@
    "price": "€ 0,00",
    "image": "https://img.theaterbellevue.nl/jx9yoxWbqTU6Mb0MZDmDw6XTeLd4i99UlIbgd_WE17M/c:6000:3391:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjEzMF9vcmlnLnBuZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys",
    "source": "bellevue"
   },
@@ -12099,6 +12744,7 @@
    "price": "€ 23,00",
    "image": "https://img.theaterbellevue.nl/qGbLPKr7UpXL-27u4ew1xMoljt34DOK8WRqRlbHjTzw/c:5000:2826:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjA1Nl9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
   },
@@ -12164,6 +12810,7 @@
    "price": "€ 0,00",
    "image": "https://img.theaterbellevue.nl/jx9yoxWbqTU6Mb0MZDmDw6XTeLd4i99UlIbgd_WE17M/c:6000:3391:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjEzMF9vcmlnLnBuZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys",
    "source": "bellevue"
   },
@@ -12191,6 +12838,7 @@
    "price": "€ 23,00",
    "image": "https://img.theaterbellevue.nl/qGbLPKr7UpXL-27u4ew1xMoljt34DOK8WRqRlbHjTzw/c:5000:2826:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjA1Nl9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
   },
@@ -12244,6 +12892,7 @@
    "price": "€ 0,00",
    "image": "https://img.theaterbellevue.nl/jx9yoxWbqTU6Mb0MZDmDw6XTeLd4i99UlIbgd_WE17M/c:6000:3391:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjEzMF9vcmlnLnBuZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys",
    "source": "bellevue"
   },
@@ -12284,6 +12933,7 @@
    "price": "€ 23,00",
    "image": "https://img.theaterbellevue.nl/qGbLPKr7UpXL-27u4ew1xMoljt34DOK8WRqRlbHjTzw/c:5000:2826:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cudGhlYXRlcmJlbGxldnVlLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWczMjA1Nl9vcmlnLmpwZw",
    "kind": "event",
+   "free": true,
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
   },
@@ -12311,6 +12961,7 @@
    "price": "gratis",
    "image": "https://tolhuistuin-assets.ams3.cdn.digitaloceanspaces.com/pageheader/16-by-9.jpg",
    "kind": "event",
+   "free": true,
    "subtitle": "Kunstexpositie vanaf oktober: Clubcultuur wordt gereduceerd tot digitale beelden. ‘The Counter Gaze’ vecht dit door met het onfotografeerbare weerstand te bieden aan commercialisering van clubcultuur. · Club",
    "source": "tolhuistuin"
   },
@@ -12468,6 +13119,20 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "richel-12324",
+   "title": "Margreet Dolman brengt Warmte in de donkerste dagen van het jaar & Dominee Gremdaat wijst de Weg naar een evenwichtig 2027",
+   "venue": "Theater De Richel",
+   "start": "2027-01-02T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/margreet-dolman-brengt-warmte-in-de-donkerste-dagen-van-het-jaar-dominee-gremdaat-wijst-de-weg-naar-een-evenwichtig-2027-2/",
+   "category": "theatre",
+   "end": "2027-01-10T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "subtitle": "Kleinkunst",
+   "source": "richel"
   },
   {
    "id": "ita-1078",
@@ -12643,6 +13308,46 @@
    "kind": "event",
    "subtitle": "Belgische liedjesschrijver presenteert live-album",
    "source": "paradiso"
+  },
+  {
+   "id": "paradiso-2948173",
+   "title": "Holly Humberstone",
+   "venue": "Paradiso",
+   "start": "2027-01-04T19:30:00+01:00",
+   "url": "https://www.paradiso.nl/programma/holly-humberstone/2948173",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/CW_Lead-Image-2-credit_-Silken-Weinberg-1773753458.jpg",
+   "kind": "event",
+   "subtitle": "Britse singer-songwriter maakt alternatieve popnummers",
+   "source": "paradiso"
+  },
+  {
+   "id": "ita-2095",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2027-01-04T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2027-01-04T23:00:00+01:00",
+   "status": "normal",
+   "image": "https://media.ita.nl/media/kopenhagen0722-bewerkt-3.jpg?guid=67a06b58-8405-4769-bed2-751e51be4f2a",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
+   "id": "nieuweanita-9714",
+   "title": "Cinemanita",
+   "venue": "De Nieuwe Anita",
+   "start": "2027-01-04T20:00:00+01:00",
+   "url": "https://denieuweanita.nl/agenda/cinemanita-79/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://denieuweanita.nl/wp-content/uploads/2026/03/DNA-breien-49-1024x683.jpg",
+   "kind": "event",
+   "subtitle": "Cinema!",
+   "source": "nieuweanita"
   }
  ]
 }
