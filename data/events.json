@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-24T14:39:14+01:00",
+ "generated": "2026-11-24T14:58:09+01:00",
  "window_days": 42,
- "count": 1029,
+ "count": 1033,
  "events": [
   {
    "id": "eye-1633828",
@@ -101,20 +101,6 @@
    "kind": "series",
    "subtitle": "Dronken Mensen · Bellevue op Locatie",
    "source": "bellevue"
-  },
-  {
-   "id": "melkweg-28601",
-   "title": "Cheeky Monday: DJ HYBRID!",
-   "venue": "Melkweg",
-   "start": "2026-11-23T23:00:00+01:00",
-   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-dj-hybrid-23-11-2026",
-   "category": "club",
-   "end": "2026-11-24T04:00:00+01:00",
-   "status": "normal",
-   "image": "https://assets.melkweg.nl/eventpages/2b06ac11-fa91-44a5-b2bf-d8758c46dac2/NOVEMBER-2026-BANNER.jpg",
-   "kind": "event",
-   "subtitle": "DJ Hybrid / Oneiroi / Yi-Ching / Insom / Multiplex",
-   "source": "melkweg"
   },
   {
    "id": "debalie-123101",
@@ -2481,7 +2467,7 @@
   },
   {
    "id": "skatecafe-f58b399c-9c66-412f-9242-cde63bd597cd",
-   "title": "ZWART LICHT CLUB NIGHT W/ ABSTRACT, DJ JAHWIN, ELLA JOHN, ITZ3BBY, CREAM, MC LOST, MALA, META YELYZAVETA, NOIZBOIZ, SHUG LA SHEEDA, SOUTHEAST HAYES, SUN OC (GRIMEY HOURS SET), WAXFIEND, ZED BIAS (UK)",
+   "title": "ZWART LICHT CLUB NIGHT W/ ABSTRACT, DJ JAHWIN, ELLA JOHN, ITZ3BBY, CREAM, MC LOST, META YELYZAVETA, NOIZBOIZ, PANTONEPAPI, SHUG LA SHEEDA, SOUTHEAST HAYES, SUN OC (GRIMEY HOURS SET), WAXFIEND, ZED BIAS (UK)",
    "venue": "Skatecafé",
    "start": "2026-11-27T23:00:00+01:00",
    "url": "https://skatecafe.weticket.io/zwart-licht-club-night-1",
@@ -2840,19 +2826,6 @@
    "source": "paradiso"
   },
   {
-   "id": "paradiso-2903037",
-   "title": "Mietze Conte",
-   "venue": "Bitterzoet",
-   "start": "2026-11-28T20:00:00+01:00",
-   "url": "https://www.paradiso.nl/programma/mietze-conte/2903037",
-   "category": "music",
-   "status": "normal",
-   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/2904218/IMG_3344-1780573320.jpg",
-   "kind": "event",
-   "subtitle": "Hyperactieve elektronische pop van Weense producer",
-   "source": "paradiso"
-  },
-  {
    "id": "amsterdamalternative-22948",
    "title": "LA ÉLITE + eigen risico + feral",
    "venue": "Cinetol",
@@ -3008,6 +2981,19 @@
    "price": "€13",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "paradiso-2903037",
+   "title": "Mietze Conte",
+   "venue": "Bitterzoet",
+   "start": "2026-11-28T20:30:00+01:00",
+   "url": "https://www.paradiso.nl/programma/mietze-conte/2903037",
+   "category": "music",
+   "status": "normal",
+   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/2904218/IMG_3344-1780573320.jpg",
+   "kind": "event",
+   "subtitle": "Hyperactieve elektronische pop van Weense producer",
+   "source": "paradiso"
   },
   {
    "id": "cavia-best-of-kaboom-202611282030",
@@ -4404,6 +4390,19 @@
    "source": "debalie"
   },
   {
+   "id": "richel-14141",
+   "title": "The Comedy Underground",
+   "venue": "Theater De Richel",
+   "start": "2026-12-02T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/the-comedy-underground-43/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Comedy, English",
+   "source": "richel"
+  },
+  {
    "id": "richel-14875",
    "title": "Productiehuis De Haard – De Eeuw Waarin Alles Kan",
    "venue": "Theater De Richel",
@@ -4801,18 +4800,6 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
-  },
-  {
-   "id": "richel-14141",
-   "title": "The Comedy Underground",
-   "venue": "Theater De Richel",
-   "start": "2026-12-02T21:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/the-comedy-underground-43/",
-   "category": "theatre",
-   "status": "normal",
-   "kind": "event",
-   "subtitle": "Comedy, English",
-   "source": "richel"
   },
   {
    "id": "vrankrijk-6307037d1b9e",
@@ -5511,6 +5498,7 @@
    "status": "normal",
    "image": "https://assets.melkweg.nl/eventpages/b1063d9b-042c-4fa1-a775-6654544e56a1/MaiteHontele-CMS-2.jpg",
    "kind": "event",
+   "subtitle": "support: dj von rosenthal",
    "source": "melkweg"
   },
   {
@@ -5521,7 +5509,7 @@
    "url": "https://www.melkweg.nl/nl/agenda/maite-hontele-la-novia-la-novia-2026-04-12-2026",
    "category": "jazz",
    "end": "2026-12-04T19:45:00+01:00",
-   "status": "normal",
+   "status": "cancelled",
    "image": "https://assets.melkweg.nl/eventpages/65aa431d-df20-44ac-bbfd-d47985b597d3/MaiteHontele-CMS-2.jpg",
    "kind": "event",
    "source": "melkweg"
@@ -7040,6 +7028,20 @@
    "source": "paradiso"
   },
   {
+   "id": "melkweg-28831",
+   "title": "Cheeky Monday: KILLER HERTZ!",
+   "venue": "Melkweg",
+   "start": "2026-12-07T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-killer-hertz-07-12-2026",
+   "category": "club",
+   "end": "2026-12-08T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/62396a83-5077-4b60-b2ad-e3d39a9d7ffa/DECEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "Killer Hertz (Live P.A. & DJ set) / Oneiroi / Yi-Ching / Insom / Bass80 / Multiplex",
+   "source": "melkweg"
+  },
+  {
    "id": "zwijger-play-the-city-amsterdam-x-tokyo",
    "title": "PdZ x SHIBAURA HOUSE: Play the City: Amsterdam x Tokyo",
    "venue": "Pakhuis de Zwijger",
@@ -8527,6 +8529,19 @@
    "source": "paradiso"
   },
   {
+   "id": "paradiso-2955165",
+   "title": "We Love 00s",
+   "venue": "Paradiso",
+   "start": "2026-12-11T23:00:00+01:00",
+   "url": "https://www.paradiso.nl/programma/we-love-00s/2955165",
+   "category": "club",
+   "status": "normal",
+   "image": "https://assets.paradiso.nl/images/transforms/event/_100x100_crop_center-center_none/WeLove00s.jpg",
+   "kind": "event",
+   "subtitle": "Nostalgische clubnacht brengt je terug naar de noughties",
+   "source": "paradiso"
+  },
+  {
    "id": "radion-111697749",
    "title": "RADION Presents: DJ Fuckoff",
    "venue": "Radion",
@@ -9728,6 +9743,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28832",
+   "title": "Cheeky Monday: BADLOKK!",
+   "venue": "Melkweg",
+   "start": "2026-12-14T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-badlokk-14-12-2026",
+   "category": "club",
+   "end": "2026-12-15T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/023da474-865c-458a-9a5e-f739087c40f9/DECEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "BadLokk / Gibbo / Graved / Adi-J / Multiplex",
+   "source": "melkweg"
+  },
+  {
    "id": "fchyena-amongst-friends-20261215",
    "title": "Amongst Friends: sneak preview",
    "venue": "FC Hyena",
@@ -10017,6 +10046,19 @@
    "source": "joesgarage"
   },
   {
+   "id": "melkweg-28665",
+   "title": "STOMP Queer Line Dance",
+   "venue": "Melkweg",
+   "start": "2026-12-16T18:45:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/stomp-queer-line-dance-16-12-2026",
+   "category": "club",
+   "end": "2026-12-16T23:59:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/96306aa2-b091-4e13-92ae-14453856250f/stomp-annie-web-melkweg-thumbnail.png",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "jazzin-2282952",
    "title": "Vocal Night",
    "venue": "Amsterdam Blue Dock, CvA",
@@ -10037,19 +10079,6 @@
    "end": "2026-12-16T20:55:00+01:00",
    "status": "sold_out",
    "image": "https://assets.melkweg.nl/eventpages/6d810a98-eff8-4983-9925-aeff5e223865/AF4223-MILES2.png",
-   "kind": "event",
-   "source": "melkweg"
-  },
-  {
-   "id": "melkweg-28665",
-   "title": "STOMP Queer Line Dance",
-   "venue": "Melkweg",
-   "start": "2026-12-16T19:00:00+01:00",
-   "url": "https://www.melkweg.nl/nl/agenda/stomp-queer-line-dance-16-12-2026",
-   "category": "club",
-   "end": "2026-12-16T23:59:00+01:00",
-   "status": "normal",
-   "image": "https://assets.melkweg.nl/eventpages/96306aa2-b091-4e13-92ae-14453856250f/stomp-annie-web-melkweg-thumbnail.png",
    "kind": "event",
    "source": "melkweg"
   },
@@ -12054,6 +12083,20 @@
    "source": "jazzin"
   },
   {
+   "id": "melkweg-28833",
+   "title": "Cheeky Monday: CHEEKY x JUNGLISM!",
+   "venue": "Melkweg",
+   "start": "2026-12-21T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-cheeky-x-junglism-21-12-2026",
+   "category": "club",
+   "end": "2026-12-22T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/e161cd72-4fce-4033-b419-ba34f07dbce6/DECEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "Cheeky x Junglism / Bojcot / Multiplex (DJ set) / Majestic b2b Spud / FLF / Default b2b Vita Noctis",
+   "source": "melkweg"
+  },
+  {
    "id": "amsterdamalternative-22571",
    "title": "Lolobaki (2+ tot 100)",
    "venue": "Plein Theater",
@@ -12760,6 +12803,20 @@
    "kind": "event",
    "subtitle": "Het jaarlijkse en langstlopende ballonnenfeest in Paradiso",
    "source": "paradiso"
+  },
+  {
+   "id": "melkweg-28835",
+   "title": "Cheeky Monday: JESSEE!",
+   "venue": "Melkweg",
+   "start": "2026-12-28T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/cheeky-monday-jessee-28-12-2026",
+   "category": "club",
+   "end": "2026-12-29T04:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/3e8ff1c1-6170-4366-9aac-b48b6cf6f68e/DECEMBER-2026-BANNER.jpg",
+   "kind": "event",
+   "subtitle": "Jessee / Karimooo / Sinistah / Tamza / Multiplex",
+   "source": "melkweg"
   },
   {
    "id": "amsterdamalternative-22105",
