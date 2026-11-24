@@ -22,6 +22,21 @@ SKIP_CATEGORIES = {"advice/help/office hours", "meeting"}
 RRULE_DAYS = {"MO": 0, "TU": 1, "WE": 2, "TH": 3, "FR": 4, "SA": 5, "SU": 6}
 
 
+_DONATION = re.compile(r"\b(donation|donatie|pay what you can|pwyc)\b", re.I)
+_GRATIS = re.compile(r"\b(gratis|free entr(y|ance)|entrance free|free admission|toegang gratis|vrije toegang)\b", re.I)
+
+
+def _price_from_body(body: str | None) -> str | None:
+    """Radar groups rarely fill in a price, but often say 'donation' / 'free entry' in the text."""
+    if not body:
+        return None
+    if _GRATIS.search(body):
+        return "gratis"
+    if _DONATION.search(body):
+        return "op donatie"
+    return None
+
+
 def fetch_group(client, group_nid: int) -> list[dict]:
     items, page = [], 0
     while page < 6:
@@ -38,7 +53,7 @@ def fetch_group(client, group_nid: int) -> list[dict]:
 
 
 def parse_group(raw: list[dict], source: str, venue: str) -> list[Event]:
-    out, seen = [], set()
+    out, seen = [], {}
     for e in raw:
         title = clean(e.get("title"))
         cats = [c.get("name", "").lower() for c in e.get("category") or []]
@@ -57,14 +72,17 @@ def parse_group(raw: list[dict], source: str, venue: str) -> list[Event]:
             # Radar stores each week of a recurring item as its own event → one weekly entry per title
             key = ("weekly", re.sub(r"[^a-z0-9]", "", title.lower())) if weekly else (e.get("uuid"), start)
             if key in seen:
+                # weekly items arrive once per week; a later copy may mention the price ('DONATION')
+                if weekly and seen[key].price is None:
+                    seen[key].price = clean(e.get("price") if isinstance(e.get("price"), str) else "") \
+                        or _price_from_body(e.get("body"))
                 continue
-            seen.add(key)
             subtitle = None
             if weekly:
                 days = re.search(r"BYDAY=([A-Z,]+)", dt["rrule"])
                 day_txt = ", ".join(WEEKDAYS_NL[RRULE_DAYS[d[-2:]]] for d in days.group(1).split(",")) if days else ""
                 subtitle = f"Elke {day_txt} {start:%H:%M}".replace("  ", " ") if day_txt else f"Wekelijks {start:%H:%M}"
-            out.append(Event(
+            ev = Event(
                 id=make_id(source, "weekly", title) if weekly else make_id(source, f"{e.get('uuid')}-{start:%Y%m%d%H%M}"),
                 title=title,
                 subtitle=subtitle,
@@ -76,6 +94,8 @@ def parse_group(raw: list[dict], source: str, venue: str) -> list[Event]:
                 category=category,
                 kind="weekly" if weekly else "event",
                 status="cancelled" if "cancel" in str(e.get("event_status") or "").lower() else "normal",
-                price=clean(e.get("price") if isinstance(e.get("price"), str) else "") or None,
-            ))
+                price=clean(e.get("price") if isinstance(e.get("price"), str) else "") or _price_from_body(e.get("body")),
+            )
+            seen[key] = ev
+            out.append(ev)
     return out

@@ -32,6 +32,7 @@ class Event:
     image: str | None = None
     kind: str = "event"
     all_day: bool = False  # True when only the date is known (start is then 00:00 local)
+    free: bool = False     # free or donation-based entry; set centrally by run.py via is_free()
     subtitle: str | None = None
     source: str = ""  # scraper module name, filled in by run.py
 
@@ -55,6 +56,8 @@ class Event:
         d["end"] = self.end.astimezone(TZ).isoformat() if self.end else None
         if not self.all_day:
             d.pop("all_day")
+        if not self.free:
+            d.pop("free")
         return {k: v for k, v in d.items() if v is not None}
 
 
@@ -239,6 +242,21 @@ def parse_ics(text: str) -> list[dict]:
             else:
                 cur[name] = value.replace("\\n", "\n").replace("\\,", ",").replace("\\;", ";").replace("\\\\", "\\")
     return events
+
+
+# ---------------------------------------------------------------- free entry
+
+_FREE_PRICE = re.compile(r"^\s*(€\s*)?(gratis|free|vrij|0+([.,]0+)?)\s*$|gratis|\bfree\b|donati|op donatie|"
+                         r"pay what you can|pwyc|vrije (toegang|gift)|€\s*0([.,]0+)?\s*$", re.I)
+_FREE_TEXT = re.compile(r"\b(gratis( toegang| entree)?|free (entry|entrance|admission|event)|entrance free|"
+                        r"toegang gratis|vrije toegang|op donatie|donation[- ]based|pay what you can)\b", re.I)
+
+
+def is_free(ev: "Event") -> bool:
+    """Free or donation-based: price says gratis/free/€0/donation, or the title/subtitle says so."""
+    if ev.price and _FREE_PRICE.search(ev.price):
+        return True
+    return bool(_FREE_TEXT.search(f"{ev.title} {ev.subtitle or ''}"))
 
 
 # ---------------------------------------------------------------- category helper

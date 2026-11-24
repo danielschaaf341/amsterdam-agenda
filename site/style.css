@@ -61,6 +61,9 @@ h1 { font-size: 1.2rem; margin: 0; letter-spacing: -0.01em; }
 .club-mode span { margin-right: 4px; }
 .club-mode button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 12px; font-size: .85rem; }
 .club-mode button[aria-checked="true"] { background: var(--club); border-color: var(--club); color: #fff; font-weight: 600; }
+.club-mode { flex-wrap: wrap; }
+.free-btn { margin-left: auto; }
+.club-mode .free-btn[aria-pressed="true"] { background: #2f7d32; border-color: #2f7d32; color: #fff; font-weight: 600; }
 .filter-row { display: flex; gap: 8px; margin-top: 8px; }
 #search {
   flex: 1; min-width: 0; border: 1px solid var(--line); background: var(--card); color: var(--text);

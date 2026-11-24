@@ -153,7 +153,7 @@ def test_jazzin():
     assert e.start == datetime(2026, 11, 23, 20, 30, tzinfo=TZ)
     venues = {x.venue for x in events}
     assert "Melkweg" not in venues and "OCCII" not in venues  # covered by own scrapers
-    assert "theater De Richel" not in venues and "Theater De Richel" in venues
+    assert not any("richel" in v.lower() for v in venues)  # De Richel has its own scraper now
 
 
 def test_cavia():
@@ -351,3 +351,25 @@ def test_radar_food_venues():
     assert len(eet) == 1 and eet[0].kind == "weekly" and eet[0].category == "food" and eet[0].price == "€5"
     voku = by_title(mollichaoot.parse(load_fixture("mollichaoot"), FIXTURE_DATE), "Vegan Voku")
     assert voku.kind == "weekly" and voku.category == "food" and voku.subtitle == "Elke di 18:00"
+
+
+def test_richel_own_agenda():
+    from scrapers import jazzin, richel
+    ev = richel.parse(load_fixture("richel"), date(2026, 11, 24))
+    jazz = by_title(ev, "Jazz Underground")
+    assert jazz.start == datetime(2026, 11, 26, 22, 0, tzinfo=TZ) and jazz.category == "jazz" and jazz.price == "gratis"
+    assert by_title(ev, "Clous van Mechelen").category == "theatre"
+    assert len([e for e in ev if e.title.startswith("Ondertussen") and e.start.day == 29]) == 1
+    assert not any("richel" in e.venue.lower() for e in jazzin.parse(load_fixture("jazzin"), FIXTURE_DATE))
+
+
+def test_radar_free_from_description():
+    from scrapers import joesgarage, mollichaoot, vrankrijk
+    from scrapers.base import is_free
+    vk = vrankrijk.parse(load_fixture("vrankrijk"), FIXTURE_DATE)
+    # 'collecting DONATIONS for people on the move' is a donation drive, not a donation-based meal
+    assert by_title(vk, "Friday Pirate Kitchen").price is None
+    assert by_title(vk, "WTF Queer Wednesday/Live Music").price == "gratis"
+    voku = by_title(mollichaoot.parse(load_fixture("mollichaoot"), FIXTURE_DATE), "Vegan Voku")
+    assert voku.price is None  # 'Free Market' alone does not make the voku free
+    assert by_title(joesgarage.parse(load_fixture("joesgarage"), FIXTURE_DATE), "Joe's Salon").price == "op donatie"

@@ -20,7 +20,8 @@ OWN_SCRAPER_VENUES = {"melkweg", "occii", "de nieuwe anita", "paradiso", "tolhui
                       "ot301", "de balie", "felix meritis", "rode hoed", "de rode hoed", "pakhuis de zwijger",
                       "splendor", "badhuistheater", "mike's badhuistheater", "nachbar", "skatecafe", "garage noord",
                       "mezrab", "de brakke grond", "brakke grond", "carré", "koninklijk theater carré", "radion",
-                      "lofi", "thuishaven", "vrankrijk", "joe's garage", "tolhuistuin", "mkz", "molli chaoot"}
+                      "lofi", "thuishaven", "vrankrijk", "joe's garage", "tolhuistuin", "mkz", "molli chaoot",
+                      "theater de richel", "theatercafé de richel", "de richel"}
 # spelling variants seen in the feed
 VENUE_ALIASES = {"theatercafé de richel": "Theater De Richel", "theater de richel": "Theater De Richel",
                  "cafe rivièra": "Café Rivièra", "café rivièra": "Café Rivièra"}

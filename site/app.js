@@ -25,6 +25,7 @@ const state = {
   favVenues: new Set(store.get("favVenues", [])),
   search: "",
   clubMode: store.get("clubMode", "on"),          // on | only | off
+  freeOnly: store.get("freeOnly", false),
   weekOffset: 0,
 };
 
@@ -63,6 +64,7 @@ function relLabel(k) {
 function isFav(ev) { return state.favEvents.has(ev.id) || state.favVenues.has(ev.venue); }
 
 function matches(ev, { ignoreQuick = false } = {}) {
+  if (state.freeOnly && !ev.free) return false;
   if (state.clubMode === "off" && ev.category === "club") return false;
   if (state.clubMode === "only" && ev.category !== "club") return false;
   if (state.cats.size && !state.cats.has(ev.category)) return false;
@@ -110,8 +112,9 @@ function eventNode(ev) {
   const st = node.querySelector(".ev-status");
   st.textContent = STATUS[ev.status] || "";
   st.className = "ev-status " + (ev.status || "");
-  node.querySelector(".ev-sub").textContent = [ev.subtitle, ev.price].filter(Boolean).join(" · ");
-  if (ev.status === "cancelled" || ev._start < Date.now() - 3 * 3600e3) node.classList.add("dim");
+  const price = ev.free && !/gratis|free|donat/i.test(ev.price || "") ? (ev.price ? `${ev.price} (gratis/donatie)` : "gratis") : ev.price;
+  node.querySelector(".ev-sub").textContent = [ev.subtitle, price].filter(Boolean).join(" · ");
+  if (ev.status === "cancelled" || (!ev.all_day && ev._start < Date.now() - 3 * 3600e3)) node.classList.add("dim");
   starButton(node.querySelector(".star"), ev);
   return node;
 }
@@ -329,7 +332,8 @@ function renderCats() {
 function render() {
   document.querySelectorAll(".view-toggle button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
   document.querySelectorAll("#quick button").forEach((b) => b.classList.toggle("on", b.dataset.quick === state.quick));
-  document.querySelectorAll(".club-mode button").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.club === state.clubMode)));
+  document.querySelectorAll(".club-mode button[data-club]").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.club === state.clubMode)));
+  $("#free-btn").setAttribute("aria-pressed", String(state.freeOnly));
   $("#list").hidden = state.view !== "list";
   $("#week").hidden = state.view !== "week";
   renderSeries();
@@ -385,6 +389,9 @@ function bind() {
     state.quick = state.quick === q ? "all" : q;
     if (state.view === "week") state.weekOffset = 0;
     render();
+  });
+  $("#free-btn").addEventListener("click", () => {
+    state.freeOnly = !state.freeOnly; store.set("freeOnly", state.freeOnly); render();
   });
   document.querySelector(".club-mode").addEventListener("click", (e) => {
     const mode = e.target.closest("button")?.dataset.club;

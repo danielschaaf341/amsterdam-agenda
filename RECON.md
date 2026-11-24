@@ -49,6 +49,7 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | Thuishaven *(added)* | `thuishaven` | HTML agenda (.agenda-item) | ✅ incl. sold out, genre |
 | Sexyland *(added)* | `sexyland` | HTML (upcoming block); venue rebuilt, reopens autumn 2027 | ✅ pop-ups only |
 | Zaal 100 restaurant | `jazzin` + recurring.json | 'Restaurant: …' items → food; Yayang (Asian) Wednesdays as weekly item | ✅ |
+| Theater De Richel *(own scraper)* | `richel` | WP REST `evenementen` (dates) + detail pages (time, price, room); replaces jazzin's inaccurate data | ✅ |
 | Shelter | – | site lists only exhibitions; Stager shop is staff-only | ⛔ no public agenda found |
 | Kanarie Club | – | "Events" page = private hire, no public agenda | ⛔ |
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |

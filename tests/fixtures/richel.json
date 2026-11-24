@@ -1,0 +1,486 @@
+[
+ {
+  "id": 15499,
+  "link": "https://theaterderichel.nl/evenementen/vpro-boeken-komt-naar-amsterdam/",
+  "title": "VPRO Boeken komt naar Amsterdam!",
+  "begindatum": 1797811200,
+  "einddatum": 1799625600,
+  "uitverkocht": "false",
+  "genres": [
+   "Literatuur"
+  ],
+  "time": "19:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 15468,
+  "link": "https://theaterderichel.nl/evenementen/3-in-1/",
+  "title": "StandOut presents &#8216;3 in 1&#8217;",
+  "begindatum": 1796947200,
+  "einddatum": 1796947200,
+  "uitverkocht": "false",
+  "genres": [
+   "Arabic",
+   "Comedy",
+   "Stand-Up"
+  ],
+  "time": "20:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 15463,
+  "link": "https://theaterderichel.nl/evenementen/rebetiko-night-sti-sofita-8/",
+  "title": "Rebetiko Night Sti Sofita",
+  "begindatum": 1795824000,
+  "einddatum": 1795824000,
+  "uitverkocht": "false",
+  "genres": [
+   "Grieks",
+   "Muziek"
+  ],
+  "time": "19:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13300,
+  "link": "https://theaterderichel.nl/evenementen/the-secretary/",
+  "title": "The Secretary",
+  "begindatum": 1796169600,
+  "einddatum": 1796256000,
+  "uitverkocht": "false",
+  "genres": [
+   "English",
+   "Theater",
+   "Verhuur"
+  ],
+  "time": "19:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 15163,
+  "link": "https://theaterderichel.nl/evenementen/cafe-het-schuiven-6/",
+  "title": "Café het Schuiven",
+  "begindatum": 1796342400,
+  "einddatum": 1796342400,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Poëzie"
+  ],
+  "time": "20:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 15133,
+  "link": "https://theaterderichel.nl/evenementen/toneelgroep-dagwerk-brothers-in-crime-van-jan-nieuwenhuis/",
+  "title": "Toneelgroep Dagwerk &#8211; Brothers in crime &amp; Het Verhaal van Jozef",
+  "begindatum": 1797120000,
+  "einddatum": 1797120000,
+  "uitverkocht": "false",
+  "genres": [
+   "Toneel",
+   "Verhuur"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 15014,
+  "link": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
+  "title": "Jazz Underground",
+  "begindatum": 1795651200,
+  "einddatum": 1795651200,
+  "uitverkocht": "false",
+  "genres": [
+   "Jazz",
+   "Muziek"
+  ],
+  "time": "22:00",
+  "price": "GRATIS",
+  "room": "Café"
+ },
+ {
+  "id": 14969,
+  "link": "https://theaterderichel.nl/evenementen/lieve-de-putter-echoes/",
+  "title": "Lieve de Putter &#8211; ECHOES",
+  "begindatum": 1795996800,
+  "einddatum": 1795996800,
+  "uitverkocht": "false",
+  "genres": [
+   "English",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14875,
+  "link": "https://theaterderichel.nl/evenementen/productiehuis-de-haard-de-eeuw-waarin-alles-kan/",
+  "title": "Productiehuis De Haard &#8211; De Eeuw Waarin Alles Kan",
+  "begindatum": 1796169600,
+  "einddatum": 1796169600,
+  "uitverkocht": "false",
+  "genres": [
+   "Musical"
+  ],
+  "time": "14:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14863,
+  "link": "https://theaterderichel.nl/evenementen/wrijving-3/",
+  "title": "Wrijving",
+  "begindatum": 1795651200,
+  "einddatum": 1795651200,
+  "uitverkocht": "false",
+  "genres": [
+   "Seks",
+   "Storytelling"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14727,
+  "link": "https://theaterderichel.nl/evenementen/nesim-el-ahmadi-iedereen-komt-aan-de-beurt/",
+  "title": "Nesim el Ahmadi &#8211; Iedereen komt aan de beurt",
+  "begindatum": 1797292800,
+  "einddatum": 1797379200,
+  "uitverkocht": "false",
+  "genres": [
+   "Cabaret",
+   "Comedy"
+  ],
+  "time": "21:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14602,
+  "link": "https://theaterderichel.nl/evenementen/comedy-queens-3/",
+  "title": "Comedy Queens",
+  "begindatum": 1796860800,
+  "einddatum": 1796860800,
+  "uitverkocht": "false",
+  "genres": [
+   "Comedy"
+  ],
+  "time": "20:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14143,
+  "link": "https://theaterderichel.nl/evenementen/the-comedy-underground-44/",
+  "title": "The Comedy Underground",
+  "begindatum": 1796774400,
+  "einddatum": 1796774400,
+  "uitverkocht": "false",
+  "genres": [
+   "Comedy",
+   "English"
+  ],
+  "time": "21:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 14141,
+  "link": "https://theaterderichel.nl/evenementen/the-comedy-underground-43/",
+  "title": "The Comedy Underground",
+  "begindatum": 1796169600,
+  "einddatum": 1796169600,
+  "uitverkocht": "false",
+  "genres": [
+   "Comedy",
+   "English"
+  ],
+  "time": "21:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13998,
+  "link": "https://theaterderichel.nl/evenementen/satire-satire-satire-aflevering-2-oost-europa/",
+  "title": "SATIRE SATIRE SATIRE &#8211; Aflevering 2 &#8211; Oost-Europa",
+  "begindatum": 1797206400,
+  "einddatum": 1797206400,
+  "uitverkocht": "false",
+  "genres": [
+   "Livestream",
+   "Satire",
+   "Theater"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13978,
+  "link": "https://theaterderichel.nl/evenementen/kassett-kassettkafe-met-de-componist-der-nederlanden/",
+  "title": "KASSETT &#8211; KASSETTkafé (met de Componist der Nederlanden)",
+  "begindatum": 1795564800,
+  "einddatum": 1795564800,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "20:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13201,
+  "link": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-74/",
+  "title": "Betty Friday &#8211; vrij-mi-bo cabaret &#8211; MC020",
+  "begindatum": 1797552000,
+  "einddatum": 1797552000,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "17:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13199,
+  "link": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-73/",
+  "title": "Betty Friday &#8211; vrij-mi-bo cabaret &#8211; MC020",
+  "begindatum": 1796947200,
+  "einddatum": 1796947200,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "17:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13197,
+  "link": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-72/",
+  "title": "Betty Friday &#8211; vrij-mi-bo cabaret &#8211; MC020",
+  "begindatum": 1796342400,
+  "einddatum": 1796342400,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "17:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13195,
+  "link": "https://theaterderichel.nl/evenementen/betty-friday-vrij-mi-bo-cabaret-mc020-71/",
+  "title": "Betty Friday &#8211; vrij-mi-bo cabaret &#8211; MC020",
+  "begindatum": 1795737600,
+  "einddatum": 1795737600,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst",
+   "Muziek",
+   "Theater"
+  ],
+  "time": "17:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13154,
+  "link": "https://theaterderichel.nl/evenementen/open-bak-26/",
+  "title": "Open BAK",
+  "begindatum": 1799712000,
+  "einddatum": 1799712000,
+  "uitverkocht": "false",
+  "genres": [
+   "Cabaret",
+   "Kleinkunst",
+   "Muziek",
+   "Poëzie",
+   "Theater"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13152,
+  "link": "https://theaterderichel.nl/evenementen/open-bak-25/",
+  "title": "Open BAK",
+  "begindatum": 1796083200,
+  "einddatum": 1796083200,
+  "uitverkocht": "false",
+  "genres": [
+   "Cabaret",
+   "Kleinkunst",
+   "Muziek",
+   "Poëzie",
+   "Theater"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13150,
+  "link": "https://theaterderichel.nl/evenementen/open-bak-24/",
+  "title": "Open BAK",
+  "begindatum": 1795478400,
+  "einddatum": 1795478400,
+  "uitverkocht": "false",
+  "genres": [
+   "Cabaret",
+   "Kleinkunst",
+   "Muziek",
+   "Poëzie",
+   "Theater"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 13007,
+  "link": "https://theaterderichel.nl/evenementen/de-interventie-3/",
+  "title": "De Interventie",
+  "begindatum": 1796947200,
+  "einddatum": 1796947200,
+  "uitverkocht": "false",
+  "genres": [
+   "Comedy",
+   "Theater"
+  ],
+  "time": "20:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12985,
+  "link": "https://theaterderichel.nl/evenementen/klaplopers-stand-up-comedy-12/",
+  "title": "Klaplopers- Stand-up Comedy",
+  "begindatum": 1797552000,
+  "einddatum": 1797552000,
+  "uitverkocht": "false",
+  "genres": [
+   "Comedy",
+   "Stand-Up"
+  ],
+  "time": "21:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12765,
+  "link": "https://theaterderichel.nl/evenementen/ondertussen-joost-ii-sickenga/",
+  "title": "Ondertussen &#8211; Joost II Sickenga",
+  "begindatum": 1795910400,
+  "einddatum": 1796083200,
+  "uitverkocht": "false",
+  "genres": [
+   "Literatuur",
+   "Muziektheater"
+  ],
+  "time": "20:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12480,
+  "link": "https://theaterderichel.nl/evenementen/cafe-chantant/",
+  "title": "Café Chantant: Allerzielen",
+  "begindatum": 1795910400,
+  "einddatum": 1795910400,
+  "uitverkocht": "false",
+  "genres": [
+   "Muziek"
+  ],
+  "time": "15:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12324,
+  "link": "https://theaterderichel.nl/evenementen/margreet-dolman-brengt-warmte-in-de-donkerste-dagen-van-het-jaar-dominee-gremdaat-wijst-de-weg-naar-een-evenwichtig-2027-2/",
+  "title": "Margreet Dolman brengt Warmte in de donkerste dagen van het jaar &amp; Dominee Gremdaat wijst de Weg naar een evenwichtig 2027",
+  "begindatum": 1798848000,
+  "einddatum": 1799539200,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst"
+  ]
+ },
+ {
+  "id": 12299,
+  "link": "https://theaterderichel.nl/evenementen/margreet-dolman-brengt-warmte-in-de-donkerste-dagen-van-het-jaar-dominee-gremdaat-wijst-de-weg-naar-een-evenwichtig-2027/",
+  "title": "Margreet Dolman brengt Warmte in de donkerste dagen van het jaar &amp; Dominee Gremdaat wijst de Weg naar een evenwichtig 2027",
+  "begindatum": 1796256000,
+  "einddatum": 1799539200,
+  "uitverkocht": "false",
+  "genres": [
+   "Kleinkunst"
+  ]
+ },
+ {
+  "id": 11934,
+  "link": "https://theaterderichel.nl/evenementen/funhouse-12/",
+  "title": "FUNHOUSE",
+  "begindatum": 1797811200,
+  "einddatum": 1797811200,
+  "uitverkocht": "false",
+  "genres": [
+   "Funhouse"
+  ],
+  "time": "18:30",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12266,
+  "link": "https://theaterderichel.nl/evenementen/muziektheater-clous-van-mechelen-olga-de-meij-hoe-bedoel-je/",
+  "title": "Clous van Mechelen en Olga de Meij &#8211; Ronflonflon , een ode aan Wim T. Schippers",
+  "begindatum": 1795651200,
+  "einddatum": 1795651200,
+  "uitverkocht": "false",
+  "genres": [
+   "Muziektheater"
+  ],
+  "time": "21:00",
+  "price": null,
+  "room": null
+ },
+ {
+  "id": 12219,
+  "link": "https://theaterderichel.nl/evenementen/kiki-schippers-de-grote-hoop/",
+  "title": "Kiki Schippers &#8211; De Grote Hoop",
+  "begindatum": 1795737600,
+  "einddatum": 1795737600,
+  "uitverkocht": "false",
+  "genres": [
+   "Cabaret",
+   "Oudejaars"
+  ],
+  "time": "20:15",
+  "price": null,
+  "room": null
+ }
+]

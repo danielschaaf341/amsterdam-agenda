@@ -84,3 +84,17 @@ def test_failed_scraper_keeps_previous_events(tmp_path, monkeypatch):
     status = json.loads((tmp_path / "status.json").read_text())["venues"]["flaky"]
     assert [e["id"] for e in events] == ["flaky-1"]
     assert status["error"] and status["stale"] and status["last_success"]
+
+
+def test_is_free():
+    from scrapers.base import is_free
+    def mk(price=None, title="X", subtitle=None):
+        return Event(id="t-1", title=title, venue="V", start=datetime(2026, 12, 1, 20, tzinfo=TZ),
+                     url="https://x", price=price, subtitle=subtitle)
+    for p in ("gratis", "€ 0,00", "€0", "€ free/ donation", "Free", "€ donation", "0"):
+        assert is_free(mk(price=p)), p
+    for p in ("€ 15", "€ 10,75–€ 25,00", "€ 10", None):
+        assert not is_free(mk(price=p)), p
+    assert is_free(mk(subtitle="Elke ma 18:00 · vegan diner op donatie"))
+    assert is_free(mk(title="Concert – vrije toegang"))
+    assert not is_free(mk(title="Free Your Mind (techno)"))

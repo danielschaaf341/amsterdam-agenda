@@ -53,6 +53,7 @@ workflow runs `playwright install --with-deps chromium`. `_nuxt.py` needs `node`
 | `image` | str \| None | absolute URL |
 | `kind` | `event \| series \| weekly` | **series** = themed period/run spanning `start..end` ("Loopt nu" banner, all-day in ics); **weekly** = fixed recurring item, `subtitle` says when ("Vaste prik" row, not in ics) |
 | `all_day` | bool | only the date is known (start is 00:00); site shows "–" |
+| `free` | bool | free or donation-based entry; set centrally in run.py by `base.is_free()` (price "gratis"/€0/free/donation, or "gratis", "vrije toegang", "op donatie", "pay what you can" in title/subtitle). Site: "€0 Gratis" toggle |
 | `subtitle` | str \| None | company / support act / series name / hall |
 | `source` | str | set by run.py = module NAME |
 
@@ -120,7 +121,8 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
 "Vaste prik" (kind=weekly) is a collapsible list grouped per weekday (Maandag…Zondag, items repeated on
 each day they run, sorted by time; open/closed remembered). Days/time are parsed from the subtitle
 "Elke wo, do 12:00 · …" – keep that format in scrapers and recurring.json.
-Quick periods, categories, venues (+ ★ favourites), search, and a **club switch** (Aan / Alleen / Uit,
+Quick periods, categories, venues (+ ★ favourites), search, a **"€0 Gratis" toggle** (combines with
+everything, remembered) and a **club switch** (Aan / Alleen / Uit,
 stored in localStorage). `guess_category` only says "club" for real club words (clubnacht, DJ, techno…),
 not for a bare "club" (Club Amsterdam Klezmer, book club).
 
@@ -133,3 +135,7 @@ not for a bare "club" (Club Amsterdam Klezmer, book club).
 - De Nieuwe Anita homepage grid is unreliable → REST list + detail pages (weekday pins the year).
 - Peppered theatres list tour dates elsewhere; `data-event-start` on order buttons is exact.
 - Rialto 'verwacht' programs are placeholders (00:00, location "Onbekend.") → not events.
+- jazzin's De Richel data was wrong (invented café nights, duplicate titles) → `richel.py` (WP REST
+  `evenementen` + detail pages for time/price); De Richel is in `jazzin.OWN_SCRAPER_VENUES`.
+- Radar descriptions: only clear phrases count as free ("donation", "free entry"); "collecting
+  DONATIONS for …" (plural, a donation drive) does not.

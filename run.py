@@ -21,7 +21,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from scrapers import all_scrapers
-from scrapers.base import TZ, Event
+from scrapers.base import TZ, Event, is_free
 from scrapers.http import Client
 from ics import write_ics
 
@@ -78,6 +78,7 @@ def run_scraper(mod, client: Client, today: date, save: bool) -> list[Event]:
     events = []
     for ev in mod.parse(raw, today):
         ev.source = mod.NAME
+        ev.free = ev.free or is_free(ev)
         try:
             ev.validate()
         except ValueError as exc:
