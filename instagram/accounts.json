@@ -1,0 +1,8 @@
+{
+  "_help": "Instagram accounts to follow (business/creator accounts only – that's what the official API can read). username without @; venue = display name in the agenda.",
+  "accounts": [
+    {"username": "nachbar_169", "venue": "Nachbar"},
+    {"username": "cafe40.ams", "venue": "Café 40"},
+    {"username": "robin_food_amsterdam", "venue": "Robin Food"}
+  ]
+}

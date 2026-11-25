@@ -1,0 +1,9 @@
+{
+  "events": [
+    {"id": "17900000000000001", "venue": "Café 40", "title": "Testavond: Pipel (1976) – Srefidensi Dey",
+     "subtitle": "filmvertoning", "start": "2026-11-25T20:00", "category": "film", "price": "gratis",
+     "url": "https://www.instagram.com/p/EXAMPLE/", "added": "2026-11-23"},
+    {"id": "17900000000000002", "venue": "Nachbar", "title": "Expositie", "start": "2026-11-27",
+     "end": "2026-12-06", "category": "other", "url": "https://www.instagram.com/p/EXAMPLE2/"}
+  ]
+}

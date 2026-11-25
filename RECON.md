@@ -75,6 +75,7 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | De Peper | – | closed since 1 July 2023 | ✗ |
 | Sugar Factory | – | sugarfactory.nl is a Zaanstreek events venue, not the club | ✗ |
 | Cinecenter | – | no specials page (only 'Film van de week', newsletter) | ⛔ |
+| Instagram accounts (`instagram/accounts.json`) | `instagram` | official Graph API Business Discovery (user's token, GitHub secrets IG_TOKEN/IG_USER_ID) → inbox branch → weekly Claude task reads posters → `instagram/events.json` | ⏳ waiting for token |
 
 ---
 

@@ -18,6 +18,9 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
   _cards.py          generic HTML 'cards' parser (date/time/price/status from card text; Orgelpark, Pllek, …)
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
+instagram/           accounts.json (who to follow), fetch.py (official Graph API 'Business Discovery',
+                     run by workflows/instagram.yml → branch instagram-inbox), PROCESS.md (weekly Claude
+                     task reads posters → events.json), events.json (read by scrapers/instagram.py)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
 build.py             assembles _site/ (site/ + data) for GitHub Pages
@@ -72,7 +75,8 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
   kind="weekly". Places without an agenda but with fixed food nights go in `recurring.json`.
 - Radar (squat.net) city-wide is declined by the user; per-venue Radar groups are fine (`_radar.py`,
   used for Vrankrijk and Joe's Garage, whose own sites show that same agenda). Don't use DJGuide (blocks automated access on
-  purpose) or Instagram (login wall). For small clubs, look for a ticket shop with a feed first:
+  purpose). Instagram only through the official Graph API with the user's own token (`instagram/`) –
+  never scraping services, fake logins or browser tricks. For small clubs, look for a ticket shop with a feed first:
   `<name>.weticket.io` exposes `api.weticket.io/storefront/organizations/<uuid>/events.xml`;
   `<name>.stager.co/shop/<name>` has schema.org Event JSON-LD; WordPress "The Events Calendar" sites
   have `?post_type=tribe_events&ical=1`. Ticketswap is resale – not used as a source.

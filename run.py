@@ -139,7 +139,7 @@ def main(argv=None) -> int:
             try:
                 events = run_scraper(mod, client, today, args.save_fixtures)
                 upcoming = [e for e in events if in_window(e, window_start, window_end)]
-                if not events:
+                if not events and not getattr(mod, "MAY_BE_EMPTY", False):
                     raise RuntimeError("scraper returned 0 events (site changed?)")
                 all_events.extend(upcoming)
                 entry.update(events=len(upcoming), last_success=now.isoformat(timespec="seconds"))

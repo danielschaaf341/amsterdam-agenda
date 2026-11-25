@@ -426,3 +426,12 @@ def test_plantagedok_and_robinfood():
     assert not any("statement" in e.title.lower() for e in pd)
     rf = [e for e in recurring.parse(load_fixture("recurring"), today) if e.venue == "Robin Food"]
     assert rf and rf[0].kind == "weekly" and rf[0].subtitle.startswith("Elke ma, di, do 18:00")
+
+
+def test_instagram_events_file():
+    from scrapers import instagram
+    evs = instagram.parse(load_fixture("instagram"), date(2026, 11, 23))
+    film = by_title(evs, "Testavond")
+    assert film.start == datetime(2026, 11, 25, 20, 0, tzinfo=TZ) and film.category == "film" and not film.all_day
+    expo = by_title(evs, "Expositie")
+    assert expo.all_day and expo.kind == "series" and expo.end.date() == date(2026, 12, 6)

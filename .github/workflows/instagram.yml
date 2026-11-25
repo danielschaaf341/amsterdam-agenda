@@ -1,0 +1,58 @@
+name: Instagram inbox
+
+# Fetch new posts of instagram/accounts.json via the official Graph API (Business Discovery)
+# into the `instagram-inbox` branch. A scheduled Claude task reads them on Monday morning
+# (instagram/PROCESS.md) and writes events into instagram/events.json on main.
+on:
+  schedule:
+    - cron: "17 18 * * 0"   # Sunday evening (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out inbox branch (create on first run)
+        run: |
+          if git ls-remote --exit-code --heads origin instagram-inbox >/dev/null; then
+            git fetch origin instagram-inbox
+            git worktree add inbox origin/instagram-inbox
+            git -C inbox checkout -B instagram-inbox
+          else
+            git worktree add --orphan -b instagram-inbox inbox
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - run: pip install requests pillow
+
+      - name: Fetch new posts
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python instagram/fetch.py inbox
+
+      - name: Push inbox
+        run: |
+          cd inbox
+          git config user.name "agenda-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Instagram inbox $(date +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase origin instagram-inbox 2>/dev/null || true
+            git push -u origin instagram-inbox && break
+            sleep $((i * 10))
+          done
