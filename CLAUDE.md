@@ -119,7 +119,7 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
 
 ## Site filters
 
-"Vaste prik" (kind=weekly) is a collapsible list grouped per weekday (Maandag…Zondag, items repeated on
+"Loopt nu" (kind=series) and "Vaste prik" (kind=weekly) are collapsed by default (state remembered). "Vaste prik" is a list grouped per weekday (Maandag…Zondag, items repeated on
 each day they run, sorted by time; open/closed remembered). Days/time are parsed from the subtitle
 "Elke wo, do 12:00 · …" – keep that format in scrapers and recurring.json.
 Design variants (standaard/poster/compact/beeld) via the "Aa" button in the header (`?design=`, remembered).

@@ -87,7 +87,7 @@ h1 { font-size: 1.2rem; margin: 0; letter-spacing: -0.01em; }
 main { padding: 0 16px 24px; max-width: 900px; margin: 0 auto; }
 .summary { color: var(--muted); font-size: .85rem; margin: 12px 0 4px; }
 
-.series h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 14px 0 6px; }
+.series .series-scroll { margin: 0; padding: 2px 12px 12px; }
 .series-scroll { display: flex; gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; margin: 0 -16px; padding: 0 16px 4px; scrollbar-width: none; }
 .series-card {
   flex: 0 0 78%; max-width: 320px; scroll-snap-align: start; background: var(--card); border-radius: 14px;

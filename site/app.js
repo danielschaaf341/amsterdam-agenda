@@ -156,6 +156,7 @@ function renderSeries() {
   const box = $("#series-list");
   box.replaceChildren();
   $("#series").hidden = running.length === 0;
+  $("#series-count").textContent = running.length ? `${running.length} ${running.length === 1 ? "reeks" : "reeksen"}` : "";
   for (const ev of running) {
     const until = ev._endDay ? "t/m " + fmtShort.format(keyToDate(ev._endDay)) : "";
     const from = ev._day > t ? "vanaf " + fmtShort.format(keyToDate(ev._day)) + " " : "";
@@ -497,6 +498,9 @@ function bind() {
   const wk = $("#weekly");
   wk.open = store.get("weeklyOpen", false);
   wk.addEventListener("toggle", () => store.set("weeklyOpen", wk.open));
+  const sr = $("#series");
+  sr.open = store.get("seriesOpen", false);
+  sr.addEventListener("toggle", () => store.set("seriesOpen", sr.open));
 
   // keep sticky day headers just below the sticky filter bar
   const header = document.querySelector(".top");
