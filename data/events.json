@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T22:09:33+01:00",
+ "generated": "2026-11-25T22:20:26+01:00",
  "window_days": 42,
- "count": 1237,
+ "count": 1245,
  "events": [
   {
    "id": "eye-1633828",
@@ -179,20 +179,6 @@
    "source": "w139"
   },
   {
-   "id": "melkweg-28560",
-   "title": "Techno Tuesday; Jayzo",
-   "venue": "Melkweg",
-   "start": "2026-11-24T23:30:00+01:00",
-   "url": "https://www.melkweg.nl/nl/agenda/techno-tuesday-24-11-2026",
-   "category": "club",
-   "end": "2026-11-25T05:00:00+01:00",
-   "status": "normal",
-   "image": "https://assets.melkweg.nl/eventpages/c8b8f9d4-9791-4494-98df-e9561681a6eb/techno-tuesday-maart-header-(2).jpg",
-   "kind": "event",
-   "subtitle": "Jayzo / Dexon",
-   "source": "melkweg"
-  },
-  {
    "id": "westergas-31db8b7ee630",
    "title": "Time Machine",
    "venue": "Westergas",
@@ -232,32 +218,6 @@
    "kind": "event",
    "free": true,
    "source": "jazzin"
-  },
-  {
-   "id": "joesgarage-f897b2bf5ef8",
-   "title": "Joe's Salon",
-   "venue": "Joe's Garage",
-   "start": "2026-11-25T15:00:00+01:00",
-   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/joes-salon",
-   "category": "food",
-   "status": "normal",
-   "price": "op donatie",
-   "kind": "weekly",
-   "free": true,
-   "subtitle": "Elke wo 15:00",
-   "source": "joesgarage"
-  },
-  {
-   "id": "joesgarage-58a32611e293",
-   "title": "Arab Spring class",
-   "venue": "Joe's Garage",
-   "start": "2026-11-25T16:00:00+01:00",
-   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/arab-spring-class",
-   "category": "other",
-   "end": "2026-11-25T18:00:00+01:00",
-   "status": "normal",
-   "kind": "event",
-   "source": "joesgarage"
   },
   {
    "id": "cavia-hoff-202611251700",
@@ -887,6 +847,32 @@
    "kind": "event",
    "subtitle": "AMÆMI (live), Lulá Luna & Andy (hybrid), silver pearl (hybrid),",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "plantagedok-12186-1795716000-1795734000",
+   "title": "Dok Night - Benefit Dinner by Het Laatste Avondmaal",
+   "venue": "Plantage Dok",
+   "start": "2026-11-26T18:00:00+01:00",
+   "url": "https://plantagedok.nl/event/dok-night-benefit-dinner-by-het-laatste-avondmaal-3/",
+   "category": "food",
+   "end": "2026-11-26T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokhuis",
+   "source": "plantagedok"
+  },
+  {
+   "id": "recurring-74b778c26f85",
+   "title": "Robin Food: vegan 3-gangendiner",
+   "venue": "Robin Food",
+   "start": "2026-11-26T18:00:00+01:00",
+   "url": "https://robinfoodkollektief.nl/",
+   "category": "food",
+   "end": "2027-01-06T18:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke ma, di, do 18:00–21:00 · € 15 · Frederik Hendrikstraat 111 (achter De Nieuwe Anita) · check site voor sluitingsdagen",
+   "source": "recurring"
   },
   {
    "id": "skatecafe-d5f5651a-acfe-4bfa-a988-6e63821b1a61",
@@ -3760,6 +3746,19 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "plantagedok-12469-1795973400-1795989600",
+   "title": "Documentary film fundraiser and dinner by RAFI X Sarjon Azouz",
+   "venue": "Plantage Dok",
+   "start": "2026-11-29T17:30:00+01:00",
+   "url": "https://plantagedok.nl/event/documentary-film-fundraiser-and-dinner-by-rafi-x-sarjon-azouz/",
+   "category": "food",
+   "end": "2026-11-29T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokzaal",
+   "source": "plantagedok"
+  },
+  {
    "id": "bijlmerparktheater-1819-202611291800",
    "title": "Bijlmer Drum Festival 2026",
    "venue": "Bijlmer Parktheater",
@@ -5432,6 +5431,19 @@
    "source": "ketelhuis"
   },
   {
+   "id": "plantagedok-12188-1796320800-1796338800",
+   "title": "Dok Night - Cunt & Kunst",
+   "venue": "Plantage Dok",
+   "start": "2026-12-03T18:00:00+01:00",
+   "url": "https://plantagedok.nl/event/dok-night-131/",
+   "category": "food",
+   "end": "2026-12-03T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokhuis",
+   "source": "plantagedok"
+  },
+  {
    "id": "ketelhuis-66a8ff5f7772",
    "title": "Amelie - 20th Anniversary",
    "venue": "Het Ketelhuis",
@@ -6041,6 +6053,20 @@
    "price": "€18.5",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "melkweg-28731",
+   "title": "Miss Bashful Official After",
+   "venue": "Melkweg",
+   "start": "2026-12-03T23:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/miss-bashful-official-after-03-12-2026",
+   "category": "club",
+   "end": "2026-12-04T05:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/91b56ad8-e94c-45e0-86bd-75f835f4b6bb/261204-Miss-Bashful-Afterparty-CMS.png",
+   "kind": "event",
+   "subtitle": "SUPERGLOSS / Slim Soledad / GDA",
+   "source": "melkweg"
   },
   {
    "id": "nachbar-111696113",
@@ -6765,6 +6791,19 @@
    "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
+  },
+  {
+   "id": "plantagedok-12526-1796482800-1796497200",
+   "title": "Fermenting Resistance",
+   "venue": "Plantage Dok",
+   "start": "2026-12-05T15:00:00+01:00",
+   "url": "https://plantagedok.nl/event/fermenting-resistance/",
+   "category": "food",
+   "end": "2026-12-05T19:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokzaal",
+   "source": "plantagedok"
   },
   {
    "id": "ita-1077",
@@ -8553,6 +8592,19 @@
    "source": "zwijger"
   },
   {
+   "id": "plantagedok-12516-1796846400-1796855400",
+   "title": "Signals Into the Ether",
+   "venue": "Plantage Dok",
+   "start": "2026-12-09T20:00:00+01:00",
+   "url": "https://plantagedok.nl/event/signals-into-the-ether/",
+   "category": "other",
+   "end": "2026-12-09T22:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokzaal",
+   "source": "plantagedok"
+  },
+  {
    "id": "kleinekomedie-3437-202612092015",
    "title": "Aaf Brandt Corstius & Lies Visschedijk",
    "venue": "De Kleine Komedie",
@@ -8681,6 +8733,19 @@
    "image": "https://weticket.ams3.digitaloceanspaces.com/event/skateles-voor-kids-1012__by_skatecafe__cover_photo-01a1c621-4316-73cc-98b2-350c09ea905c.jpeg",
    "kind": "event",
    "source": "skatecafe"
+  },
+  {
+   "id": "plantagedok-12190-1796925600-1796943600",
+   "title": "Dok Night - benefit dinner for Gaza",
+   "venue": "Plantage Dok",
+   "start": "2026-12-10T18:00:00+01:00",
+   "url": "https://plantagedok.nl/event/dok-night-132/",
+   "category": "food",
+   "end": "2026-12-10T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokhuis",
+   "source": "plantagedok"
   },
   {
    "id": "ita-2062",
@@ -9348,6 +9413,20 @@
    "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
    "source": "ita"
+  },
+  {
+   "id": "bijlmerparktheater-1631-202612112000",
+   "title": "De Gliphoeve",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/de-gliphoeve-jg2w",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 21,00–€ 23,50",
+   "image": "https://img.bijlmerparktheater.nl/Q1CPY7YdnfGqoyiH5tgrLUSPdps3xbVRAcb_SRnZU2I/c:2401:1357:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDI3M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Orkater & Bijlmer Parktheater · De Suriname-trilogie",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "bijlmerparktheater-1631-202612112000",
@@ -11175,6 +11254,20 @@
    "source": "zwijger"
   },
   {
+   "id": "ita-1161",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-14T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-14T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/roel-van-berckelaer-1321.jpg?guid=26a369e3-26bf-42ee-ab8e-2387ca608c67",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
+  },
+  {
    "id": "paradiso-2900357",
    "title": "Rikas + Yasmin Hass",
    "venue": "Tolhuistuin",
@@ -11377,6 +11470,20 @@
    "kind": "event",
    "subtitle": "Hoe slecht je de kloof tussen generaties, culturen en talen met je migrantenouders voordat het te laat is? · IJzaal PDZ",
    "source": "zwijger"
+  },
+  {
+   "id": "ita-1162",
+   "title": "De Kopenhagen Trilogie",
+   "venue": "Stadsschouwburg (ITA)",
+   "start": "2026-12-15T19:30:00+01:00",
+   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
+   "category": "theatre",
+   "end": "2026-12-15T23:00:00+01:00",
+   "status": "sold_out",
+   "image": "https://media.ita.nl/media/roel-van-berckelaer-1321.jpg?guid=26a369e3-26bf-42ee-ab8e-2387ca608c67",
+   "kind": "event",
+   "subtitle": "ITA / Eline Arbo · Theater",
+   "source": "ita"
   },
   {
    "id": "paradiso-2896693",
@@ -11968,6 +12075,19 @@
    "image": "https://weticket.ams3.digitaloceanspaces.com/event/skateles-voor-kids-1712__by_skatecafe__cover_photo-01a1c622-3bcf-72f7-a209-f41e47dd507e.png",
    "kind": "event",
    "source": "skatecafe"
+  },
+  {
+   "id": "plantagedok-12192-1797530400-1797548400",
+   "title": "Dok Night - SYMBIOPSYCHOTAXICINEMA presented by Jeffrey Babcock",
+   "venue": "Plantage Dok",
+   "start": "2026-12-17T18:00:00+01:00",
+   "url": "https://plantagedok.nl/event/dok-night-133/",
+   "category": "food",
+   "end": "2026-12-17T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dokhuis",
+   "source": "plantagedok"
   },
   {
    "id": "w139-44040-1797532200-1797544800",
@@ -12687,6 +12807,19 @@
    "source": "bellevue"
   },
   {
+   "id": "melkweg-28713",
+   "title": "Funkshun Nightmarket",
+   "venue": "Melkweg",
+   "start": "2026-12-18T21:00:00+01:00",
+   "url": "https://www.melkweg.nl/nl/agenda/funkshun-nightmarket-18-12-2026",
+   "category": "club",
+   "end": "2026-12-20T03:00:00+01:00",
+   "status": "normal",
+   "image": "https://assets.melkweg.nl/eventpages/9ecd71a3-8835-4d2c-bb54-537b4690026b/0e7c94f9-36dc-464a-b113-11ad69f7900e.jpeg",
+   "kind": "event",
+   "source": "melkweg"
+  },
+  {
    "id": "richel-12985",
    "title": "Klaplopers- Stand-up Comedy",
    "venue": "Theater De Richel",
@@ -12761,19 +12894,6 @@
    "end": "2026-12-19T05:00:00+01:00",
    "status": "normal",
    "image": "https://assets.melkweg.nl/eventpages/a7bac396-336f-4022-bc96-8a79cd9a9929/fiesta-macumba.jpg",
-   "kind": "event",
-   "source": "melkweg"
-  },
-  {
-   "id": "melkweg-28713",
-   "title": "Funkshun Nightmarket",
-   "venue": "Melkweg",
-   "start": "2026-12-18T23:59:00+01:00",
-   "url": "https://www.melkweg.nl/nl/agenda/funkshun-nightmarket-18-12-2026",
-   "category": "club",
-   "end": "2026-12-19T06:00:00+01:00",
-   "status": "normal",
-   "image": "https://assets.melkweg.nl/eventpages/9ecd71a3-8835-4d2c-bb54-537b4690026b/0e7c94f9-36dc-464a-b113-11ad69f7900e.jpeg",
    "kind": "event",
    "source": "melkweg"
   },
@@ -13031,7 +13151,7 @@
    "start": "2026-12-19T19:00:00+01:00",
    "url": "https://www.melkweg.nl/nl/agenda/muziek-bingo-xxl-19-12-2026",
    "category": "club",
-   "end": "2026-12-19T23:00:00+01:00",
+   "end": "2026-12-20T01:00:00+01:00",
    "status": "normal",
    "image": "https://assets.melkweg.nl/eventpages/60ca9591-d7d7-4743-b726-390fd645ff5a/muziekbinmgp.jpeg",
    "kind": "event",
