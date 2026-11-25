@@ -26,6 +26,7 @@ const state = {
   search: "",
   clubMode: store.get("clubMode", "on"),          // on | only | off
   freeOnly: store.get("freeOnly", false),
+  design: "standaard",
   weekOffset: 0,
 };
 
@@ -34,6 +35,7 @@ const fmtKey = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric",
 const fmtTime = new Intl.DateTimeFormat("nl-NL", { timeZone: TZ, hour: "2-digit", minute: "2-digit" });
 const fmtDay = new Intl.DateTimeFormat("nl-NL", { timeZone: "UTC", weekday: "long", day: "numeric", month: "long" });
 const fmtShort = new Intl.DateTimeFormat("nl-NL", { timeZone: "UTC", weekday: "short", day: "numeric", month: "short" });
+const fmtWeekday = new Intl.DateTimeFormat("nl-NL", { timeZone: "UTC", weekday: "short" });
 const fmtStamp = new Intl.DateTimeFormat("nl-NL", { timeZone: TZ, weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
 
 const dayKey = (d) => fmtKey.format(d);                       // "2026-11-23"
@@ -116,6 +118,11 @@ function eventNode(ev) {
   node.querySelector(".ev-sub").textContent = [ev.subtitle, price].filter(Boolean).join(" · ");
   if (ev.status === "cancelled" || (!ev.all_day && ev._start < Date.now() - 3 * 3600e3)) node.classList.add("dim");
   starButton(node.querySelector(".star"), ev);
+  const img = node.querySelector(".ev-img");
+  if (state.design === "beeld") {
+    if (ev.image) { img.src = ev.image; img.hidden = false; img.onerror = () => { img.hidden = true; node.classList.add("no-img"); }; }
+    else node.classList.add("no-img");
+  }
   return node;
 }
 
@@ -230,6 +237,7 @@ function renderList() {
   for (const [k, evs] of days) {
     const sec = document.createElement("section");
     sec.className = "day";
+    sec.id = "d-" + k;
     const h = document.createElement("h2");
     const rel = relLabel(k);
     if (rel) { const r = document.createElement("span"); r.className = "rel"; r.textContent = rel; h.append(r); }
@@ -244,8 +252,35 @@ function renderList() {
     count += evs.length;
   }
   list.replaceChildren(frag);
+  renderDayStrip([...days.keys()]);
   if (!count) list.innerHTML = '<p class="empty">Geen events gevonden met deze filters.</p>';
   $("#summary").textContent = `${count} event${count === 1 ? "" : "s"}`;
+}
+
+function renderDayStrip(keys) {
+  const strip = $("#daystrip");
+  strip.replaceChildren();
+  const t = todayKey();
+  for (const k of keys.slice(0, 42)) {
+    const b = document.createElement("button");
+    const d = keyToDate(k);
+    b.innerHTML = `<small>${k === t ? "vandaag" : fmtWeekday.format(d)}</small><b>${d.getUTCDate()}</b>`;
+    b.addEventListener("click", () => {
+      const sec = document.getElementById("d-" + k);
+      if (!sec) return;
+      const top = sec.getBoundingClientRect().top + window.scrollY - document.querySelector(".top").offsetHeight - 52;
+      window.scrollTo({ top, behavior: "smooth" });
+    });
+    strip.append(b);
+  }
+}
+
+function setDesign(name) {
+  const ok = ["standaard", "poster", "compact", "beeld"];
+  state.design = ok.includes(name) ? name : "standaard";
+  document.documentElement.dataset.design = state.design;
+  document.querySelectorAll(".design-pick button").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.design === state.design)));
+  store.set("design", state.design);
 }
 
 function renderWeek() {
@@ -390,6 +425,12 @@ function bind() {
     if (state.view === "week") state.weekOffset = 0;
     render();
   });
+  document.querySelector(".design-pick").addEventListener("click", (e) => {
+    const d = e.target.closest("button")?.dataset.design;
+    if (!d) return;
+    setDesign(d); render();
+  });
+  setDesign(new URLSearchParams(location.search).get("design") || store.get("design", "standaard"));
   $("#free-btn").addEventListener("click", () => {
     state.freeOnly = !state.freeOnly; store.set("freeOnly", state.freeOnly); render();
   });

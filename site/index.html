@@ -8,6 +8,9 @@
 <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#16161a" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23d6402b'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='700'%3EA%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -58,6 +61,7 @@
     <div id="weekly-list"></div>
   </details>
   <p id="summary" class="summary" aria-live="polite"></p>
+  <nav id="daystrip" class="daystrip" aria-label="Spring naar dag"></nav>
   <div id="list"></div>
   <div id="week" hidden>
     <div class="week-nav">
@@ -70,6 +74,13 @@
 </main>
 
 <footer class="foot">
+  <div class="design-pick" role="radiogroup" aria-label="Weergave">
+    <span>Weergave:</span>
+    <button role="radio" data-design="standaard">Standaard</button>
+    <button role="radio" data-design="poster">Poster</button>
+    <button role="radio" data-design="compact">Compact</button>
+    <button role="radio" data-design="beeld">Beeld</button>
+  </div>
   <p><a id="ics-link" href="events.ics">📅 Abonneer in je agenda (iCal)</a></p>
   <details>
     <summary id="status-summary">Bronnen</summary>
@@ -79,6 +90,7 @@
 
 <template id="event-tpl">
   <article class="ev">
+    <img class="ev-img" alt="" loading="lazy" decoding="async" hidden>
     <time class="ev-time"></time>
     <div class="ev-body">
       <a class="ev-title" target="_blank" rel="noopener"></a>

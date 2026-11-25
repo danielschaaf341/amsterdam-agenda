@@ -78,6 +78,11 @@ def run_scraper(mod, client: Client, today: date, save: bool) -> list[Event]:
     events = []
     for ev in mod.parse(raw, today):
         ev.source = mod.NAME
+        # '(cancelled)' / '[AFGELAST]' in a title → status, not part of the title
+        m = re.search(r"\s*[\[(](cancel+ed|geannuleerd|afgelast|gaat niet door)[\])]\s*", ev.title, re.I)
+        if m:
+            ev.title = (ev.title[:m.start()] + " " + ev.title[m.end():]).strip()
+            ev.status = "cancelled"
         ev.free = ev.free or is_free(ev)
         try:
             ev.validate()
