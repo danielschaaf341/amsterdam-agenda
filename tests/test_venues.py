@@ -414,3 +414,15 @@ def test_more_venues_batch3():
     assert not any("Daily Tours" in e.title for e in mm)
     mz = mozaiek.parse(load_fixture("mozaiek"), today)
     assert any(e.title.startswith("Tula.Verse") for e in mz) or len(mz) > 10
+
+
+def test_plantagedok_and_robinfood():
+    from scrapers import plantagedok, recurring
+    today = date(2026, 11, 25)
+    pd = plantagedok.parse(load_fixture("plantagedok"), today)
+    dn = by_title(pd, "Dok Night - Benefit Dinner")
+    assert dn.start == datetime(2026, 11, 26, 18, 0, tzinfo=TZ) and dn.category == "food"
+    assert dn.subtitle == "Dokhuis"
+    assert not any("statement" in e.title.lower() for e in pd)
+    rf = [e for e in recurring.parse(load_fixture("recurring"), today) if e.venue == "Robin Food"]
+    assert rf and rf[0].kind == "weekly" and rf[0].subtitle.startswith("Elke ma, di, do 18:00")

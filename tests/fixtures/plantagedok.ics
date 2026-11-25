@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plantage Dok - ECPv6.18.4.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plantage Dok
+X-ORIGINAL-URL:https://plantagedok.nl
+X-WR-CALDESC:Events for Plantage Dok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20261025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20270328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20271031T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20280326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20281029T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261126T180000
+DTEND;TZID=Europe/Amsterdam:20261126T230000
+DTSTAMP:20261018T074222Z
+CREATED:20260824T181442Z
+LAST-MODIFIED:20261018T074222Z
+UID:12186-1795716000-1795734000@plantagedok.nl
+SUMMARY:Dok Night - Benefit Dinner by Het Laatste Avondmaal
+DESCRIPTION:Every Thursday there’s a Vegan Dinner accompanying an exhibition opening/closing\, a live performance\, live music\, movie screening or … Come meet other people interested in art and activism\, good food and great prices. Bring your favourite game and your friends. Or meet new people at the bar.\n  \n\n  \n18u bar open\n19u Benefit Dinner by Het Laatste Avondmaal / 3-course vegan meal on a donation basis\n  \nOver Het Laatste Avondmaal\nZe mogen zeggen dat we doemdenkers en pessimisten zijn\, maar we zijn optimistisch en vol hoop\, we verlangen naar een laatste avondmaal voor deze wereld en nodigen iedereen uit om haar einde met ons te vieren en een nieuwe wereld op te bouwen.\nIedere laatste donderdag van de maand koken we Het Laatste Avondmaal. Een goede vegan 3 gangen maaltijd voor iedereen\, tegen donatie\, omdat eten altijd collectief zou moeten zijn. Dus geef wat je wilt\, kunt missen of nix.\nMaar we doen dit niet alleen omdat we koken zo leuk vinden\, je bijdrage aan het eten geven we aan initiatieven die we graag ondersteunen\, die al werken aan een wereld zonder onderdrukking en grenzen\, zonder bajessen of bazen en waarin iedereen het leven vorm geeft zoals die dat wil. \nDeze maand kookt het Laatste Avondmaal in solidariteit met migranten in Ceuta. Nadat het eind juli veel mensen gelukt was om via Ceuta Europa te bereiken ontstond opnieuw hetze tegen migranten. Een groep No Border activisten is ter plaatse om solidariteit met de migranten praktisch vorm te geven. Met het geld dat we vanavond ophalen willen ook wij een steentje bijdragen \nBrievenbus\nBij de ingang van het cafe staat een ‘brievenbus’ en ligt informatie over mensen die gevangen zitten omdat zij vechten voor een andere wereld\, tegen de huidige ongelijke verhoudingen. We nodigen je uit om hen een kaartje te schrijven om ze te laten weten dat ze niet vergeten zijn. \n  \n 
+URL:https://plantagedok.nl/event/dok-night-benefit-dinner-by-het-laatste-avondmaal-3/
+LOCATION:Dokhuis\, Plantage Doklaan 8-12\, Amsterdam\, Netherlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261129T173000
+DTEND;TZID=Europe/Amsterdam:20261129T220000
+DTSTAMP:20261110T204338Z
+CREATED:20261110T204301Z
+LAST-MODIFIED:20261110T204338Z
+UID:12469-1795973400-1795989600@plantagedok.nl
+SUMMARY:Documentary film fundraiser and dinner by RAFI X Sarjon Azouz
+DESCRIPTION:On November 29th\, Rotterdam based organiser Sarjon Azouz and Foundation RAFI from Amsterdam join forces for a soft evening filled with Syrian food\, dialogue\, fundraising and a screening program about two politically pressured communities in post-Assad Syria.\n\nWith the aim to raise sufficient funds for the production of two local documentaries in the coast and south of Syria\, we are excited to share exclusive excerpts from Going South by Kinan Hlal and Desperate Attempts to Grasp Something by Ashraf Ahmad. After the screening we will host a Q&A with Director Kinan Hlal and producer Humam Tadmori from the production team of Going South to get an in-depth insight on the work and process. The two documentaries follow the stories of Syrian Alawait communities along the coast and Druze in the south which have faced massacres and political unrest since the fall of Assad regime. With little to no media coverage and a lot of propaganda\, documentary makers like Kinan and Ashraf carry the heavy weight and responsibility to document the lives and stories of their communityʼs survival.\n\nJoin us at Dokzaal from 17:30 onwards for the Syrian dinner prepared by Loujaon Ahmad with a meat-based and vegan-based meal option\, and the screenings followed with Q+A. Drinks in the afterhours till 22:00.\n\n*If you wish to donate to this initiative\, please select the button below in the donation fee. For those who do want to attend this intimate evening\, please select a ticket that works for your wallet. Your donation will go towards covering the groceries and the rest will be donated to the making of the documentary.\n\n\n\nAgenda\n\n\n\n06:00 PM – 07:00 PM walk in and drinks \n\n\n07:00 PM – 08:00 PM dinner \n\n\n08:00 PM – 09:00 PM documentary screening + Q&A \n\n\n\n\ntickets:\nhttps://www.eventbrite.nl/e/2004279182990?aff=oddtdtcreator
+URL:https://plantagedok.nl/event/documentary-film-fundraiser-and-dinner-by-rafi-x-sarjon-azouz/
+LOCATION:Dokzaal
+ATTACH;FMTTYPE=image/jpeg:https://plantagedok.nl/wp-content/uploads/2026/11/https___cdn.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261203T180000
+DTEND;TZID=Europe/Amsterdam:20261203T230000
+DTSTAMP:20261018T074808Z
+CREATED:20260824T181530Z
+LAST-MODIFIED:20261018T074808Z
+UID:12188-1796320800-1796338800@plantagedok.nl
+SUMMARY:Dok Night - Cunt & Kunst
+DESCRIPTION:Every Thursday there’s a Vegan Dinner accompanying an exhibition opening/closing\, a live performance\, live music\, movie screening or …\nCome meet other people interested in art and activism\, good food and great prices. Bring your favourite game and your friends. Or meet new people at the bar.\nMore info about the program is coming soon…
+URL:https://plantagedok.nl/event/dok-night-131/
+LOCATION:Dokhuis\, Plantage Doklaan 8-12\, Amsterdam\, Netherlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261205T150000
+DTEND;TZID=Europe/Amsterdam:20261205T190000
+DTSTAMP:20261123T120522Z
+CREATED:20261123T120353Z
+LAST-MODIFIED:20261123T120522Z
+UID:12526-1796482800-1796497200@plantagedok.nl
+SUMMARY:Fermenting Resistance
+DESCRIPTION:During this encounter we will explore how fermentation can help us imagine and practice different ways of relating and organizing our communities. We will also reflect on the importance of creating spaces for shared manual and reproductive labour\, mutual care and collective nourishment\, exploring how these practices can become integral to the ways we organise and sustain our communities.
+URL:https://plantagedok.nl/event/fermenting-resistance/
+LOCATION:Dokzaal
+ATTACH;FMTTYPE=image/jpeg:https://plantagedok.nl/wp-content/uploads/2026/11/2026-12-05_fermenting_resistance.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261209T200000
+DTEND;TZID=Europe/Amsterdam:20261209T223000
+DTSTAMP:20261120T213051Z
+CREATED:20261120T212727Z
+LAST-MODIFIED:20261120T213051Z
+UID:12516-1796846400-1796855400@plantagedok.nl
+SUMMARY:Signals Into the Ether
+DESCRIPTION:  \nMany Voices Sound presents Signals Into the Ether\, a spatial listening experience on a self-built multichannel sound system. Showcasing forward-thinking sounds and experimental music\, the evening features Soumaya Phéline\, Loma Doom and Nadia\, who perform live on the Ambrio Spatial Performance Mixer. \n\n\nTickets
+URL:https://plantagedok.nl/event/signals-into-the-ether/
+LOCATION:Dokzaal
+ATTACH;FMTTYPE=image/jpeg:https://plantagedok.nl/wp-content/uploads/2026/11/Singals-into-the-ether_fin.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261210T180000
+DTEND;TZID=Europe/Amsterdam:20261210T230000
+DTSTAMP:20261018T074735Z
+CREATED:20260824T181608Z
+LAST-MODIFIED:20261018T074735Z
+UID:12190-1796925600-1796943600@plantagedok.nl
+SUMMARY:Dok Night - benefit dinner for Gaza
+DESCRIPTION:Every Thursday there’s a Vegan Dinner accompanying an exhibition opening/closing\, a live performance\, live music\, movie screening or …\nCome meet other people interested in art and activism\, good food and great prices. Bring your favourite game and your friends. Or meet new people at the bar.\nMore info about the program is coming soon…
+URL:https://plantagedok.nl/event/dok-night-132/
+LOCATION:Dokhuis\, Plantage Doklaan 8-12\, Amsterdam\, Netherlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261217T180000
+DTEND;TZID=Europe/Amsterdam:20261217T230000
+DTSTAMP:20261018T074718Z
+CREATED:20260824T181635Z
+LAST-MODIFIED:20261018T074718Z
+UID:12192-1797530400-1797548400@plantagedok.nl
+SUMMARY:Dok Night - SYMBIOPSYCHOTAXICINEMA presented by Jeffrey Babcock
+DESCRIPTION:Every Thursday there’s a Vegan Dinner accompanying an exhibition opening/closing\, a live performance\, live music\, movie screening or …\nCome meet other people interested in art and activism\, good food and great prices. Bring your favourite game and your friends. Or meet new people at the bar.\n\n18:00 Bar open\n19:00 Vegan Dinner\n20:30 SYMBIOPSYCHOTAXICINEMA presented by Jeffrey Babcock\nA series of socially engaged movies\, screened once a month on Thursdays. Touching on such hot topics as immigration\, homelessness\, racism\, education\, radical gender propositions\, the pandemic and gentrification\, these films not only explore visionary politics\, but are also chosen to stir our imagination and creativity. The essence of cinema is the collective experience\, and these screenings are aimed at creating intimate communities again in an increasingly hectic and fragmented world.
+URL:https://plantagedok.nl/event/dok-night-133/
+LOCATION:Dokhuis\, Plantage Doklaan 8-12\, Amsterdam\, Netherlands
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270205T210000
+DTEND;TZID=Europe/Amsterdam:20270205T233000
+DTSTAMP:20261124T195427Z
+CREATED:20261120T215251Z
+LAST-MODIFIED:20261124T195427Z
+UID:12520-1801861200-1801870200@plantagedok.nl
+SUMMARY:Nose Shop + RubinCarter
+DESCRIPTION:NOSE SHOP \nDeze act snijdt alle galm en opsmuk weg en verpakt de grote levensvragen van\nNietzsche en Kierkegaard in absurdistische\, gortdroge egg-pop met enkel een\nongefilterd signaal van baritongitaar\, 8-snarige bas en drumpad. Een contrastrijke\navond waarin de natuurlijke vijand van shoegaze je meesleept in een vreemd\, catchy\,\nfilosofisch concert. \n  \n  \nRUBIN CARTER\n\n \nBokser Rubin Carter inspireerde in de seventies Bob Dylan tot het schrijven van het\nliedje ‘Hurricane’\, en vijftig jaar later ook Sal Rubinstein (drummer van Queens\nPleasure) tot zijn solo-project\, waar britpop-hooks samenkomen met fraaie folkrock. \nRubin Carter is het soloproject van Sal Rubinstein (o.a. Queen’s Pleasure). Hoewel zijn\nhart bij het drumstel lag\, voelde Sal altijd een innerlijke drang om zelf muziek te\nmaken. Jarenlang zat hij op de rand van zijn bed\, tokkelend op eenvoudige\nkampvuurakkoorden die niemand mocht horen. Pas toen hij zich zelfverzekerd\ngenoeg voelde om zijn muziek te delen\, nodigde hij zijn beste vrienden uit om een\nnieuwe band te starten. Geïnspireerd door de grootste songwriters uit de jaren ’60\,\nzoals Bob Dylan en Leonard Cohen\, combineert hij zijn talent voor storytelling met de\nrauwe energie van een garage rockliefhebber met een indrukwekkende collectie\nverwassen bandshirts. \nTickets
+URL:https://plantagedok.nl/event/nose-shop-rubincarter/
+LOCATION:Dokhuis\, Plantage Doklaan 8-12\, Amsterdam\, Netherlands
+ATTACH;FMTTYPE=image/jpeg:https://plantagedok.nl/wp-content/uploads/2026/11/Persfoto-1-Nose-Shop-scaled.jpg
+END:VEVENT
+END:VCALENDAR

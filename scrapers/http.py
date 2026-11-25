@@ -32,7 +32,8 @@ CACHE_DIR = Path(os.environ.get("AGENDA_CACHE_DIR", Path(__file__).resolve().par
 
 
 # Text of anti-bot interstitials. We never try to get past these; the scraper just fails clearly.
-BOT_PAGE_MARKERS = ("<title>One moment, please...</title>", "<title>Just a moment...</title>")
+BOT_PAGE_MARKERS = ("<title>One moment, please...</title>", "<title>Just a moment...</title>",
+                    "<title>Even geduld")  # Studio/K sometimes serves a wait/reload page
 
 
 class BlockedError(RuntimeError):

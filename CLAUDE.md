@@ -16,6 +16,7 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _radar.py          shared: one Radar group per venue (Vrankrijk, Joe's Garage, Molli Chaoot, MKZ)
   _stager.py         shared: Stager shop JSON-LD (Nachbar, Radion)
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
+  _cards.py          generic HTML 'cards' parser (date/time/price/status from card text; Orgelpark, Pllek, …)
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
@@ -121,6 +122,7 @@ Validation (`Event.validate`) runs in run.py; invalid events are dropped with a 
 "Vaste prik" (kind=weekly) is a collapsible list grouped per weekday (Maandag…Zondag, items repeated on
 each day they run, sorted by time; open/closed remembered). Days/time are parsed from the subtitle
 "Elke wo, do 12:00 · …" – keep that format in scrapers and recurring.json.
+Design variants (standaard/poster/compact/beeld) via the "Aa" button in the header (`?design=`, remembered).
 Quick periods, categories, venues (+ ★ favourites), search, a **"€0 Gratis" toggle** (combines with
 everything, remembered) and a **club switch** (Aan / Alleen / Uit,
 stored in localStorage). `guess_category` only says "club" for real club words (clubnacht, DJ, techno…),

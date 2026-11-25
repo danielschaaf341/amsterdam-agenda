@@ -31,6 +31,20 @@
       "category": "food",
       "url": "https://zaal100.nl/",
       "note": "€ 12 · wo vaak Yayang (Aziatisch) · reserveren 020-6880127 na 14:00, op = op"
+    },
+    {
+      "venue": "Robin Food",
+      "title": "Robin Food: vegan 3-gangendiner",
+      "weekdays": [
+        "ma",
+        "di",
+        "do"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "category": "food",
+      "url": "https://robinfoodkollektief.nl/",
+      "note": "€ 15 · Frederik Hendrikstraat 111 (achter De Nieuwe Anita) · check site voor sluitingsdagen"
     }
   ]
 }

@@ -55,6 +55,26 @@ Recon date: 2026-11-23. Build status updated after phase 2–4 (see "Status" col
 | DJGuide (aggregator) | – | blocks automated access from hosting networks on purpose (403 + robots.txt) → not used | ✗ |
 | Spui25 | – | Cloudflare Turnstile (also www.spui25.nl); uva.nl has no usable Spui25 feed | ⛔ not built |
 | Radar (squat.net) | `_radar.py` | public API | city-wide feed declined by user; used **per venue group** only (Vrankrijk, Joe's Garage) |
+| Bimhuis | `bimhuis` | HTML tiles `li.agenda-tile-overview__item`, `?page=N` (≤4) | ✅ (skipped in jazzin) |
+| Muziekgebouw aan 't IJ | `muziekgebouw` | Peppered (`_peppered`, Playwright), location key "muziekgebouw" | ✅ |
+| Bijlmer Parktheater | `bijlmerparktheater` | Peppered, location key "bijlmer" (tour dates elsewhere skipped) | ✅ |
+| Orgelpark | `orgelpark` | HTML `article.listitem` (`_cards`) | ✅ |
+| Akhnaton | `akhnaton` | HTML Elementor loop items (`_cards`) | ✅ |
+| Pllek | `pllek` | HTML grid (`_cards`); dinners → food (weekly), DJ nights → club | ✅ |
+| Westergas | `westergas` | HTML `div.agenda-grid__item` (`_cards`), hall as subtitle | ✅ |
+| Het Ketelhuis | `ketelhuis` | RSS `/feed/upcoming_events/` → specials by title → detail pages for times | ✅ specials only |
+| Studio/K | `studiok` | HTML `/events/` (`_cards`) | ⚠️ sometimes "no cards" (previous data kept) |
+| Boom Chicago | `boomchicago` | HTML activity grid (`_cards`); dated specials only | ✅ |
+| Podium Mozaïek | `mozaiek` | JSON `/api/events` | ✅ |
+| W139 | `w139` | Events Calendar iCal | ✅ |
+| Plantage Dok | `plantagedok` | Events Calendar iCal; Dok Night dinners → food | ✅ |
+| Framer Framed | `framerframed` | HTML (`_cards`); exhibitions → series | ✅ |
+| Perdu | `perdu` | HTML `div.event` (`_cards`) | ✅ |
+| Mediamatic | `mediamatic` | HTML list (`_cards`); daily tours skipped | ✅ |
+| Robin Food | recurring.json | no agenda; site says ma/di/do 18:00–21:00, 3 gangen € 15 | ✅ weekly item |
+| De Peper | – | closed since 1 July 2023 | ✗ |
+| Sugar Factory | – | sugarfactory.nl is a Zaanstreek events venue, not the club | ✗ |
+| Cinecenter | – | no specials page (only 'Film van de week', newsletter) | ⛔ |
 
 ---
 
