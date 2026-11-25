@@ -425,6 +425,11 @@ function bind() {
     if (state.view === "week") state.weekOffset = 0;
     render();
   });
+  $("#design-btn").addEventListener("click", () => {
+    const panel = $("#design-panel");
+    panel.hidden = !panel.hidden;
+    $("#design-btn").setAttribute("aria-expanded", String(!panel.hidden));
+  });
   document.querySelector(".design-pick").addEventListener("click", (e) => {
     const d = e.target.closest("button")?.dataset.design;
     if (!d) return;

@@ -17,10 +17,20 @@
 <header class="top">
   <div class="top-row">
     <h1>Amsterdam&nbsp;Agenda</h1>
-    <div class="view-toggle" role="tablist" aria-label="Weergave">
+    <div class="top-actions">
+    <button id="design-btn" class="design-btn" aria-expanded="false" aria-controls="design-panel" title="Weergave kiezen" aria-label="Weergave kiezen">Aa</button>
+    <div class="view-toggle" role="tablist" aria-label="Lijst of week">
       <button role="tab" data-view="list" aria-selected="true">Lijst</button>
       <button role="tab" data-view="week" aria-selected="false">Week</button>
     </div>
+    </div>
+  </div>
+  <div id="design-panel" class="design-pick" hidden role="radiogroup" aria-label="Weergave">
+    <span>Weergave:</span>
+    <button role="radio" data-design="standaard">Standaard</button>
+    <button role="radio" data-design="poster">Poster</button>
+    <button role="radio" data-design="compact">Compact</button>
+    <button role="radio" data-design="beeld">Beeld</button>
   </div>
   <div class="chips" id="quick" aria-label="Periode">
     <button data-quick="all" class="on">Alles</button>
@@ -74,13 +84,6 @@
 </main>
 
 <footer class="foot">
-  <div class="design-pick" role="radiogroup" aria-label="Weergave">
-    <span>Weergave:</span>
-    <button role="radio" data-design="standaard">Standaard</button>
-    <button role="radio" data-design="poster">Poster</button>
-    <button role="radio" data-design="compact">Compact</button>
-    <button role="radio" data-design="beeld">Beeld</button>
-  </div>
   <p><a id="ics-link" href="events.ics">📅 Abonneer in je agenda (iCal)</a></p>
   <details>
     <summary id="status-summary">Bronnen</summary>

@@ -200,7 +200,16 @@ main { padding: 0 16px 24px; max-width: 900px; margin: 0 auto; }
 .ev-img { display: none; }
 .ev-img[hidden] { display: none !important; }
 .daystrip { display: none; }
-.design-pick { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 0 0 12px; }
+.top-actions { display: flex; align-items: center; gap: 8px; flex: none; }
+.design-btn { border: 1px solid var(--line); background: var(--card); border-radius: 999px; width: 36px; height: 34px;
+  font-weight: 700; font-size: .85rem; }
+.design-btn[aria-expanded="true"] { background: var(--text); color: var(--bg); }
+.design-pick { display: flex; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; align-items: center; gap: 6px;
+  margin: 8px -16px 0; padding: 0 16px; font-size: .85rem; color: var(--muted); }
+.design-pick span { display: none; }
+.design-pick button { flex: none; padding: 4px 11px; }
+.top-row { gap: 10px; }
+.design-pick[hidden] { display: none; }
 .design-pick button { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 12px; font-size: .85rem; }
 .design-pick button[aria-checked="true"] { background: var(--text); color: var(--bg); border-color: var(--text); font-weight: 600; }
 
