@@ -148,10 +148,11 @@ def test_lab111_post_page():
 def test_jazzin():
     from scrapers import jazzin
     events = jazzin.parse(load_fixture("jazzin"), FIXTURE_DATE)
-    e = by_title(events, "Chris Potter Trio")
-    assert e.venue == "Bimhuis" and e.price == "€20" and e.category == "jazz"
-    assert e.start == datetime(2026, 11, 23, 20, 30, tzinfo=TZ)
+    e = by_title(events, "Arthur Ebeling")
+    assert e.venue == "Zaal 100" and e.price == "€15" and e.category == "jazz"
+    assert e.start == datetime(2026, 11, 23, 18, 0, tzinfo=TZ)
     venues = {x.venue for x in events}
+    assert "Bimhuis" not in venues  # own scraper (bimhuis.py)
     assert "Melkweg" not in venues and "OCCII" not in venues  # covered by own scrapers
     assert not any("richel" in v.lower() for v in venues)  # De Richel has its own scraper now
 

@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//W139 - ECPv6.15.17.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:W139
+X-ORIGINAL-URL:https://w139.nl
+X-WR-CALDESC:Evenementen voor W139
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20250330T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20251026T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20260329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20261025T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20270328T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20271031T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20280326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20281029T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261120T000000
+DTEND;TZID=Europe/Amsterdam:20270207T235959
+DTSTAMP:20261125T215214
+CREATED:20260902T144540Z
+LAST-MODIFIED:20261116T100357Z
+UID:43309-1795132800-1802044799@w139.nl
+SUMMARY:Heaving Room
+DESCRIPTION:Heaving Room\, geïnitieerd door Rustan Söderling\, is een groepstentoonstelling die geïmproviseerde vormen van verbinding en verwantschap onderzoekt in een samenleving waarvan de gemeenschappelijke structuren uit elkaar beginnen te vallen. Met werken van Jame St. Findlay\, Michelle Chang Qin\, Rosa Klerkx\, Bin Koh\, John Smith\, Rustan Söderling\, Dan Walwin\, en Andoni Zamora. \n\n\n\nAan de hand van videowerken\, sculpturen\, een installatie\, en een serie digitale tekeningen brengt de tentoonstelling persoonlijke en provisorische manieren in kaart waarmee mensen reageren op een instabiele werkelijkheid. Heaving Room presenteert eigenaardige vormen van catalogisering\, persoonlijke rituelen en onbedoelde gemeenschapsvorming.  \n\n\n\nZonder te vervallen in algemeenheden of alarmisme\, ontwikkelen de hoofdpersonages in de tentoonstelling eigen logica’s. De methodes die ze hanteren om grip te krijgen op een weerbarstige wereld zijn weliswaar eigenzinnig\, onvolledig\, ongemakkelijk\, onnavolgbaar\, lichtelijk wereldvreemd\, of doordrongen van melancholische humor\, maar zijn altijd menselijk. Ze laten zien hoezeer we zekerheid\, of op zijn minst een soort samenhang\, proberen te vinden.  \n\n\n\nDe kunstwerken in Heaving Room bevinden zich in een schaars verlichte ruimte die fungeert als een tijdelijke wachtruimte waar verschillende overtuigingen\, gedragingen en ongemakkelijke afstemmingen kortstondig samenkomen. In het midden van de ruimte staat een steigerconstructie bedekt met doorschijnend zeil. Elementen in de ruimte ogen provisorisch en staan enigszins uit het lood. Ze roepen het beeld op van achtergelaten constructies of steunstructuren die iets instabiels tijdelijk bijeenhouden. \n\n\n\nGedurende de looptijd van de tentoonstelling wordt Heaving Room geactiveerd met een contextprogramma bestaande uit onder meer rondleidingen en ontmoetingen met deelnemende kunstenaars\, een rollenspel met Tom K Kemp\, een workshop over doomer food met The Center for Genomic Gastronomy. Ook gaan fanzinemakers Dark and Stormy met bezoekers aan de slag om in verschillende sessies een alternatieve tentoonstellingscatalogus te maken. \n\n\n\n\n\n\n\nPerspakket (pdf) \n\n\n\nColofon\n\n\n\nGeïnitieerd door Rustan Söderling \n\n\n\nBij W139 werken we collectief en intersectioneel aan tentoonstellingen\, geleid door de kunstenaars die we uitnodigen. Deze tentoonstelling is ontwikkeld door het artistieke team\, met als lead  Tomas Adolfs \, samen met André Avelãs\, Cari Călinici\, Dana Claasen\, Levi van Gelder\, Dil Ghale\, Geer van der Klugt\, Monica Liu\, Macarena Magaña Villar\, Margarita Osipian\, Annette Wolfsberger\, Sofija Žadeikytė\, en ons fantastische team van vrijwilligers. \n\n\n\nVisuele identiteit: Malva Askerup en Jaehyun Kim \n\n\n\nW139 wordt ondersteund door het Amsterdams Fonds voor de Kunst\, het Mondriaan Fonds en 139 Friends. Heaving Room is mede mogelijk gemaakt door het Cultuurfonds\, het Exchanges programma van het Prins Claus Fondsmet steun van de gemeente Amsterdam\, en aanvullende ondersteuning van de Gerrit Rietveld Academie.
+URL:https://w139.nl/event/heaving-room/
+ATTACH;FMTTYPE=image/jpeg:https://w139.nl/wp-content/uploads/2026/11/website-banner-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261123T000000
+DTEND;TZID=Europe/Amsterdam:20261213T235959
+DTSTAMP:20261125T215214
+CREATED:20261106T094240Z
+LAST-MODIFIED:20261106T101429Z
+UID:44085-1795392000-1797206399@w139.nl
+SUMMARY:Para-siting: Issue 01: Death / العدد الأول: الموت
+DESCRIPTION:Vanaf 23 november verwelkomen we Al Mahabba Publishing House voor de nieuwe editie Para-siting\, Issue 01: Death / العدد الأول: الموت. Dit project\, dat gestalte krijgt in een groepstentoonstelling en een zine\, fungeert als een klaagzang voor de vele vormen van sterfelijkheid die deel uitmaken van ons dagelijks leven. Terwijl we getuige zijn van – en ervaren hoe – grootschalige sterfelijkheid onze wereld ontwricht\, klampen we ons vast aan wat we voor ons zien: objecten en hulpbronnen\, overblijfselen uit het recente verleden\, kleine hoopvolle tekens voor de nabije toekomst. Maar ook deze zaken zijn voortdurend in beweging; ze kunnen veranderen of verdwijnen\, wat vaak een grote impact op ons heeft vanwege hun verbondenheid met iets diepers. \n\n\n\nAl Mahabba Publishing House is een kunstcollectief en alternatief uitgeversplatform\, opgericht door de in Den Haag gevestigde Libanese kunstenaars Jana Assaad en Milo Sharafeddine. Ze werken met tekst\, beeld\, object en programma en experimenteren met het format van publicaties. Geleid door nieuwsgierigheid maken ze transformatieve en collaboratieve werken.
+URL:https://w139.nl/event/para-siting-issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa/
+ATTACH;FMTTYPE=image/jpeg:https://w139.nl/wp-content/uploads/2026/11/template_parasiting_crippingwarmoesstraat_newsletter2-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261127T140000
+DTEND;TZID=Europe/Amsterdam:20261127T170000
+DTSTAMP:20261125T215214
+CREATED:20261106T102220Z
+LAST-MODIFIED:20261106T102811Z
+UID:44114-1795788000-1795798800@w139.nl
+SUMMARY:Issue 01: Death / العدد الأول: الموت: Al Talsam: A talisman making workshop
+DESCRIPTION:Wat is een talisman? Een gebed\, een voorwerp\, goud\, zilver\, aarde\, een woord; iets dat door vele handen is aangeraakt\, door vele monden is uitgesproken… Doe mee aan de workshop talisman-maken van Al Mahabba\, onderdeel van de tentoonstelling Issue 01: Death bij W139. Breng je verhaal\, je gebeden\, je hoop en je angsten mee\, en creëer een spreuk die beschermt\, voorziet of begraaft. Tijdens deze workshop bieden we je de materialen en begeleiding om je persoonlijke talisman te maken. Voel je vrij om voorwerpen\, foto’s of materialen mee te nemen die voor jou een bijzondere betekenis hebben.Al Mahabba Publishing House is een kunstcollectief en alternatief uitgeversplatform\, opgericht door de in Den Haag gevestigde Libanese kunstenaars Jana Assaad en Milo Sharafeddine. Ze werken met tekst\, beeld\, object en programma en experimenteren met het format van publicaties. Geleid door nieuwsgierigheid maken ze transformatieve en collaboratieve werken.
+URL:https://w139.nl/event/issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa-al-talsam-a-talisman-making-workshop/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/Al-Mahabba_-ID.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261204T150000
+DTEND;TZID=Europe/Amsterdam:20261204T180000
+DTSTAMP:20261125T215214
+CREATED:20261106T084159Z
+LAST-MODIFIED:20261118T160127Z
+UID:44022-1796396400-1796407200@w139.nl
+SUMMARY:Fantastical Cataloguing Workshop with Dark and Stormy #2
+DESCRIPTION:Help fanzine makers Dark and Stormy met het produceren van een alternatieve tentoonstellingscatalogus voor Heaving Room. Samen oefen je met rollenspellen en het schrijven (van voor bijvoorbeeld recensies\, titels en ondertitels). Ook ontwikkel je gezamenlijk visuele elementen zoals tekeningen en collages. \n\n\n\nTijdens deze workshop verkennen deelnemers de tentoonstelling aan de hand van verschillende schrijfoefeningen\, waarbij toeval\, verbeelding en onverwachte perspectieven het uitgangspunt vormen. \n\n\n\nDeelnemers trekken briefjes uit een hoed met daarop verschillende scenario’s\, personages en schrijfstijlen. Deze vormen het uitgangspunt voor korte teksten. Bijvoorbeeld: ‘Je bent een politieagent op een date in de galerie en probeert indruk te maken op je date\, terwijl je tegelijkertijd een anonieme online recensie over de tentoonstelling schrijft.’ Daarnaast wisselen de deelnemers hun teksten met elkaar uit en vullen ze elkaars teksten aan met vragen\, meningsverschillen\, correcties of zelfs opzettelijke leugens. \n\n\n\nIedereen die deelneemt aan de workshop ontvangt een eigen fanzine\, dat kan worden opgehaald tijdens de lancering van Dark and Stormy op vrijdag 22 januari 2027\, van 18:00 tot 21:00. \n\n\n\nDe workshop wordt gehouden in Engels. \n\n\n\nTicket: €7Studenten en solidariteitsticket: €5 \n\n\n\nKoop je ticket hier. \n\n\n\nDark and Stormy is een reeks fanzines\, samengesteld\, geredigeerd en vormgegeven door Bart de Baets en Rustan Söderling. Elke editie richt zich op verschillende\, vaak onderbelichte vormen van schrijven\, van recensies en bijschriften tot glossaria en biografieën. Na ongeveer tien jaar cryogeen ingevroren te zijn geweest en geduldig haar moment te hebben afgewacht\, keert Dark and Stormy terug met haar achtste editie\, als onderdeel van Heaving Room bij W139. Dit keer neemt het\, in samenwerking met grafisch ontwerpers Malva Askerup en Jaehyun Kim\, de vorm aan van een alternatieve tentoonstellingscatalogus.
+URL:https://w139.nl/event/fantastical-cataloguing-workshop-with-dark-and-stormy-2/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img3-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261210T190000
+DTEND;TZID=Europe/Amsterdam:20261210T220000
+DTSTAMP:20261125T215214
+CREATED:20261106T103617Z
+LAST-MODIFIED:20261106T103617Z
+UID:44128-1796929200-1796940000@w139.nl
+SUMMARY:Issue 01: Death / العدد الأول: الموت: Al Jinaza: the closing funeral
+DESCRIPTION:Issue 01: Death (2026-2026) heeft een rijk leven geleid\, als een parasiet genesteld op de eerste verdieping van W139. Op 10 december komen we samen voor Al Jinaza\, de afsluitende uitvaart. We zijn getuige van zijn einde en wensen hem een vredige reis naar het hiernamaals. Kom vanaf 19:00 uur langs voor een laatste afscheid in het gezelschap van vrienden en vreemden\, duik dieper in de werken en deel verhalen over de kleine sterfgevallen in je eigen leven.Al Mahabba Publishing House is een kunstcollectief en alternatief uitgeversplatform\, opgericht door de in Den Haag gevestigde Libanese kunstenaars Jana Assaad en Milo Sharafeddine. Ze werken met tekst\, beeld\, object en programma en experimenteren met het format van publicaties. Geleid door nieuwsgierigheid maken ze transformatieve en collaboratieve werken.
+URL:https://w139.nl/event/issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa-al-jinaza-the-closing-funeral/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/Al-Mahabba_-ID.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261213T160000
+DTEND;TZID=Europe/Amsterdam:20261213T170000
+DTSTAMP:20261125T215214
+CREATED:20261106T083749Z
+LAST-MODIFIED:20261118T154800Z
+UID:44018-1797177600-1797181200@w139.nl
+SUMMARY:Tour and Talk: Michelle Chang Qin
+DESCRIPTION:Kom meer te weten over Heaving Room en de ideeën achter de tentoonstelling. Ontmoet deelnemend kunstenaar Michelle Chang Qin\, die vertelt over de ideeën en processen die aan de basis liggen van haar werk. \n\n\n\nRondleiding wordt in Engels gehouden. \n\n\n\nTicket: €5Studenten en solidariteitsticket: €3 \n\n\n\nKoop je ticket hier. \n\n\n\nMichelle Chang Qin (geb. 1996\, China) werkt met geïmproviseerde constructies en afgedankte materialen. Ze vertaalt de gebaren en ruimtelijke kenmerken\, die ze observeert op plekken waar productie plaatsvindt\, naar sculpturale vormen. Haar werk weerspiegelt de ritmes van repetitieve arbeid\, waarbij het lichaam zich voortdurend aanpast aan de taak die voorhanden is terwijl de geest zich tussen het waarneembare en het ingebeelde beweegt.
+URL:https://w139.nl/event/guided-tour-and-artist-talk-michelle-chang-qin/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261216T160000
+DTEND;TZID=Europe/Amsterdam:20261216T180000
+DTSTAMP:20261125T215214
+CREATED:20261106T084719Z
+LAST-MODIFIED:20261118T154850Z
+UID:44027-1797436800-1797444000@w139.nl
+SUMMARY:Fantastical Cataloguing Workshop with Dark and Stormy #3
+DESCRIPTION:Help fanzine makers Dark and Stormy met het produceren van een alternatieve tentoonstellingscatalogus voor Heaving Room. Samen oefen je met rollenspellen en het schrijven (van voor bijvoorbeeld recensies\, titels en ondertitels). Ook ontwikkel je gezamenlijk visuele elementen zoals tekeningen en collages. \n\n\n\nTijdens deze workshop experimenteren deelnemers met tekenen\, schrijven en grafische elementen om beeld- en tekstmateriaal te maken voor een tentoonstellingscatalogus. \n\n\n\nGeïnspireerd op de eenpaneelscartoons die je vaak in The New Yorker tegenkomt\, maken deelnemers hun eigen cartoons. Ze bedenken punchlines\, tekenen of werken in tweetallen\, waarbij de één de tekst schrijft en de ander de illustratie maakt. \n\n\n\nDaarnaast doen deelnemers verschillende oefeningen om beeldmateriaal voor de catalogus te ontwikkelen. Ze experimenteren met tape\, tekeningen en grafische elementen.  \n\n\n\nTot slot spelen deelnemers met woorden en titels. Met technieken zoals ‘magnetische poëzie’ bedenken ze verrassende titels en onverwachte woordcombinaties. \n\n\n\nIedereen die deelneemt aan de workshop ontvangt een eigen fanzine\, dat kan worden opgehaald tijdens de lancering van Dark and Stormy op vrijdag 22 januari 2027\, van 18:00 tot 21:00. \n\n\n\nWorkshop wordt in Engels gehouden. \n\n\n\nTicket: €7Studenten en solidariteitsticket: €5 \n\n\n\nKoop je ticket hier. \n\n\n\nDark and Stormy is een reeks fanzines\, samengesteld\, geredigeerd en vormgegeven door Bart de Baets en Rustan Söderling. Elke editie richt zich op verschillende\, vaak onderbelichte vormen van schrijven\, van recensies en bijschriften tot glossaria en biografieën. Na ongeveer tien jaar cryogeen ingevroren te zijn geweest en geduldig haar moment te hebben afgewacht\, keert Dark and Stormy terug met haar achtste editie\, als onderdeel van Heaving Room bij W139. Dit keer neemt het\, in samenwerking met grafisch ontwerpers Malva Askerup en Jaehyun Kim\, de vorm aan van een alternatieve tentoonstellingscatalogus.
+URL:https://w139.nl/event/fantastical-cataloguing-workshop-with-dark-and-stormy-3/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img3-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20261217T183000
+DTEND;TZID=Europe/Amsterdam:20261217T220000
+DTSTAMP:20261125T215214
+CREATED:20261106T085750Z
+LAST-MODIFIED:20261118T155111Z
+UID:44040-1797532200-1797544800@w139.nl
+SUMMARY:The Fifth Fire roleplaying game with artist Tom K Kemp
+DESCRIPTION:The Fifth Fire is een prototype van een rollenspel\, ontwikkeld door kunstenaar Tom K Kemp. Tijdens het spel werken deelnemers in groepen aan een hypothetisch scenario waarin al het vuur ter wereld in staking is gegaan. Van bosbranden\, industriële energieopwekking en wapens tot ovens\, kaarsen en sigaretten: nergens brandt nog vuur. \n\n\n\nDeelnemers nemen de rol aan van het vuur\, menselijke onderhandelaars en de wereld zelf. Samen bepalen ze waarom het vuur in staking is gegaan\, welke concessies menselijke organisaties bereid zijn te doen en hoe de wereld reageert op het plotselinge verdwijnen van verbranding. Elke spelsessie verloopt anders. De gemaakte keuzes leiden telkens tot nieuwe versies van de wereld en nieuwe afspraken tussen het vuur en de mensheid. \n\n\n\nHet spel draait voornamelijk om gesprekken\, het maken van keuzes en het sluiten van overeenkomsten\, met enkele lichte rollenspel elementen. Iedereen is welkom om mee te doen. Ervaring met rollenspellen\, acteren of onderhandelen is absoluut niet nodig. Het enige wat je nodig hebt\, is de bereidheid om je verbeelding de vrije loop te laten. \n\n\n\nWorkshop wordt in Engels gehouden. \n\n\n\nTicket: €12\,50Studenten en solidariteitsticket: €10 \n\n\n\nKoop je ticket hier. \n\n\n\nTom K Kemp is filmmaker en kunstenaar. In zijn werk gebruikt hij game-writing\, film en installaties om de structuren die ons collectieve leven vormgeven te onderzoeken en opnieuw te verbeelden. Hij werkt voornamelijk met rollenspellen en combineert simulaties met fictieve genres om groepsverhalen te creëren die deels geïmproviseerd zijn. Deelnemers ontwikkelen hierbij samen het verhaal\, de dialogen\, schema’s en performances. Door politieke metaforen en denkbeeldige werelden te verweven met spelelementen die voortkomen uit de persoonlijke ervaringen en zijsporen van deelnemers\, onderzoekt zijn werk de mogelijkheden van collectief handelen en de onbedoelde gevolgen van modellen waarmee we de werkelijkheid proberen te begrijpen.
+URL:https://w139.nl/event/the-fifth-fire-roleplaying-game-with-artist-tom-k-kemp/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img2-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270110T150000
+DTEND;TZID=Europe/Amsterdam:20270110T180000
+DTSTAMP:20261125T215214
+CREATED:20261106T090134Z
+LAST-MODIFIED:20261118T160519Z
+UID:44046-1799593200-1799604000@w139.nl
+SUMMARY:Junk Food Noodpakket workshop with The Center for Genomic Gastronomy
+DESCRIPTION:Tijdens deze praktische workshop ontwerpen en maken we onze eigen DIY-noodvoorraad van junkfood\, waarbij we aan de slag gaan met programmeren\, koken en verpakkingsontwerp. Iedere deelnemer maakt een eigen chipszak\, gevuld met snacks\, instructies en herinneringen. Een voorraadje om thuis te bewaren en pas open te scheuren in geval van nood. \n\n\n\nHet project brengt de smaken\, esthetiek en logistiek van industriële voedselsystemen samen met de angsten\, fantasieën en praktische voorbereidingen uit de online doomer- en preppercultuur. Het bouwt voort op eerder onderzoek van Genomic Gastronomy\, waaronder DORITOS4SNOWDEN en VIBE CODE MEAL PREP\, en sluit aan bij de thema’s van Heaving Room: tijdelijke systemen\, persoonlijke rituelen\, doe-het-zelflogistiek en omgaan met onzekerheid. \n\n\n\nErvaring met koken of programmeren is niet nodig. Het enige wat je mee hoeft te nemen\, is een vleugje nostalgie naar een industriële voedselcultuur die voor onze ogen uit elkaar valt. \n\n\n\nWorkshop wordt in Engels gehouden. \n\n\n\nTicket: €12\,50Studenten en solidariteitsticket: €10 \n\n\n\nKoop je ticket hier. \n\n\n\nGenomic Gastronomy is een door kunstenaars geleid onderzoekscollectief\, opgericht in 2010 door Cathrine Kramer en Zack Denfeld. Het collectief onderzoekt de biotechnologieën en biodiversiteit binnen onze voedselsystemen. Hun missie is om controverses rondom voedsel in kaart te brengen\, alternatieve culinaire toekomsten te ontwikkelen en zich een rechtvaardiger\, biodiverser en mooier voedselsysteem voor te stellen. Hun onderzoek naar de organismen en leefomgevingen die door menselijke voedselculturen worden beïnvloed\, presenteren ze in de vorm van lezingen\, publicaties\, maaltijden\, workshops en tentoonstellingen. Daarbij werken ze samen met wetenschappers\, chefs\, hackers en boeren in Europa\, Azië en Noord-Amerika.
+URL:https://w139.nl/event/junk-food-noodpakket-workshop-with-the-center-for-genomic-gastronomy/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img7-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270116T160000
+DTEND;TZID=Europe/Amsterdam:20270116T170000
+DTSTAMP:20261125T215214
+CREATED:20261106T091626Z
+LAST-MODIFIED:20261118T160648Z
+UID:44070-1800115200-1800118800@w139.nl
+SUMMARY:Tour and Talk: Andoni Zamora
+DESCRIPTION:Ontmoet deelnemend kunstenaar Andoni Zamora en zijn samenwerkingspartner Constanza Castagnet. Samen vertellen ze over de ideeën en processen die aan de basis liggen van hun werk. \n\n\n\nTour wordt in Engels gehouden. \n\n\n\nTicket: €5Studenten en solidariteitsticket: €3 \n\n\n\nKoop je ticket hier. \n\n\n\nAndoni Zamora (geb. 1992\, Baskenland) werkt met ruimte en performance\, en onderzoekt de relatie tussen waarneming\, werkelijkheid en fictie. Hij gebruikt scripts en echte herinneringen om locatiegebonden verhalen te construeren die zich bewegen tussen geleefde ervaring en representatie. De blik en aanwezigheid van het publiek staan hierin centraal en bepalen hoe elk werk zich ontvouwt en wordt ervaren. Het zijn open situaties waarin ruimte\, handeling en toeschouwers samenkomen en een gedeelde ervaring creëren.
+URL:https://w139.nl/event/guided-tour-and-artist-talk-andoni-zamora/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270122T180000
+DTEND;TZID=Europe/Amsterdam:20270122T210000
+DTSTAMP:20261125T215214
+CREATED:20261106T090733Z
+LAST-MODIFIED:20261106T091018Z
+UID:44055-1800640800-1800651600@w139.nl
+SUMMARY:Dark and Stormy Issue 9 Launch Party
+DESCRIPTION:Kom naar de feestelijke lancering van Fantastical Catalogue\, een alternatieve tentoonstellingscatalogus geproduceerd met fanzine makers Dark and Stormy tijdens meerdere workshops als onderdeel van Heaving Room. \n\n\n\nTicket: €7Studenten en solidariteitsticket: €5 \n\n\n\nKoop je ticket hier. \n\n\n\nBij je ticket is een fanzine inbegrepen. \n\n\n\nDark and Stormy is een reeks fanzines\, samengesteld\, geredigeerd en vormgegeven door Bart de Baets en Rustan Söderling. Elke editie richt zich op verschillende\, vaak onderbelichte vormen van schrijven\, van recensies en bijschriften tot glossaria en biografieën. Na ongeveer tien jaar cryogeen ingevroren te zijn geweest en geduldig haar moment te hebben afgewacht\, keert Dark and Stormy terug met haar achtste editie\, als onderdeel van Heaving Room bij W139. Dit keer neemt het\, samen met grafisch ontwerpers Malva Askerup en Jaehyun Kim\, de vorm aan van een alternatieve tentoonstellingscatalogus.
+URL:https://w139.nl/event/dark-and-stormy-issue-9-launch-party/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img4-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270130T160000
+DTEND;TZID=Europe/Amsterdam:20270130T170000
+DTSTAMP:20261125T215214
+CREATED:20261106T091921Z
+LAST-MODIFIED:20261118T161020Z
+UID:44074-1801324800-1801328400@w139.nl
+SUMMARY:Tour and Talk: Bin Koh
+DESCRIPTION:Kom meer te weten over Heaving Room en de ideeën achter de tentoonstelling. Ontmoet deelnemend kunstenaar Bin Koh\, die vertelt over de ideeën en processen die aan de basis liggen van haar werk. \n\n\n\nTour wordt in Engels gehouden. \n\n\n\nTicket: €5Studenten en solidariteitsticket: €3 \n\n\n\nKoop je ticket hier. \n\n\n\nBin Koh (geb. 1990\, Zuid-Korea) onderzoekt hoe beelden uitgroeien tot symbolische systemen en nieuwe betekenissen krijgen via verschillende materialen en contexten. Het gaat haar niet zozeer om wat een beeld zegt\, maar om wat er gebeurt wanneer een beeld zelf een context wordt die ruimte en tijd omvat. Haar werk put uit instinct\, geloof\, het brengen van offers en uitwisseling. Symbolen fungeren als middelen om herinneringen vast te houden en door te geven.
+URL:https://w139.nl/event/guided-tour-and-artist-talk-bin-koh/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img-scaled.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20270207T160000
+DTEND;TZID=Europe/Amsterdam:20270207T180000
+DTSTAMP:20261125T215214
+CREATED:20261106T091333Z
+LAST-MODIFIED:20261106T091334Z
+UID:44063-1802016000-1802023200@w139.nl
+SUMMARY:Final screening met Rustan Söderling
+DESCRIPTION:Een laatste filmprogramma sluit de tentoonstelling af. Rustan Söderling introduceert The Black Tower van John Smith\, Harmony van James St Findlay en zijn eigen werk\, Blind Summit. We sluiten af met een borrel. \n\n\n\nNa de vertoningen is er gelegenheid om samen iets te drinken en afscheid te nemen van de tentoonstelling. \n\n\n\nTicket: €7Studenten en solidariteitsticket: €5 \n\n\n\nKoop je ticket hier. \n\n\n\nRustan Söderling (geb. 1984\, Zweden) is een kunstenaar en filmmaker\, gevestigd in Amsterdam. Met bewegend beeld\, op het snijvlak van documentaire\, fictie en animatie\, onderzoekt hij hoe beelden en verhalen ons begrip van de werkelijkheid vormgeven. Zijn werk richt zich op de wankele verhouding tussen technologie\, culturele narratieven en geloofssystemen; het kruispunt waarop het steeds moeilijker wordt om onderscheid te maken tussen wat is vastgelegd\, wat is geconstrueerd en wat is verbeeld.
+URL:https://w139.nl/event/final-screening-met-rustan-soderling/
+ATTACH;FMTTYPE=image/png:https://w139.nl/wp-content/uploads/2026/11/placeholder-img5-scaled.png
+END:VEVENT
+END:VCALENDAR
