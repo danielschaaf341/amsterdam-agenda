@@ -61,7 +61,7 @@ def find_date(text: str, today: date, numeric: bool = False) -> date | None:
     return None
 
 
-def find_range(text: str, today: date) -> tuple[date | None, date | None]:
+def find_range(text: str, today: date, bare_gap: bool = False) -> tuple[date | None, date | None]:
     """'13 Nov – 20 Dec 2026' / 'Wo 25 november - Do 26 november' → (start, end); single date → (d, None)."""
     hits = []
     for rx, order in ((DATE_DM, "dm"), (DATE_MD, "md")):
@@ -86,7 +86,8 @@ def find_range(text: str, today: date) -> tuple[date | None, date | None]:
         return find_date(text, today), None
     if len(hits) > 1:
         gap = text[hits[0][1]:hits[1][0]]
-        if len(gap) <= 16 and re.search(r"[–—-]|\bt/m\b|\btot\b|\bto\b|\buntil\b", gap):
+        if len(gap) <= 16 and (re.search(r"[–—-]|\bt/m\b|\btot\b|\bto\b|\buntil\b", gap)
+                               or (bare_gap and not gap.strip())):
             try:
                 end = to_date(hits[1])
                 if not hits[0][3].group(3) and hits[1][3].group(3):
@@ -119,6 +120,8 @@ def parse_cards(raw: str, today: date, source: str, venue: str, *, title_sel: st
         card = next(wrap.children)
         text = clean(card.get_text(" | "))
         d, d_end = find_range(text, today)
+        if not d:  # dates split over elements: '27 | Nov 2026' → read the text without separators
+            d, d_end = find_range(clean(card.get_text(" ")), today, bare_gap=True)
         if not d and numeric_dates:
             d = find_date(text, today, True)
         if not d:

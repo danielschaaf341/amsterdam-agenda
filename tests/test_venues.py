@@ -374,3 +374,43 @@ def test_radar_free_from_description():
     voku = by_title(mollichaoot.parse(load_fixture("mollichaoot"), FIXTURE_DATE), "Vegan Voku")
     assert voku.price is None  # 'Free Market' alone does not make the voku free
     assert by_title(joesgarage.parse(load_fixture("joesgarage"), FIXTURE_DATE), "Joe's Salon").price == "op donatie"
+
+
+def test_more_venues_batch2():
+    from scrapers import akhnaton, bijlmerparktheater, bimhuis, boomchicago, framerframed, muziekgebouw, orgelpark, \
+        perdu, pllek, studiok, w139, westergas
+    today = date(2026, 11, 25)
+    bh = bimhuis.parse(load_fixture("bimhuis"), today)
+    assert by_title(bh, "Teis Semey Quintet").start == datetime(2026, 11, 26, 20, 30, tzinfo=TZ)
+    assert by_title(bh, "Paradox Jazz Orchestra").status == "sold_out"
+    assert by_title(orgelpark.parse(load_fixture("orgelpark"), today), "Bachs Triosonates").category == "music"
+    assert by_title(akhnaton.parse(load_fixture("akhnaton"), today), "Mokum Amplified").start.hour == 19
+    assert by_title(studiok.parse(load_fixture("studiok"), today), "La Hija").start == datetime(2026, 11, 24, 21, 15, tzinfo=TZ)
+    pw = by_title(boomchicago.parse(load_fixture("boomchicago"), today), "Pro Wrestling Holland")
+    assert pw.title == "Pro Wrestling Holland!" and pw.all_day
+    assert by_title(perdu.parse(load_fixture("perdu"), today), "Avanspettacolo").start == datetime(2026, 11, 28, 19, 45, tzinfo=TZ)
+    dine = [e for e in pllek.parse(load_fixture("pllek"), today) if e.title.startswith("Dine & DJ")]
+    assert len(dine) == 1 and dine[0].kind == "weekly" and dine[0].category == "food"
+    expo = by_title(framerframed.parse(load_fixture("framerframed"), today), "Life After Love")
+    assert expo.kind == "series" and expo.category == "other" and expo.end.date() == date(2027, 1, 17)
+    assert by_title(westergas.parse(load_fixture("westergas"), today), "BRAM BOTERHAM BINGO").subtitle == "Pacific Amsterdam"
+    assert any(e.category == "talk" for e in w139.parse(load_fixture("w139"), today))
+    bp = bijlmerparktheater.parse(load_fixture("bijlmerparktheater"), today)
+    assert not any(e.title == "Stepping Stones" for e in bp), "performed at ITA, not in the Bijlmer"
+    assert all(e.category == "music" for e in muziekgebouw.parse(load_fixture("muziekgebouw"), today))
+
+
+def test_more_venues_batch3():
+    from scrapers import ketelhuis, mediamatic, mozaiek
+    today = date(2026, 11, 25)
+    kh = ketelhuis.parse(load_fixture("ketelhuis"), today)
+    qa = by_title(kh, "Queen at Sea")
+    assert qa.subtitle == "Film & Soep" and qa.start == datetime(2026, 11, 26, 10, 45, tzinfo=TZ)
+    assert by_title(kh, "Amelie - 20th").subtitle == "Soirée Ciné"
+    assert not any("All of a Sudden" == e.title for e in kh), "regular screenings are skipped"
+    mm = mediamatic.parse(load_fixture("mediamatic"), today)
+    assert by_title(mm, "The chair, the wig").kind == "series"
+    assert by_title(mm, "Waterzooi").category == "food"
+    assert not any("Daily Tours" in e.title for e in mm)
+    mz = mozaiek.parse(load_fixture("mozaiek"), today)
+    assert any(e.title.startswith("Tula.Verse") for e in mz) or len(mz) > 10

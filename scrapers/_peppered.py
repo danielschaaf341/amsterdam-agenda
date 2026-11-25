@@ -82,7 +82,7 @@ def _is_here(sub, location_key: str, trust_class: bool) -> bool:
     if box:
         text = clean(box.get_text(" "))
         # tour dates read 'Theater Zuidplein, Rotterdam' / 'Podium Mozaiek, Amsterdam'
-        if location_key not in text.lower() and (OTHER_CITIES.search(text)
+        if location_key not in text.lower() and (OTHER_CITIES.search(text) or re.search(r"\bAmsterdam\b", text)
                                                  or re.search(r"\w,\s*('s-)?[A-Z][\w-]+(\s[A-Z][\w-]+)?$", text)):
             return False
     classes = sub.get("class") or []
