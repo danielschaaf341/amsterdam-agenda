@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:20:26+01:00",
+ "generated": "2026-11-25T22:29:22+01:00",
  "window_days": 42,
  "count": 1245,
  "events": [
@@ -726,19 +726,6 @@
    "kind": "series",
    "all_day": true,
    "source": "framerframed"
-  },
-  {
-   "id": "richel-15014",
-   "title": "Jazz Underground",
-   "venue": "Theater De Richel",
-   "start": "2026-11-26T00:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
-   "category": "jazz",
-   "status": "normal",
-   "kind": "event",
-   "all_day": true,
-   "subtitle": "Jazz, Muziek",
-   "source": "richel"
   },
   {
    "id": "westergas-httpsmilouvanvlijmencom20261126",
@@ -1557,6 +1544,20 @@
    "status": "normal",
    "kind": "event",
    "subtitle": "Muziektheater",
+   "source": "richel"
+  },
+  {
+   "id": "richel-15014",
+   "title": "Jazz Underground",
+   "venue": "Theater De Richel",
+   "start": "2026-11-26T22:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
+   "category": "jazz",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "subtitle": "Jazz, Muziek · Café",
    "source": "richel"
   },
   {
@@ -9192,19 +9193,6 @@
    "source": "brakkegrond"
   },
   {
-   "id": "richel-15468",
-   "title": "StandOut presents ‘3 in 1’",
-   "venue": "Theater De Richel",
-   "start": "2026-12-11T00:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/3-in-1/",
-   "category": "theatre",
-   "status": "normal",
-   "kind": "event",
-   "all_day": true,
-   "subtitle": "Arabic, Comedy, Stand-Up",
-   "source": "richel"
-  },
-  {
    "id": "westergas-httpswwwzanzaranl20261211",
    "title": "Theatercircus Zanzara brengt de magie van de speelgoedfabriek naar Amsterdam",
    "venue": "Westergas",
@@ -9413,6 +9401,18 @@
    "kind": "event",
    "subtitle": "ITA / Eline Arbo · Theater",
    "source": "ita"
+  },
+  {
+   "id": "richel-15468",
+   "title": "StandOut presents ‘3 in 1’",
+   "venue": "Theater De Richel",
+   "start": "2026-12-11T19:30:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/3-in-1/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Arabic, Comedy, Stand-Up",
+   "source": "richel"
   },
   {
    "id": "bijlmerparktheater-1631-202612112000",
