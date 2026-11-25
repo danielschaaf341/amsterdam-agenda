@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T22:29:22+01:00",
+ "generated": "2026-11-25T23:04:19+01:00",
  "window_days": 42,
- "count": 1245,
+ "count": 1244,
  "events": [
   {
    "id": "eye-1633828",
@@ -431,17 +431,6 @@
    "source": "nieuweanita"
   },
   {
-   "id": "framerframed-5ef508759ef3",
-   "title": "Boekpresentatie: Subjective Atlas of Lubumbashi",
-   "venue": "Framer Framed",
-   "start": "2026-11-25T19:30:00+01:00",
-   "url": "https://framerframed.nl/projecten/subjective-atlas-of-lubumbashi/",
-   "category": "talk",
-   "status": "normal",
-   "kind": "event",
-   "source": "framerframed"
-  },
-  {
    "id": "melkweg-28455",
    "title": "Mortimer",
    "venue": "Melkweg",
@@ -582,18 +571,6 @@
    "kind": "event",
    "subtitle": "Gashouder",
    "source": "westergas"
-  },
-  {
-   "id": "bimhuis-1f452f8257c2",
-   "title": "Joe Armon-Jones & Maxwell Owin",
-   "venue": "Bimhuis",
-   "start": "2026-11-25T20:30:00+01:00",
-   "url": "https://www.bimhuis.nl/agenda/joe-armon-jones-maxwell-owin/",
-   "category": "jazz",
-   "status": "normal",
-   "kind": "event",
-   "subtitle": "Ezra Collective-pianist en producer/dj vieren tien jaar samenwerking op kruispunt van jazz en clubmuziek met liveband. · DATSKAT",
-   "source": "bimhuis"
   },
   {
    "id": "amsterdamalternative-23344",
@@ -1190,7 +1167,7 @@
    "start": "2026-11-26T20:00:00+01:00",
    "url": "https://www.frascatitheater.nl/nl/agenda/soft-cracks-hard-curves-rjtk",
    "category": "theatre",
-   "status": "sold_out",
+   "status": "normal",
    "price": "€ 12,00–€ 16,00",
    "image": "https://img.frascatitheater.nl/uYrCRKzU5mBksJ8U1sx_vvbP7FtSMNHmzINvim9-QcM/c:3840:2170:nowe:0:1098/s:690:390:1/aHR0cHM6Ly93d3cuZnJhc2NhdGl0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcyNDc1M19vcmlnLmpwZw",
    "kind": "event",
@@ -3772,6 +3749,19 @@
    "kind": "event",
    "subtitle": "Stichting Eternity Percussion",
    "source": "bijlmerparktheater"
+  },
+  {
+   "id": "recurring-1a6939c3bcf3",
+   "title": "Tarot Sundays",
+   "venue": "Café 40",
+   "start": "2026-11-29T19:00:00+01:00",
+   "url": "https://www.instagram.com/cafe40.ams/",
+   "category": "other",
+   "end": "2027-01-06T19:00:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke zo 19:00–22:00 · via Instagram",
+   "source": "recurring"
   },
   {
    "id": "melkweg-27091",
@@ -9429,20 +9419,6 @@
    "source": "bijlmerparktheater"
   },
   {
-   "id": "bijlmerparktheater-1631-202612112000",
-   "title": "De Gliphoeve",
-   "venue": "Bijlmer Parktheater",
-   "start": "2026-12-11T20:00:00+01:00",
-   "url": "https://www.bijlmerparktheater.nl/agenda/de-gliphoeve-jg2w",
-   "category": "music",
-   "status": "sold_out",
-   "price": "€ 21,00–€ 23,50",
-   "image": "https://img.bijlmerparktheater.nl/Q1CPY7YdnfGqoyiH5tgrLUSPdps3xbVRAcb_SRnZU2I/c:2401:1357:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDI3M19vcmlnLmpwZw",
-   "kind": "event",
-   "subtitle": "Orkater & Bijlmer Parktheater · De Suriname-trilogie",
-   "source": "bijlmerparktheater"
-  },
-  {
    "id": "debalie-122430",
    "title": "Living in Revolutionary Times",
    "venue": "De Balie",
@@ -11313,6 +11289,7 @@
    "url": "https://www.dekleinekomedie.nl/agenda/david-van-rosmalen-f71k",
    "category": "theatre",
    "status": "sold_out",
+   "price": "€ 14,00",
    "image": "https://img.dekleinekomedie.nl/fNyLbnUxJj8Bsdccl1YJBYOoZX3iQ2Hn8ijaD7oSB0Q/c:1144:647:nowe:0:0/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzI4MV9vcmlnLnBuZw",
    "kind": "event",
    "subtitle": "Als ik jou was - première",
@@ -11571,6 +11548,7 @@
    "url": "https://www.dekleinekomedie.nl/agenda/david-van-rosmalen-f71k",
    "category": "theatre",
    "status": "sold_out",
+   "price": "€ 14,00",
    "image": "https://img.dekleinekomedie.nl/fNyLbnUxJj8Bsdccl1YJBYOoZX3iQ2Hn8ijaD7oSB0Q/c:1144:647:nowe:0:0/s:690:390:1/format:png/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzI4MV9vcmlnLnBuZw",
    "kind": "event",
    "subtitle": "Als ik jou was - première",
