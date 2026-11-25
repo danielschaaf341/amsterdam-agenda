@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T21:50:28+01:00",
+ "generated": "2026-11-25T22:00:31+01:00",
  "window_days": 42,
- "count": 1020,
+ "count": 1126,
  "events": [
   {
    "id": "eye-1633828",
@@ -17,6 +17,19 @@
    "all_day": true,
    "subtitle": "Tentoonstelling, Films, Talks & Events · Über das Leben, die Liebe und den Tod",
    "source": "eye"
+  },
+  {
+   "id": "framerframed-f2f10be4bc16",
+   "title": "Framer Framed Noord: Kleiverhalen",
+   "venue": "Framer Framed",
+   "start": "2026-09-25T00:00:00+02:00",
+   "url": "https://framerframed.nl/projecten/workshop-bij-framer-framed-noord-kleiverhalen/",
+   "category": "other",
+   "end": "2026-12-18T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "framerframed"
   },
   {
    "id": "melkweg-28369",
@@ -43,6 +56,19 @@
    "kind": "series",
    "all_day": true,
    "source": "brakkegrond"
+  },
+  {
+   "id": "framerframed-c09c45aa9642",
+   "title": "Tentoonstelling: Life After Love – In Search of the Militant Image",
+   "venue": "Framer Framed",
+   "start": "2026-10-30T00:00:00+01:00",
+   "url": "https://framerframed.nl/exposities/life-after-love/",
+   "category": "other",
+   "end": "2027-01-17T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "framerframed"
   },
   {
    "id": "amsterdamalternative-9e4f877844ec",
@@ -88,6 +114,19 @@
    "source": "ot301"
   },
   {
+   "id": "framerframed-dc70287a9079",
+   "title": "Tentoonstelling Framer Framed Noord: Reenactment or Filming with a Migrant Camera",
+   "venue": "Framer Framed",
+   "start": "2026-11-13T00:00:00+01:00",
+   "url": "https://framerframed.nl/exposities/tentoonstelling-framer-framed-noord-reenactment-or-filming-with-a-migrant-camera/",
+   "category": "other",
+   "end": "2026-12-20T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "framerframed"
+  },
+  {
    "id": "bellevue-run5811",
    "title": "Het Zouthuis",
    "venue": "Theater Bellevue",
@@ -103,6 +142,43 @@
    "source": "bellevue"
   },
   {
+   "id": "framerframed-68c21d426bff",
+   "title": "Presentatie: Where is Home?",
+   "venue": "Framer Framed",
+   "start": "2026-11-19T00:00:00+01:00",
+   "url": "https://framerframed.nl/exposities/exhibition-where-is-my-home/",
+   "category": "other",
+   "end": "2027-01-17T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "framerframed"
+  },
+  {
+   "id": "w139-43309-1795132800-1802044799",
+   "title": "Heaving Room",
+   "venue": "W139",
+   "start": "2026-11-20T00:00:00+01:00",
+   "url": "https://w139.nl/event/heaving-room/",
+   "category": "other",
+   "end": "2027-02-07T23:59:59+01:00",
+   "status": "normal",
+   "kind": "series",
+   "source": "w139"
+  },
+  {
+   "id": "w139-44085-1795392000-1797206399",
+   "title": "Para-siting: Issue 01: Death / العدد الأول: الموت",
+   "venue": "W139",
+   "start": "2026-11-23T00:00:00+01:00",
+   "url": "https://w139.nl/event/para-siting-issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa/",
+   "category": "other",
+   "end": "2026-12-13T23:59:59+01:00",
+   "status": "normal",
+   "kind": "series",
+   "source": "w139"
+  },
+  {
    "id": "melkweg-28560",
    "title": "Techno Tuesday; Jayzo",
    "venue": "Melkweg",
@@ -115,6 +191,20 @@
    "kind": "event",
    "subtitle": "Jayzo / Dexon",
    "source": "melkweg"
+  },
+  {
+   "id": "westergas-31db8b7ee630",
+   "title": "Time Machine",
+   "venue": "Westergas",
+   "start": "2026-11-25T00:00:00+01:00",
+   "url": "https://krakeling.nl/programma/time-machine",
+   "category": "theatre",
+   "end": "2026-11-26T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "ot301-23598",
@@ -144,6 +234,32 @@
    "source": "jazzin"
   },
   {
+   "id": "joesgarage-f897b2bf5ef8",
+   "title": "Joe's Salon",
+   "venue": "Joe's Garage",
+   "start": "2026-11-25T15:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/joes-salon",
+   "category": "food",
+   "status": "normal",
+   "price": "op donatie",
+   "kind": "weekly",
+   "free": true,
+   "subtitle": "Elke wo 15:00",
+   "source": "joesgarage"
+  },
+  {
+   "id": "joesgarage-58a32611e293",
+   "title": "Arab Spring class",
+   "venue": "Joe's Garage",
+   "start": "2026-11-25T16:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-11-25/arab-spring-class",
+   "category": "other",
+   "end": "2026-11-25T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "joesgarage"
+  },
+  {
    "id": "cavia-hoff-202611251700",
    "title": "Humans of Film Festival – Sixth edition",
    "venue": "Filmhuis Cavia",
@@ -155,18 +271,6 @@
    "kind": "event",
    "subtitle": "Contemporary",
    "source": "cavia"
-  },
-  {
-   "id": "mkz-0dfccbe215e4",
-   "title": "Early Wednesday @ MKZ",
-   "venue": "MKZ",
-   "start": "2026-11-25T17:00:00+01:00",
-   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-11-25/early-wednesday-mkz",
-   "category": "food",
-   "status": "normal",
-   "kind": "weekly",
-   "subtitle": "Elke wo 17:00",
-   "source": "mkz"
   },
   {
    "id": "tolhuistuin-6c60e9e02001",
@@ -367,6 +471,17 @@
    "source": "nieuweanita"
   },
   {
+   "id": "framerframed-5ef508759ef3",
+   "title": "Boekpresentatie: Subjective Atlas of Lubumbashi",
+   "venue": "Framer Framed",
+   "start": "2026-11-25T19:30:00+01:00",
+   "url": "https://framerframed.nl/projecten/subjective-atlas-of-lubumbashi/",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "source": "framerframed"
+  },
+  {
    "id": "melkweg-28455",
    "title": "Mortimer",
    "venue": "Melkweg",
@@ -390,18 +505,6 @@
    "kind": "event",
    "subtitle": "support: Salami Rose Joe Louis",
    "source": "melkweg"
-  },
-  {
-   "id": "occii-104949-1793311676",
-   "title": "Community Event: DRAW NAKED PEOPLE #9",
-   "venue": "OCCII",
-   "start": "2026-11-25T19:30:00+01:00",
-   "url": "https://occii.org/events/community-event-draw-naked-people-9/",
-   "category": "other",
-   "end": "2026-11-25T22:00:00+01:00",
-   "status": "normal",
-   "kind": "event",
-   "source": "occii"
   },
   {
    "id": "vrankrijk-e758a58a0c1b",
@@ -523,16 +626,28 @@
    "source": "richel"
   },
   {
-   "id": "jazzin-2290258",
+   "id": "westergas-f231b283ac95",
+   "title": "BUNT.",
+   "venue": "Westergas",
+   "start": "2026-11-25T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/bunt",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
+   "id": "bimhuis-1f452f8257c2",
    "title": "Joe Armon-Jones & Maxwell Owin",
    "venue": "Bimhuis",
    "start": "2026-11-25T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/joe-armon-jones-maxwell-owin/",
    "category": "jazz",
    "status": "normal",
-   "price": "€14",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Ezra Collective-pianist en producer/dj vieren tien jaar samenwerking op kruispunt van jazz en clubmuziek met liveband. · DATSKAT",
+   "source": "bimhuis"
   },
   {
    "id": "amsterdamalternative-23344",
@@ -626,6 +741,19 @@
    "source": "paradiso"
   },
   {
+   "id": "studiok-84301d4194a6",
+   "title": "Jazz in /K",
+   "venue": "Studio/K",
+   "start": "2026-11-25T22:00:00+01:00",
+   "url": "https://studio-k.nu/studiok-events/jazz-in-k-6/",
+   "category": "jazz",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "source": "studiok"
+  },
+  {
    "id": "jazzin-2218828",
    "title": "Jazz in /K met Ben van Gelder, Ton Felices & Felix Schlarmann",
    "venue": "Studio/K",
@@ -653,6 +781,33 @@
    "all_day": true,
    "subtitle": "Films, Talks & Events · De films van Charles Burnett",
    "source": "eye"
+  },
+  {
+   "id": "framerframed-228379eaa5be",
+   "title": "Framer Framed Noord hosts: Repair Academie",
+   "venue": "Framer Framed",
+   "start": "2026-11-26T00:00:00+01:00",
+   "url": "https://framerframed.nl/projecten/repair-academie/",
+   "category": "talk",
+   "end": "2026-11-29T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "framerframed"
+  },
+  {
+   "id": "westergas-httpsmilouvanvlijmencom20261126",
+   "title": "Expo: Horse Person // Person Horse",
+   "venue": "Westergas",
+   "start": "2026-11-26T00:00:00+01:00",
+   "url": "https://milouvanvlijmen.com/",
+   "category": "other",
+   "end": "2026-11-29T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "subtitle": "Het Meterhuisje",
+   "source": "westergas"
   },
   {
    "id": "bellevue-6027-202611261700",
@@ -793,6 +948,17 @@
    "source": "filmhallen"
   },
   {
+   "id": "akhnaton-0031030b4560",
+   "title": "Mokum Amplified: Rock night",
+   "venue": "Akhnaton",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://akhnaton.nl/evenement/mokum-amplified-rock-night-2/",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "akhnaton"
+  },
+  {
    "id": "felixmeritis-13646",
    "title": "International Art Talent Festival",
    "venue": "Felix Meritis",
@@ -880,6 +1046,19 @@
    "kind": "event",
    "subtitle": "Nederlandse rapper en producer brengt ode aan de jaren 2000",
    "source": "paradiso"
+  },
+  {
+   "id": "perdu-a84a06f443ff",
+   "title": "LOOM Storytelling Collective en Arcam: Een Optimistisch Rampenplan",
+   "venue": "Perdu",
+   "start": "2026-11-26T19:30:00+01:00",
+   "url": "https://tickets.arcam.nl/nl/een-optimistische-toekomstvertelling/tickets",
+   "category": "theatre",
+   "status": "sold_out",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "source": "perdu"
   },
   {
    "id": "ita-1288",
@@ -1085,6 +1264,18 @@
    "source": "jazzin"
   },
   {
+   "id": "westergas-937d1ff61106",
+   "title": "Open Podium",
+   "venue": "Westergas",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2290488",
    "title": "Oktopedians",
    "venue": "Zaal 100",
@@ -1125,6 +1316,17 @@
    "source": "jazzin"
   },
   {
+   "id": "orgelpark-5a295fe97f46",
+   "title": "Spectra met Nieuwe Generatie Componisten",
+   "venue": "Orgelpark",
+   "start": "2026-11-26T20:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/spectra-met-nieuwe-generatie-componisten",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
+  },
+  {
    "id": "richel-14863",
    "title": "Wrijving",
    "venue": "Theater De Richel",
@@ -1151,7 +1353,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290260",
+   "id": "bimhuis-d59ef1a0b411",
    "title": "Storm: Jazz Orchestra of the Concertgebouw x OFFprojects",
    "venue": "Bimhuis",
    "start": "2026-11-26T20:30:00+01:00",
@@ -1159,19 +1361,20 @@
    "category": "jazz",
    "status": "normal",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Muziek van Shabaka Hutchings met dans van Amos Ben-Tal. · BIMHUIS & Muziekgebouw presenteren",
+   "source": "bimhuis"
   },
   {
-   "id": "jazzin-2290259",
+   "id": "bimhuis-83e1c70550ff",
    "title": "Teis Semey Quintet",
    "venue": "Bimhuis",
    "start": "2026-11-26T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/teis-semey-quintet/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Kwintet vol energie beweegt tussen free jazz, indiepop en rock. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2290419",
@@ -1253,6 +1456,18 @@
    "source": "bellevue"
   },
   {
+   "id": "westergas-80684dad05bd",
+   "title": "BRAM BOTERHAM BINGO",
+   "venue": "Westergas",
+   "start": "2026-11-26T20:30:00+01:00",
+   "url": "https://www.pacificamsterdam.nl/events/bram-boterham-bingo",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Pacific Amsterdam",
+   "source": "westergas"
+  },
+  {
    "id": "garagenoord-d667dce3-6fac-4805-b8cf-5558db703530",
    "title": "Exert! w/ Derozan, ghenwa (nwaré) abou fayad, Zamity Mitelembe, Winnie Conradi, Adhi, Seok Yun",
    "venue": "Garage Noord",
@@ -1319,6 +1534,18 @@
    "source": "nachbar"
   },
   {
+   "id": "boomchicago-3b6a1b497953",
+   "title": "Pro Wrestling Holland!",
+   "venue": "Boom Chicago",
+   "start": "2026-11-27T00:00:00+01:00",
+   "url": "https://boomchicago.nl/pro-wrestling-holland/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "boomchicago"
+  },
+  {
    "id": "cafevoorwaarts-130-1795737600-1795910399",
    "title": "Arjen van Opstal Expositie bij Voorwaarts",
    "venue": "Café Voorwaarts",
@@ -1346,6 +1573,29 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "orgelpark-7686118f1b09",
+   "title": "Een ode aan Bert Matter (1937-2026)",
+   "venue": "Orgelpark",
+   "start": "2026-11-27T13:13:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/een-ode-aan-bert-matter-1937-2026",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
+  },
+  {
+   "id": "w139-44114-1795788000-1795798800",
+   "title": "Issue 01: Death / العدد الأول: الموت: Al Talsam: A talisman making workshop",
+   "venue": "W139",
+   "start": "2026-11-27T14:00:00+01:00",
+   "url": "https://w139.nl/event/issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa-al-talsam-a-talisman-making-workshop/",
+   "category": "other",
+   "end": "2026-11-27T17:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
+  },
+  {
    "id": "ot301-23452",
    "title": "Astrology Club",
    "venue": "OT301",
@@ -1358,6 +1608,19 @@
    "free": true,
    "subtitle": "Café Gilde",
    "source": "ot301"
+  },
+  {
+   "id": "pllek-78382877f62b",
+   "title": "Dine & DJ | DJ Marcelo Umaña",
+   "venue": "Pllek",
+   "start": "2026-11-27T16:45:00+01:00",
+   "url": "https://pllek.nl/dine-dj/dine-dj-dj-marcelo-umana-7/",
+   "category": "food",
+   "end": "2026-12-19T16:45:00+01:00",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke vr, za 16:45",
+   "source": "pllek"
   },
   {
    "id": "ot301-23456",
@@ -1857,16 +2120,16 @@
    "source": "richel"
   },
   {
-   "id": "jazzin-2290261",
+   "id": "bimhuis-27f128c223a0",
    "title": "Paradox Jazz Orchestra ft. James Carter – The Music of John Coltrane",
    "venue": "Bimhuis",
    "start": "2026-11-27T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/paradox-jazz-orchestra-ft-james-carter-the-music-of-john-coltrane/",
    "category": "jazz",
-   "status": "normal",
-   "price": "€17",
+   "status": "sold_out",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Eigentijdse ode aan John Coltrane door toonaangevende bigband met saxofonist van wereldklasse. · Headliners, BIG",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2290420",
@@ -2048,6 +2311,18 @@
    "source": "skatecafe"
   },
   {
+   "id": "westergas-ba7da4e0d16d",
+   "title": "KETTAMA",
+   "venue": "Westergas",
+   "start": "2026-11-27T23:00:00+01:00",
+   "url": "https://gashouder.nl/programma/kettama",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
    "id": "garagenoord-50f36426-ff58-4f0a-b14b-65e376000472",
    "title": "VHS x Pacific Ondergronds",
    "venue": "Garage Noord",
@@ -2168,6 +2443,20 @@
    "source": "lofi"
   },
   {
+   "id": "westergas-a0c4c7d2e84f",
+   "title": "Sinterklaasfeest: Het verhaal van Sint Baba (3+)",
+   "venue": "Westergas",
+   "start": "2026-11-28T00:00:00+01:00",
+   "url": "https://krakeling.nl/programma/het-verhaal-van-sint-baba-2",
+   "category": "theatre",
+   "end": "2026-11-29T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
+  },
+  {
    "id": "thuishaven-20261128jeffmillsrodblankamo",
    "title": "Jeff Mills / ROD / BLANKA & more",
    "venue": "Thuishaven",
@@ -2194,6 +2483,17 @@
    "kind": "series",
    "subtitle": "5 films: Makandra: Ritme, Makandra: Roots, Makandra: Spiritualiteit, Makandra: Toekomst, Makandra: Verbinding",
    "source": "rialto"
+  },
+  {
+   "id": "framerframed-9e75cb937f42",
+   "title": "Unlearning Maps: Each Small Candle Lights a Corner of the Dark",
+   "venue": "Framer Framed",
+   "start": "2026-11-28T14:00:00+01:00",
+   "url": "https://framerframed.nl/projecten/unlearning-maps/",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "source": "framerframed"
   },
   {
    "id": "joesgarage-eee66c717979",
@@ -2262,6 +2562,30 @@
    "kind": "event",
    "free": true,
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "westergas-0584e0672325",
+   "title": "Chris Stassy Presents USS",
+   "venue": "Westergas",
+   "start": "2026-11-28T15:00:00+01:00",
+   "url": "https://gashouder.nl/programma/chris-stassy",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-85ec88c7e5df",
+   "title": "Multigroove: House of God",
+   "venue": "Westergas",
+   "start": "2026-11-28T15:00:00+01:00",
+   "url": "https://www.westweelde.nl/events/multigroove-house-of-god-2026-2026-11-28",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "WestWeelde - De Club",
+   "source": "westergas"
   },
   {
    "id": "jazzin-2290385",
@@ -2409,6 +2733,17 @@
    "source": "paradiso"
   },
   {
+   "id": "perdu-5ec77dedaa0a",
+   "title": "Avanspettacolo 9: Lo Spettacolo Filosofale",
+   "venue": "Perdu",
+   "start": "2026-11-28T19:45:00+01:00",
+   "url": "https://www.eventbrite.nl/e/biglietti-avanspettacolo-9-lo-spettacolo-filosofale-2004310630049?aff=oddtdtcreator",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "source": "perdu"
+  },
+  {
    "id": "amsterdamalternative-22948",
    "title": "LA ÉLITE + eigen risico + feral",
    "venue": "Cinetol",
@@ -2554,16 +2889,16 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290262",
+   "id": "bimhuis-0deb9b4cb4db",
    "title": "Manu – De Herontdekking van de Hemel",
    "venue": "Bimhuis",
    "start": "2026-11-28T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/manu-de-herontdekking-van-de-hemel/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Bekroond theaterdebuut over de kracht en het falen van taal door woordkunstenaar en liveband. · DATSKAT",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2903037",
@@ -2829,6 +3164,17 @@
    "source": "lofi"
   },
   {
+   "id": "pllek-4c1c878287de",
+   "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
+   "venue": "Pllek",
+   "start": "2026-11-29T10:30:00+01:00",
+   "url": "https://pllek.nl/yoga/yogales-amsterdam-met-uitzicht-vinyasa-flow-5/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "amsterdamalternative-23300",
    "title": "Melodies around the world by Susana Raya & Jeroen Vierdag",
    "venue": "Teatro Munganga",
@@ -2869,6 +3215,17 @@
    "source": "ot301"
   },
   {
+   "id": "pllek-b72f5ce2a978",
+   "title": "Ruige Rakkers Pllek | Technika10",
+   "venue": "Pllek",
+   "start": "2026-11-29T13:00:00+01:00",
+   "url": "https://pllek.nl/ruige-rakkers/ruige-rakkers-pllek-technika10/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "thuishaven-20261129jamback10hrs",
    "title": "Jamback 10HRS",
    "venue": "Thuishaven",
@@ -2882,16 +3239,28 @@
    "source": "thuishaven"
   },
   {
-   "id": "jazzin-2290263",
+   "id": "mkz-ecacda6da832",
+   "title": "MKZ Eetcafé - Vegan pepernoten workshop",
+   "venue": "MKZ",
+   "start": "2026-11-29T14:00:00+01:00",
+   "url": "https://radar.squat.net/en/node/604943",
+   "category": "food",
+   "status": "normal",
+   "price": "€5",
+   "kind": "event",
+   "source": "mkz"
+  },
+  {
+   "id": "bimhuis-c9f1e2cd0627",
    "title": "Groove Beest Familieconcert: Kay Slice",
    "venue": "Bimhuis",
    "start": "2026-11-29T14:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/groove-beest-familieconcert-kay-slice/",
    "category": "jazz",
    "status": "normal",
-   "price": "€10",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Hoor hoe hiphop, afrobeat en soul van nu samengaan met oeroude klanken en verhalen. · Familieconcerten",
+   "source": "bimhuis"
   },
   {
    "id": "nieuweanita-9690",
@@ -3235,16 +3604,16 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290264",
+   "id": "bimhuis-1a9257c9ef11",
    "title": "Jasper Blom, Felix Schlarmann & Sean Fasciani – WonderYears",
    "venue": "Bimhuis",
    "start": "2026-11-29T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/jasper-blom-felix-schlarmann-sean-fasciani-wonderyears/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Drie improvisatoren herontdekken het werk van een van de meest creatieve songwriters aller tijden, Stevie Wonder. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "cavia-chronovisor-202611292030",
@@ -3347,6 +3716,17 @@
    "image": "https://framerusercontent.com/images/sfcQgeHIAku6HbBrH5Qha7hAb8.webp?width=1536&height=628",
    "kind": "event",
    "source": "fchyena"
+  },
+  {
+   "id": "studiok-74b052d9f308",
+   "title": "Palestine 36 X Intifooda Pop-Up",
+   "venue": "Studio/K",
+   "start": "2026-11-30T18:00:00+01:00",
+   "url": "https://studio-k.nu/studiok-events/palestinian-film-festival-amsterdam-pffa-benefit-event/",
+   "category": "film",
+   "status": "normal",
+   "kind": "event",
+   "source": "studiok"
   },
   {
    "id": "jazzin-2290492",
@@ -3532,6 +3912,18 @@
    "source": "tolhuistuin"
   },
   {
+   "id": "westergas-83942318f3c4",
+   "title": "EsDeeKid",
+   "venue": "Westergas",
+   "start": "2026-11-30T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/esdeekid",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
    "id": "kleinekomedie-3432-202611302015",
    "title": "Ricky Koole",
    "venue": "De Kleine Komedie",
@@ -3633,6 +4025,29 @@
    "source": "vrankrijk"
   },
   {
+   "id": "framerframed-3119cf381b64",
+   "title": "Book Launch: The Radical Unpresent by Gregory Sholette",
+   "venue": "Framer Framed",
+   "start": "2026-12-01T16:00:00+01:00",
+   "url": "https://framerframed.nl/projecten/book-launch-the-radical-unpresent-by-gregory-sholette/",
+   "category": "talk",
+   "status": "normal",
+   "kind": "event",
+   "source": "framerframed"
+  },
+  {
+   "id": "mollichaoot-1579fbe54dcb",
+   "title": "Vegan Voku and Free Market",
+   "venue": "Molli Chaoot",
+   "start": "2026-12-01T18:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/vegan-voku-and-free-market",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke di 18:00",
+   "source": "mollichaoot"
+  },
+  {
    "id": "zwijger-299862ef5ba4",
    "title": "Samen Tegen Racisme: Week Tegen Racisme 2027: Meetup & Brainstorm",
    "venue": "Pakhuis de Zwijger",
@@ -3681,6 +4096,18 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "mollichaoot-4cd6bc86a868",
+   "title": "Molli's Mixed Media Mashup - Ocean Nights",
+   "venue": "Molli Chaoot",
+   "start": "2026-12-01T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-01/mollis-mixed-media-mashup-ocean-nights",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke di 19:00",
+   "source": "mollichaoot"
   },
   {
    "id": "tolhuistuin-538987c92af6",
@@ -3760,6 +4187,17 @@
    "kind": "event",
    "subtitle": "Bureau Vergezicht / Theater Rotterdam · Theater",
    "source": "ita"
+  },
+  {
+   "id": "studiok-5e6ea6b96830",
+   "title": "Comedy /Kafé",
+   "venue": "Studio/K",
+   "start": "2026-12-01T19:30:00+01:00",
+   "url": "https://studio-k.nu/studiok-events/comedy-kafe/",
+   "category": "theatre",
+   "status": "sold_out",
+   "kind": "event",
+   "source": "studiok"
   },
   {
    "id": "paradiso-2874974",
@@ -3866,6 +4304,30 @@
    "source": "zwijger"
   },
   {
+   "id": "westergas-153138c9c351",
+   "title": "Avatar",
+   "venue": "Westergas",
+   "start": "2026-12-01T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/avatar",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-c773264b991d",
+   "title": "KINO PACIFIC",
+   "venue": "Westergas",
+   "start": "2026-12-01T20:00:00+01:00",
+   "url": "https://www.pacificamsterdam.nl/events/kino-pacific",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Pacific",
+   "source": "westergas"
+  },
+  {
    "id": "kleinekomedie-3433-202612012015",
    "title": "Tangarine",
    "venue": "De Kleine Komedie",
@@ -3945,7 +4407,7 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290265",
+   "id": "bimhuis-e7d354d03861",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-01T22:00:00+01:00",
@@ -3955,7 +4417,8 @@
    "price": "gratis",
    "kind": "event",
    "free": true,
-   "source": "jazzin"
+   "subtitle": "Jamsessie met internationaal, jong en gevestigd talent in ons café.",
+   "source": "bimhuis"
   },
   {
    "id": "melkweg-28605",
@@ -4034,6 +4497,18 @@
    "status": "normal",
    "kind": "event",
    "source": "joesgarage"
+  },
+  {
+   "id": "mkz-0dfccbe215e4",
+   "title": "Early Wednesday @ MKZ",
+   "venue": "MKZ",
+   "start": "2026-12-02T17:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-12-02/early-wednesday-mkz",
+   "category": "food",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke wo 17:00",
+   "source": "mkz"
   },
   {
    "id": "jazzin-2289587",
@@ -4280,6 +4755,18 @@
    "source": "zwijger"
   },
   {
+   "id": "westergas-65a9c1bc7a71",
+   "title": "Nia Archives",
+   "venue": "Westergas",
+   "start": "2026-12-02T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/nia-archives",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
    "id": "amsterdamalternative-23303",
    "title": "common ground: Magic futures",
    "venue": "Woonruimte Coöperatief",
@@ -4308,16 +4795,16 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290266",
+   "id": "bimhuis-5af3a7db8ed1",
    "title": "Martyn3024",
    "venue": "Bimhuis",
    "start": "2026-12-02T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/martyn3024/",
    "category": "jazz",
    "status": "normal",
-   "price": "€19",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Bijzondere set van invloedrijke elektronische pionier met live-instrumenten.",
+   "source": "bimhuis"
   },
   {
    "id": "debalie-123264",
@@ -4447,6 +4934,19 @@
    "all_day": true,
    "subtitle": "Kleinkunst",
    "source": "richel"
+  },
+  {
+   "id": "westergas-57e8ba7e6391",
+   "title": "Kingfishr",
+   "venue": "Westergas",
+   "start": "2026-12-03T00:00:00+01:00",
+   "url": "https://gashouder.nl/programma/kingfishr",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Gashouder",
+   "source": "westergas"
   },
   {
    "id": "melkweg-28023",
@@ -4756,6 +5256,19 @@
    "source": "zwijger"
   },
   {
+   "id": "perdu-7e3cdb47a0cf",
+   "title": "Bundelpresentatie Vertrekken",
+   "venue": "Perdu",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://tickets.voordemensen.nl/perdu/iframes/1625",
+   "category": "talk",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "source": "perdu"
+  },
+  {
    "id": "radion-111719294",
    "title": "VOID by ORPHIC",
    "venue": "Radion",
@@ -4824,6 +5337,18 @@
    "source": "jazzin"
   },
   {
+   "id": "westergas-c08e78e256d0",
+   "title": "Open Podium",
+   "venue": "Westergas",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "kleinekomedie-3435-202612032015",
    "title": "Lebbis",
    "venue": "De Kleine Komedie",
@@ -4864,16 +5389,16 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290267",
+   "id": "bimhuis-7cf31045b52e",
    "title": "Ibelisse Guardia Ferragutti x Zalán Szakács: Becoming Mountain | AWICHAS",
    "venue": "Bimhuis",
    "start": "2026-12-03T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/ibelisse-guardia-ferragutti-x-zalan-szakacs-becoming-mountain-awichas/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Dans, visuals en performance versmelten met muziek, geïnspireerd door rituelen uit de Andes. · BIMHUIS x WhyNot",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2905539",
@@ -5032,6 +5557,31 @@
    "kind": "event",
    "all_day": true,
    "source": "lofi"
+  },
+  {
+   "id": "orgelpark-7929264a8c1c",
+   "title": "Bachs Triosonates - concert met gratis lunch vooraf",
+   "venue": "Orgelpark",
+   "start": "2026-12-04T13:13:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/bachs-triosonates-concert-met-gratis-lunch-vooraf",
+   "category": "music",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "source": "orgelpark"
+  },
+  {
+   "id": "w139-44022-1796396400-1796407200",
+   "title": "Fantastical Cataloguing Workshop with Dark and Stormy #2",
+   "venue": "W139",
+   "start": "2026-12-04T15:00:00+01:00",
+   "url": "https://w139.nl/event/fantastical-cataloguing-workshop-with-dark-and-stormy-2/",
+   "category": "other",
+   "end": "2026-12-04T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
   },
   {
    "id": "cavia-aff-202612041700",
@@ -5330,6 +5880,18 @@
    "source": "paradiso"
   },
   {
+   "id": "westergas-d85814409a18",
+   "title": "Skepta",
+   "venue": "Westergas",
+   "start": "2026-12-04T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/skepta",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2294550",
    "title": "A switi firi fu Kresneti • By John Oldenstam • ft. Louis Windzak & Olivia Sahadewsingh • Sold Out!",
    "venue": "ZOJazz Stage",
@@ -5368,16 +5930,16 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2290268",
+   "id": "bimhuis-0cf310b5f8fa",
    "title": "Artvark – Four Fathers",
    "venue": "Bimhuis",
    "start": "2026-12-04T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/artvark-four-fathers/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Eigenzinnig saxofoonkwartet op audiovisuele trip met nieuw album Four Fathers. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2877121",
@@ -5599,6 +6161,31 @@
    "kind": "event",
    "subtitle": "Genre overstijgende club nacht met UKG, Amapiano, Jersey Club en meer",
    "source": "paradiso"
+  },
+  {
+   "id": "westergas-b585ccb93809",
+   "title": "RUM PUNCH × CARIBANG",
+   "venue": "Westergas",
+   "start": "2026-12-05T00:00:00+01:00",
+   "url": "https://www.westweelde.nl/events/rum-punch-caribang-2026-12-05",
+   "category": "other",
+   "end": "2026-12-06T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "WestWeelde - De Club",
+   "source": "westergas"
+  },
+  {
+   "id": "pllek-a8df2a457d61",
+   "title": "Ademworkshop Amsterdam",
+   "venue": "Pllek",
+   "start": "2026-12-05T10:00:00+01:00",
+   "url": "https://pllek.nl/workshop/ademsessie-amsterdam-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
   },
   {
    "id": "paradiso-2947758",
@@ -5853,6 +6440,18 @@
    "source": "paradiso"
   },
   {
+   "id": "westergas-d1950c2f3073",
+   "title": "FS Green",
+   "venue": "Westergas",
+   "start": "2026-12-05T20:00:00+01:00",
+   "url": "https://www.gashouder.nl/programma/fs-green",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2294551",
    "title": "Lucas Santana invites Femke Smit and Mike del Ferro • Brazilian Music Night",
    "venue": "ZOJazz Stage",
@@ -5891,16 +6490,16 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2290269",
+   "id": "bimhuis-d6cf6bdcdfb3",
    "title": "Dave Douglas Quartet – Four Freedoms",
    "venue": "Bimhuis",
    "start": "2026-12-05T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/dave-douglas-four-freedoms-quartet/",
    "category": "jazz",
    "status": "normal",
-   "price": "€14",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Nieuw kwartet rond Amerikaanse gigant op trompet, beroemd om samenwerking met Tom Waits, John Zorn en vele anderen. · Impro Focus",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2025097",
@@ -6072,6 +6671,17 @@
    "source": "paradiso"
   },
   {
+   "id": "pllek-7ba5c065a97b",
+   "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
+   "venue": "Pllek",
+   "start": "2026-12-06T10:30:00+01:00",
+   "url": "https://pllek.nl/yoga/yogales-amsterdam-met-uitzicht-vinyasa-flow-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "ita-700",
    "title": "The Bookshop Kids",
    "venue": "Stadsschouwburg (ITA)",
@@ -6110,6 +6720,29 @@
    "kind": "event",
    "subtitle": "Roy Khemradj, Peggy's Kitchen",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "westergas-3b42220a8d4e",
+   "title": "Sunday Market",
+   "venue": "Westergas",
+   "start": "2026-12-06T12:00:00+01:00",
+   "url": "https://www.sundaymarket.nl/agenda",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cultuurpark Westergas",
+   "source": "westergas"
+  },
+  {
+   "id": "pllek-02b61800c13b",
+   "title": "Ruige Rakkers Pllek | Technika10",
+   "venue": "Pllek",
+   "start": "2026-12-06T13:00:00+01:00",
+   "url": "https://pllek.nl/ruige-rakkers/ruige-rakkers-pllek-technika10-2/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
   },
   {
    "id": "thuishaven-20261206mrbeltwezolhiddevanw",
@@ -6418,16 +7051,16 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290270",
+   "id": "bimhuis-5be4f5c9abc3",
    "title": "Ben van Gelder Quintet ft. Jeff Ballard",
    "venue": "Bimhuis",
    "start": "2026-12-06T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/ben-van-gelder-quintet-ft-jeff-ballard/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Gelauwerde altsaxofonist met internationale topmusici in trio en kwintet. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2852999",
@@ -6454,6 +7087,18 @@
    "kind": "event",
    "subtitle": "UK jerk, drill, neo-soul en grunge",
    "source": "paradiso"
+  },
+  {
+   "id": "boomchicago-b411af46436c",
+   "title": "Good Egg Improv x Coco the Time Traveling Tart",
+   "venue": "Boom Chicago",
+   "start": "2026-12-07T00:00:00+01:00",
+   "url": "https://boomchicago.nl/shows/good-egg-and-coco/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "boomchicago"
   },
   {
    "id": "debalie-123696",
@@ -6739,6 +7384,18 @@
    "source": "mezrab"
   },
   {
+   "id": "mollichaoot-e6c9dec6b6bc",
+   "title": "Molli's Mixed Media Mashup - Open Craft Space",
+   "venue": "Molli Chaoot",
+   "start": "2026-12-08T19:00:00+01:00",
+   "url": "https://radar.squat.net/en/event/amsterdam/molli-chaoot/2026-12-08/mollis-mixed-media-mashup-open-craft-space",
+   "category": "other",
+   "status": "normal",
+   "kind": "weekly",
+   "subtitle": "Elke di 19:00",
+   "source": "mollichaoot"
+  },
+  {
    "id": "rialto-1938",
    "title": "Rialto for Short – seizoen 8: de finale",
    "venue": "Rialto De Pijp",
@@ -6897,7 +7554,7 @@
    "source": "bellevue"
   },
   {
-   "id": "jazzin-2290271",
+   "id": "bimhuis-3debe94b1837",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-08T22:00:00+01:00",
@@ -6907,7 +7564,8 @@
    "price": "gratis",
    "kind": "event",
    "free": true,
-   "source": "jazzin"
+   "subtitle": "Jamsessie met internationaal, jong en gevestigd talent in ons café.",
+   "source": "bimhuis"
   },
   {
    "id": "melkweg-28606",
@@ -6924,6 +7582,18 @@
    "source": "melkweg"
   },
   {
+   "id": "boomchicago-14d3e2aa3718",
+   "title": "Vittorio Angelone: You Can’t Say Nothing Any More",
+   "venue": "Boom Chicago",
+   "start": "2026-12-09T00:00:00+01:00",
+   "url": "https://boomchicago.nl/vittorio-angelone/",
+   "category": "theatre",
+   "status": "sold_out",
+   "kind": "event",
+   "all_day": true,
+   "source": "boomchicago"
+  },
+  {
    "id": "debalie-122119",
    "title": "Nationaal Gesprek over Vrijheid: Erik van der Maas",
    "venue": "De Balie",
@@ -6935,6 +7605,30 @@
    "kind": "event",
    "all_day": true,
    "source": "debalie"
+  },
+  {
+   "id": "westergas-00428a96c29b",
+   "title": "Krakeling met de Kleintjes (2+)",
+   "venue": "Westergas",
+   "start": "2026-12-09T10:00:00+01:00",
+   "url": "https://krakeling.nl/programma/krakeling-met-de-kleintjes-15",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-138192cb7b08",
+   "title": "Krakeling met de Kleintjes (2+)",
+   "venue": "Westergas",
+   "start": "2026-12-09T11:00:00+01:00",
+   "url": "https://krakeling.nl/programma/krakeling-met-de-kleintjes-15",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "rialto-2223",
@@ -7101,6 +7795,19 @@
    "source": "paradiso"
   },
   {
+   "id": "perdu-5baa56ecd372",
+   "title": "Wat gratis is",
+   "venue": "Perdu",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://tickets.voordemensen.nl/perdu/iframes/1640",
+   "category": "talk",
+   "status": "normal",
+   "price": "gratis",
+   "kind": "event",
+   "free": true,
+   "source": "perdu"
+  },
+  {
    "id": "ita-1157",
    "title": "De Kopenhagen Trilogie",
    "venue": "Stadsschouwburg (ITA)",
@@ -7139,6 +7846,18 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "westergas-766e714b4620",
+   "title": "Mata Hari Returns (14+)",
+   "venue": "Westergas",
+   "start": "2026-12-09T19:30:00+01:00",
+   "url": "https://krakeling.nl/programma/mata-hari-returns",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "debalie-122884",
@@ -7219,6 +7938,18 @@
    "kind": "event",
    "subtitle": "Cello Octet/Sophie van Winden",
    "source": "bellevue"
+  },
+  {
+   "id": "westergas-1f3f66f46ec4",
+   "title": "Dubbel Alex Ploeg & Tim Fransen",
+   "venue": "Westergas",
+   "start": "2026-12-09T20:30:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
   },
   {
    "id": "paradiso-2905460",
@@ -7389,6 +8120,18 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "w139-44128-1796929200-1796940000",
+   "title": "Issue 01: Death / العدد الأول: الموت: Al Jinaza: the closing funeral",
+   "venue": "W139",
+   "start": "2026-12-10T19:00:00+01:00",
+   "url": "https://w139.nl/event/issue-01-death-%d8%a7%d9%84%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%aa-al-jinaza-the-closing-funeral/",
+   "category": "other",
+   "end": "2026-12-10T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
   },
   {
    "id": "amsterdamalternative-23425",
@@ -7572,6 +8315,18 @@
    "source": "jazzin"
   },
   {
+   "id": "westergas-59de6d827789",
+   "title": "Open Podium",
+   "venue": "Westergas",
+   "start": "2026-12-10T20:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "kleinekomedie-3438-202612102015",
    "title": "Glodi Lugungu",
    "venue": "De Kleine Komedie",
@@ -7586,16 +8341,16 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290272",
+   "id": "bimhuis-aa4688cbe2c9",
    "title": "Jasper Høiby’s 3Elements ft. Xavi Torres & Naíma Acuña",
    "venue": "Bimhuis",
    "start": "2026-12-10T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/jasper-hoibys-3elements-ft-xavi-torres-and-naima-acuna/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Phronesis-bassist baant zich een eigen weg door de pianotrio-traditie.",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2290423",
@@ -7688,6 +8443,20 @@
    "all_day": true,
    "subtitle": "Festival",
    "source": "brakkegrond"
+  },
+  {
+   "id": "westergas-httpswwwzanzaranl20261211",
+   "title": "Theatercircus Zanzara brengt de magie van de speelgoedfabriek naar Amsterdam",
+   "venue": "Westergas",
+   "start": "2026-12-11T00:00:00+01:00",
+   "url": "https://www.zanzara.nl/",
+   "category": "theatre",
+   "end": "2027-01-03T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "subtitle": "Cultuurpark Westergas",
+   "source": "westergas"
   },
   {
    "id": "jazzin-2294535",
@@ -7998,16 +8767,27 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290273",
+   "id": "orgelpark-a979d0c13610",
+   "title": "Klee droomt Bach",
+   "venue": "Orgelpark",
+   "start": "2026-12-11T20:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/klee-droomt-bach",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
+  },
+  {
+   "id": "bimhuis-4c48719f6d35",
    "title": "Cassie Kinoshi & seed.",
    "venue": "Bimhuis",
    "start": "2026-12-11T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/cassie-kinoshi-seed/",
    "category": "jazz",
    "status": "normal",
-   "price": "€16",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Visionaire Britse saxofonist en haar veelvormige ensemble vieren tienjarig bestaan. · DATSKAT, BIG",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2290424",
@@ -8135,6 +8915,18 @@
    "kind": "event",
    "subtitle": "Nikolai, Calypso Steve, Peely",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "westergas-f7ee32e7a0ff",
+   "title": "Spoor Bijster",
+   "venue": "Westergas",
+   "start": "2026-12-11T21:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
   },
   {
    "id": "ot301-22545",
@@ -8291,6 +9083,18 @@
    "source": "lofi"
   },
   {
+   "id": "studiok-59e8c698be2f",
+   "title": "Dune: Part One & Two (Double Bill)",
+   "venue": "Studio/K",
+   "start": "2026-12-12T00:00:00+01:00",
+   "url": "https://studio-k.nu/studiok-events/dune-part-one-two-double-bill/",
+   "category": "film",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "studiok"
+  },
+  {
    "id": "jazzin-2289590",
    "title": "12 Hours of Jazz",
    "venue": "CvA",
@@ -8300,6 +9104,17 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "framerframed-520af24a302f",
+   "title": "Presentatie: Transitional Justice with Artists Cohort 2026",
+   "venue": "Framer Framed",
+   "start": "2026-12-12T13:00:00+01:00",
+   "url": "https://framerframed.nl/projecten/presentatie-transitional-justice-with-artists-cohort-2026/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "framerframed"
   },
   {
    "id": "amsterdamalternative-22671",
@@ -8354,6 +9169,18 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "westergas-fd690087f411",
+   "title": "Stilzitten is voor stoelen (7+)",
+   "venue": "Westergas",
+   "start": "2026-12-12T16:00:00+01:00",
+   "url": "https://krakeling.nl/programma/stilzitten-is-voor-stoelen",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater de Krakeling",
+   "source": "westergas"
   },
   {
    "id": "occii-105423-1795103225",
@@ -8649,16 +9476,27 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290274",
+   "id": "orgelpark-8a4ddb977fb3",
+   "title": "Componistenportret Cristiano Melli",
+   "venue": "Orgelpark",
+   "start": "2026-12-12T20:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/componistenportret-cristiano-melli",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
+  },
+  {
+   "id": "bimhuis-0876e2161e98",
    "title": "Tineke Postma Group ft. Theo Bleckmann",
    "venue": "Bimhuis",
    "start": "2026-12-12T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/tineke-postma-group-ft-theo-bleckmann/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Avontuurlijke saxofonist verkent nieuwe klanken rond wind, stem en geest. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2894370",
@@ -8829,6 +9667,17 @@
    "source": "lofi"
   },
   {
+   "id": "pllek-150bc7c9175b",
+   "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
+   "venue": "Pllek",
+   "start": "2026-12-13T10:30:00+01:00",
+   "url": "https://pllek.nl/yoga/yogales-amsterdam-met-uitzicht-vinyasa-flow-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "paradiso-2939050",
    "title": "Tomo Katsurada x Jonny Nash",
    "venue": "Paradiso",
@@ -8855,26 +9704,29 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "jazzin-2289591",
-   "title": "Jong Talent | Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
-   "venue": "Bimhuis",
-   "start": "2026-12-13T12:00:00+01:00",
-   "url": "https://www.conservatoriumvanamsterdam.nl/agenda/2026/12/13/jong-talent-keep-an-eye-the-youngsters-x-tin-men-and-the-telephone-echt-waar/",
-   "category": "jazz",
-   "status": "normal",
-   "kind": "event",
-   "source": "jazzin"
-  },
-  {
-   "id": "jazzin-2290275",
+   "id": "bimhuis-2856b39ffee7",
    "title": "Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
    "venue": "Bimhuis",
    "start": "2026-12-13T12:00:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/keep-an-eye-the-youngsters-x-tin-men-and-the-telephone-echt-waar/",
    "category": "jazz",
    "status": "normal",
+   "price": "gratis",
    "kind": "event",
-   "source": "jazzin"
+   "free": true,
+   "subtitle": "Jonge conservatoriumtalenten en avontuurlijk pianotrio maken muziek van nieuwsfragmenten en alledaagse geluiden.",
+   "source": "bimhuis"
+  },
+  {
+   "id": "pllek-f8c9fcfbe87e",
+   "title": "Ruige Rakkers Pllek | Circus Kristal",
+   "venue": "Pllek",
+   "start": "2026-12-13T13:00:00+01:00",
+   "url": "https://pllek.nl/ruige-rakkers/ruige-rakkers-pllek-circus-kristal/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
   },
   {
    "id": "thuishaven-20261213gaskinjossdeandennis",
@@ -8903,6 +9755,29 @@
    "kind": "event",
    "free": true,
    "source": "joesgarage"
+  },
+  {
+   "id": "westergas-93cef073a023",
+   "title": "LiCHT (2+)",
+   "venue": "Westergas",
+   "start": "2026-12-13T14:00:00+01:00",
+   "url": "https://krakeling.nl/programma/li-cht",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
+  },
+  {
+   "id": "orgelpark-8328a74f798e",
+   "title": "Nieuw Vocaal Amsterdam zingt Britten",
+   "venue": "Orgelpark",
+   "start": "2026-12-13T14:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/nieuw-vocaal-amsterdam-zingt-britten",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
   },
   {
    "id": "jazzin-2290402",
@@ -9036,6 +9911,18 @@
    "source": "ot301"
   },
   {
+   "id": "westergas-11c469e42136",
+   "title": "Siegfried & Ralph (oftewel Howard Komproe & Murth Mossel)",
+   "venue": "Westergas",
+   "start": "2026-12-13T15:30:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2290425",
    "title": "Alleen Maar Leuke Mensen",
    "venue": "Café de Pianist",
@@ -9074,6 +9961,30 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "w139-44018-1797177600-1797181200",
+   "title": "Tour and Talk: Michelle Chang Qin",
+   "venue": "W139",
+   "start": "2026-12-13T16:00:00+01:00",
+   "url": "https://w139.nl/event/guided-tour-and-artist-talk-michelle-chang-qin/",
+   "category": "talk",
+   "end": "2026-12-13T17:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
+  },
+  {
+   "id": "westergas-354c5a189685",
+   "title": "LiCHT (2+)",
+   "venue": "Westergas",
+   "start": "2026-12-13T16:00:00+01:00",
+   "url": "https://krakeling.nl/programma/li-cht",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2290358",
    "title": "Jazz op zondag feat. Claudio jr de Rosa",
    "venue": "Café de Engelbewaarder",
@@ -9110,6 +10021,17 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "orgelpark-0fb1f207cc91",
+   "title": "Nieuw Vocaal Amsterdam zingt Britten",
+   "venue": "Orgelpark",
+   "start": "2026-12-13T17:00:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/nieuw-vocaal-amsterdam-zingt-britten-2",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
   },
   {
    "id": "nieuweanita-9686",
@@ -9163,6 +10085,18 @@
    "source": "paradiso"
   },
   {
+   "id": "westergas-8cb2248c1fcf",
+   "title": "Dubbel Alex Ploeg & Emilio Guzman",
+   "venue": "Westergas",
+   "start": "2026-12-13T19:30:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "debalie-123688-202612132000",
    "title": "CinéDialoog: korte films van Jan-Dirk Bouw",
    "venue": "De Balie",
@@ -9173,6 +10107,18 @@
    "image": "https://debalie.nl/wp-content/uploads/2026/11/breakingwallsscreenshot-1024x538.jpg",
    "kind": "event",
    "source": "debalie"
+  },
+  {
+   "id": "westergas-08ef99fb3ff9",
+   "title": "Dubbel Teun de Vries & Tim Fransen",
+   "venue": "Westergas",
+   "start": "2026-12-13T20:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
   },
   {
    "id": "kleinekomedie-3439-202612132015",
@@ -9201,16 +10147,16 @@
    "source": "richel"
   },
   {
-   "id": "jazzin-2290276",
+   "id": "bimhuis-591a1794df5b",
    "title": "Interlinie #3: Mother Tongue & Bex Burch – As Yet Untitled",
    "venue": "Bimhuis",
    "start": "2026-12-13T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/interlinie-3-mother-tongue-bex-burch-as-yet-untitled/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Nieuwe mix van muzikale avonturiers uit Amsterdam, Berlijn en meer. · Impro Focus, BIMHUIS & Space is the Place",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2919700",
@@ -9289,6 +10235,17 @@
    "source": "vrankrijk"
   },
   {
+   "id": "framerframed-cece5de92f5d",
+   "title": "Framer Framed Noord: Om de tafel",
+   "venue": "Framer Framed",
+   "start": "2026-12-14T12:30:00+01:00",
+   "url": "https://framerframed.nl/projecten/framer-framed-noord-om-de-tafel-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "framerframed"
+  },
+  {
    "id": "melkweg-27761",
    "title": "Ethan Regan",
    "venue": "Melkweg",
@@ -9313,20 +10270,6 @@
    "kind": "event",
    "subtitle": "Filmvertoning en nagesprek van de veelbesproken Israëlische documentaire NAZA. · Grote Zaal PDZ",
    "source": "zwijger"
-  },
-  {
-   "id": "ita-1161",
-   "title": "De Kopenhagen Trilogie",
-   "venue": "Stadsschouwburg (ITA)",
-   "start": "2026-12-14T19:30:00+01:00",
-   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
-   "category": "theatre",
-   "end": "2026-12-14T23:00:00+01:00",
-   "status": "sold_out",
-   "image": "https://media.ita.nl/media/roel-van-berckelaer-1321.jpg?guid=26a369e3-26bf-42ee-ab8e-2387ca608c67",
-   "kind": "event",
-   "subtitle": "ITA / Eline Arbo · Theater",
-   "source": "ita"
   },
   {
    "id": "paradiso-2900357",
@@ -9519,20 +10462,6 @@
    "source": "zwijger"
   },
   {
-   "id": "ita-1162",
-   "title": "De Kopenhagen Trilogie",
-   "venue": "Stadsschouwburg (ITA)",
-   "start": "2026-12-15T19:30:00+01:00",
-   "url": "https://ita.nl/nl/voorstellingen/de-kopenhagen-trilogie",
-   "category": "theatre",
-   "end": "2026-12-15T23:00:00+01:00",
-   "status": "sold_out",
-   "image": "https://media.ita.nl/media/roel-van-berckelaer-1321.jpg?guid=26a369e3-26bf-42ee-ab8e-2387ca608c67",
-   "kind": "event",
-   "subtitle": "ITA / Eline Arbo · Theater",
-   "source": "ita"
-  },
-  {
    "id": "paradiso-2896693",
    "title": "Ibeyi + Parsa Sabet",
    "venue": "Tolhuistuin",
@@ -9704,7 +10633,7 @@
    "source": "richel"
   },
   {
-   "id": "jazzin-2290277",
+   "id": "bimhuis-57a0583a0535",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
    "start": "2026-12-15T22:00:00+01:00",
@@ -9714,7 +10643,8 @@
    "price": "gratis",
    "kind": "event",
    "free": true,
-   "source": "jazzin"
+   "subtitle": "Jamsessie met internationaal, jong en gevestigd talent in ons café.",
+   "source": "bimhuis"
   },
   {
    "id": "melkweg-28609",
@@ -9741,6 +10671,18 @@
    "status": "normal",
    "kind": "event",
    "source": "joesgarage"
+  },
+  {
+   "id": "w139-44027-1797436800-1797444000",
+   "title": "Fantastical Cataloguing Workshop with Dark and Stormy #3",
+   "venue": "W139",
+   "start": "2026-12-16T16:00:00+01:00",
+   "url": "https://w139.nl/event/fantastical-cataloguing-workshop-with-dark-and-stormy-3/",
+   "category": "other",
+   "end": "2026-12-16T18:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
   },
   {
    "id": "melkweg-28665",
@@ -10028,6 +10970,18 @@
    "source": "skatecafe"
   },
   {
+   "id": "w139-44040-1797532200-1797544800",
+   "title": "The Fifth Fire roleplaying game with artist Tom K Kemp",
+   "venue": "W139",
+   "start": "2026-12-17T18:30:00+01:00",
+   "url": "https://w139.nl/event/the-fifth-fire-roleplaying-game-with-artist-tom-k-kemp/",
+   "category": "other",
+   "end": "2026-12-17T22:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "source": "w139"
+  },
+  {
    "id": "jazzin-2290403",
    "title": "Simple Music Ensemble. Harry Potter",
    "venue": "Kompaszaal",
@@ -10237,6 +11191,18 @@
    "source": "jazzin"
   },
   {
+   "id": "westergas-59c7082882b8",
+   "title": "Open Podium",
+   "venue": "Westergas",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://www.comedytrain.nl/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Comedytrain - Westergas",
+   "source": "westergas"
+  },
+  {
    "id": "jazzin-2294555",
    "title": "Rembrandt Quartet featuring Jesse Schilderink",
    "venue": "ZOJazz Stage",
@@ -10248,16 +11214,16 @@
    "source": "jazzin"
   },
   {
-   "id": "jazzin-2290278",
+   "id": "bimhuis-15945348076a",
    "title": "Luís Vicente Trio – Expanding Horizons with Leo Genovese & Tony Malaby",
    "venue": "Bimhuis",
    "start": "2026-12-17T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/luis-vicente-trio-expanding-horizons-with-leo-genovese-tony-malaby/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Expressieve trompettist uit Lissabon ontmoet vrijzinnige spelers uit New York. ‘Freshness through freedom’ (Jazzword). · Impro Focus",
+   "source": "bimhuis"
   },
   {
    "id": "jazzin-2290426",
@@ -10517,6 +11483,18 @@
    "source": "jazzin"
   },
   {
+   "id": "perdu-c70312af3dc9",
+   "title": "Schurft en De gouden stad",
+   "venue": "Perdu",
+   "start": "2026-12-18T20:00:00+01:00",
+   "url": "https://tickets.voordemensen.nl/perdu/iframes/1638",
+   "category": "talk",
+   "status": "normal",
+   "price": "€12,50",
+   "kind": "event",
+   "source": "perdu"
+  },
+  {
    "id": "jazzin-2289702",
    "title": "Jazz at the Pianola, New Market-4",
    "venue": "Pianola Museum",
@@ -10541,6 +11519,18 @@
    "kind": "event",
    "subtitle": "ITA / Kjersti Horn · Theater",
    "source": "ita"
+  },
+  {
+   "id": "westergas-bb451bd21500",
+   "title": "Antoon",
+   "venue": "Westergas",
+   "start": "2026-12-18T20:00:00+01:00",
+   "url": "https://gashouder.nl/programma/antoon",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gashouder",
+   "source": "westergas"
   },
   {
    "id": "jazzin-2294556",
@@ -10568,16 +11558,27 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290279",
+   "id": "orgelpark-6919d03e09bd",
+   "title": "Ralph Van Raat speelt Messiaens Vingt Regards",
+   "venue": "Orgelpark",
+   "start": "2026-12-18T20:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/ralph-van-raat-speelt-messiaens-vingt-regards",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
+  },
+  {
+   "id": "bimhuis-d0ff6ac2c501",
    "title": "Sam Newbould Quintet",
    "venue": "Bimhuis",
    "start": "2026-12-18T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/sam-newbould-quintet/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Internationaal topkwintet met wortels in de Amsterdamse jazzscene presenteert vierde album. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "cavia-nature-202612182030",
@@ -10775,6 +11776,17 @@
    "source": "lofi"
   },
   {
+   "id": "pllek-9f3710d60a14",
+   "title": "Ademworkshop Amsterdam",
+   "venue": "Pllek",
+   "start": "2026-12-19T10:00:00+01:00",
+   "url": "https://pllek.nl/workshop/ademsessie-amsterdam-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "thuishaven-20261219micheldehey10hrs",
    "title": "Michel de Hey 10HRS",
    "venue": "Thuishaven",
@@ -10829,6 +11841,18 @@
    "free": true,
    "subtitle": "In gesprek met Coen Verbraak: live radioprogramma over persoonlijke verhalen en thema's die menig mens bezighoudt. · IJzaal",
    "source": "tolhuistuin"
+  },
+  {
+   "id": "westergas-c8d78c888019",
+   "title": "Robin Hood (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-19T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/robin-hood-2",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "kleinekomedie-3442-202612191500",
@@ -10947,16 +11971,16 @@
    "source": "tolhuistuin"
   },
   {
-   "id": "jazzin-2290280",
+   "id": "bimhuis-5ea5ac67fd71",
    "title": "Dutch Jazz Competition",
    "venue": "Bimhuis",
    "start": "2026-12-19T19:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/dutch-jazz-competition-4/",
    "category": "jazz",
    "status": "normal",
-   "price": "€10",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Vijf aanstormende Nederlandse jazzbands presenteren hun muziek in feestelijke finaleavond.",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2885344",
@@ -11101,6 +12125,17 @@
    "kind": "event",
    "subtitle": "Wonderful Christmastime · Maximaal 8 kaarten per voorstellingsreeks per adres",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "orgelpark-5ddd5b2dcf68",
+   "title": "Hayo Boerema speelt Messiaens La Nativité",
+   "venue": "Orgelpark",
+   "start": "2026-12-19T20:15:00+01:00",
+   "url": "https://www.orgelpark.nl/agenda/hayo-boerema-speelt-messiaens-la-nativite",
+   "category": "music",
+   "status": "normal",
+   "kind": "event",
+   "source": "orgelpark"
   },
   {
    "id": "rodehoed-335",
@@ -11248,6 +12283,17 @@
    "source": "paradiso"
   },
   {
+   "id": "pllek-f81daa8d2db6",
+   "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
+   "venue": "Pllek",
+   "start": "2026-12-20T10:30:00+01:00",
+   "url": "https://pllek.nl/yoga/yogales-amsterdam-met-uitzicht-vinyasa-flow-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "ita-1291",
    "title": "The Bookshop Kids Rondleiding",
    "venue": "Stadsschouwburg (ITA)",
@@ -11303,6 +12349,29 @@
    "source": "tolhuistuin"
   },
   {
+   "id": "westergas-8e244169b4f4",
+   "title": "Sunday Market",
+   "venue": "Westergas",
+   "start": "2026-12-20T12:00:00+01:00",
+   "url": "https://www.sundaymarket.nl/agenda",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cultuurpark Westergas",
+   "source": "westergas"
+  },
+  {
+   "id": "pllek-41875381cebd",
+   "title": "Ruige Rakkers Pllek | De Feesttantes",
+   "venue": "Pllek",
+   "start": "2026-12-20T13:00:00+01:00",
+   "url": "https://pllek.nl/ruige-rakkers/ruige-rakkers-pllek-de-feesttantes/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "thuishaven-20261220mallgrabmilionluckyd",
    "title": "Mall Grab / Milion / Lucky Done Gone & more",
    "venue": "Thuishaven",
@@ -11329,16 +12398,28 @@
    "source": "nieuweanita"
   },
   {
-   "id": "jazzin-2290281",
+   "id": "bimhuis-9dc9500a6279",
    "title": "Van Eijck / Brinkmann / Vespestad",
    "venue": "Bimhuis",
    "start": "2026-12-20T14:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/van-eijck-brinkmann-vespestad/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Pianist en componist verkent de kosmos met intiem trio van piano, cello en drums. · New Dutch Jazz",
+   "source": "bimhuis"
+  },
+  {
+   "id": "westergas-88dda9ad32b5",
+   "title": "Robin Hood (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-20T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/robin-hood-2",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "debalie-123781",
@@ -11365,6 +12446,18 @@
    "kind": "event",
    "subtitle": "Na meerdere uitverkochte edities keert The Singing Room terug naar Felix Meritis voor een speciale kersteditie. Verwacht geen traditioneel kerstconcert, maar ee",
    "source": "felixmeritis"
+  },
+  {
+   "id": "perdu-ecc93709f6fa",
+   "title": "HUMA-café met Jan Oegema: Moed in bange tijden",
+   "venue": "Perdu",
+   "start": "2026-12-20T15:00:00+01:00",
+   "url": "https://tickets.voordemensen.nl/perdu/event/1636",
+   "category": "talk",
+   "status": "normal",
+   "price": "€ 15",
+   "kind": "event",
+   "source": "perdu"
   },
   {
    "id": "amsterdamalternative-22570",
@@ -11589,16 +12682,16 @@
    "source": "kleinekomedie"
   },
   {
-   "id": "jazzin-2290282",
+   "id": "bimhuis-8f6a824b99d5",
    "title": "The Preacher Men",
    "venue": "Bimhuis",
    "start": "2026-12-20T20:30:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/the-preacher-men-3/",
    "category": "jazz",
    "status": "normal",
-   "price": "€13",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Groovend powertrio brengt explosieve mix van jazz, blues en gospel. · New Dutch Jazz",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2853012",
@@ -11623,6 +12716,18 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "westergas-7e131287c922",
+   "title": "Robin Hood (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-21T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/robin-hood-2",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "cavia-43e0f00fd139",
@@ -11781,16 +12886,16 @@
    "source": "paradiso"
   },
   {
-   "id": "jazzin-2290283",
+   "id": "bimhuis-eb95599e266b",
    "title": "An Absurdist Intergalactic Night: Maartje Wortel, Diane Mahín, Lukraak & Freejazz Bingo",
    "venue": "Bimhuis",
    "start": "2026-12-21T20:37:00+01:00",
    "url": "https://www.bimhuis.nl/agenda/an-absurdist-intergalactic-night-maartje-wortel-diane-mahin-lukraak-freejazz-bingo/",
    "category": "jazz",
    "status": "normal",
-   "price": "€12",
    "kind": "event",
-   "source": "jazzin"
+   "subtitle": "Performances met literatuur, kunst, impro en bingo, als vooruitblik op (Voorheen) Nacht van het Absurdisme. · Impro Focus, BIMHUIS & Space is the Place",
+   "source": "bimhuis"
   },
   {
    "id": "melkweg-28833",
@@ -11821,6 +12926,30 @@
    "free": true,
    "subtitle": "De rode loper gaat uit: op 22 december gaat Donnie wil de hoofdrol in première in de Tolhuistuin. · Zonzij",
    "source": "tolhuistuin"
+  },
+  {
+   "id": "westergas-17e47a1378a1",
+   "title": "Anansi de spin en de gulzige Tijger (3+)",
+   "venue": "Westergas",
+   "start": "2026-12-22T11:00:00+01:00",
+   "url": "https://krakeling.nl/programma/anansi-de-spin-en-de-gulzige-tijger",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-59da8c5a3b41",
+   "title": "Anansi de spin en de gulzige Tijger (3+)",
+   "venue": "Westergas",
+   "start": "2026-12-22T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/anansi-de-spin-en-de-gulzige-tijger",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "amsterdamalternative-22571",
@@ -12315,6 +13444,28 @@
    "source": "lofi"
   },
   {
+   "id": "pllek-51d867aba5ba",
+   "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
+   "venue": "Pllek",
+   "start": "2026-12-27T10:30:00+01:00",
+   "url": "https://pllek.nl/yoga/yogales-amsterdam-met-uitzicht-vinyasa-flow-2/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
+   "id": "pllek-aa9737197647",
+   "title": "Ruige Rakkers Pllek | Technika10",
+   "venue": "Pllek",
+   "start": "2026-12-27T13:00:00+01:00",
+   "url": "https://pllek.nl/ruige-rakkers/ruige-rakkers-pllek-technika10-2/",
+   "category": "club",
+   "status": "normal",
+   "kind": "event",
+   "source": "pllek"
+  },
+  {
    "id": "thuishaven-20261227prunkbennyrodriguesb",
    "title": "Prunk / Benny Rodrigues / Boss Priester & more",
    "venue": "Thuishaven",
@@ -12327,6 +13478,18 @@
    "kind": "event",
    "subtitle": "House",
    "source": "thuishaven"
+  },
+  {
+   "id": "bimhuis-64b2ae2f592d",
+   "title": "Toon Tellegen & het Wisselend Toonkwintet – God onder de mensen",
+   "venue": "Bimhuis",
+   "start": "2026-12-27T14:00:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/toon-tellegen-het-wisselend-toonkwintet-god-onder-de-mensen/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Verteller en kwintet verbinden absurde literatuur, filosofie en muziek in voorstelling over een God die aan zichzelf twijfelt. · Legacy",
+   "source": "bimhuis"
   },
   {
    "id": "ita-1063",
@@ -12362,7 +13525,7 @@
    "start": "2026-12-27T16:00:00+01:00",
    "url": "https://radar.squat.net/en/node/563227",
    "category": "food",
-   "status": "normal",
+   "status": "cancelled",
    "price": "€5",
    "kind": "event",
    "source": "mkz"
@@ -12409,6 +13572,18 @@
    "free": true,
    "subtitle": "Boys Won't Be Boys · pay what you can",
    "source": "bellevue"
+  },
+  {
+   "id": "bimhuis-be96677375ef",
+   "title": "Evelyn Dupuy",
+   "venue": "Bimhuis",
+   "start": "2026-12-27T21:00:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/evelyn-dupuy/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Cubaanse zangeres verbindt Afro-Latijnse traditie met hedendaagse invloeden en lanceert haar nieuwe album. · Latin Jazz, Salsa Panorama",
+   "source": "bimhuis"
   },
   {
    "id": "vrankrijk-1ccf59acc9b5",
@@ -12516,6 +13691,18 @@
    "source": "nieuweanita"
   },
   {
+   "id": "bimhuis-6decdb8d9f6b",
+   "title": "Mo van der Does’ Motet",
+   "venue": "Bimhuis",
+   "start": "2026-12-28T20:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/mo-van-der-does-motet-3/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Zevenkoppige band vol Nederlands jazztalent presenteert vinyl van livealbum, opgenomen in onze zaal. · New Dutch Jazz",
+   "source": "bimhuis"
+  },
+  {
    "id": "bellevue-5916-202612282030",
    "title": "Oudejaars met Rikkert",
    "venue": "Theater Bellevue",
@@ -12556,6 +13743,18 @@
    "kind": "event",
    "subtitle": "Jessee / Karimooo / Sinistah / Tamza / Multiplex",
    "source": "melkweg"
+  },
+  {
+   "id": "westergas-6de70fde41df",
+   "title": "De Kersthaas (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-29T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/de-kersthaas",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "amsterdamalternative-22105",
@@ -12624,6 +13823,18 @@
    "source": "nieuweanita"
   },
   {
+   "id": "bimhuis-3e764ceaa5c0",
+   "title": "Boi Akih Entangled & Voices of the Moluccas",
+   "venue": "Bimhuis",
+   "start": "2026-12-29T20:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/boi-akih-entangled-voices-of-the-moluccas/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dubbelconcert van dynamisch duo en meerstemmig collectief rond Molukse zang. · Vocal Jazz",
+   "source": "bimhuis"
+  },
+  {
    "id": "bellevue-5916-202612292030",
    "title": "Oudejaars met Rikkert",
    "venue": "Theater Bellevue",
@@ -12651,6 +13862,44 @@
    "kind": "event",
    "subtitle": "Inez Akker / Dexon / A.R.T.",
    "source": "melkweg"
+  },
+  {
+   "id": "westergas-37f2cbb6eed8",
+   "title": "Summer Breeze Latin Night – The last dance of 2026",
+   "venue": "Westergas",
+   "start": "2026-12-30T00:00:00+01:00",
+   "url": "https://www.westweelde.nl/events/summer-breeze-latin-night-at-westweelde-the-last-dance-of-2026-2026-12-30",
+   "category": "other",
+   "end": "2026-12-31T23:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "WestWeelde - De Club",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-b61e44daacc4",
+   "title": "De Kersthaas (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-30T11:00:00+01:00",
+   "url": "https://krakeling.nl/programma/de-kersthaas",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
+  },
+  {
+   "id": "westergas-0ace604868d0",
+   "title": "De Kersthaas (4+)",
+   "venue": "Westergas",
+   "start": "2026-12-30T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/de-kersthaas",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "theater De Krakeling",
+   "source": "westergas"
   },
   {
    "id": "amsterdamalternative-22106",
@@ -12717,6 +13966,18 @@
    "kind": "event",
    "subtitle": "Nederlandse nieuwkomers deinen mee op de shoegaze-golf",
    "source": "paradiso"
+  },
+  {
+   "id": "bimhuis-64b1280c9e4a",
+   "title": "All Ellington",
+   "venue": "Bimhuis",
+   "start": "2026-12-30T20:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/all-ellington-10/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Amsterdams ensemble geeft eigenzinnige wending aan het Ellington-repertoire. · BIG",
+   "source": "bimhuis"
   },
   {
    "id": "bellevue-5916-202612302030",
@@ -12931,6 +14192,18 @@
    "source": "richel"
   },
   {
+   "id": "westergas-025e1dd129ac",
+   "title": "Samar en de bange koning (8+)",
+   "venue": "Westergas",
+   "start": "2027-01-02T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/samar-en-de-bange-koning",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
+  },
+  {
    "id": "ita-1078",
    "title": "Guided tour (in English)",
    "venue": "Stadsschouwburg (ITA)",
@@ -12982,6 +14255,18 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "bimhuis-db51cbb6d162",
+   "title": "EHBO ft. Han Bennink, Benjamin Herman, Ernst Glerum & Oscar Jan Hoogland",
+   "venue": "Bimhuis",
+   "start": "2027-01-02T20:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/ehbo-ft-han-bennink-benjamin-herman-ernst-glerum-oscar-jan-hoogland-2/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Rasimprovisatoren keren terug met gloednieuw album. · Impro Focus, Legacy",
+   "source": "bimhuis"
   },
   {
    "id": "bellevue-5986-202701022030",
@@ -13039,6 +14324,18 @@
    "source": "ita"
   },
   {
+   "id": "westergas-63c07f6f7db7",
+   "title": "Samar en de bange koning (8+)",
+   "venue": "Westergas",
+   "start": "2027-01-03T14:30:00+01:00",
+   "url": "https://krakeling.nl/programma/samar-en-de-bange-koning",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater De Krakeling",
+   "source": "westergas"
+  },
+  {
    "id": "nieuweanita-9536",
    "title": "Is This It? De Popquiz Matinee",
    "venue": "De Nieuwe Anita",
@@ -13091,6 +14388,18 @@
    "kind": "event",
    "subtitle": "Cafe Habibi",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "bimhuis-20f6de36fcfe",
+   "title": "Peter Beets & the New Jazz Orchestra: Bach to the Blues",
+   "venue": "Bimhuis",
+   "start": "2027-01-03T20:30:00+01:00",
+   "url": "https://www.bimhuis.nl/agenda/peter-beets-the-new-jazz-orchestra-bach-to-the-blues/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Jazzorkest vol toptalent brengt programma rondom Johann Sebastian Bach. · BIG",
+   "source": "bimhuis"
   },
   {
    "id": "paradiso-2896797",
