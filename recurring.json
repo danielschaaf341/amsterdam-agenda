@@ -45,6 +45,18 @@
       "category": "food",
       "url": "https://robinfoodkollektief.nl/",
       "note": "€ 15 · Frederik Hendrikstraat 111 (achter De Nieuwe Anita) · check site voor sluitingsdagen"
+    },
+    {
+      "venue": "Café 40",
+      "title": "Tarot Sundays",
+      "weekdays": [
+        "zo"
+      ],
+      "start": "19:00",
+      "end": "22:00",
+      "category": "other",
+      "url": "https://www.instagram.com/cafe40.ams/",
+      "note": "via Instagram"
     }
   ]
 }
