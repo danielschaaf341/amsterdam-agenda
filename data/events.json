@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-25T22:00:31+01:00",
+ "generated": "2026-11-25T22:09:33+01:00",
  "window_days": 42,
- "count": 1126,
+ "count": 1237,
  "events": [
   {
    "id": "eye-1633828",
@@ -588,20 +588,6 @@
    "source": "amsterdamalternative"
   },
   {
-   "id": "ita-1042",
-   "title": "De Suriname-trilogie: Stepping Stones",
-   "venue": "Stadsschouwburg (ITA)",
-   "start": "2026-11-25T20:00:00+01:00",
-   "url": "https://ita.nl/nl/voorstellingen/de-suriname-trilogie-stepping-stones",
-   "category": "theatre",
-   "end": "2026-11-25T21:45:00+01:00",
-   "status": "normal",
-   "image": "https://media.ita.nl/media/stepping-stones-fotografie-bas-de-brouwer-naamsvermelding-altijd-verplicht-85-1280x853.jpg?guid=0f8b4268-174b-4aa2-ae62-ad6e7d970bfa",
-   "kind": "event",
-   "subtitle": "Orkater · Muziektheater",
-   "source": "ita"
-  },
-  {
    "id": "richel-15546",
    "title": "Het werk van de dichter (en waar te beginnen)?",
    "venue": "Theater De Richel",
@@ -661,20 +647,6 @@
    "kind": "event",
    "subtitle": "Original compositions & free interpretations of jazz standards",
    "source": "amsterdamalternative"
-  },
-  {
-   "id": "ita-1196",
-   "title": "Het incident",
-   "venue": "Stadsschouwburg (ITA)",
-   "start": "2026-11-25T20:30:00+01:00",
-   "url": "https://ita.nl/nl/voorstellingen/het-incident",
-   "category": "theatre",
-   "end": "2026-11-25T21:45:00+01:00",
-   "status": "sold_out",
-   "image": "https://media.ita.nl/media/het-incident_pers_fee-golin-.jpg?guid=4ba916f4-9989-4882-bfbe-147e02bc3acf",
-   "kind": "event",
-   "subtitle": "ITA / June Yanez / Leila Sahir / Zephyr Brüggen · Theater",
-   "source": "ita"
   },
   {
    "id": "bellevue-5905-202611252030",
@@ -796,6 +768,19 @@
    "source": "framerframed"
   },
   {
+   "id": "richel-15014",
+   "title": "Jazz Underground",
+   "venue": "Theater De Richel",
+   "start": "2026-11-26T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
+   "category": "jazz",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Jazz, Muziek",
+   "source": "richel"
+  },
+  {
    "id": "westergas-httpsmilouvanvlijmencom20261126",
    "title": "Expo: Horse Person // Person Horse",
    "venue": "Westergas",
@@ -808,6 +793,61 @@
    "all_day": true,
    "subtitle": "Het Meterhuisje",
    "source": "westergas"
+  },
+  {
+   "id": "muziekgebouw-15674-202611260930",
+   "title": "Tuimelaar (6-18 maanden)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-26T09:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/tuimelaar-6-18-maanden-xgg2",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,00–€ 19,00",
+   "image": "https://img.muziekgebouw.nl/BddUiOIAKYR9DC4wh6OlFDJOSq4efn1PAYa74TH3WD4/c:1242:703:nowe:0:0/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjE2OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Frisse Oren",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "ketelhuis-queen-at-sea-film-soep-202611261045",
+   "title": "Queen at Sea",
+   "venue": "Het Ketelhuis",
+   "start": "2026-11-26T10:45:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/queen-at-sea-film-soep/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/10/Queen-at-Sea_st_3_jpg_sd-high_Seafaring-LLC.jpg",
+   "kind": "event",
+   "subtitle": "Film & Soep",
+   "source": "ketelhuis"
+  },
+  {
+   "id": "muziekgebouw-15673-202611261100",
+   "title": "Tuimelaar (6-18 maanden)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-26T11:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/tuimelaar-6-18-maanden-7ddv",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,00–€ 19,00",
+   "image": "https://img.muziekgebouw.nl/aydPdtRhZ3Ss-oqp4JMQkIlEORS9gnpyk25JYNFdoBw/c:1243:703/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjE3Nl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Frisse Oren",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15672-202611261230",
+   "title": "Tuimelaar (6-18 maanden)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-26T12:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/tuimelaar-6-18-maanden-yqqb",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,00–€ 19,00",
+   "image": "https://img.muziekgebouw.nl/V8ZtQwABpx-8PQg3K0iQWzYjqAwTSbKXBR0DaH_sjoI/c:1243:703/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjE4MV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Frisse Oren",
+   "source": "muziekgebouw"
   },
   {
    "id": "bellevue-6027-202611261700",
@@ -1131,6 +1171,20 @@
    "source": "paradiso"
   },
   {
+   "id": "bijlmerparktheater-1796-202611262000",
+   "title": "Hoge Ogen: Tectonics / Altijd Onderweg (Double Bill)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-26T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/hoge-ogen-tectonics-altijd-onderweg-double-bill-1s2c",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 16,50–€ 19,00",
+   "image": "https://img.bijlmerparktheater.nl/cuur2uABDlJRywhBeotGFrYvorU7ao3kGLswfO6Bt84/c:1592:899/s:690:390:1/format:png/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTA1M19vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Double Bill: Ciro Monoarfa Goudsmit / Halil Çikmazkara",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "amsterdamalternative-21830",
    "title": "Shaking Hand",
    "venue": "Cinetol",
@@ -1415,6 +1469,20 @@
    "source": "jazzin"
   },
   {
+   "id": "muziekgebouw-15703-202611262030",
+   "title": "Storm",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-26T20:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/storm-7d9m",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 31,00–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/SbVnu0zGdQqpUKLyuDJkXPMXgyzHyhbGfJz5clJ4G_M/c:3821:2160/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTMxN19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Jazz Orchestra of the Concertgebouw x OFFprojects",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "amsterdamalternative-22811",
    "title": "XOXO KASSANDRA",
    "venue": "Plein Theater",
@@ -1426,6 +1494,19 @@
    "kind": "event",
    "subtitle": "Chapter 58 (Antti Uimonen, Flore Muuse, and Sofia Garcia Miramon.)",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "mozaiek-11927",
+   "title": "Tula.Verse II: Sœurité",
+   "venue": "Podium Mozaïek",
+   "start": "2026-11-26T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/658244594693",
+   "category": "theatre",
+   "end": "2026-11-26T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Vernon Chatlein · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "ita-1197",
@@ -1493,20 +1574,6 @@
    "source": "richel"
   },
   {
-   "id": "richel-15014",
-   "title": "Jazz Underground",
-   "venue": "Theater De Richel",
-   "start": "2026-11-26T22:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/jazz-underground-28/",
-   "category": "jazz",
-   "status": "normal",
-   "price": "gratis",
-   "kind": "event",
-   "free": true,
-   "subtitle": "Jazz, Muziek · Café",
-   "source": "richel"
-  },
-  {
    "id": "paradiso-2950473",
    "title": "DIP: 2ONETWO",
    "venue": "Paradiso",
@@ -1558,6 +1625,19 @@
    "all_day": true,
    "subtitle": "Expositie",
    "source": "cafevoorwaarts"
+  },
+  {
+   "id": "mediamatic-5a2da76db3a7",
+   "title": "The chair, the wig and the sheep: The portable…",
+   "venue": "Mediamatic",
+   "start": "2026-11-27T00:00:00+01:00",
+   "url": "https://www.mediamatic.net/en/page/393899/the-chair-the-wig-and-the-sheep-the-portable-universe",
+   "category": "other",
+   "end": "2026-12-10T23:00:00+01:00",
+   "status": "normal",
+   "kind": "series",
+   "all_day": true,
+   "source": "mediamatic"
   },
   {
    "id": "amsterdamalternative-23481",
@@ -1682,6 +1762,18 @@
    "kind": "event",
    "subtitle": "Docu",
    "source": "cavia"
+  },
+  {
+   "id": "ketelhuis-94835b3f1f6c",
+   "title": "A Little Gray Wolf Will Come + Q&A",
+   "venue": "Het Ketelhuis",
+   "start": "2026-11-27T19:00:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/a-little-gray-wolf-will-come-qa/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/A-Little-Gray-Wolf-Will-Come_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "source": "ketelhuis"
   },
   {
    "id": "mkz-ff3f879f4c32",
@@ -1890,6 +1982,20 @@
    "source": "paradiso"
   },
   {
+   "id": "bijlmerparktheater-1810-202611272000",
+   "title": "Hoge Ogen: SURVIVOR'S ATTITUDE",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/hoge-ogen-survivor-s-attitude-md57",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 13,50–€ 16,00",
+   "image": "https://img.bijlmerparktheater.nl/ETPuZ52sT-GzDSTlKb5j7fjk4ITXnV-ISiRZou0Ud18/c:9401:5314/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTI3Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Wantee Teelapa en Shishani",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "amsterdamalternative-16432",
    "title": "Fax & Friends: Fax Machine + The Volleys + Spull | (ep release)",
    "venue": "Cinetol",
@@ -2056,6 +2162,19 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "mozaiek-12043",
+   "title": "BECOMING: Ageless",
+   "venue": "Podium Mozaïek",
+   "start": "2026-11-27T20:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/417270923948",
+   "category": "theatre",
+   "end": "2026-11-27T22:20:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Black Silk · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "ita-1041",
    "title": "De Suriname-trilogie: Stepping Stones",
    "venue": "Stadsschouwburg (ITA)",
@@ -2106,6 +2225,19 @@
    "status": "normal",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "muziekgebouw-15479-202611272015",
+   "title": "Membra Jesu nostri van Buxtehude",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-27T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/membra-jesu-nostri-van-buxtehude-h19s",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/qGnz7MOFSAT8H7n32iI_4tULc58ejVMy7MPLGOvTJuc/c:4000:2260:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzU4MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Pygmalion",
+   "source": "muziekgebouw"
   },
   {
    "id": "richel-12219",
@@ -2521,6 +2653,20 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "muziekgebouw-15769-202611281415",
+   "title": "Vivaldi’s Jaargetijden en Moore",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-28T14:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/vivaldi-s-jaargetijden-en-moore-nwmx",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 31,00–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/xCNvE94Ci2QQ1RRGaf_Y5mOvm8Rp-L54rOZNgYOR0HA/c:1920:1085:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4Mzk5Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "IJ-Salon",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "tolhuistuin-a09e4d0691fc",
    "title": "HUMAN | De publieke tribune",
    "venue": "Tolhuistuin",
@@ -2744,6 +2890,20 @@
    "source": "perdu"
   },
   {
+   "id": "bijlmerparktheater-1814-202611282000",
+   "title": "THE BIJLMER COMMUNITY BALL",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-28T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/the-bijlmer-community-ball-x9ny",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00–€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/YJ-OmyndJcwh_I_Jb9kQYAbPFysfP8X0iQYnJ-IoREA/c:3174:1794:fp:0.5:0.33/s:690:390:1/format:png/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTUxMV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "House of B x Bijlmer Parktheater present",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "amsterdamalternative-22948",
    "title": "LA ÉLITE + eigen risico + feral",
    "venue": "Cinetol",
@@ -2763,7 +2923,7 @@
    "start": "2026-11-28T20:00:00+01:00",
    "url": "https://debalie.nl/programma/ziek-in-je-hoofd-over-wat-psychisch-lijden-is-28-11-2026/",
    "category": "talk",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://debalie.nl/wp-content/uploads/2026/10/JimvanOsV1-1024x576.png",
    "kind": "event",
    "subtitle": "Met Jim van Os",
@@ -2889,6 +3049,20 @@
    "source": "jazzin"
   },
   {
+   "id": "muziekgebouw-15694-202611282015",
+   "title": "Schumanns rusteloze expressie",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-28T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/schumanns-rusteloze-expressie-d43c",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 39,00–€ 49,00",
+   "image": "https://img.muziekgebouw.nl/2SD4z_6JJ2ZKLN5E2iwLOpy5AR7GKUUJLkLekArnXxo/c:4371:2469:nowe:0:1529/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjQ5NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Pierre-Laurent Aimard + Thomas Zehetmair",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "bimhuis-0deb9b4cb4db",
    "title": "Manu – De Herontdekking van de Hemel",
    "venue": "Bimhuis",
@@ -2950,6 +3124,19 @@
    "kind": "event",
    "subtitle": "GroundBreakers Modern Dance Amsterdam in samenwerking met Chang Dance Theatre (TW)",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "mozaiek-11934",
+   "title": "Wachten op Marsha",
+   "venue": "Podium Mozaïek",
+   "start": "2026-11-28T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/277471270085",
+   "category": "theatre",
+   "end": "2026-11-28T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Raymi Sambo Maakt · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "ita-1199",
@@ -3175,6 +3362,34 @@
    "source": "pllek"
   },
   {
+   "id": "bijlmerparktheater-1682-202611291100",
+   "title": "Bijlmer Klassiek: Confluence | A Brilliant Noise",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-29T11:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/bijlmer-klassiek-confluence-a-brilliant-noise-65dd",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 16,50–€ 19,00",
+   "image": "https://img.bijlmerparktheater.nl/hIbjogrrv2BZE5sroW-btt-bgPagQQ-4i0_l6pxVyTA/c:1800:1017:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTU4NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Concertgebouworkest (Alma Quartet), Bijlmer Parktheater, Hamid Reza Behzadian en Asmae Amaddaou",
+   "source": "bijlmerparktheater"
+  },
+  {
+   "id": "muziekgebouw-15480-202611291100",
+   "title": "Just Permutations On The Other Side",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-29T11:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/just-permutations-on-the-other-side-47ny",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15,00–€ 19,00",
+   "image": "https://img.muziekgebouw.nl/GVrT2qiJp6RAurAL_Wg9pV4u22kJYYufb7amBmECwrQ/c:819:462:nowe:0:442/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDIwMV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "gamut inc",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "amsterdamalternative-23300",
    "title": "Melodies around the world by Susana Raya & Jeroen Vierdag",
    "venue": "Teatro Munganga",
@@ -3199,6 +3414,32 @@
    "kind": "event",
    "subtitle": "Jaarlijkse boekenmarkt met drukwerk van indie uitgevers",
    "source": "paradiso"
+  },
+  {
+   "id": "muziekgebouw-15736-202611291300",
+   "title": "Rondleiding",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-29T13:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/rondleiding-16d6",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00–€ 12,50",
+   "image": "https://img.muziekgebouw.nl/wuYxEqCYs3bS24oHyShbXtnHl3f-KyrujbYwuLXocYY/c:2000:1130:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzkyN19vcmlnLmpwZw",
+   "kind": "event",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15824-202611291300",
+   "title": "SoundLAB: Groove Special",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-29T13:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/soundlab-groove-special-xgph",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/w3jykHfn5HiGoV-UaYdjwaSOeri6u3bgfPQXqUr69L4/c:1350:763:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTUwMF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Voor kinderen (7+) met volwassenen. I.s.m. Bimhuis",
+   "source": "muziekgebouw"
   },
   {
    "id": "ot301-23640",
@@ -3251,6 +3492,19 @@
    "source": "mkz"
   },
   {
+   "id": "mozaiek-11974",
+   "title": "BRRRothers (6+)",
+   "venue": "Podium Mozaïek",
+   "start": "2026-11-29T14:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/618116211559",
+   "category": "theatre",
+   "end": "2026-11-29T15:00:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Danstheater AYA · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "bimhuis-c9f1e2cd0627",
    "title": "Groove Beest Familieconcert: Kay Slice",
    "venue": "Bimhuis",
@@ -3274,6 +3528,20 @@
    "kind": "event",
    "subtitle": "Many activities!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "muziekgebouw-15825-202611291500",
+   "title": "SoundLAB workshop",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-29T15:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/soundlab-workshop-s5cf",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 13,50",
+   "image": "https://img.muziekgebouw.nl/QAMRUk9s8QIabaG9X1juM4uzb5z4wmqt-8oMCxt-3qU/c:5551:3138:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTQ4NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Voor volwassenen",
+   "source": "muziekgebouw"
   },
   {
    "id": "amsterdamalternative-21988",
@@ -3492,6 +3760,20 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "bijlmerparktheater-1819-202611291800",
+   "title": "Bijlmer Drum Festival 2026",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-29T18:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/bijlmer-drum-festival-2026-ncrm",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00",
+   "image": "https://img.bijlmerparktheater.nl/l4fwFGnG0ifItXxHogEVxIT3GaHroAhYGwZY4kcqVXc/c:6715:3795:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTU4OF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Stichting Eternity Percussion",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "melkweg-27091",
    "title": "Elmiene",
    "venue": "Melkweg",
@@ -3552,6 +3834,20 @@
    "source": "melkweg"
   },
   {
+   "id": "bijlmerparktheater-1820-202611292000",
+   "title": "Sankofa Journey Part 3",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-11-29T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/sankofa-journey-part-3-f176",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00",
+   "image": "https://img.bijlmerparktheater.nl/2ufmy5SR86I91BxbKHVohz_ge6s6as-sQn3VcWfagFM/c:5418:3062:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTU5NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Stichting Eternity Percussion",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "paradiso-2890460",
    "title": "MT Jones + Kat Eaton",
    "venue": "Bitterzoet",
@@ -3602,6 +3898,20 @@
    "kind": "event",
    "subtitle": "Begrijpt steeds minder",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "muziekgebouw-15481-202611292015",
+   "title": "Adem van het woud",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-11-29T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/adem-van-het-woud-fkgd",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 39,00–€ 49,00",
+   "image": "https://img.muziekgebouw.nl/pRthsr9TzEX2LMov-FS1wvoxy1IV9gZk39YXVv_leOs/c:1080:610:nowe:0:43/s:690:390:1/format:png/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjMwOV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Nederlands Blazers Ensemble + Duda Paiva Company",
+   "source": "muziekgebouw"
   },
   {
    "id": "bimhuis-1a9257c9ef11",
@@ -4025,6 +4335,20 @@
    "source": "vrankrijk"
   },
   {
+   "id": "bijlmerparktheater-1815-202612011600",
+   "title": "Zingend Lezen met Tante Jeritza (2-8 jaar)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-01T16:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/zingend-lezen-met-tante-jeritza-2-8-jaar-slh9",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 2,50",
+   "image": "https://img.bijlmerparktheater.nl/soMLEKKuq8Lk-5aetpD0L4hPbmFjevHqPWOgcWcCZuE/c:4033:2280/s:690:390:1/format:png/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTUyOV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Jeritza Toney",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "framerframed-3119cf381b64",
    "title": "Book Launch: The Radical Unpresent by Gregory Sholette",
    "venue": "Framer Framed",
@@ -4059,6 +4383,19 @@
    "kind": "event",
    "subtitle": "Denk mee over de programmering en activiteiten van de Week Tegen Racisme in maart 2027! · Expo",
    "source": "zwijger"
+  },
+  {
+   "id": "ketelhuis-7e6bd058230a",
+   "title": "Flesh and Fuel",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-01T18:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/flesh-and-fuel-roze-filmdagen-monthly-special/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/Flesh-and-Fuel_st_1_jpg_sd-high.jpeg",
+   "kind": "event",
+   "subtitle": "Roze Filmdagen Monthly Special",
+   "source": "ketelhuis"
   },
   {
    "id": "melkweg-27580",
@@ -4108,6 +4445,19 @@
    "kind": "weekly",
    "subtitle": "Elke di 19:00",
    "source": "mollichaoot"
+  },
+  {
+   "id": "mozaiek-11892",
+   "title": "Stand up Comedy in broken English",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-01T19:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/274751890810",
+   "category": "theatre",
+   "end": "2026-12-01T20:20:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Victor Patrascan · Gastprogrammering · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "tolhuistuin-538987c92af6",
@@ -4407,6 +4757,19 @@
    "source": "jazzin"
   },
   {
+   "id": "mozaiek-11893",
+   "title": "Stand up Comedy in broken English",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-01T21:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/753021819403",
+   "category": "theatre",
+   "end": "2026-12-01T22:50:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Victor Patrascan · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "bimhuis-e7d354d03861",
    "title": "Tuesday Jam",
    "venue": "Bimhuis",
@@ -4461,6 +4824,35 @@
    "source": "debalie"
   },
   {
+   "id": "muziekgebouw-15738-202612021045",
+   "title": "Rondleiding",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-02T10:45:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/rondleiding-5pkk",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 10,00–€ 12,50",
+   "image": "https://img.muziekgebouw.nl/c9w4sVml7fwX18Q2NsQdhFwl70OHk0HJ9Fs-qedLrTU/c:2000:1130:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzkzMV9vcmlnLmpwZw",
+   "kind": "event",
+   "free": true,
+   "subtitle": "+ gratis lunchconcert",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15707-202612021230",
+   "title": "Hadewych van Gent",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-02T12:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/hadewych-van-gent-nwkw",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,50",
+   "image": "https://img.muziekgebouw.nl/mY3iWwyP0jBQz1FhUcQACgk3k8jS5MNgKPphEP08Aw0/c:5246:2965:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDMyNF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Lunchconcert Dutch Classical Talent",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "richel-14875",
    "title": "Productiehuis De Haard – De Eeuw Waarin Alles Kan",
    "venue": "Theater De Richel",
@@ -4509,6 +4901,19 @@
    "kind": "weekly",
    "subtitle": "Elke wo 17:00",
    "source": "mkz"
+  },
+  {
+   "id": "ketelhuis-15cd98eb5748",
+   "title": "Persona",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-02T18:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/persona-hoe-lees-ik-een-film/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/Persona-digitale-restauratie-_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Hoe lees ik een film?",
+   "source": "ketelhuis"
   },
   {
    "id": "jazzin-2289587",
@@ -4690,6 +5095,20 @@
    "source": "paradiso"
   },
   {
+   "id": "bijlmerparktheater-1743-202612022000",
+   "title": "Wapens",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-02T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/wapens-r22j",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 16,50–€ 19,00",
+   "image": "https://img.bijlmerparktheater.nl/NNFvkipPR4f5u6FgBO4LsBDAjdIDwo_zkElim2LeL5Y/c:4418:2495:nowe:352:2645/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDY5MV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Firma Mes & Nic Bruckman Projecten",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "carre-35134",
    "title": "Joe Jackson 2026",
    "venue": "Carré",
@@ -4795,6 +5214,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15459-202612022015",
+   "title": "Monteverdi’s madrigalen",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-02T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/monteverdi-s-madrigalen-tmz7",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 39,00–€ 49,00",
+   "image": "https://img.muziekgebouw.nl/_qPtRzgOcOCeek5I6PaEtQdVW0er1_p-c79jA9UED7k/c:3402:1922:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDYyMl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Concerto Italiano + college Saskia Törnqvist",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "bimhuis-5af3a7db8ed1",
    "title": "Martyn3024",
    "venue": "Bimhuis",
@@ -4845,6 +5278,19 @@
    "kind": "event",
    "subtitle": "Amsterdamse hiphoptrio van Ray Fuego, Dio en Kabul $lim",
    "source": "paradiso"
+  },
+  {
+   "id": "mozaiek-tm-11975-9c37ed1c",
+   "title": "Chinese Dinner",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-02T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/233943269382",
+   "category": "food",
+   "end": "2026-12-02T21:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "GroundBreakers · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "ita-1192",
@@ -4922,6 +5368,30 @@
    "source": "vrankrijk"
   },
   {
+   "id": "mediamatic-dfa00efac85c",
+   "title": "Water Cartography",
+   "venue": "Mediamatic",
+   "start": "2026-12-03T00:00:00+01:00",
+   "url": "https://www.mediamatic.net/en/page/393907/water-cartography",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "mediamatic"
+  },
+  {
+   "id": "mediamatic-03243725dfb6",
+   "title": "Waterzooi-maal",
+   "venue": "Mediamatic",
+   "start": "2026-12-03T00:00:00+01:00",
+   "url": "https://www.mediamatic.net/en/page/393951/waterzooi-maal",
+   "category": "food",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "mediamatic"
+  },
+  {
    "id": "richel-12299",
    "title": "Margreet Dolman brengt Warmte in de donkerste dagen van het jaar & Dominee Gremdaat wijst de Weg naar een evenwichtig 2027",
    "venue": "Theater De Richel",
@@ -4947,6 +5417,32 @@
    "all_day": true,
    "subtitle": "Gashouder",
    "source": "westergas"
+  },
+  {
+   "id": "ketelhuis-amelie-film-soep-202612031045",
+   "title": "Amelie",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-03T10:45:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/amelie-film-soep/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/10/Am-lie-25th-anniversary_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Film & Soep",
+   "source": "ketelhuis"
+  },
+  {
+   "id": "ketelhuis-66a8ff5f7772",
+   "title": "Amelie - 20th Anniversary",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-03T19:00:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/soiree-cine-amelie-20th-anniversary/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/10/Am-lie-25th-anniversary_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Soirée Ciné",
+   "source": "ketelhuis"
   },
   {
    "id": "melkweg-28023",
@@ -5269,6 +5765,19 @@
    "source": "perdu"
   },
   {
+   "id": "mozaiek-12095",
+   "title": "Ali Doğan Gönültaş",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-03T20:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/695615226575",
+   "category": "theatre",
+   "end": "2026-12-03T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "radion-111719294",
    "title": "VOID by ORPHIC",
    "venue": "Radion",
@@ -5373,6 +5882,20 @@
    "price": "€25",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "muziekgebouw-15728-202612032015",
+   "title": "Last Show",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-03T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/last-show-cxbz",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 45,00",
+   "image": "https://img.muziekgebouw.nl/InTsPzMaKupiqX0V9deoTk8_F0SRs8aPfbPZx65vnpU/c:2048:1157:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjM5Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Muziek",
+   "source": "muziekgebouw"
   },
   {
    "id": "jazzin-465655",
@@ -5851,6 +6374,19 @@
    "kind": "event",
    "subtitle": "Akcel, Carmen Lisa, Inez Akker, Lucid Feel, Mick · Studios",
    "source": "ot301"
+  },
+  {
+   "id": "mozaiek-11884",
+   "title": "Zelemele Live in Amsterdam",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-04T20:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/142583769737",
+   "category": "theatre",
+   "end": "2026-12-04T22:10:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Gastprogrammering · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "bellevue-5822-202612042000",
@@ -6335,6 +6871,20 @@
    "source": "paradiso"
   },
   {
+   "id": "bijlmerparktheater-1813-202612052000",
+   "title": "African Diaspora Performing Arts Festival 2026",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-05T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/african-diaspora-performing-arts-festival-2026-7jlx",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 21,00",
+   "image": "https://img.bijlmerparktheater.nl/QFSQkU_yxjMkwHr6NYeR5cWWkqYTe3Fu5mNYMfEswwE/c:6720:3798:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTQ2M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Untold · Rituals of Resistance: Bodies in Revolt",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "carre-37126",
    "title": "Claudia de Breij - Oudejaarsconference",
    "venue": "Carré",
@@ -6475,6 +7025,19 @@
    "kind": "event",
    "subtitle": "Fuck pakjesavond",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "muziekgebouw-15482-202612052015",
+   "title": "Erkan Oğur & İsmail Hakkı Demircioğlu",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-05T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/erkan-ogur-ismail-hakki-demircioglu-6h8v",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/arTx0vIdTWCYQkSc96Nv7ODsUpi8ZvGdknfJfUkEw_8/c:1600:904:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzUwOV9vcmlnLmpwZWc",
+   "kind": "event",
+   "source": "muziekgebouw"
   },
   {
    "id": "amsterdamalternative-23576",
@@ -6784,6 +7347,19 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "bijlmerparktheater-1693-202612061500",
+   "title": "Familiezondag: LENNOX (8+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-06T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/familiezondag-lennox-8-7jsw",
+   "category": "theatre",
+   "status": "sold_out",
+   "image": "https://img.bijlmerparktheater.nl/8WlY9k5pYUOdWqjNAIIXE8Ry0yVkjxt7pU9PTpLKqBM/c:5905:3337:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDYzMl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "RIGHTABOUTNOW INC. en De Nationale Opera",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "carre-35755",
    "title": "Claudia de Breij - Oudejaarsconference",
    "venue": "Carré",
@@ -6807,6 +7383,19 @@
    "price": "€20",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "mozaiek-11928",
+   "title": "Orchestre Partout Open Mic",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-06T15:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/460652102754",
+   "category": "theatre",
+   "end": "2026-12-06T17:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Foyer",
+   "source": "mozaiek"
   },
   {
    "id": "amsterdamalternative-23577",
@@ -6988,6 +7577,19 @@
    "source": "ot301"
   },
   {
+   "id": "mozaiek-12063",
+   "title": "Innerlijk gefluister",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-06T19:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/937879918814",
+   "category": "theatre",
+   "end": "2026-12-06T20:20:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Hamid Motebassem, Sonia Sadr & Ensemble · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "melkweg-27905",
    "title": "The Skints",
    "venue": "Melkweg",
@@ -7049,6 +7651,20 @@
    "price": "€29",
    "kind": "event",
    "source": "jazzin"
+  },
+  {
+   "id": "muziekgebouw-15483-202612062015",
+   "title": "Faust (1926)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-06T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/faust-1926-rbpc",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/NU0YzIN8jHp5PjmjQqVEGYdT1RmgypWuncYCOCMT7Hs/c:8000:4521:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzUyNV9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Olga Pashchenko + Jed Wentz",
+   "source": "muziekgebouw"
   },
   {
    "id": "bimhuis-5be4f5c9abc3",
@@ -7295,6 +7911,18 @@
    "source": "paradiso"
   },
   {
+   "id": "ketelhuis-sneak-preview-202612072100",
+   "title": "Sneak Preview 7 december",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-07T21:00:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/sneak-preview/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/Het_Ketelhuis_SNEAK_Website_1920x800.jpg",
+   "kind": "event",
+   "source": "ketelhuis"
+  },
+  {
    "id": "rialto-2200",
    "title": "Come Drink With Me - Rumble in Hong Kong (Met inleiding)",
    "venue": "Rialto De Pijp",
@@ -7333,6 +7961,19 @@
    "kind": "event",
    "subtitle": "Killer Hertz (Live P.A. & DJ set) / Oneiroi / Yi-Ching / Insom / Bass80 / Multiplex",
    "source": "melkweg"
+  },
+  {
+   "id": "ketelhuis-amelie-cinebaby-202612081030",
+   "title": "Amélie",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-08T10:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/amelie-cinebaby/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/Am-lie-25th-anniversary_st_5_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Cinebaby",
+   "source": "ketelhuis"
   },
   {
    "id": "zwijger-play-the-city-amsterdam-x-tokyo",
@@ -8212,6 +8853,20 @@
    "source": "ita"
   },
   {
+   "id": "bijlmerparktheater-1631-202612102000",
+   "title": "De Gliphoeve",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-10T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/de-gliphoeve-jg2w",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 21,00–€ 23,50",
+   "image": "https://img.bijlmerparktheater.nl/Q1CPY7YdnfGqoyiH5tgrLUSPdps3xbVRAcb_SRnZU2I/c:2401:1357:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDI3M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Orkater & Bijlmer Parktheater · De Suriname-trilogie",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "jazzin-2025098",
    "title": "Dinner show with Noam Bargil",
    "venue": "Contra",
@@ -8341,6 +8996,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15485-202612102015",
+   "title": "Haas’ Ausschweifen",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-10T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/haas-ausschweifen-89k8",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 43,00",
+   "image": "https://img.muziekgebouw.nl/9Zo_pbglzbyqvsN3n9jabBW1zH87wkwrEeeO5biPbzI/c:1920:1085:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjA4NF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Ensemble Proton Bern",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "bimhuis-aa4688cbe2c9",
    "title": "Jasper Høiby’s 3Elements ft. Xavi Torres & Naíma Acuña",
    "venue": "Bimhuis",
@@ -8389,6 +9058,19 @@
    "kind": "event",
    "subtitle": "Special",
    "source": "cavia"
+  },
+  {
+   "id": "mozaiek-11691",
+   "title": "Liefhebben II",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-10T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/133242776902",
+   "category": "theatre",
+   "end": "2026-12-10T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Laura van Dolron · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "bellevue-5912-202612102030",
@@ -8445,6 +9127,19 @@
    "source": "brakkegrond"
   },
   {
+   "id": "richel-15468",
+   "title": "StandOut presents ‘3 in 1’",
+   "venue": "Theater De Richel",
+   "start": "2026-12-11T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/3-in-1/",
+   "category": "theatre",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Arabic, Comedy, Stand-Up",
+   "source": "richel"
+  },
+  {
    "id": "westergas-httpswwwzanzaranl20261211",
    "title": "Theatercircus Zanzara brengt de magie van de speelgoedfabriek naar Amsterdam",
    "venue": "Westergas",
@@ -8457,6 +9152,35 @@
    "all_day": true,
    "subtitle": "Cultuurpark Westergas",
    "source": "westergas"
+  },
+  {
+   "id": "muziekgebouw-15737-202612111045",
+   "title": "Rondleiding",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-11T10:45:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/rondleiding-nwvk",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00–€ 12,50",
+   "image": "https://img.muziekgebouw.nl/ntpWJDqpkRibCXS78UunXWVsM-q_x1Yq-rG5ahpx2AA/c:2000:1130:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzkzNV9vcmlnLmpwZw",
+   "kind": "event",
+   "free": true,
+   "subtitle": "+ gratis lunchconcert",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15700-202612111230",
+   "title": "Seán Morgan-Rooney",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-11T12:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/sean-morgan-rooney-mlgr",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,50",
+   "image": "https://img.muziekgebouw.nl/gEYr8zZJPyEWyRwBCPMVhytWdoLLBS6Ws8lDDbJnaIA/c:5079:2870:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjQ4OF9vcmlnLmpwZWc",
+   "kind": "event",
+   "subtitle": "Lunchconcert i.s.m. het Muziekinstrumentenfonds",
+   "source": "muziekgebouw"
   },
   {
    "id": "jazzin-2294535",
@@ -8626,16 +9350,18 @@
    "source": "ita"
   },
   {
-   "id": "richel-15468",
-   "title": "StandOut presents ‘3 in 1’",
-   "venue": "Theater De Richel",
-   "start": "2026-12-11T19:30:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/3-in-1/",
-   "category": "theatre",
-   "status": "normal",
+   "id": "bijlmerparktheater-1631-202612112000",
+   "title": "De Gliphoeve",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-11T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/de-gliphoeve-jg2w",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 21,00–€ 23,50",
+   "image": "https://img.bijlmerparktheater.nl/Q1CPY7YdnfGqoyiH5tgrLUSPdps3xbVRAcb_SRnZU2I/c:2401:1357:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDI3M19vcmlnLmpwZw",
    "kind": "event",
-   "subtitle": "Arabic, Comedy, Stand-Up",
-   "source": "richel"
+   "subtitle": "Orkater & Bijlmer Parktheater · De Suriname-trilogie",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "debalie-122430",
@@ -8767,6 +9493,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15486-202612112015",
+   "title": "Misa Criolla",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-11T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/misa-criolla-bz29",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 12,50–€ 49,00",
+   "image": "https://img.muziekgebouw.nl/SpPXBS7QfCsxKk-hZSDGUZCjv06FnjEvulRixtCWy4I/c:1899:1073:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzYxMl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Música Temprana",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "orgelpark-a979d0c13610",
    "title": "Klee droomt Bach",
    "venue": "Orgelpark",
@@ -8852,6 +9592,19 @@
    "kind": "event",
    "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
    "source": "frascati"
+  },
+  {
+   "id": "mozaiek-11962",
+   "title": "A ticket to Aleppo",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-11T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/850126568984",
+   "category": "theatre",
+   "end": "2026-12-11T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Orchestre Partout & New European Ensemble · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "bellevue-5913-202612112030",
@@ -9083,6 +9836,18 @@
    "source": "lofi"
   },
   {
+   "id": "mediamatic-71804425aedf",
+   "title": "Kinky Masterclass 23: Confidence & Discipline…",
+   "venue": "Mediamatic",
+   "start": "2026-12-12T00:00:00+01:00",
+   "url": "https://www.mediamatic.net/en/page/393962/kinky-masterclass-23-confidence-discipline-through-kink",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "source": "mediamatic"
+  },
+  {
    "id": "studiok-59e8c698be2f",
    "title": "Dune: Part One & Two (Double Bill)",
    "venue": "Studio/K",
@@ -9158,6 +9923,20 @@
    "free": true,
    "subtitle": "TBC",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "bijlmerparktheater-1631-202612121500",
+   "title": "De Gliphoeve",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-12T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/de-gliphoeve-jg2w",
+   "category": "music",
+   "status": "sold_out",
+   "price": "€ 21,00–€ 23,50",
+   "image": "https://img.bijlmerparktheater.nl/Q1CPY7YdnfGqoyiH5tgrLUSPdps3xbVRAcb_SRnZU2I/c:2401:1357:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDI3M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Orkater & Bijlmer Parktheater · De Suriname-trilogie",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "jazzin-2292166",
@@ -9476,6 +10255,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15487-202612122015",
+   "title": "Der Messias",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-12T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/der-messias-tm4r",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 59,00",
+   "image": "https://img.muziekgebouw.nl/Qvn0aBrOtUdxXoqLnaf04uts9MR2Dxj4DSVCY7tJzx0/c:8256:4666:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDIwN19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Orkest van de Achttiende Eeuw + NDR Vokalensemble",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "orgelpark-8a4ddb977fb3",
    "title": "Componistenportret Cristiano Melli",
    "venue": "Orgelpark",
@@ -9535,6 +10328,19 @@
    "kind": "event",
    "subtitle": "Naomi Velissariou / Theater Utrecht / URLAND / Nicole Beutler Projects / O.",
    "source": "frascati"
+  },
+  {
+   "id": "mozaiek-12065",
+   "title": "Ode to the icons",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-12T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/365485527731",
+   "category": "theatre",
+   "end": "2026-12-12T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Marmoucha Orchestra, Samia Sabri & Issam Serhan · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "bellevue-5913-202612122030",
@@ -9667,6 +10473,20 @@
    "source": "lofi"
   },
   {
+   "id": "bijlmerparktheater-1825-202612131000",
+   "title": "Winterfestival",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-13T10:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/winterfestival-l4py",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 8,00",
+   "image": "https://img.bijlmerparktheater.nl/ZfKJfNQJADeAQGnLXkSaCLYOatkllXsnfex9jyW-Cao/c:7045:3981:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTYwNl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Jeugdtheaterschool Zuidoost · Theater Mix 2+, Theater Mix 4+, Mix & Match 12-",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "pllek-150bc7c9175b",
    "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
    "venue": "Pllek",
@@ -9704,6 +10524,20 @@
    "source": "amsterdamalternative"
   },
   {
+   "id": "bijlmerparktheater-1825-202612131200",
+   "title": "Winterfestival",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-13T12:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/winterfestival-l4py",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 8,00",
+   "image": "https://img.bijlmerparktheater.nl/ZfKJfNQJADeAQGnLXkSaCLYOatkllXsnfex9jyW-Cao/c:7045:3981:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTYwNl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Jeugdtheaterschool Zuidoost · Theater Mix 2+, Theater Mix 4+, Mix & Match 12-",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "bimhuis-2856b39ffee7",
    "title": "Keep an Eye The Youngsters × Tin Men and the Telephone – Echt waar?",
    "venue": "Bimhuis",
@@ -9716,6 +10550,20 @@
    "free": true,
    "subtitle": "Jonge conservatoriumtalenten en avontuurlijk pianotrio maken muziek van nieuwsfragmenten en alledaagse geluiden.",
    "source": "bimhuis"
+  },
+  {
+   "id": "muziekgebouw-15826-202612131300",
+   "title": "SoundLAB workshop",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-13T13:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/soundlab-workshop-16n9",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00–€ 13,50",
+   "image": "https://img.muziekgebouw.nl/aYPOUN2AvFLBpET_yANL4Hxbe7LHwBVCEJJ3IEi0xwA/c:1350:763:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTU1M19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Voor kinderen (7+) met volwassenen",
+   "source": "muziekgebouw"
   },
   {
    "id": "pllek-f8c9fcfbe87e",
@@ -9780,6 +10628,20 @@
    "source": "orgelpark"
   },
   {
+   "id": "bijlmerparktheater-1825-202612131430",
+   "title": "Winterfestival",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-13T14:30:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/winterfestival-l4py",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 8,00",
+   "image": "https://img.bijlmerparktheater.nl/ZfKJfNQJADeAQGnLXkSaCLYOatkllXsnfex9jyW-Cao/c:7045:3981:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTYwNl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Jeugdtheaterschool Zuidoost · Theater Mix 2+, Theater Mix 4+, Mix & Match 12-",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "jazzin-2290402",
    "title": "Gel Sunday Extra",
    "venue": "Kompaszaal",
@@ -9841,6 +10703,33 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "muziekgebouw-15931-202612131500",
+   "title": "Nieuwe Noten in het Plein Theater",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/nieuwe-noten-in-het-plein-theater-fknl",
+   "category": "music",
+   "status": "normal",
+   "image": "https://img.muziekgebouw.nl/jJal79A4PAK2DgCputhPSVWxDGyxdM1FxO7kmUOVVWc/c:1871:1057:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjAzNl9vcmlnLmpwZWc",
+   "kind": "event",
+   "subtitle": "Keren Motseri + Joseph Puglia",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15827-202612131500",
+   "title": "SoundLAB workshop",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-13T15:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/soundlab-workshop-nw6x",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 13,50",
+   "image": "https://img.muziekgebouw.nl/7jvbpRVoYvDFLDHxe0NAPYt6AHuZz5VoQ1lOd7l0FJg/c:5551:3138:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTQ4MV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Voor volwassenen",
+   "source": "muziekgebouw"
   },
   {
    "id": "amsterdamalternative-22306",
@@ -10135,6 +11024,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15488-202612132015",
+   "title": "Sjostakovitsj, Mjaskovski en Oestvolskaja",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-13T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/sjostakovitsj-mjaskovski-en-oestvolskaja-cx38",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 43,00",
+   "image": "https://img.muziekgebouw.nl/-opIskyIqGn85aRdv8Trx-waXx8F46ZOwxkERaZAChU/c:2560:1446:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTc0Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Alexander Rudin + Alexander Melnikov",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "richel-15133",
    "title": "Toneelgroep Dagwerk – Brothers in crime & Het Verhaal van Jozef",
    "venue": "Theater De Richel",
@@ -10335,6 +11238,20 @@
    "source": "jazzin"
   },
   {
+   "id": "muziekgebouw-15489-202612142015",
+   "title": "Leçons de ténèbres van Couperin",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-14T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/lecons-de-tenebres-van-couperin-tm48",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/jAs5DhI8TuN8bazGVjtUto1hnAExQQmb0mDYq-e3W8c/c:1600:904:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDI3Nl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Le Caravansérail + Bertrand Cuiller + college Saskia Törnqvist",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "amsterdamalternative-23580",
    "title": "Oene van Geel presents: Reflections – Brice Soniano String Quintet",
    "venue": "Splendor",
@@ -10473,6 +11390,19 @@
    "kind": "event",
    "subtitle": "Afro-Cubaanse roots, soul en r&b van Frans-Cubaanse tweeling",
    "source": "paradiso"
+  },
+  {
+   "id": "bijlmerparktheater-1655-202612152000",
+   "title": "OUTCAST",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-15T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/outcast-8j8y",
+   "category": "theatre",
+   "status": "normal",
+   "image": "https://img.bijlmerparktheater.nl/7IC9BzNpBut4-MG7pvG0WKdnGGNw2xhOzByVBsKcBuw/c:3000:1695:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTI5Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Poldertheater",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "amsterdamalternative-23633",
@@ -10661,6 +11591,35 @@
    "source": "melkweg"
   },
   {
+   "id": "muziekgebouw-15739-202612161045",
+   "title": "Rondleiding",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-16T10:45:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/rondleiding-nwvm",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 10,00–€ 12,50",
+   "image": "https://img.muziekgebouw.nl/zPqMFTXQmitj9K7YLsf3px6ZpXCII-XDZuHpNd6BBKg/c:2000:1130:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4MzkzOV9vcmlnLmpwZw",
+   "kind": "event",
+   "free": true,
+   "subtitle": "+ gratis lunchconcert",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15714-202612161230",
+   "title": "Score Collective",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-16T12:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/score-collective-qvm5",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 6,50",
+   "image": "https://img.muziekgebouw.nl/sFIy_qgu7DE7pmOHSwezMBRgYK0rzX5AuLAECKT60hw/c:2048:1157:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTY3N19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Lunchconcert i.s.m. Conservatorium van Amsterdam",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "joesgarage-6a5a02f8b097",
    "title": "Arab Spring class",
    "venue": "Joe's Garage",
@@ -10837,6 +11796,20 @@
    "source": "vrankrijk"
   },
   {
+   "id": "bijlmerparktheater-1736-202612162000",
+   "title": "Mijn moeder is een mens (10+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-16T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/mijn-moeder-is-een-mens-10-1s8q",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 9,50–€ 12,00",
+   "image": "https://img.bijlmerparktheater.nl/cdQtwRF_XiFbGgMUSwpKZQk8EChenflhOCUYmprE3hM/c:6720:3798:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDY2OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Sabrina NaberMacnack en Eigen Werk Theaterteam",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "carre-run17106",
    "title": "40e Wereldkerstcircus",
    "venue": "Carré",
@@ -10918,6 +11891,20 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15490-202612162015",
+   "title": "Beethovens Appassionata",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-16T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/beethovens-appassionata-ml75",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 43,00",
+   "image": "https://img.muziekgebouw.nl/gXIXI8Mocifoi8xJDM_dIflRgFDiyoe6NWOFAKrCoTc/c:4000:2263:nowe:0:232/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjMwM19vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Nikola Meeuwsen",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "paradiso-2905454",
    "title": "Jungle by Night",
    "venue": "Paradiso",
@@ -10957,6 +11944,19 @@
    "source": "jazzin"
   },
   {
+   "id": "ketelhuis-camembert-film-soep-202612171045",
+   "title": "Camembert",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-17T10:45:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/camembert-film-soep/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/09/camembert.jpg",
+   "kind": "event",
+   "subtitle": "Film & Soep",
+   "source": "ketelhuis"
+  },
+  {
    "id": "skatecafe-c26861a5-4576-4dcf-ae82-99decf0d1a57",
    "title": "SKATELES VOOR KIDS",
    "venue": "Skatecafé",
@@ -10980,6 +11980,19 @@
    "status": "normal",
    "kind": "event",
    "source": "w139"
+  },
+  {
+   "id": "ketelhuis-d8b2afbb1011",
+   "title": "La vie d'une femme",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-17T19:00:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/soiree-cine-la-vie-dune-femme/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/10/La-vie-d-une-femme_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Soirée Ciné",
+   "source": "ketelhuis"
   },
   {
    "id": "jazzin-2290403",
@@ -11070,6 +12083,20 @@
    "kind": "event",
    "subtitle": "Jubileum!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "bijlmerparktheater-1669-202612172000",
+   "title": "Wachten op MARSHA",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-17T20:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/wachten-op-marsha-ntn3",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 18,50–€ 21,00",
+   "image": "https://img.bijlmerparktheater.nl/tdg6XZ1mPaWcNvOK9N6lVZSPIWA6krhJ2AXI-A7uxoQ/c:8256:4666:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTc0Ml9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Raymi Sambo Maakt · Dernière",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "jazzin-2025099",
@@ -11558,6 +12585,19 @@
    "source": "kleinekomedie"
   },
   {
+   "id": "muziekgebouw-15466-202612182015",
+   "title": "Magnificat",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-18T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/magnificat-163z",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/gb8FOIrq5Nf7G9fGrC6POh5LguREJIVhgvDHu7hKPIQ/c:8069:4560:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDI5Nl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Nederlandse Bachvereniging",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "orgelpark-6919d03e09bd",
    "title": "Ralph Van Raat speelt Messiaens Vingt Regards",
    "venue": "Orgelpark",
@@ -11618,6 +12658,19 @@
    "kind": "event",
    "subtitle": "Special Ke, Xtra Xceptit, Miss BB Licious",
    "source": "amsterdamalternative"
+  },
+  {
+   "id": "mozaiek-11911",
+   "title": "Onbegrijpelijk rijk (dernière)",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-18T20:30:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/851354942228",
+   "category": "theatre",
+   "end": "2026-12-18T21:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Theater RAST / Ferhat Kaplan · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "bellevue-5915-202612182030",
@@ -11787,6 +12840,20 @@
    "source": "pllek"
   },
   {
+   "id": "bijlmerparktheater-1702-202612191245",
+   "title": "Kerstvakantie: Samar en de bange koning (8+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-19T12:45:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-samar-en-de-bange-koning-8-zw38",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/_yj-BNNJYAdfQDvJPptT9kIWusLAd9B4LGsIdfldrhQ/c:5842:3302:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTY0MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "George Tobal Producties & Theater de Krakeling · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "thuishaven-20261219micheldehey10hrs",
    "title": "Michel de Hey 10HRS",
    "venue": "Thuishaven",
@@ -11813,6 +12880,20 @@
    "kind": "event",
    "subtitle": "Amsterdam is van iedereen die hier thuis is gekomen. Vier mee tijdens Lieve Stad, Dat Zijn Wij: een feestelijke middag met livemuziek, lekker eten en nieuwe ontmoetingen. · Zonzij",
    "source": "tolhuistuin"
+  },
+  {
+   "id": "bijlmerparktheater-1702-202612191400",
+   "title": "Kerstvakantie: Samar en de bange koning (8+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-19T14:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-samar-en-de-bange-koning-8-zw38",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/_yj-BNNJYAdfQDvJPptT9kIWusLAd9B4LGsIdfldrhQ/c:5842:3302:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTY0MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "George Tobal Producties & Theater de Krakeling · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "amsterdamalternative-23639",
@@ -11853,6 +12934,20 @@
    "kind": "event",
    "subtitle": "theater De Krakeling",
    "source": "westergas"
+  },
+  {
+   "id": "bijlmerparktheater-1702-202612191500",
+   "title": "Kerstvakantie: Samar en de bange koning (8+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-19T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-samar-en-de-bange-koning-8-zw38",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/_yj-BNNJYAdfQDvJPptT9kIWusLAd9B4LGsIdfldrhQ/c:5842:3302:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTY0MF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "George Tobal Producties & Theater de Krakeling · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "kleinekomedie-3442-202612191500",
@@ -11954,6 +13049,19 @@
    "image": "https://assets.melkweg.nl/eventpages/9ed057b2-b45e-4b2c-8f2a-17621c3c229d/261219_OnlyFire_Banner.jpg",
    "kind": "event",
    "source": "melkweg"
+  },
+  {
+   "id": "mozaiek-12154",
+   "title": "Yalda Night",
+   "venue": "Podium Mozaïek",
+   "start": "2026-12-19T19:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/283502785311",
+   "category": "theatre",
+   "end": "2026-12-19T20:30:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "ASEMAN CULTURAL & ARTS CENTRE · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "tolhuistuin-10efeff82f97",
@@ -12125,6 +13233,20 @@
    "kind": "event",
    "subtitle": "Wonderful Christmastime · Maximaal 8 kaarten per voorstellingsreeks per adres",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "muziekgebouw-15491-202612192015",
+   "title": "¡Feliz Navidad!",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-19T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/feliz-navidad-jf63",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 45,00",
+   "image": "https://img.muziekgebouw.nl/Hu0PWINB3bht-Na74yRsiKqcCcc4QMzE0HgrvQt3IPs/c:5417:3064:nowe:54:1183/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDMzOV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Cantoría",
+   "source": "muziekgebouw"
   },
   {
    "id": "orgelpark-5ddd5b2dcf68",
@@ -12398,6 +13520,20 @@
    "source": "nieuweanita"
   },
   {
+   "id": "bijlmerparktheater-1703-202612201400",
+   "title": "Kerstvakantie: Stilzitten is voor stoelen (7+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-20T14:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-stilzitten-is-voor-stoelen-7-5tfv",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 9,00",
+   "image": "https://img.bijlmerparktheater.nl/2XzW8oRVEzqG_xgp0Av9T9Yu8m8HOK3A0Qbrfs1BmEw/c:1592:899/s:690:390:1/format:png/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTY2NV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Marcos Valster Da Costa Ferreira en UPNEXT · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "bimhuis-9dc9500a6279",
    "title": "Van Eijck / Brinkmann / Vespestad",
    "venue": "Bimhuis",
@@ -12420,6 +13556,20 @@
    "kind": "event",
    "subtitle": "theater De Krakeling",
    "source": "westergas"
+  },
+  {
+   "id": "bijlmerparktheater-1703-202612201500",
+   "title": "Kerstvakantie: Stilzitten is voor stoelen (7+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-20T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-stilzitten-is-voor-stoelen-7-5tfv",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 9,00",
+   "image": "https://img.bijlmerparktheater.nl/2XzW8oRVEzqG_xgp0Av9T9Yu8m8HOK3A0Qbrfs1BmEw/c:1592:899/s:690:390:1/format:png/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTY2NV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Marcos Valster Da Costa Ferreira en UPNEXT · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "debalie-123781",
@@ -12694,6 +13844,20 @@
    "source": "bimhuis"
   },
   {
+   "id": "muziekgebouw-15926-202612202030",
+   "title": "Our Love Began Here, And Here It Will End",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-20T20:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/our-love-began-here-and-here-it-will-end-16cy",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 15,00–€ 19,00",
+   "image": "https://img.muziekgebouw.nl/OCXbhJuY3ofvKX-6y4efWeGW0tlAfHXrIE4tMOhm0DA/c:7008:3961:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjI4MF9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Dimitra Sofroniou",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "paradiso-2853012",
    "title": "Bente - avondshow",
    "venue": "Paradiso",
@@ -12716,6 +13880,48 @@
    "status": "normal",
    "kind": "event",
    "source": "vrankrijk"
+  },
+  {
+   "id": "bijlmerparktheater-1704-202612210930",
+   "title": "Kerstvakantie: Vilt (2+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-21T09:30:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-vilt-2-qrcb",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/6FsaNnRqshtrZpnByAFiLbT_kYP2WTDguj8LL3rxyHs/c:681:385:nowe:1:356/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDU2NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Plan d- en 2turvenhoog festival · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
+   "id": "bijlmerparktheater-1704-202612211000",
+   "title": "Kerstvakantie: Vilt (2+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-21T10:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-vilt-2-qrcb",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/6FsaNnRqshtrZpnByAFiLbT_kYP2WTDguj8LL3rxyHs/c:681:385:nowe:1:356/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDU2NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Plan d- en 2turvenhoog festival · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
+   "id": "bijlmerparktheater-1704-202612211130",
+   "title": "Kerstvakantie: Vilt (2+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-21T11:30:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-vilt-2-qrcb",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/6FsaNnRqshtrZpnByAFiLbT_kYP2WTDguj8LL3rxyHs/c:681:385:nowe:1:356/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDU2NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Plan d- en 2turvenhoog festival · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "westergas-7e131287c922",
@@ -12873,6 +14079,19 @@
    "source": "cavia"
   },
   {
+   "id": "ketelhuis-343e40fbc300",
+   "title": "You Can See Everything",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-21T20:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/you-can-see-everything-voorpremiere/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/You-Can-See-Everything_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Voorpremière",
+   "source": "ketelhuis"
+  },
+  {
    "id": "paradiso-2790680",
    "title": "Clean Pete's Kerstshow",
    "venue": "Paradiso",
@@ -12940,6 +14159,20 @@
    "source": "westergas"
   },
   {
+   "id": "bijlmerparktheater-1705-202612221415",
+   "title": "Kerstvakantie: Houtje (3+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-22T14:15:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-houtje-3-l4h8",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/s5mjy6FDvW8GCmqSR-cgO0WZonAnwLP-uwNKqMNHmuQ/c:4726:2671:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTYxNl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Ministerie van Onverrichter Zake · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "westergas-59da8c5a3b41",
    "title": "Anansi de spin en de gulzige Tijger (3+)",
    "venue": "Westergas",
@@ -12950,6 +14183,33 @@
    "kind": "event",
    "subtitle": "theater De Krakeling",
    "source": "westergas"
+  },
+  {
+   "id": "bijlmerparktheater-1705-202612221500",
+   "title": "Kerstvakantie: Houtje (3+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-22T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-houtje-3-l4h8",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/s5mjy6FDvW8GCmqSR-cgO0WZonAnwLP-uwNKqMNHmuQ/c:4726:2671:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMTYxNl9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Het Ministerie van Onverrichter Zake · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
+   "id": "muziekgebouw-15709-202612221500",
+   "title": "Kerstspel",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-22T15:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/kerstspel-nwkv",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/u02ooRn07IsskW0bNEUKnp2QjENIPPzjyNjClCP0AQ8/c:5472:3092:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDM0Ml9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Nieuw Vocaal Amsterdam + Holland Baroque",
+   "source": "muziekgebouw"
   },
   {
    "id": "amsterdamalternative-22571",
@@ -12975,6 +14235,20 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "muziekgebouw-15708-202612221930",
+   "title": "Kerstspel",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-22T19:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/kerstspel-5pww",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/_D5-zow0AFE4fz8683g7RizBynYEOVySTqHxde-LOe8/c:5472:3092:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDM0Nl9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Nieuw Vocaal Amsterdam + Holland Baroque",
+   "source": "muziekgebouw"
   },
   {
    "id": "paradiso-2888830",
@@ -13058,6 +14332,47 @@
    "source": "melkweg"
   },
   {
+   "id": "muziekgebouw-15711-202612231030",
+   "title": "Kerstspel",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-23T10:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/kerstspel-rbdn",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 39,00",
+   "image": "https://img.muziekgebouw.nl/N_6IGc8E4j_bdkcCvUUCX4u_FlvYvCpam2-2fG8iaio/c:5472:3092:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDM1MF9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Nieuw Vocaal Amsterdam + Holland Baroque",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "muziekgebouw-15710-202612231330",
+   "title": "Kerstspel",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-23T13:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/kerstspel-fkvx",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/1v4-Qd_SzPfBEd39PFbWj3Gtjft0tWRDzGAgTG4a-C4/c:5472:3092:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDM1NF9vcmlnLkpQRw",
+   "kind": "event",
+   "subtitle": "Nieuw Vocaal Amsterdam + Holland Baroque",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "bijlmerparktheater-1706-202612231400",
+   "title": "Kerstvakantie: POR (6+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-23T14:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-por-6-1s7f",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/TbYrrAFgmKpU4qAHNYTlMrd04cfSbRqOtm9mde-LzFA/c:5712:3228:nowe:0:3864/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDU2OF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "dOFt · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
+  },
+  {
    "id": "ita-1059",
    "title": "Alice in Wonderland (8+)",
    "venue": "Stadsschouwburg (ITA)",
@@ -13070,6 +14385,20 @@
    "kind": "event",
    "subtitle": "De Toneelmakerij / DOX / Paul Knieriem · Jeugd en familie",
    "source": "ita"
+  },
+  {
+   "id": "bijlmerparktheater-1706-202612231500",
+   "title": "Kerstvakantie: POR (6+)",
+   "venue": "Bijlmer Parktheater",
+   "start": "2026-12-23T15:00:00+01:00",
+   "url": "https://www.bijlmerparktheater.nl/agenda/kerstvakantie-por-6-1s7f",
+   "category": "theatre",
+   "status": "normal",
+   "price": "€ 12,50",
+   "image": "https://img.bijlmerparktheater.nl/TbYrrAFgmKpU4qAHNYTlMrd04cfSbRqOtm9mde-LzFA/c:5712:3228:nowe:0:3864/s:690:390:1/aHR0cHM6Ly93d3cuYmlqbG1lcnBhcmt0aGVhdGVyLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxMDU2OF9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "dOFt · VOORSTELLING MET RANDPROGRAMMA",
+   "source": "bijlmerparktheater"
   },
   {
    "id": "amsterdamalternative-22572",
@@ -13506,6 +14835,20 @@
    "source": "ita"
   },
   {
+   "id": "muziekgebouw-15784-202612271500",
+   "title": "Icarus (8+)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-27T15:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/icarus-8-d4k7",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 29,00",
+   "image": "https://img.muziekgebouw.nl/jALgfe9tHPrdzASBJQkHMkdFm8pxv0mnXh7qfKAKMdA/c:5615:3174:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTM4OV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Cappella Amsterdam + Nieuw Amsterdams Klarinet Kwartet",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "amsterdamalternative-22103",
    "title": "Het verhaal van prinsesje Reutemeteut en de onbedwingbare Wirwar (6+)",
    "venue": "Plein Theater",
@@ -13557,6 +14900,19 @@
    "free": true,
    "subtitle": "Boys Won't Be Boys",
    "source": "bellevue"
+  },
+  {
+   "id": "ketelhuis-9f4b97c4c1b0",
+   "title": "You Can See Everything",
+   "venue": "Het Ketelhuis",
+   "start": "2026-12-27T20:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/you-can-see-everything-voorpremiere/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/You-Can-See-Everything_st_1_jpg_sd-high.jpg",
+   "kind": "event",
+   "subtitle": "Voorpremière",
+   "source": "ketelhuis"
   },
   {
    "id": "bellevue-5916-202612272030",
@@ -13968,6 +15324,20 @@
    "source": "paradiso"
   },
   {
+   "id": "muziekgebouw-15796-202612302015",
+   "title": "Maar wat er ook gebeurt er klinkt muziek",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-30T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/maar-wat-er-ook-gebeurt-er-klinkt-muziek-165d",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 20,00–€ 25,00",
+   "image": "https://img.muziekgebouw.nl/UAb1jkarMzpTWid6fizEMwTTK5xhKJk-ztCu_BVe4Xs/c:1386:783:nowe:0:60/s:690:390:1/format:png/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTI5OV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Olga Zuiderhoek + Gerard Bouwhuis",
+   "source": "muziekgebouw"
+  },
+  {
    "id": "bimhuis-64b1280c9e4a",
    "title": "All Ellington",
    "venue": "Bimhuis",
@@ -14034,6 +15404,20 @@
    "image": "https://img.dekleinekomedie.nl/udyUTZE3xWnqPHfWiUbGihxFsLoPFUAYW1uHoOmqWD0/c:5435:3071:nowe:0:2097/s:690:390:1/aHR0cHM6Ly93d3cuZGVrbGVpbmVrb21lZGllLm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWcxNzI5N19vcmlnLmpwZw",
    "kind": "event",
    "source": "kleinekomedie"
+  },
+  {
+   "id": "muziekgebouw-15797-202612311600",
+   "title": "Maar wat er ook gebeurt er klinkt muziek",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2026-12-31T16:00:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/maar-wat-er-ook-gebeurt-er-klinkt-muziek-nwxm",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 20,00–€ 25,00",
+   "image": "https://img.muziekgebouw.nl/-0ujacTGWtzfLotEou6Bgxds6mLYFkB3f3KZCUZ_eFM/c:1386:783:nowe:0:52/s:690:390:1/format:png/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTMwMV9vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Olga Zuiderhoek + Gerard Bouwhuis",
+   "source": "muziekgebouw"
   },
   {
    "id": "mezrab-5135",
@@ -14192,6 +15576,19 @@
    "source": "richel"
   },
   {
+   "id": "mozaiek-11939",
+   "title": "Licht (2+)",
+   "venue": "Podium Mozaïek",
+   "start": "2027-01-02T14:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/486145982548",
+   "category": "theatre",
+   "end": "2027-01-02T14:45:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Dadodans · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
    "id": "westergas-025e1dd129ac",
    "title": "Samar en de bange koning (8+)",
    "venue": "Westergas",
@@ -14255,6 +15652,19 @@
    "status": "normal",
    "kind": "event",
    "source": "mezrab"
+  },
+  {
+   "id": "muziekgebouw-15798-202701022015",
+   "title": "Maar wat er ook gebeurt er klinkt muziek",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2027-01-02T20:15:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/maar-wat-er-ook-gebeurt-er-klinkt-muziek-5pmm",
+   "category": "music",
+   "status": "sold_out",
+   "image": "https://img.muziekgebouw.nl/vKdEJsVPbbBhfqNkaUJ00ow0BpgnLrymA4jMvlKUAC8/c:1386:783:nowe:0:58/s:690:390:1/format:png/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NTMwM19vcmlnLnBuZw",
+   "kind": "event",
+   "subtitle": "Olga Zuiderhoek + Gerard Bouwhuis",
+   "source": "muziekgebouw"
   },
   {
    "id": "bimhuis-db51cbb6d162",
@@ -14322,6 +15732,46 @@
    "kind": "event",
    "subtitle": "ITA · Jeugd en familie",
    "source": "ita"
+  },
+  {
+   "id": "mozaiek-11940",
+   "title": "Roodkapje (3+)",
+   "venue": "Podium Mozaïek",
+   "start": "2027-01-03T11:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/289378510290",
+   "category": "theatre",
+   "end": "2027-01-03T11:40:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Het kleine theater · Theaterzaal",
+   "source": "mozaiek"
+  },
+  {
+   "id": "muziekgebouw-15715-202701031330",
+   "title": "FEST (6+)",
+   "venue": "Muziekgebouw aan 't IJ",
+   "start": "2027-01-03T13:30:00+01:00",
+   "url": "https://www.muziekgebouw.nl/nl/agenda/fest-6-ltcj",
+   "category": "music",
+   "status": "normal",
+   "price": "€ 12,50–€ 23,00",
+   "image": "https://img.muziekgebouw.nl/A_kcArLl0W5xNbDmcwqQmi9mHuDYPVG6bn60ZGcOLxU/c:4122:2332:nowe:378:666/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NjM5NV9vcmlnLmpwZw",
+   "kind": "event",
+   "subtitle": "Zonzo Compagnie",
+   "source": "muziekgebouw"
+  },
+  {
+   "id": "mozaiek-11941",
+   "title": "Roodkapje (3+)",
+   "venue": "Podium Mozaïek",
+   "start": "2027-01-03T14:00:00+01:00",
+   "url": "https://ticketshop.ticketmatic.com/podium_mozaiek/shop/event/275789262627",
+   "category": "theatre",
+   "end": "2027-01-03T14:40:00+01:00",
+   "status": "normal",
+   "kind": "event",
+   "subtitle": "Het kleine theater · Theaterzaal",
+   "source": "mozaiek"
   },
   {
    "id": "westergas-63c07f6f7db7",
@@ -14453,6 +15903,19 @@
    "kind": "event",
    "subtitle": "Cinema!",
    "source": "nieuweanita"
+  },
+  {
+   "id": "ketelhuis-031c478095a6",
+   "title": "La Bola Negra",
+   "venue": "Het Ketelhuis",
+   "start": "2027-01-05T18:30:00+01:00",
+   "url": "https://www.ketelhuis.nl/films/la-bola-negra-rfd-monthly-special/",
+   "category": "film",
+   "status": "normal",
+   "image": "https://www.ketelhuis.nl/wp-content/uploads/2026/11/La_bola_negra-1207x700.png",
+   "kind": "event",
+   "subtitle": "RFD Monthly Special",
+   "source": "ketelhuis"
   },
   {
    "id": "mezrab-4917",
