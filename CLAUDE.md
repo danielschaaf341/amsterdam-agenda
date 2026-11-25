@@ -20,7 +20,8 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
 instagram/           accounts.json (who to follow), fetch.py (official Graph API 'Business Discovery',
                      run by workflows/instagram.yml → branch instagram-inbox), PROCESS.md (weekly Claude
-                     task reads posters → events.json), events.json (read by scrapers/instagram.py)
+                     task reads posters → events.json), events.json (read by scrapers/instagram.py);
+                     BROWSER_TASK.md = alternative: weekly task in the user's own logged-in Chrome
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
 build.py             assembles _site/ (site/ + data) for GitHub Pages

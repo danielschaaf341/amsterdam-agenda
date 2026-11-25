@@ -1,8 +1,29 @@
 {
-  "_help": "Instagram accounts to follow (business/creator accounts only – that's what the official API can read). username without @; venue = display name in the agenda.",
+  "_help": "Instagram accounts the weekly browser task checks (instagram/BROWSER_TASK.md). username without @ (null = not found yet: the task searches the venue name once and the user confirms). why: what Instagram adds on top of the regular scrapers. Handles marked source=site come from the venue's own website.",
   "accounts": [
-    {"username": "nachbar_169", "venue": "Nachbar"},
-    {"username": "cafe40.ams", "venue": "Café 40"},
-    {"username": "robin_food_amsterdam", "venue": "Robin Food"}
+    {"venue": "De Sering", "username": null, "why": "site behind Cloudflare; only the community kitchen is in recurring.json"},
+    {"venue": "Café 40", "username": "cafe40.ams", "source": "user", "why": "no agenda online"},
+    {"venue": "Robin Food", "username": "robin_food_amsterdam", "source": "amsterdamalternative.nl", "why": "closing days, Guerrilla Kitchen nights"},
+    {"venue": "Shelter", "username": "shelteramsterdam", "source": "site", "why": "no public agenda"},
+    {"venue": "Kanarie Club", "username": "kanarieclub", "source": "site", "why": "no public agenda"},
+    {"venue": "Spui25", "username": null, "why": "site behind Cloudflare"},
+    {"venue": "LAB111", "username": "lab_111", "source": "site", "why": "site has a bot check; specials and late-night"},
+    {"venue": "Kriterion", "username": null, "why": "site behind Cloudflare; only Sneak Preview + late-night come in via Filmvandaag"},
+    {"venue": "Bitterzoet", "username": null, "why": "site refuses requests; club nights are missing"},
+    {"venue": "Cinecenter", "username": "cinecenter", "source": "site", "why": "no specials page"},
+    {"venue": "Q-Factory", "username": "qfactory_adam", "source": "site", "why": "no agenda scraper yet"},
+    {"venue": "De School", "username": "deschoolamsterdam", "source": "site", "why": "check whether still active"},
+    {"venue": "Radio Radio", "username": null, "why": "site not found"},
+    {"venue": "Murmur", "username": null, "why": "site not found"},
+    {"venue": "Nachbar", "username": "nachbar_169", "source": "user", "why": "only ticketed nights are in the Stager shop"},
+    {"venue": "Lofi", "username": "lofi.amsterdam", "source": "site", "why": "agenda has no times"},
+    {"venue": "Sexyland", "username": "sexyland_world", "source": "site", "why": "pop-ups while the venue is rebuilt"},
+    {"venue": "Thuishaven", "username": "thuishaven", "source": "site", "why": "extra/last-minute nights"},
+    {"venue": "Radion", "username": "radionamsterdam", "source": "site", "why": "free nights outside the ticket shop"},
+    {"venue": "Studio/K", "username": "studiokamsterdam", "source": "site", "why": "site sometimes serves a wait page"},
+    {"venue": "Filmhuis Cavia", "username": "filmhuiscavia", "source": "site", "why": "extra screenings"},
+    {"venue": "Plantage Dok", "username": "plantagedok", "source": "site", "why": "Dok Nights not always in the calendar"},
+    {"venue": "Café Gilde (OT301)", "username": "cafegilde.mokum", "source": "site", "why": "food nights"},
+    {"venue": "Mezrab", "username": "mezrab_", "source": "site", "why": "storytelling nights"}
   ]
 }

@@ -59,7 +59,7 @@ def save_image(session, url: str, path: Path) -> None:
 
 def main(inbox: Path) -> int:
     token, ig_user_id = os.environ["IG_TOKEN"], os.environ["IG_USER_ID"]
-    accounts = json.loads((HERE / "accounts.json").read_text())["accounts"]
+    accounts = [a for a in json.loads((HERE / "accounts.json").read_text())["accounts"] if a.get("username")]
     seen_file = inbox / "seen.json"
     seen = set(json.loads(seen_file.read_text())) if seen_file.exists() else set()
     pending = inbox / "pending"
