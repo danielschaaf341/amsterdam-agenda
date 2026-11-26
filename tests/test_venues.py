@@ -435,3 +435,10 @@ def test_instagram_events_file():
     assert film.start == datetime(2026, 11, 25, 20, 0, tzinfo=TZ) and film.category == "film" and not film.all_day
     expo = by_title(evs, "Expositie")
     assert expo.all_day and expo.kind == "series" and expo.end.date() == date(2026, 12, 6)
+
+
+def test_jazzin_title_from_link_when_missing():
+    from scrapers import jazzin
+    raw = load_fixture("jazzin")
+    evs = jazzin.parse(raw, date(2026, 11, 23))
+    assert not [e for e in evs if len(e.title.strip("?!. ")) < 2]

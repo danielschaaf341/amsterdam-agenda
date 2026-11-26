@@ -141,7 +141,8 @@ Third view next to Lijst/Week (`?view=kaart&dag=YYYY-MM-DD`). `app.js` loads Lea
 key; CARTO now needs one) – dark mode/poster invert them with a CSS filter. One marker per venue with the
 number of events on the chosen day (ring = category colour, pie when mixed, gold ring for ★ venues);
 tap → bottom sheet (side panel ≥ 900 px). Day strip + Dag / Dit weekend / Deze week; the header period
-chips drive the map too. All list filters apply; "+ reeksen & vaste prik" adds series/weekly items.
+chips drive the map too. All list filters apply; weekly items (on their weekdays) and running series are always included
+(user wish: picking "Eten" must show e.g. the Zaal 100 restaurant without extra toggles).
 
 Coordinates live in `venues.json`, keyed by the exact `venue` string (case-insensitive):
 - `venues`: `{"lat", "lng", "address", "source", "note"?}` – filled **once** (own site/JSON-LD address →

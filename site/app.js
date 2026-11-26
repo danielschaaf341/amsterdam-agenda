@@ -33,7 +33,6 @@ const state = {
   weekOffset: 0,
   mapDay: /^\d{4}-\d{2}-\d{2}$/.test(urlParams.get("dag") || "") ? urlParams.get("dag") : null,  // null = today
   mapRange: "day",                                  // day | weekend | week
-  mapExtra: store.get("mapExtra", false),           // + series & weekly items on the map
 };
 
 // ---------------------------------------------------------------- date helpers (all in Amsterdam time)

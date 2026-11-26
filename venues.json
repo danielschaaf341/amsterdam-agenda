@@ -23,7 +23,13 @@
    "lat": 52.376147,
    "lng": 4.894078,
    "address": "Nieuwezijds Kolk 25, 1012 PV, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
+  },
+  "Amsterdam Blue Dock, CvA": {
+   "lat": 52.375961,
+   "lng": 4.908902,
+   "address": "Oosterdokskade 151, 1011 DL, Amsterdam",
+   "source": "eigen site (CvA)"
   },
   "Bijlmer Parktheater": {
    "lat": 52.314565,
@@ -55,12 +61,17 @@
    "address": "Buiksloterkerkpad, 1034 VZ, Amsterdam",
    "source": "osm:naam"
   },
+  "Café 40": {
+   "lat": 52.37526,
+   "lng": 4.897444,
+   "address": "Oudebrugsteeg 7, Amsterdam",
+   "source": "gebruiker"
+  },
   "Café Czaar": {
-   "lat": 52.37184,
-   "lng": 4.931803,
-   "address": "Czaar Peterstraat, 1018 PD, Amsterdam",
-   "source": "osm:naam",
-   "note": "OSM 'Czaar' in de Czaar Peterstraat (naam-match)"
+   "lat": 52.371839,
+   "lng": 4.93175,
+   "address": "Czaar Peterstraat 281, 1018 PL, Amsterdam",
+   "source": "eigen site"
   },
   "Café de Engelbewaarder": {
    "lat": 52.370207,
@@ -78,8 +89,7 @@
    "lat": 52.383448,
    "lng": 4.872371,
    "address": "Groen van Prinstererstraat 41, 1051 EH, Amsterdam",
-   "source": "osm:naam",
-   "note": "naam-match via OSM"
+   "source": "eigen site"
   },
   "Café Langereis": {
    "lat": 52.366129,
@@ -92,7 +102,7 @@
    "lng": 4.938429,
    "address": "Borneostraat, 1094 CR, Amsterdam",
    "source": "osm:naam",
-   "note": "naam-match via OSM, geen huisnummer"
+   "note": "onzeker: OSM-naam, Borneostraat zonder huisnummer"
   },
   "Café Quelle": {
    "lat": 52.361855,
@@ -100,12 +110,17 @@
    "address": "Jan Pieter Heijestraat 133-135, 1054 ME, Amsterdam",
    "source": "osm:naam"
   },
+  "Café Rivièra": {
+   "lat": 52.348478,
+   "lng": 4.904693,
+   "address": "Rijnstraat 11, 1078 PT, Amsterdam",
+   "source": "eigen site"
+  },
   "Café Voorwaarts": {
    "lat": 52.385183,
    "lng": 4.924872,
-   "address": "Schaafstraat 12, 1021 KE, Amsterdam",
-   "source": "osm:naam",
-   "note": "naam-match via OSM"
+   "address": "Schaafstraat 12, Amsterdam",
+   "source": "eigen site"
   },
   "Carré": {
    "lat": 52.362378,
@@ -125,11 +140,23 @@
    "address": "Landsmeerderdijk 213, 1035 PV, Amsterdam",
    "source": "osm:naam"
   },
+  "CvA": {
+   "lat": 52.375961,
+   "lng": 4.908902,
+   "address": "Oosterdokskade 151, 1011 DL, Amsterdam",
+   "source": "eigen site"
+  },
   "De Balie": {
    "lat": 52.363043,
    "lng": 4.88286,
    "address": "Kleine-Gartmanplantsoen 10, 1017 RR, Amsterdam",
    "source": "osm:adres"
+  },
+  "De Boule De Boule": {
+   "lat": 52.367646,
+   "lng": 4.900165,
+   "address": "Waterlooplein 6A, 1011 PG, Amsterdam",
+   "source": "eigen site"
   },
   "De Brakke Grond": {
    "lat": 52.371149,
@@ -150,11 +177,10 @@
    "source": "osm:naam"
   },
   "De KHL": {
-   "lat": 52.374007,
-   "lng": 4.936309,
-   "address": "Oostelijke Handelskade, 1019 DV, Amsterdam",
-   "source": "osm:naam",
-   "note": "OSM 'De Nieuwe KHL' (naam-match)"
+   "lat": 52.374055,
+   "lng": 4.93628,
+   "address": "Oostelijke Handelskade 44A, 1019 BN, Amsterdam",
+   "source": "eigen site"
   },
   "De Kleine Komedie": {
    "lat": 52.366893,
@@ -201,9 +227,8 @@
   "Elthethokerk": {
    "lat": 52.363613,
    "lng": 4.937182,
-   "address": "Javastraat 118, 1094 HL, Amsterdam",
-   "source": "osm:naam",
-   "note": "OSM 'Elthetokerk', Javastraat 118 (spelling wijkt af)"
+   "address": "Javastraat 118a, Amsterdam",
+   "source": "jazzfestamsterdam.nl"
   },
   "Eye Filmmuseum": {
    "lat": 52.384335,
@@ -215,7 +240,8 @@
    "lat": 52.3834,
    "lng": 4.929004,
    "address": "Aambeeldstraat 24, 1021 KB, Amsterdam",
-   "source": "osm:adres"
+   "source": "osm:adres",
+   "note": "onzeker: Aambeeldstraat 24 uit geheugen/OSM; site noemt geen adres"
   },
   "Felix Meritis": {
    "lat": 52.36999,
@@ -232,8 +258,8 @@
   "Filmhuis Cavia": {
    "lat": 52.382055,
    "lng": 4.870296,
-   "address": "Van Hallstraat 52, 1051 HH, Amsterdam",
-   "source": "osm:adres"
+   "address": "Van Hallstraat 52-1, 1051 HH, Amsterdam",
+   "source": "eigen site"
   },
   "Framer Framed": {
    "lat": 52.356921,
@@ -248,10 +274,16 @@
    "source": "osm:adres"
   },
   "Garage Noord": {
-   "lat": 52.38554,
-   "lng": 4.925687,
-   "address": "Gedempt Hamerkanaal, 1021 KM, Amsterdam",
-   "source": "osm:naam"
+   "lat": 52.385573,
+   "lng": 4.92572,
+   "address": "Gedempt Hamerkanaal 40, 1021 KM, Amsterdam",
+   "source": "WeTicket"
+  },
+  "Greene Room": {
+   "lat": 52.393541,
+   "lng": 4.852239,
+   "address": "Elementenstraat 16, Amsterdam",
+   "source": "eigen site"
   },
   "Het Concertgebouw": {
    "lat": 52.356425,
@@ -264,6 +296,19 @@
    "lng": 4.873635,
    "address": "Pazzanistraat 4, 1014 DB, Amsterdam",
    "source": "osm:adres"
+  },
+  "Ingang": {
+   "lat": 52.384161,
+   "lng": 4.921005,
+   "address": "Gedempt Hamerkanaal 86, Amsterdam",
+   "source": "gebruiker"
+  },
+  "Jazz op zondag - Podium Horizon Amsterdam": {
+   "lat": 52.391501,
+   "lng": 4.875577,
+   "address": "Hembrugstraat 156, 1013 XC, Amsterdam",
+   "source": "eigen site",
+   "note": "Hembrugstraat 156: OSM kent alleen de straat"
   },
   "Joe's Garage": {
    "lat": 52.355566,
@@ -294,7 +339,7 @@
    "lng": 4.867249,
    "address": "Arie Biemondstraat 111, 1054 PD, Amsterdam",
    "source": "osm:naam",
-   "note": "Arie Biemondstraat 111 (zelfde gebouw als LAB111)"
+   "note": "onzeker: Arie Biemondstraat 111 (zelfde gebouw als LAB111), niet op een site bevestigd"
   },
   "Lofi": {
    "lat": 52.391255,
@@ -306,7 +351,7 @@
    "lat": 52.370056,
    "lng": 4.877716,
    "address": "Lijnbaansgracht 163, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
   },
   "Manhattan Lounge Bar": {
    "lat": 52.335606,
@@ -336,7 +381,8 @@
    "lat": 52.359462,
    "lng": 4.912711,
    "address": "Boerhaaveplein 28, 1091 AT, Amsterdam",
-   "source": "osm:naam"
+   "source": "osm:naam",
+   "note": "onzeker: OSM-naam 'Badhuistheater', Boerhaaveplein 28"
   },
   "MKZ": {
    "lat": 52.353932,
@@ -386,6 +432,13 @@
    "address": "Schaafstraat 21, 1021 KP, Amsterdam",
    "source": "osm:naam"
   },
+  "Oedipus Craft Space": {
+   "lat": 52.385225,
+   "lng": 4.92368,
+   "address": "Schaafstraat 21, 1021 KD, Amsterdam",
+   "source": "WeTicket (bedrijfsadres Oedipus)",
+   "note": "onzeker: bedrijfsadres van Oedipus Brewing"
+  },
   "Openbare Bibliotheek Amsterdam": {
    "lat": 52.376246,
    "lng": 4.908198,
@@ -426,7 +479,7 @@
    "lat": 52.368917,
    "lng": 4.896321,
    "address": "Kloveniersburgwal 86, 1012 CZ, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
   },
   "Pianola Museum": {
    "lat": 52.378619,
@@ -462,13 +515,19 @@
    "lat": 52.380077,
    "lng": 4.854134,
    "address": "Bos en Lommerweg 191, 1055 DT, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
   },
   "Pompstation": {
    "lat": 52.365943,
    "lng": 4.933184,
    "address": "Zeeburgerdijk 52, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
+  },
+  "Queer library": {
+   "lat": 52.363246,
+   "lng": 4.927684,
+   "address": "Wagenaarstraat 336, Amsterdam",
+   "source": "Amsterdam Alternative"
   },
   "Radion": {
    "lat": 52.34557,
@@ -505,13 +564,13 @@
    "lng": 4.892135,
    "address": "ms. van Riemsdijkweg 39, 1033 RC, Amsterdam",
    "source": "osm:naam",
-   "note": "oude plek Ms. van Riemsdijkweg 39; wordt verbouwd, pop-ups zijn elders"
+   "note": "onzeker: oude plek Ms. van Riemsdijkweg 39; wordt verbouwd, pop-ups zijn elders"
   },
   "Skatecafé": {
-   "lat": 52.384124,
-   "lng": 4.920726,
-   "address": "Gedempt Hamerkanaal 96, 1021 KR, Amsterdam",
-   "source": "osm:adres"
+   "lat": 52.385421,
+   "lng": 4.925585,
+   "address": "Gedempt Hamerkanaal, 1021 KM, Amsterdam (Noord)",
+   "source": "osm:naam (gebruiker: naast het Gedempt Hamerkanaal)"
   },
   "Sociëteit De Kring": {
    "lat": 52.363577,
@@ -535,7 +594,7 @@
    "lat": 52.369908,
    "lng": 4.903285,
    "address": "Nieuwe Uilenburgerstraat 116, 1011 LX, Amsterdam",
-   "source": "osm:adres"
+   "source": "eigen site"
   },
   "Stadsschouwburg (ITA)": {
    "lat": 52.364356,
@@ -546,8 +605,8 @@
   "Studio/K": {
    "lat": 52.365113,
    "lng": 4.936239,
-   "address": "Timorplein 62, 1094 CC, Amsterdam",
-   "source": "osm:adres"
+   "address": "Timorplein 62, Amsterdam",
+   "source": "eigen site"
   },
   "Teatro Munganga": {
    "lat": 52.354291,
@@ -572,7 +631,7 @@
    "lng": 4.890086,
    "address": "Nieuwezijds Voorburgwal 282-H, 1012 RT, Amsterdam",
    "source": "osm:naam",
-   "note": "naam-match: Nieuwezijds Voorburgwal 282"
+   "note": "onzeker: OSM-naam (Nieuwezijds Voorburgwal 282); site noemt geen adres"
   },
   "Theater Mascini": {
    "lat": 52.375572,
@@ -581,11 +640,10 @@
    "source": "osm:naam"
   },
   "Thuishaven": {
-   "lat": 52.396726,
-   "lng": 4.856579,
-   "address": "Westpoort, Amsterdam",
-   "source": "osm:naam",
-   "note": "OSM kent alleen 'Thuishaven, Westpoort' (geen huisnummer)"
+   "lat": 52.396762,
+   "lng": 4.856394,
+   "address": "Contactweg 68, 1014 BW, Amsterdam",
+   "source": "eigen site"
   },
   "Tolhuistuin": {
    "lat": 52.383088,
@@ -598,6 +656,18 @@
    "lng": 4.894643,
    "address": "Sint Pieterspoortsteeg 33, 1012 HM, Amsterdam",
    "source": "osm:naam"
+  },
+  "Tram House": {
+   "lat": 52.358583,
+   "lng": 4.850388,
+   "address": "Surinameplein 120, Amsterdam",
+   "source": "Amsterdam Alternative"
+  },
+  "Transit": {
+   "lat": 52.384441,
+   "lng": 4.92888,
+   "address": "Aambeeldstraat 38, 1021 KB, Amsterdam",
+   "source": "Amsterdam Alternative"
   },
   "Volkshotel": {
    "lat": 52.353752,
@@ -651,27 +721,15 @@
  "aliases": {},
  "not_on_map": {
   "ADM Noord – 't Groene Veld": "adres onbekend",
-  "Amsterdam Blue Dock, CvA": "adres onbekend",
   "Bajesdorp - GROND": "adres onbekend",
-  "Café 40": "adres onbekend (geen site; mogelijk bar40 bij Garage Noord)",
-  "Café Rivièra": "adres onbekend",
   "Contra": "adres onbekend",
-  "Cultureel Café Bacchus": "adres onbekend",
-  "CvA": "adres onbekend",
-  "De Boule De Boule": "adres onbekend",
+  "Cultureel Café Bacchus": "buiten Amsterdam (Aalsmeer, Gerberastraat 4)",
   "Friekens Brouwerij": "adres onbekend",
-  "Greene Room": "adres onbekend",
-  "Ingang": "adres onbekend",
-  "Jazz op zondag - Podium Horizon Amsterdam": "adres onbekend",
-  "Oedipus Craft Space": "adres onbekend",
-  "POS (possibilities open studio)": "adres onbekend",
+  "POS (possibilities open studio)": "ergens in de Centrale Markthal (Amsterdam-West); precieze plek onbekend",
   "Plofhuis7 (Weesp)": "adres onbekend",
-  "Queer library": "adres onbekend",
   "Singer Laren": "buiten Amsterdam (Laren)",
   "Theater De Dillewijn (Ankeveen)": "buiten Amsterdam (Ankeveen)",
   "Theater de Omval": "buiten Amsterdam (Diemen)",
-  "Tram House": "adres onbekend",
-  "Transit": "onzeker: OSM vond 'Transit Bar' (Aambeeldstraat), niet zeker dezelfde plek",
   "WG-terrein": "adres onbekend",
   "Woonruimte Coöperatief": "adres onbekend"
  }

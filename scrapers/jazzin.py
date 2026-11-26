@@ -72,6 +72,13 @@ def parse(raw: str, today: date) -> list[Event]:
             except ValueError:
                 end = None
         title = clean(o.get("title"))
+        if len(re.sub(r"[^\w]", "", title)) < 2:
+            # jazzin sometimes has '?' as title; the venue link usually carries it: '/event/30-11-2026-goeie-zin/'
+            slug = (o.get("site") or "").rstrip("/").rsplit("/", 1)[-1]
+            slug = re.sub(r"^\d{1,2}-\d{1,2}-\d{4}-|-\d+$", "", slug).replace("-", " ").strip()
+            if len(slug) < 2 or re.fullmatch(r"[\d ]+", slug):
+                continue
+            title = slug[:1].upper() + slug[1:]
         price = clean(str(o.get("price") or "")) or None
         out.append(Event(
             id=make_id(NAME, o["id"]),

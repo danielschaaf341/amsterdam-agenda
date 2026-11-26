@@ -29,7 +29,6 @@
   // the days in [from, to] on which an item shows up on the map
   function occurrences(ev, from, to) {
     if (!ev.kind || ev.kind === "event") return ev._day >= from && ev._day <= to ? [ev._day] : [];
-    if (!state.mapExtra) return [];
     if (ev.kind === "series") {
       const end = ev._endDay || ev._day;
       const a = ev._day > from ? ev._day : from, b = end < to ? end : to;
@@ -159,7 +158,6 @@
     $("#map-prev").disabled = state.mapRange === "day" && day() <= t;
     $("#map-next").disabled = state.mapRange === "day" && day() >= addDays(t, DAYS_AHEAD - 1);
     document.querySelectorAll(".map-range button").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.range === state.mapRange)));
-    $("#map-extra").setAttribute("aria-pressed", String(state.mapExtra));
   }
 
   function setDay(k) {
@@ -181,11 +179,6 @@
       const r = e.target.closest("button")?.dataset.range;
       if (!r) return;
       state.mapRange = r;
-      render();
-    });
-    $("#map-extra").addEventListener("click", () => {
-      state.mapExtra = !state.mapExtra;
-      store.set("mapExtra", state.mapExtra);
       render();
     });
     $("#map-fit").addEventListener("click", fit);
