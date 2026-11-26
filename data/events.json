@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:03:42+01:00",
+ "generated": "2026-11-26T22:33:19+01:00",
  "window_days": 42,
  "count": 1219,
  "events": [
@@ -2725,6 +2725,19 @@
    "source": "lofi"
   },
   {
+   "id": "richel-15584",
+   "title": "Buffet Eten Café Chantant",
+   "venue": "Theater De Richel",
+   "start": "2026-11-29T00:00:00+01:00",
+   "url": "https://theaterderichel.nl/evenementen/buffet-eten-cafe-chantant/",
+   "category": "other",
+   "status": "normal",
+   "kind": "event",
+   "all_day": true,
+   "subtitle": "Diner",
+   "source": "richel"
+  },
+  {
    "id": "pllek-4c1c878287de",
    "title": "Yogales Amsterdam met uitzicht | Vinyasa Flow",
    "venue": "Pllek",
@@ -3159,18 +3172,6 @@
    "kind": "event",
    "subtitle": "Stichting Eternity Percussion",
    "source": "bijlmerparktheater"
-  },
-  {
-   "id": "richel-15584",
-   "title": "Buffet Eten Café Chantant",
-   "venue": "Theater De Richel",
-   "start": "2026-11-29T18:00:00+01:00",
-   "url": "https://theaterderichel.nl/evenementen/buffet-eten-cafe-chantant/",
-   "category": "other",
-   "status": "normal",
-   "kind": "event",
-   "subtitle": "Diner",
-   "source": "richel"
   },
   {
    "id": "recurring-1a6939c3bcf3",
@@ -11995,7 +11996,7 @@
    "url": "https://depijp.rialtofilm.nl/nl/films/you-can-see-everything",
    "category": "film",
    "end": "2026-12-17T23:35:00+01:00",
-   "status": "normal",
+   "status": "sold_out",
    "image": "https://depijp.rialtofilm.nl/prod/media/you-can-see-everything-poster.jpg?guid=f55e2962-831e-4074-b1d6-aa730bed53b5",
    "kind": "event",
    "source": "rialto"
@@ -13992,7 +13993,7 @@
    "start": "2026-12-22T19:30:00+01:00",
    "url": "https://www.muziekgebouw.nl/nl/agenda/kerstspel-5pww",
    "category": "music",
-   "status": "normal",
+   "status": "sold_out",
    "price": "€ 12,50–€ 39,00",
    "image": "https://img.muziekgebouw.nl/_D5-zow0AFE4fz8683g7RizBynYEOVySTqHxde-LOe8/c:5472:3092:fp:0.5:0.33/s:690:390:1/aHR0cHM6Ly93d3cubXV6aWVrZ2Vib3V3Lm5sLy9jbXNfZmlsZXMvc3lzdGVtL2ltYWdlcy9pbWc4NDM0Nl9vcmlnLkpQRw",
    "kind": "event",
