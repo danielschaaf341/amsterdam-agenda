@@ -15,9 +15,12 @@ const store = {
   set(key, value) { try { localStorage.setItem("agenda." + key, JSON.stringify(value)); } catch { /* private mode */ } },
 };
 
+const URL_VIEWS = { lijst: "list", week: "week", kaart: "map" };
+const urlParams = new URLSearchParams(location.search);
+
 const state = {
   events: [],
-  view: store.get("view", "list"),
+  view: URL_VIEWS[urlParams.get("view")] || store.get("view", "list"),
   quick: "all",
   cats: new Set(store.get("cats", [])),          // empty = all categories
   hiddenVenues: new Set(store.get("hiddenVenues", [])),
@@ -28,6 +31,9 @@ const state = {
   freeOnly: store.get("freeOnly", false),
   design: "standaard",
   weekOffset: 0,
+  mapDay: /^\d{4}-\d{2}-\d{2}$/.test(urlParams.get("dag") || "") ? urlParams.get("dag") : null,  // null = today
+  mapRange: "day",                                  // day | weekend | week
+  mapExtra: store.get("mapExtra", false),           // + series & weekly items on the map
 };
 
 // ---------------------------------------------------------------- date helpers (all in Amsterdam time)
@@ -367,13 +373,66 @@ function renderCats() {
 
 function render() {
   document.querySelectorAll(".view-toggle button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
-  document.querySelectorAll("#quick button").forEach((b) => b.classList.toggle("on", b.dataset.quick === state.quick));
+  document.documentElement.dataset.view = state.view;
+  document.querySelectorAll("#quick button").forEach((b) => b.classList.toggle("on", b.dataset.quick === activeQuick()));
   document.querySelectorAll(".club-mode button[data-club]").forEach((b) => b.setAttribute("aria-checked", String(b.dataset.club === state.clubMode)));
   $("#free-btn").setAttribute("aria-pressed", String(state.freeOnly));
   $("#list").hidden = state.view !== "list";
   $("#week").hidden = state.view !== "week";
+  $("#map-view").hidden = state.view !== "map";
+  syncURL();
+  if (state.view === "map") { renderMapView(); return; }
   renderSeries();
   if (state.view === "list") renderList(); else renderWeek();
+}
+
+// which period chip is lit: on the map the chips drive the map's day/range
+function activeQuick() {
+  if (state.view !== "map" || state.quick === "fav") return state.quick;
+  if (state.mapRange !== "day") return state.mapRange;
+  return (state.mapDay || todayKey()) === todayKey() ? "today" : "all";
+}
+
+function syncURL() {
+  const p = new URLSearchParams(location.search);
+  const name = Object.keys(URL_VIEWS).find((k) => URL_VIEWS[k] === state.view);
+  if (state.view === "list") p.delete("view"); else p.set("view", name);
+  if (state.view === "map" && state.mapRange === "day" && state.mapDay) p.set("dag", state.mapDay); else p.delete("dag");
+  const qs = p.toString();
+  try { history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash); } catch { /* file:// */ }
+}
+
+// ---------------------------------------------------------------- map view (Leaflet + map.js load on first use)
+const CDN = "https://cdnjs.cloudflare.com/ajax/libs/";
+const MAP_ASSETS = [
+  ["css", CDN + "leaflet/1.9.4/leaflet.css", "sha512-Zcn6bjR/8RZbLEpLIeOwNtzREBAJnUKESxces60Mpoj+2okopSAcSUIUOseddDm0cxnGQzxIR7vJgsLZbdLE3w=="],
+  ["css", CDN + "leaflet.markercluster/1.5.3/MarkerCluster.css", "sha512-mQ77VzAakzdpWdgfL/lM1ksNy89uFgibRQANsNneSTMD/bj0Y/8+94XMwYhnbzx8eki2hrbPpDm0vD0CiT2lcg=="],
+  ["js", CDN + "leaflet/1.9.4/leaflet.js", "sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg=="],
+  ["js", CDN + "leaflet.markercluster/1.5.3/leaflet.markercluster.js", "sha512-OFs3W4DIZ5ZkrDhBFtsCP6JXtMEDGmhl0QPlmWYBJay40TT1n3gt2Xuw8Pf/iezgW9CdabjkNChRqozl/YADmg=="],
+  ["js", "map.js", null],
+];
+let mapReady = null;
+function loadAsset([kind, url, sri]) {
+  return new Promise((resolve, reject) => {
+    const el = document.createElement(kind === "css" ? "link" : "script");
+    if (kind === "css") { el.rel = "stylesheet"; el.href = url; } else { el.src = url; el.async = false; }
+    if (sri) { el.integrity = sri; el.crossOrigin = "anonymous"; el.referrerPolicy = "no-referrer"; }
+    el.onload = resolve; el.onerror = () => reject(new Error("kon " + url + " niet laden"));
+    document.head.append(el);
+  });
+}
+function renderMapView() {
+  if (!mapReady) {
+    // scripts in order (leaflet before markercluster before map.js), styles in parallel
+    mapReady = Promise.all(MAP_ASSETS.filter((a) => a[0] === "css").map(loadAsset))
+      .then(() => MAP_ASSETS.filter((a) => a[0] === "js").reduce((p, a) => p.then(() => loadAsset(a)), Promise.resolve()));
+    mapReady.catch((err) => {
+      console.error(err);
+      $("#map").innerHTML = '<p class="map-loading">Kon de kaart niet laden. Probeer het later opnieuw.</p>';
+      mapReady = null;
+    });
+  }
+  mapReady.then(() => window.AgendaMap && window.AgendaMap.render()).catch(() => {});
 }
 
 function renderStatus(status, generated) {
@@ -422,6 +481,14 @@ function bind() {
   $("#quick").addEventListener("click", (e) => {
     const q = e.target.closest("button")?.dataset.quick;
     if (!q) return;
+    if (state.view === "map" && q !== "fav") {
+      if (state.quick === "fav") state.quick = "all";
+      if (q === "today") { state.mapRange = "day"; state.mapDay = null; }
+      else if (q === "all") state.mapRange = "day";
+      else state.mapRange = state.mapRange === q ? "day" : q;
+      render();
+      return;
+    }
     state.quick = state.quick === q ? "all" : q;
     if (state.view === "week") state.weekOffset = 0;
     render();

@@ -16,12 +16,13 @@
 <body>
 <header class="top">
   <div class="top-row">
-    <h1>Amsterdam&nbsp;Agenda</h1>
+    <h1>Amsterdam Agenda</h1>
     <div class="top-actions">
     <button id="design-btn" class="design-btn" aria-expanded="false" aria-controls="design-panel" title="Weergave kiezen" aria-label="Weergave kiezen">Aa</button>
-    <div class="view-toggle" role="tablist" aria-label="Lijst of week">
+    <div class="view-toggle" role="tablist" aria-label="Lijst, week of kaart">
       <button role="tab" data-view="list" aria-selected="true">Lijst</button>
       <button role="tab" data-view="week" aria-selected="false">Week</button>
+      <button role="tab" data-view="map" aria-selected="false">Kaart</button>
     </div>
     </div>
   </div>
@@ -81,6 +82,33 @@
     </div>
     <div class="week-grid" id="week-grid"></div>
   </div>
+  <section id="map-view" class="map-view" hidden aria-label="Kaart">
+    <div class="map-bar">
+      <button class="map-arrow" id="map-prev" aria-label="Vorige dag">‹</button>
+      <nav class="map-days" id="map-days" aria-label="Kies dag"></nav>
+      <button class="map-arrow" id="map-next" aria-label="Volgende dag">›</button>
+    </div>
+    <div class="map-opts">
+      <div class="map-range" role="radiogroup" aria-label="Periode op de kaart">
+        <button role="radio" data-range="day">Dag</button>
+        <button role="radio" data-range="weekend">Dit weekend</button>
+        <button role="radio" data-range="week">Deze week</button>
+      </div>
+      <button id="map-extra" class="map-extra" aria-pressed="false">+ reeksen &amp; vaste prik</button>
+      <button id="map-locate" title="Toon mijn locatie (wordt niet opgeslagen)">◎ Mijn locatie</button>
+      <button id="map-fit">⤢ Pas kaart aan</button>
+    </div>
+    <div id="map" class="map"><p class="map-loading">Kaart laden…</p></div>
+    <p id="map-missing" class="map-missing" hidden></p>
+    <aside id="map-sheet" class="map-sheet" hidden aria-live="polite">
+      <div class="ms-head">
+        <div><h2 id="ms-title"></h2><small id="ms-address"></small></div>
+        <button id="ms-close" class="ms-close" aria-label="Sluiten">×</button>
+      </div>
+      <div id="ms-list"></div>
+      <button id="ms-all" class="ms-all">Alle events hier →</button>
+    </aside>
+  </section>
 </main>
 
 <footer class="foot">

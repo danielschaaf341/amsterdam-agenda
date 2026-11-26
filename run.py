@@ -93,6 +93,16 @@ def run_scraper(mod, client: Client, today: date, save: bool) -> list[Event]:
     return events
 
 
+def unmapped_venues(events) -> list[str]:
+    """Venue names that are neither in venues.json nor in its not_on_map list (map view)."""
+    path = ROOT / "venues.json"
+    if not path.exists():
+        return []
+    known = json.loads(path.read_text(encoding="utf-8"))
+    names = {k.lower() for part in ("venues", "aliases", "not_on_map") for k in known.get(part, {})}
+    return sorted({e.venue for e in events if e.venue.lower() not in names})
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", nargs="*", help="scraper module names to run")
@@ -182,7 +192,11 @@ def main(argv=None) -> int:
     (DATA / "events.json").write_text(json.dumps(
         {"generated": generated, "window_days": WINDOW_DAYS, "count": len(events),
          "events": [e.to_dict() for e in events]}, ensure_ascii=False, indent=1), encoding="utf-8")
-    status_path.write_text(json.dumps({"generated": generated, "venues": status}, ensure_ascii=False, indent=1),
+    unmapped = unmapped_venues(events)
+    if unmapped:
+        log.warning("venues without coordinates (add to venues.json): %s", ", ".join(unmapped))
+    status_path.write_text(json.dumps({"generated": generated, "venues": status, "unmapped_venues": unmapped},
+                                      ensure_ascii=False, indent=1),
                            encoding="utf-8")
     write_ics(events, DATA / "events.ics", generated=now)
 

@@ -18,6 +18,7 @@ scrapers/            one module per venue (+ shared helpers starting with "_")
   _nuxt.py           evaluates Nuxt `window.__NUXT__` payloads with node (Rialto, ITA)
   _cards.py          generic HTML 'cards' parser (date/time/price/status from card text; Orgelpark, Pllek, …)
 recurring.json       hand-edited weekly items (food nights at places without an agenda, e.g. De Sering)
+venues.json          map coordinates per venue name (venues / aliases / not_on_map) – see "Map view"
 instagram/           accounts.json (who to follow), fetch.py (official Graph API 'Business Discovery',
                      run by workflows/instagram.yml → branch instagram-inbox), PROCESS.md (weekly Claude
                      task reads posters → events.json), events.json (read by scrapers/instagram.py);
@@ -25,7 +26,7 @@ instagram/           accounts.json (who to follow), fetch.py (official Graph API
 run.py               runs all scrapers, validates, dedupes, keeps 6 weeks, writes data/
 ics.py               writes data/events.ics
 build.py             assembles _site/ (site/ + data) for GitHub Pages
-site/                index.html, style.css, app.js – plain JS, no build step, Dutch UI
+site/                index.html, style.css, app.js, map.js (lazy) – plain JS, no build step, Dutch UI
 tests/fixtures/      one raw sample per venue (exactly what fetch() returned)
 RECON.md             data-source research per venue (method, difficulty, quirks)
 ```
@@ -132,6 +133,23 @@ Quick periods, categories, venues (+ ★ favourites), search, a **"€0 Gratis" 
 everything, remembered) and a **club switch** (Aan / Alleen / Uit,
 stored in localStorage). `guess_category` only says "club" for real club words (clubnacht, DJ, techno…),
 not for a bare "club" (Club Amsterdam Klezmer, book club).
+
+## Map view ("Kaart")
+
+Third view next to Lijst/Week (`?view=kaart&dag=YYYY-MM-DD`). `app.js` loads Leaflet 1.9.4 + markercluster
+1.5.3 (cdnjs, SRI hashes) and `site/map.js` only when the map is opened. Tiles: tile.openstreetmap.org (no
+key; CARTO now needs one) – dark mode/poster invert them with a CSS filter. One marker per venue with the
+number of events on the chosen day (ring = category colour, pie when mixed, gold ring for ★ venues);
+tap → bottom sheet (side panel ≥ 900 px). Day strip + Dag / Dit weekend / Deze week; the header period
+chips drive the map too. All list filters apply; "+ reeksen & vaste prik" adds series/weekly items.
+
+Coordinates live in `venues.json`, keyed by the exact `venue` string (case-insensitive):
+- `venues`: `{"lat", "lng", "address", "source", "note"?}` – filled **once** (own site/JSON-LD address →
+  OpenStreetMap Nominatim, ≤ 1 req/s, own UA). Never geocode during the weekly run or in the browser.
+- `aliases`: other spelling → name in `venues`. `not_on_map`: name → reason (outside Amsterdam, unknown).
+- **New venue name** (run.py logs "venues without coordinates" and lists them in
+  `status.json → unmapped_venues`; the site shows "Niet op de kaart: …"): look up the address, add it
+  under `venues` (or `not_on_map`). `tests/test_venues_map.py` checks fixture venues + the Amsterdam bbox.
 
 ## Quirks worth remembering
 
